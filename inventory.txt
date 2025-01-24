@@ -1,0 +1,1001 @@
+﻿Français
+
+N'EFFACE PAS LES RANGÉES MÊME SI ELLES SONT VIDES
+Or
+Pièces d'or qui sont la monnaie courante à Aurélia.
+L'or est utilisé comme monnaie à Aurélia depuis plusieurs siècles. Auparavant, les gens utilisaient des scarabées brillants comme pièces de monnaie, mais les insectes s'enfuyaient si souvent qu'ils ont dû changer de système.
+Bouteille
+Une simple bouteille. Elle peut être utilisée pour ranger des choses à l'intérieur.
+Les bouteilles en verre fabriquées par l'homme ont une apparence simple, mais elles feront l'affaire. Il est rare de nos jours de voir un morceau de verre elfique fin et sophistiqué.
+Eau
+L'eau de la fontaine du village. Elle a un drôle de goût.
+Le village a été construit autour d'une source d'eau cristalline. Plus tard, les habitants ont construit une fontaine au-dessus de cette source. Aujourd'hui, c'est l'un des principaux points de rencontre des villageois.
+Brightbug
+Utilisé comme appât. Attire les grenouilles de lac, les piranhas et les esturgeons.
+On trouve souvent les punaises lumineuses dans les grottes et les constructions souterraines, où elles utilisent leur lumière pour trouver leur chemin et attirer des partenaires potentiels. Tu peux économiser sur les bougies si tu laisses quelques-unes d'entre elles vivre dans ton sous-sol.
+Sève ancienne
+Ingrédient d'alchimie qui rend aléatoire la qualité des potions.
+Les arbres scintillants peuvent sembler ordinaires à première vue, mais tu ne découvriras leurs véritables propriétés - et la raison de leur nom - que si tu creuses plus profondément et que tu trouves les secrets magiques de leurs racines.
+Bière
+[+2 END, +4 POW]
+C'est le breuvage spécial d'Orson. La recette pourrait être améliorée, mais les habitants de la ville ont appris à aimer le goût et la texture de cette bière. Ils ont aussi bien trinqué avec elle lors de célébrations que noyé leur chagrin dedans, et ne la changeraient pour rien au monde.
+Le vin d'Orson
+[+6 END, +10 POW]
+L'étiquette se lit comme suit : "Le meilleur d'Aurélia". Seules les meilleures vignes de la vallée pourpre sont utilisées pour fabriquer cette boisson coûteuse et de grande classe. Il est réservé aux occasions spéciales et aux personnes spéciales.
+Bouquet de fleurs
+Beau et cher.
+Les fleurs des prairies, des collines et des rives du lac ont été cueillies à la main pour confectionner ce magnifique bouquet. Si tu l'offres à quelqu'un, cette personne saura qu'elle est spéciale pour toi.
+Pelle rouillée
+Elle a l'air faible et cassante.
+Cette pelle a été utilisée pendant des années. La fin digne d'une carrière digne de creuser et de cultiver approche.
+Pelle en acier
+Fabriquée en acier de haute qualité.
+Cet outil robuste fera l'envie des autres agriculteurs ! Fabriqué avec des techniques expertes par les forgerons d'Aurélia, qui, dit-on, ont appris leur métier des nains eux-mêmes...
+Hache de bûcheron
+Une hache robuste à deux mains.
+On voit souvent des bûcherons se promener dans les forêts d'Aurélia, abattant des arbres pour construire des maisons et des feux à l'aide de ce même type d'outil.
+Bois de chauffage
+Parfait pour allumer un feu.
+Les nuits peuvent être froides à Aurélia, mais il n'y a rien de mieux qu'un bon feu pour s'asseoir autour, raconter des histoires et partager des boissons et de la musique.
+Le grimoire d'Ivy
+Ce grimoire contient beaucoup de notes.
+Ivy a passé de nombreuses années à étudier l'art difficile du contrôle des éléments. C'est l'un de ses premiers livres de sorts, qu'elle a utilisé pour maîtriser la magie de l'eau. Certains disent qu'il a été écrit par la tribu de l'eau.
+Clé de maison
+Une clé supplémentaire pour ta maison.
+Elle n'est pas seulement utile pour ouvrir ta porte d'entrée, mais aussi comme gage de reconnaissance pour toute personne que tu souhaites inviter à vivre avec toi.
+Lockpick
+Le vieux crochet à serrure de Reynauld.
+Un voleur rusé ou un explorateur de donjon audacieux a dû utiliser ce crochet pour mettre la main sur quelque chose qu'il n'était pas censé faire. Mais c'est une autre histoire.
+Vieille note
+Ne clique pas sur le bouton "Lire". Je t'en supplie.
+Le papier semble usé et l'encre a vieilli et changé de couleur. On dit qu'il faut toujours suivre les instructions sur les vieux papiers sinistres, n'est-ce pas ?
+L'herbologie de Risvell
+Un livre sur les plantes magiques. Ivy va adorer !
+Risvell Bitterleaf était un jardinier halfling dévoué qui travaillait la terre avec amour. Il cultivait et récoltait patiemment les meilleures herbes et fruits magiques. Son proche parent Belkar ? Pas vraiment.
+Pièce de Stellan
+Comme si elle était neuve !
+De nombreux marins audacieux ont quitté les côtes d'Aurélia, suivant les étoiles avec leur Stellan pour tracer une route vers une nouvelle terre pleine de fruits et de femmes nues. Ils ne sont jamais revenus, alors espérons qu'ils l'ont trouvée.
+Morceau de Stellan cassé
+Je me demande si je peux réparer ce morceau ?
+Les voyageurs utilisaient cet artefact complexe pour mesurer la position des étoiles dans le ciel nocturne et trouver leur chemin. Il n'y a pas de meilleure façon de commencer une histoire que par un voyage !
+Dague en argent véritable
+Des vagues d'énergie d'un autre monde émanent de sa lame.
+L'histoire de cette dague hypnotique reste un mystère, mais certains disent qu'elle a été fabriquée par les meilleurs forgerons nains dans un but très particulier...
+Cimier d'argent
+Le mana d'un sort sur sept est remboursé.
+Les orfèvres elfiques sont célèbres dans tout le pays pour leurs bijoux uniques, leurs armes magiques et leurs écussons labélisés. Pourtant, cette pièce semble... Particulière.
+Poupée hypnotique
+Poupée enchantée qui aide son utilisateur à dormir. Elles sont rares et chères, et sont donc surtout utilisées par les nobles et les membres de la famille royale.
+Les sorcières du bois et certains lanceurs de sorts plus louches fabriquent et vendent ces poupées à prix d'or... Parfois de l'argent, parfois des pierres précieuses, et parfois, une quinzaine de jours de sexe sauvage au clair de lune. C'est plus compliqué qu'il n'y paraît.
+La guitare d'Amber
+Une guitare bien décorée.
+L'un des talents les moins connus des elfes noirs est leur affinité pour les instruments à cordes. Les guitares, les luths et même les harpes sont une seconde nature pour la plupart d'entre eux. Qui sait, peut-être que la chanson que tu chantes à la taverne a été écrite à l'origine par un elfe noir...
+Souffle de feu
+Doux et épicé.
+C'est la version spéciale d'Amber du cocktail, qui a plusieurs variantes connues à Aurélia. Les halflings aiment le mélanger avec de l'absinthe pour lui donner un coup de fouet supplémentaire, et les femmes elfes y ajoutent quelques gouttes de fruits séduisants lorsqu'elles se sentent coquines.
+Le jeton de Soran
+Je devrais le montrer à tous ceux qui ont des liens avec Soran.
+Soran dirige des entreprises dans le village depuis un certain temps. Les habitants savent qu'ils peuvent s'adresser à lui pour lui demander toute une série de choses, des objets difficiles à trouver aux contacts et aux services. Tout cela moyennant un prix, bien sûr, c'est la façon de faire des nains. Le fait de l'avoir à tes côtés t'ouvrira de nombreuses portes.
+Note 1/5
+Un billet avec deux chiffres écrits d'un côté et un symbole dessiné de l'autre.
+Grand-père aimait vraiment les énigmes.
+Note 2/5
+Une note avec deux chiffres écrits d'un côté et un symbole dessiné de l'autre.
+Grand-père adorait les énigmes.
+Note 3/5
+Une note avec deux chiffres écrits d'un côté et un symbole dessiné de l'autre.
+Grand-père adorait les énigmes.
+Note 4/5
+Une note avec deux chiffres écrits d'un côté et un symbole dessiné de l'autre.
+Grand-père adorait les énigmes.
+Note 5/5
+Une note avec deux chiffres écrits d'un côté et un symbole dessiné de l'autre.
+Grand-père adorait les énigmes.
+Carte ancienne
+Une vieille carte qui était cachée dans la maison de grand-père. Elle semble indiquer un mausolée secret dans les montagnes du nord.
+Il y a beaucoup d'endroits mystérieux cachés tout autour d'Aurélia. Des cartes comme celles-ci sont rarement trouvées, alors considère-toi comme chanceux !
+La sauvegarde de Soran
+Soran s'engage à transporter Ivy et Scarlet hors d'Aurélia si on le lui demande.
+Les nains sont bien connus pour leur loyauté et leur respect quasi religieux des promesses. Lorsqu'un nain passe un contrat avec toi, tu sais que tu peux lui faire confiance les yeux fermés.
+Engrais fruité
+Un engrais puissant fabriqué à partir de fruits séduisants fermentés. Les plantes pousseront sur les endroits vides automatiquement tous les jours.
+Les sorcières et les botanistes fermentent ce produit dans l'espoir d'obtenir plus d'ingrédients pour leurs potions. Il fera de ton jardin l'envie de la sorcière d'à côté, ce qui n'est pas forcément une bonne idée...
+Tesson purificateur
+Tesson de sucre condensé aux propriétés purificatrices. Le sort de consommation est plus puissant.
+On dit qu'une cuillerée de sucre aide à faire passer le médicament. Ou dans ce cas, les chances de détruire ta récolte. Quoi qu'il en soit, le sucre est bon !
+Talisman de croissance
+Un talisman créé lors d'un rituel alchimique qui semble amplifier certains types de magie. Le sort de surcroissance affectera tous les emplacements.
+En période de mauvaises récoltes, les lanceurs de sorts d'Aurélia ont développé ce talisman pour aider à prévenir la famine. Aujourd'hui, il n'est pas rare de voir un fermier agiter ce talisman sur ses cultures pour améliorer la récolte.
+Enduit mystificateur
+Un revêtement bleu brillant qui peut être appliqué sur la faucille. Il double la puissance de la récolte.
+Pourquoi dépenser des centaines de pièces d'or pour une faucille magique, alors que tu peux utiliser ce revêtement sur ton ancienne faucille et obtenir les mêmes résultats ? Un fermier intelligent adorera cette astuce bizarre ! Les fabricants de faucilles magiques le détestent...
+Phéromones d'or
+Une bouteille pleine de phéromones puissantes qui permet d'attirer les papillons les plus rares. Les papillons apparaîtront deux fois plus souvent.
+Garson Fiddler, un habitué de longue date de la taverne, avait l'habitude de raconter aux habitants de la ville comment il avait découvert le mystère des phéromones de papillon, ce qui lui avait permis de séduire quinze femmes en une nuit ! Mais comme il était un ivrogne bavard, ses histoires ne sont probablement pas fiables.
+Fruit séduisant
+Ingrédient alchimique de base pour les potions d'endurance.
+Les prêtres avaient l'habitude de mettre les gens en garde contre ces fruits délicieux, qui affaiblissaient prétendument l'esprit et invitaient au péché et à la débauche. Cela ne les empêchait pas de déguster une tarte aux fruits séduisants préparée par les religieuses...
+Nectar de mana
+Ingrédient alchimique de base pour les potions de SAGESSE.
+Le nectar de mana est un ingrédient très recherché en alchimie et la base de nombreux philtres puissants. Se promener avec une bouteille de ce nectar en poche est un moyen sûr de faire une affaire chez un alchimiste.
+Piment bouillant
+Ingrédient alchimique de base pour les potions de PUISSANCE.
+Les jeunes hommes d'Aurélia adorent se lancer des défis pour savoir combien de piments ils peuvent manger avant de se jeter la tête la première dans la fontaine du village.
+Fraises sucrées
+Ingrédient alchimique de base pour les potions d'AGILITÉ.
+Une sorcière gnome très gourmande a expérimenté sur des fraises ordinaires et a créé cette délicieuse variété que les paysans peuvent maintenant cultiver chez eux. Elles sont parfaites pour les desserts.
+Fraise d'or
+Ingrédient alchimique de base pour les potions de chance.
+Les femmes elfiques aiment porter des coiffes de Goldenberry et de vigne lors de leurs festivals de fertilité. Elles sont censées attirer la prospérité et les bonnes récoltes.
+Tarte de Janet
+[+10 END, +4 WIS]
+La recette spéciale de Janet utilise des fruits séduisants comme ingrédient principal, ce qui ajoute de la saveur et de la texture à sa pâte épicée maison. Le résultat est délicieux ! De nombreux villageois s'accordent à dire que sa tarte est le cadeau idéal ou le plat principal d'une fête.
+Gâteau aux fraises
+[+10 AGI, +4 POW]
+Les halflings et les elfes partagent un amour pour les desserts à base de fruits, et ce gâteau remporte certainement la palme ! Il satisfera la dent sucrée de la plupart des humains et même le palais rugueux des nains...
+Chili et haricots
+[+10 POW, +4 END]
+Ce plat de haricots chauds est parfait pour l'hiver aurélien. Après une longue journée de travail, les familles se réunissent autour de la table et partagent ce plat pour se réchauffer.
+Revitalisant
+[+10 WIS, +4 POW]
+Fabriquée à partir de nectar de mana, cette concoction très utile se trouve dans la trousse de base de tout aventurier qui veut combattre des loups-garous ou qui doit supporter de longues heures ennuyeuses de garde nocturne. Elle aiguise les sens, vous réveille et vous donne le goût distinct mais inexplicable du gâteau aux carottes au fond de la bouche.
+Café
+[+10 LUC, +4 AGI]
+Les bardes racontent que les nains étaient les créatures matinales les plus grincheuses d'Aurélia, jusqu'à ce qu'un humain très malin ait l'idée de faire bouillir des grains de café avec de l'eau et de leur offrir cette boisson pour commencer la journée. Depuis, les nains sont beaucoup plus gentils.
+Canne à pêche
+Permet de pêcher dans les lacs et sur les rivages.
+Autrefois, les habitants d'Aurélia attrapaient les poissons à l'aide de filets. La légende raconte qu'une nuit, une jeune fille elfe aperçut un voyageur humain et lui demanda "sa canne" pour "son poisson". Il lui donna la première canne à pêche d'Aurélia et partit avec son petit ami. La jeune fille était confuse et déçue, mais le bon côté des choses, c'est qu'elle a ouvert la première poissonnerie d'Aurélia.
+Les vers
+Utilisés comme appâts. Ils attirent les bars, les carpes et les esturgeons.
+Tu peux trouver des vers n'importe où à Aurélia, mais on dit que ceux qui vivent sur les rives des lacs sont particulièrement délicieux pour les poissons.
+Algues
+Ingrédient d'alchimie, puissance : 1-3
+Certaines variétés d'algues ont de grandes propriétés nutritionnelles, c'est pourquoi les elfes les ont intégrées à leur régime alimentaire. Mais cela ne les rend pas forcément savoureuses...
+Botte mouillée
+Pourquoi voudrais-tu sauvegarder ceci ?
+Les vieilles femmes racontent l'histoire d'un mystérieux personnage à une botte qui sautille autour du lac la nuit, à la recherche de leur autre botte...
+Carpe
+Ingrédient d'alchimie, puissance : 1
+Les carpes sont des poissons gros et lourds. Elles ne se battent pas beaucoup lorsque tu essaies de les sortir de l'eau, mais c'est pour cette raison que tu n'en tireras pas grand-chose au marché.
+Basse
+Ingrédient d'alchimie, puissance : 2
+Ces poissons s'attaquent aux petits poissons dans les coins abrités du lac. Si tu parviens à en attraper un, tu auras un dîner pour la nuit, ou tu pourras facilement le vendre au marché pour quelques pièces.
+Esturgeon
+Ingrédient d'alchimie, puissance : 5
+Les esturgeons font partie des espèces de poissons les plus anciennes des lacs d'Aurélia. Certains disent qu'ils remontent à une époque où les dragons d'eau nageaient librement dans les lacs, avant de retourner à leur lieu d'origine mystique.
+Grenouille des lacs
+Ingrédient d'alchimie, puissance : 4
+Il y a une chance sur dix mille que la grenouille que tu attrapes soit en fait un prince ou une princesse envoûté(e). Le choix de les embrasser ou non, juste pour être sûr, est entre tes mains.
+Piranha
+Ingrédient d'alchimie, puissance : 3
+Ces petits animaux effrayants se rassemblent en groupes et dévorent les créatures plus grandes. Tu ne veux pas que ton lac soit infesté de piranhas !
+Concoction de Lily
+[+4 à TOUS LES ATTRIBUTS]
+
+Fragment de rubis
+La combinaison de 3 fragments dans un ensemble d'alchimie créera une gemme entière.
+La couleur rouge vif de cette gemme précieuse évoque un sentiment de puissance et de force qui peut être transmis au porteur ou à une potion spéciale. C'est la raison pour laquelle les rubis sont très populaires pour les sceptres, les couronnes et les épées des guerriers célèbres.
+Fragment de saphir
+En combinant 3 fragments dans un ensemble d'alchimie, on obtient une gemme entière.
+La couleur bleue a longtemps été associée aux sages et aux lanceurs de sorts. Il n'est pas rare de voir un haut mage ou un sorcier avec un bijou incrusté de saphir sur le front, pour signifier un esprit aiguisé.
+Fragment d'émeraude
+En combinant 3 fragments dans un ensemble d'alchimie, on obtient une gemme entière.
+Les elfes apprécient les émeraudes et autres pierres vertes, car leur couleur représente la nature et les forêts. Ils disent que celui qui porte une émeraude, quelle que soit sa taille, sera protégé par Mère Nature, et donc capable d'endurer n'importe quelle tâche.
+Fragment de topaze
+En combinant 3 fragments dans un coffret d'alchimie, on obtient une gemme entière.
+Le ton séduisant de cette pierre précieuse a incité les alchimistes à rechercher son application dans la magie. Les potionnistes humains ont été les premiers à identifier ses propriétés, après avoir compris que plus ils fabriquaient de potions, plus le lot suivant était produit rapidement...
+Fragment de diamant
+En combinant 3 fragments dans un set d'alchimie, tu obtiens une pierre précieuse entière.
+Cette pierre précieuse à l'aspect pur est utilisée par pratiquement toutes les races et cultures comme une protection contre le mal et un moyen d'attirer la chance. Les personnes qui ont des emplois risqués ou qui veulent simplement passer une bonne journée portent des diamants ou leurs éclats comme amulettes.
+Rubis
+Ingrédient d'alchimie, puissance : 3. S'il est utilisé dans une potion de PUISSANCE, le résultat sera exquis.
+La couleur rouge vif de cette pierre précieuse évoque un sentiment de puissance et de force qui peut être transmis au porteur ou à une potion spéciale. C'est la raison pour laquelle les rubis sont très populaires pour les sceptres, les couronnes et les épées des guerriers célèbres.
+Saphir
+Ingrédient d'alchimie, puissance : 3. S'il est utilisé dans une potion de SAGESSE, le résultat sera exquis.
+La couleur bleue a longtemps été associée aux sages et aux lanceurs de sorts. Il n'est pas rare de voir un haut mage ou un sorcier avec un bijou incrusté de saphir sur le front, pour signifier un esprit aiguisé.
+Émeraude
+Ingrédient d'alchimie, puissance : 3. Si elle est utilisée dans une potion d'endurance, le résultat sera exquis.
+Les elfes apprécient les émeraudes et autres pierres vertes, car leur couleur représente la nature et les forêts. Ils disent que celui qui porte une émeraude, quelle que soit sa taille, sera protégé par Mère Nature, et donc capable d'endurer n'importe quelle tâche.
+Topaze
+Ingrédient d'alchimie, puissance : 3. Si elle est utilisée dans une potion d'AGILITÉ, le résultat sera exquis.
+Le ton séduisant de cette pierre précieuse a incité les alchimistes à rechercher son application dans la magie. Les potionnistes humains ont été les premiers à identifier ses propriétés, après avoir compris que plus ils fabriquaient de potions, plus le lot suivant était produit rapidement...
+Diamant
+Ingrédient d'alchimie, puissance : 3. S'il est utilisé dans une potion de chance, le résultat sera exquis.
+Cette pierre précieuse à l'aspect pur est utilisée par pratiquement toutes les races et cultures comme une protection contre le mal et un moyen d'attirer la chance. Les personnes qui ont des emplois risqués, ou qui veulent simplement passer une bonne journée, portent des Diamants ou leurs éclats comme amulettes.
+Clé de l'horloge
+L'aiguille détachée de la vieille horloge de grand-père. Elle ressemble à une clé.
+Les clés sont un motif assez inhabituel pour une aiguille d'horloge. Peut-être qu'un tel objet signifie que l'horloge elle-même garde un secret plus profond qu'il n'y paraît.
+Cendres d'os
+Ingrédient d'alchimie, puissance : 2
+Les cendres d'os ont de nombreuses utilisations en sorcellerie et en alchimie, en tant que lien avec le monde des morts et, par conséquent, avec la vie de l'au-delà. Elles peuvent apporter une nouvelle vie à une préparation magique, ou inversement, lui donner le pouvoir de la mort.
+Œil étrange
+Ingrédient d'alchimie, puissance : 3
+Bien que les globes oculaires aient été traditionnellement mal vus en tant qu'ingrédients, car ils étaient associés à la nécromancie et à la magie noire, les gens se sont lentement ouverts à leur incorporation en tant que composants de sorts ou de potions. Cependant, tu ne devrais pas les exposer dans un bocal en verre, à moins que tu ne veuilles que les gens pensent que tu possèdes un cintre fait d'os...
+Ectoplasme
+Ingrédient d'alchimie, puissance : 4
+Cet éclat léger et presque transparent de matière éthérée est un résidu commun laissé par une âme en partance après une mort violente. L'ectoplasme des guerriers courageux était vénéré dans les temps anciens comme une source de courage et d'inspiration pour les héros en herbe.
+Croc brisé
+Ingrédient d'alchimie, puissance : 6
+Les crocs et les cornes sont particulièrement attirants pour les orcs, qui y voient un symbole de puissance physique et sexuelle. Quel que soit ton sexe, si tu portes un ou deux gros crocs accrochés à ton cou, tu seras le plus populaire de la fête.
+Chiffon antique
+Ingrédient d'alchimie, puissance : 5
+L'origine de ces chiffons peut être identifiée en étudiant le modèle de tissage et les teintures utilisées sur son tissu. Chacun d'entre eux a une histoire à raconter, pour qui sait la dévoiler...
+Crâne battu
+Ingrédient d'alchimie. Multiplie l'expérience des potions par 5.
+Les crânes et les cœurs ont été pendant très longtemps les reliques les plus appréciées des braves guerriers, en particulier chez les orcs, les humains et les minotaures. On dit que l'esprit du guerrier reste dans ces objets et qu'il peut être transféré dans un autre objet ou une potion à l'aide de la magie.
+Bave
+Ingrédient d'alchimie. Multiplie par 3 la quantité de potions reçues.
+La bave est un composant majeur de nombreuses créatures étranges qui se cachent tout autour d'Aurélia. Elles peuvent laisser ce liquide épais derrière elles lorsqu'elles se faufilent à travers les rochers et les fourrés ; cette bave peut transférer ses propriétés à un objet désiré avec l'incantation appropriée.
+Tuyau de l'ancêtre
+Vous donne +1% d'XP pour chaque jour écoulé.
+Fumer sur des pipes est une vieille coutume à Aurélia, d'abord introduite par les nains, puis rapidement adoptée par les autres races. Les elfes en particulier aiment expérimenter des mélanges d'herbes et de fleurs qu'ils fument pour leurs propriétés particulières.
+Corne d'Arbac
+Régénère lentement les PM. L'effet augmente avec le temps.
+Abrac était un puissant sorcier qui a mené ses hordes à des victoires invaincues à une époque légendaire. Il aimait boire, se battre contre d'autres sorciers et passer la nuit avec de belles guerrières de toutes sortes. Il est toujours vénéré comme l'un des archimages les plus redoutés de l'histoire d'Aurélien.
+Le cœur d'Orgos
+Chaque fois que tu utilises des PM, tu récupères 20 HP dans les 20 secondes qui suivent.
+Les golems sont d'anciennes créations de mages qui sont désormais considérées comme de la magie interdite. Orgo était l'un des plus puissants à avoir jamais marché sur Aurélia, et beaucoup le craignaient pour sa puissante présence et ses poings puissants.
+Casque de Von Kamfeer
+Stocke les dégâts reçus et les libère lors de la prochaine action qui utilise ton attribut PUISSANCE.
+Ce casque est considéré comme l'une des plus belles pièces d'équipement de toute l'histoire militaire d'Aurélia. Il a été décerné au général Von Kamfeer après une campagne réussie contre les démons qui tentaient de s'emparer des terres pour satisfaire leur avidité maléfique.
+Potion verte
+[+3 à ENDURANCE]
+Cette potion est connue pour augmenter la résistance et la santé physique d'une personne pendant une courte période. Elle est très populaire parmi les voyageurs, les combattants et les rangers qui doivent endurer des défis impitoyables.
+Potion verte +1
+[+7 à l'endurance]
+Cette potion est connue pour augmenter la résistance et la santé physique d'une personne pendant une courte période. Elle est très populaire parmi les voyageurs, les combattants et les rangers qui doivent endurer des défis sans merci.
+Potion verte +2
+[+10 à l'endurance]
+Cette potion est connue pour augmenter la résistance et la santé physique d'une personne pendant une courte période. Elle est très populaire parmi les voyageurs, les combattants et les rangers qui doivent endurer des défis sans merci.
+Potion verte +3
+[+15 à l'endurance]
+Cette potion est connue pour augmenter la résistance et la santé physique d'une personne pendant une courte période. Elle est très populaire parmi les voyageurs, les combattants et les gardes forestiers qui doivent relever des défis sans merci.
+Potion bleue
+[+3 à SAGESSE]
+Cette potion aiguise l'esprit et te permet de voir les choses avec la plus grande clarté. Les mages et les alchimistes utiliseront cette concoction pour mieux percer les mystères du cosmos, ainsi que pour se souvenir de l'endroit où ils ont laissé les clés du coffre contenant les composants des sorts.
+Potion bleue +1
+[+7 à la SAGESSE]
+Cette potion aiguise l'esprit et vous permet de voir les choses avec la plus grande clarté. Les mages et les alchimistes utiliseront cette concoction pour mieux percer les mystères du cosmos, ainsi que pour se souvenir de l'endroit où ils ont laissé les clés du coffre des composants de sorts.
+Potion bleue +2
+[+10 à la SAGESSE]
+Cette potion aiguise l'esprit et vous permet de voir les choses avec la plus grande clarté. Les mages et les alchimistes utiliseront cette concoction pour mieux percer les mystères du cosmos, ainsi que pour se souvenir de l'endroit où ils ont laissé les clés du coffre des composants de sorts.
+Potion bleue +3
+[+15 à la SAGESSE]
+Cette potion aiguise l'esprit et vous permet de voir les choses avec la plus grande clarté. Les mages et les alchimistes utiliseront cette concoction pour mieux percer les mystères du cosmos, ainsi que pour se souvenir de l'endroit où ils ont laissé les clés du coffre des composants de sorts.
+Potion rouge
+[+3 au POUVOIR]
+Même si les imitations bon marché de cette concoction sont populaires parmi les guerriers et les athlètes, cette potion est la vraie. Développée par les chefs de guerre humains dans leurs efforts pour combattre les monstres et les orcs, ses applications sont désormais plus variées et moins axées sur la mort.
+Potion rouge +1
+[+7 à la PUISSANCE]
+Même si les imitations bon marché de cette concoction sont populaires parmi les guerriers et les athlètes, cette potion est la vraie. Développée par les chefs de guerre humains dans leurs efforts pour combattre les monstres et les orcs, ses applications sont désormais plus variées et moins axées sur la mort.
+Potion rouge +2
+[+10 à la PUISSANCE]
+Même si les imitations bon marché de cette concoction sont populaires parmi les guerriers et les athlètes, cette potion est la vraie. Développée par les chefs de guerre humains dans leurs efforts pour combattre les monstres et les orcs, ses applications sont maintenant plus variées et moins axées sur la mort.
+Potion rouge +3
+[+15 à la PUISSANCE]
+Même si les imitations bon marché de cette concoction sont populaires parmi les guerriers et les athlètes, cette potion est la vraie. Développée par les chefs de guerre humains dans leurs efforts pour combattre les monstres et les orcs, ses applications sont maintenant plus variées et moins axées sur la mort.
+Potion jaune
+[+3 à l'AGILITÉ]
+Les halflings ont popularisé cette potion en tant qu'amélioration courante pour les voleurs et les experts en fronde, mais les autres races ont rapidement compris les nombreuses applications d'une augmentation de la vitesse. Même si elle a été bannie de certaines compétitions pour cause de déloyauté, les archers et les escrimeurs ne quitteraient jamais leur maison sans une fiole.
+Potion jaune +1
+[+7 à l'AGILITÉ]
+Les halflings ont popularisé cette potion en tant qu'amélioration courante pour les voleurs et les experts en fronde, mais les autres races ont rapidement compris les nombreuses applications d'une augmentation de la vitesse. Même si elle a été bannie de certains événements compétitifs pour cause de jeu déloyal, les archers et les escrimeurs ne quitteraient jamais leur maison sans une fiole.
+Potion jaune +2
+[+10 à l'AGILITÉ]
+Les halflings ont popularisé cette potion en tant qu'amélioration courante pour les voleurs et les experts en fronde, mais les autres races ont rapidement compris les nombreuses applications d'une augmentation de la vitesse. Même si elle a été bannie de certains événements compétitifs pour cause de jeu déloyal, les archers et les escrimeurs ne quitteraient jamais leur maison sans une fiole.
+Potion jaune +3
+[+15 à l'AGILITÉ]
+Les halflings ont popularisé cette potion en tant qu'amélioration courante pour les voleurs et les experts en fronde, mais les autres races ont rapidement compris les nombreuses applications d'une augmentation de la vitesse. Même si elle a été bannie de certains événements compétitifs pour cause de jeu déloyal, les archers et les escrimeurs ne quitteraient jamais leur maison sans une fiole.
+Potion blanche
+[+3 à la CHANCE]
+La chance est comme toute autre chose : mieux vaut l'avoir et ne pas en avoir besoin, que d'en avoir besoin et de ne pas l'avoir. C'est avec cette célèbre phrase d'accroche que le drow Lyxern, alchimiste désormais légendaire, a popularisé cette potion de bonne fortune. Il suffit d'une gorgée, et le destin te sourira aujourd'hui.
+Potion blanche +1
+[+7 à la CHANCE]
+La chance est comme toute autre chose : mieux vaut l'avoir et ne pas en avoir besoin, que d'en avoir besoin et de ne pas l'avoir. C'est avec cette célèbre phrase d'accroche que le drow Lyxern, alchimiste désormais légendaire, a popularisé cette potion de bonne fortune. Il suffit d'une gorgée, et le destin te sourira aujourd'hui.
+Potion blanche +2
+[+10 à la CHANCE]
+La chance est comme toute autre chose : mieux vaut l'avoir et ne pas en avoir besoin, que d'en avoir besoin et de ne pas l'avoir. C'est avec cette célèbre phrase d'accroche que le drow Lyxern, alchimiste désormais légendaire, a popularisé cette potion de bonne fortune. Il suffit d'une gorgée, et le destin te sourira aujourd'hui.
+Potion blanche +3
+[+15 à la CHANCE]
+La chance est comme toute autre chose : mieux vaut l'avoir et ne pas en avoir besoin, que d'en avoir besoin et de ne pas l'avoir. C'est avec cette célèbre phrase d'accroche que le drow Lyxern, alchimiste désormais légendaire, a popularisé cette potion de bonne fortune. Il suffit d'une gorgée, et le destin te sourira aujourd'hui.
+Soie ancienne
+Tissu extrêmement doux qui peut donner à n'importe quel lit ordinaire l'impression d'être un luxe.
+-
+Thé à l'os vert
+Annule tous tes attributs améliorés. Te donne de l'XP par point d'attribut amélioré annulé.
+-
+Charme de Lirey
+Chaque fois que tu reçois des dégâts, tu reçois également une amélioration d'attribut aléatoire.
+-
+Corde d'annulation
+Tu ne peux pas améliorer tes attributs. Les dégâts reçus sont réduits de 30 %.
+Forgée selon un processus complexe impliquant des gemmes de topaze écrasées, la corde d'annulation ne se contente pas de supprimer la magie, elle draine la force physique et magique de toute personne qui y est liée.
+Chandelier
+Un chandelier de l'église de Lirey.
+Ce chandelier sacré appartient à l'église de Lirei, la déesse de l'amour et de la dévotion. Ses branches délicates portent des bougies dont on dit qu'elles brûlent d'une lueur douce et rayonnante, éclairant le chemin de ceux qui cherchent le véritable amour ou la réconciliation.
+Partie chandelier
+Hmmmm, il a une... forme étrange...
+-
+"Des pierres pour les idiots"
+Ajoute des recettes à ton parchemin d'alchimie.
+Écrit par le célèbre alchimiste Thalmaris, "Les pierres pour les idiots" est un ouvrage révolutionnaire qui révèle les techniques secrètes de réparation et de restauration des gemmes cassées ou défectueuses.
+"Fabrication d'artefacts
+Ajoute des recettes à ton rouleau d'alchimie.
+-
+Portrait de Lily
+Tu peux le consulter dans le menu Journal.
+-
+Le voyage de Livia 1
+Un conte. Tu peux le lire depuis ta bibliothèque.
+-
+Manteau mystique
+Utilise ton MP pour réduire les dégâts reçus de 50 %. L'artefact ne fonctionnera que si ton mana est supérieur à 10 %.
+Une cagoule fluide qui brille avec de faibles motifs magiques.
+Chapeau très pointu
+L'utilisation de tes MP t'accorde une pile. Toutes les 3 piles, la puissance est améliorée pour une action, ce qui réinitialise les piles.
+Ce chapeau fantaisiste, connu pour sa longue pointe, était autrefois l'accessoire emblématique d'un sorcier excentrique. Infusé de magie ludique, on dit qu'il améliore les capacités de lanceur de sorts de celui qui le porte tout en amplifiant son excentricité.
+Bracelets d'or
+Améliore considérablement toutes les statistiques en échange d'or. Une fois lié, cet artefact ne peut pas être enlevé. Sa soif d'or ne cessera de croître jusqu'à ce qu'il ne reste plus rien. Il se déliera alors et supprimera toutes les améliorations de statistiques.
+Les histoires de ceux qui ont sombré dans le désespoir à cause des caprices du Bracer en ont fait un conte d'avertissement, mettant en garde les aventuriers contre l'attrait séduisant du pouvoir et les dangers de l'avidité.
+Masque d'Ohro
+Il te permet de te faire passer pour Ohro.
+Le masque dégage une odeur étrange rappelant les citrons marinés et la lavande, attirant les papillons des environs qui ne parlent que par énigmes. Ceux qui ont porté le masque rapportent des visions vivantes de tortues dansant des claquettes et défilant dans les nuages, tandis qu'Ohro lui-même mange une barbe à papa éthérée.
+Lait super crémeux
+[+8 ENDURANCE, SAGESSE et AGILITÉ]
+Siroter ce lait permet d'augmenter temporairement la vitalité et l'endurance, ce qui en fait le favori des aventuriers et des athlètes.
+Koban d'or
+[+20 CHANCE]
+Le folklore veut que le fait de porter un koban d'or attire des résultats favorables, ce qui en fait un cadeau populaire pour les amis et la famille. Beaucoup prétendent que partager un koban d'or avec un être cher garantit une récolte abondante, une entreprise réussie ou même une histoire d'amour épanouie.
+Brimstone
+Améliore la PUISSANCE en fonction des HP manquants, jusqu'à 100 %.
+Il brille et brûle intensément lorsqu'il ressent la colère de son utilisateur.
+Jus de cerise
+[+20 POUVOIR, +6 ENDURANCE, SAGESSE, AGILITÉ et CHANCE]
+Les cerises de ce vin sont récoltées sur des arbres qui ont été plantés dans des champs de bataille sanglants. La légende dit que les cerises de ces arbres portent avec elles l'essence des guerriers tombés au combat.
+Epox
+Monnaie utilisée par les marchands de l'autre monde.
+L'époxe est la monnaie préférée des marchands d'un autre monde qui traversent les plans d'existence, faisant le commerce de biens rares et d'artefacts exotiques.
+Noix de Leefa
+[+8 ENDURANCE et POUVOIR]
+Une grosse noix ridée à la saveur légèrement salée et à l'arôme distinct de noix.
+
+
+
+Récipient hexagonal
+Erza en a besoin.
+Le conteneur hexagonal est un puissant artefact utilisé par les démons et les sorciers noirs pour stocker et amplifier l'énergie brute. Forgé dans les profondeurs de l'Abîme par des artisans malveillants, cet inquiétant récipient est orné de runes et de symboles anciens qui brillent d'une énergie sombre.
+Charme de Kivir
+Une petite breloque Ravkla.
+Le charme de Kivir est un artefact chéri originaire des terres mystiques de Ravkla, connu pour ses propriétés enchanteresses et sa magie protectrice.
+Le voyage de Livia 2
+Un conte. Tu peux le lire depuis ta bibliothèque.
+-
+Portrait d'Ivy
+Tu peux le consulter dans le menu Journal.
+-
+Pierre à aiguiser
+Un outil pour aiguiser les armes.
+L'humble pierre à aiguiser est un outil essentiel pour les forgerons, les guerriers et les artisans d'Aurélia. Cette pierre est prisée pour sa capacité à restaurer le tranchant des armes et des outils en quelques coups précis.
+Larme sacrée
+Augmente passivement votre END et votre WIS de 5.
+Cette larme renferme l'essence de l'amour pur et de la compassion, et sa simple présence est censée inspirer des actes de bonté et d'altruisme. Beaucoup croient que la larme sacrée a le pouvoir de guérir les blessures émotionnelles, de réparer les relations brisées et d'enflammer l'amour dans les cœurs les plus froids.
+Jade géant
+Une pierre de jade massive et polie d'un vert profond. Elle dégage une énergie tranquille.
+Cette pierre est souvent recherchée par les druides et les gardiens de la nature, qui la considèrent comme un puissant talisman permettant de se connecter au monde naturel. Lorsqu'il est placé dans un bosquet sacré ou dans un cadre naturel, le jade géant est censé amplifier la croissance des plantes et améliorer la vitalité de la faune et de la flore environnantes. Certaines histoires parlent de la capacité de la pierre à calmer les tempêtes déchaînées ou à guérir les malades, ce qui en fait un symbole d'espoir et de renouveau.
+La dague de Scarlet
+Une dague en argent magnifiquement travaillée avec des gravures complexes.
+Pour Scarlet, cette dague est plus qu'une simple arme ; c'est un symbole précieux de son identité et de son héritage.
+Dague de Melkor
+Une superbe dague en argent. Sa lame est gravée de runes anciennes et brille faiblement d'une lumière éthérée.
+Cette dague est réputée pour son savoir-faire inégalé et son immense puissance. La lame, forgée dans un alliage rare qui brille comme la lumière des étoiles, est imprégnée de magie qui lui permet de couper le tissu même de la réalité, ce qui la rend capable de blesser à la fois les êtres physiques et éthérés.
+Lunettes surdimensionnées
+Elles ne peuvent convenir qu'à quelqu'un d'énorme.
+Ces lunettes anormalement grandes ont été fabriquées pour quelqu'un d'imposant. Grand-père était un artisan compétent après tout, et il semble qu'il ait mis tout son cœur dans ces lunettes.
+Tizona
+Augmente passivement ton POW et ton AGI de 5.
+Tizona, l'épée flamboyante, est une arme ancienne d'une puissance incroyable, dont on dit qu'elle a été forgée au cœur d'un volcan par un maître forgeron qui a maîtrisé l'essence même du feu. Cette lame légendaire est connue pour sa capacité à libérer des flammes brûlantes sur commande, ce qui en fait une arme redoutable contre les ennemis les plus redoutables. Cependant, son véritable potentiel ne peut être révélé que par ceux qui possèdent son sigil sacré.
+Sigle de Tizona
+Permet à l'utilisateur de manier Tizona sans se brûler.
+Ceux qui possèdent le sceau de Tizona sont capables de puiser dans l'essence brûlante de l'épée, libérant tout son potentiel au combat tout en restant indemnes de ses flammes. On dit que le sceau renforce également la force et la détermination de son porteur, lui permettant de canaliser la puissance de l'épée avec plus de finesse et de contrôle.
+Anneau de formation du destin
+Un délicat anneau d'argent qui s'enroule élégamment sur lui-même, sa surface lisse scintillant à la lumière.
+Cet anneau exquis permet à son porteur d'influencer subtilement son destin et celui de ceux qui l'entourent, en pliant le cours des événements à son avantage. Lorsqu'il est porté, l'anneau donne à son porteur la capacité de prévoir les résultats potentiels et de prendre des décisions qui peuvent modifier le cours du temps lui-même.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,999 @@
+﻿LINE
+//Achievements
+Nom/Desc/Clue
+Mon premier jour de paie
+Accumulez 100 pièces d'or.
+
+Tu vas avoir besoin d'une plus grande poche...
+Amasse au moins 1 000 pièces d'or.
+
+Tu peux transporter tout cela avec toi ?
+Amasse au moins 5 000 pièces d'or.
+
+C'est ainsi que fonctionne la mafia
+Amasse au moins 10 000 pièces d'or.
+
+C'est de l'avarice !
+Amasse au moins 25 000 pièces d'or.
+
+Bière tiède
+Atteins le niveau 3 dans le mini-jeu de la taverne.
+
+Plaisir des foules
+Atteins le niveau 6 dans le mini-jeu de la taverne.
+
+La ville ivre
+Atteins le niveau 9 dans le mini-jeu de la taverne.
+
+Je pense que cela pourrait suffire...
+Atteins le niveau 10 dans le mini-jeu de la taverne.
+
+Je suis le barman le plus rapide du monde !
+Atteins le niveau 12 dans le mini-jeu de la taverne.
+
+Les premiers pas d'un chasseur
+Touche plus de 30 cibles en un seul tour du mini-jeu de tir à l'arc.
+
+Prendre le coup de main
+Touche plus de 40 cibles en un seul tour du mini-jeu de tir à l'arc.
+
+Tireur d'élite chevronné
+Touche plus de 60 cibles en un seul tour du mini-jeu de tir à l'arc.
+
+As dans le trou
+Touche plus de 80 cibles en un seul tour du mini-jeu de tir à l'arc.
+
+Précision elfique
+Touche plus de 100 cibles en un tour du mini-jeu de tir à l'arc.
+
+Maître des runes
+Termine le mini-jeu des glyphes.
+
+Bûcheron
+Réalise 5 coups parfaits consécutifs dans le mini-jeu de coupe de bois.
+
+Jardinage 101
+Récolte 10 plantes.
+
+Garçon de jardin
+Récolte 25 plantes.
+
+Pouce vert
+Récolte 75 plantes.
+
+Risvell serait fier !
+Récolte 125 plantes.
+
+Service local de livraison de fruits
+Récolte 200 plantes.
+
+Le botaniste
+Aie au moins 1 fruit de chaque plante à la fois.
+
+Nécrobotanique
+Consomme 8 plantes en une seule journée.
+
+Crois-tu en la magie ?
+Trouve l'insaisissable papillon magique.
+
+Pêcheur débutant
+Pêche 10 fois.
+
+Grattoir Gill
+Pêche 20 fois.
+
+Aimant félin
+Pêche 30 fois.
+
+Crochet, Ligne et Coule
+Pêche 40 fois.
+
+Lanceur de filet
+Pêche 50 fois.
+
+Hors du four
+Joue pendant 5 jours dans le jeu.
+
+Se mettre à l'aise
+Joue pendant 10 jours dans le jeu.
+
+Un lieu familier
+Joue pendant 25 jours dans le jeu.
+
+Les habitants me disent "bonjour" maintenant !
+Joue pendant 50 jours dans le jeu.
+
+Citoyen d'Aurelia
+Joue pendant 100 jours dans le jeu.
+
+Humide
+Apprends les bases de la magie de manipulation de l'eau.
+
+Copains de beuverie
+Bois 10 fois avec Orson.
+
+Aider la communauté
+Utilise la fonction de rapport de bogue.
+
+L'une de ces réalisations stupidement obscures...
+Clique sur cet emplacement de réalisation.
+
+Es-tu mort ou quelque chose comme ça ?
+Dors pendant 3 jours d'affilée.
+
+Honorer notre royauté
+Regarde tous les rois sur le tableau des rois.
+
+Ici, depuis le tout début...
+Consulte la liste des gentlemen les plus exceptionnels d'Orson.
+
+De quoi remplir une baignoire...
+Aie 10 concoctions de Lily
+
+Crise d'identité
+Renomme ton personnage.
+
+IMPOSTEUR !
+Appelle-toi Mirthal, Walnuss ou Ali.
+
+Novice
+Atteins le niveau 20.
+
+Apprenti
+Atteins le niveau 40.
+
+Compagnon
+Atteins le niveau 60.
+
+Vétéran
+Atteins le niveau 80.
+
+Ancien
+Atteins le niveau 100.
+
+Bohémien
+Maximise ta statistique END.
+
+Champion d'échecs 4D
+Maximise ta statistique WIS.
+
+Je peux ouvrir le bocal à cornichons !
+Maximise ta statistique POW.
+
+Beaucoup de cocaïne
+Maximise ta statistique AGI.
+
+777
+Maximise ta statistique LUC.
+
+Et ça... c'est... pour aller... encore plus loin !
+Atteins 20 dans n'importe quelle statistique.
+
+Jouer avec des jouets
+Équipe un artefact.
+
+Ils ont un goût fruité
+Bois 50 potions.
+
+Bénédiction brillante
+Reçois l'une des bénédictions de Naamu.
+
+Mince mais satisfaisant
+Fabrique une potion.
+
+Maintenant en 7 saveurs différentes !
+Fabrique 5 potions.
+
+Blé + Fleur de la montagne bleue
+Fabrique 15 potions.
+
+Alchimie et accessoires d'alchimie
+Fabrique 25 potions.
+
+Production de masse
+Fabrique 40 potions.
+
+C'est un gros bouc
+Vaincs Arbac.
+
+Rock and Roll
+Vaincre Orgos.
+
+Référence Castlevania
+Vaincre Von Kamfeer.
+
+Le donjon
+Entre dans le domaine de Melkor.
+
+Je s'appelle Groot
+Atteins le niveau jungle du domaine de Melkor.
+
+Été de Floride
+Atteins le niveau infernal du domaine de Melkor.
+
+Le cœur de ton ex-femme
+Atteins le niveau éthéré du domaine de Melkor.
+
+Les déchets d'un homme...
+Interagis avec 20 objets de donjon.
+
+Voleur
+Déverrouille 10 coffres.
+
+Le tueur
+Vaincs 50 monstres du donjon.
+
+ANEANTIR
+Vaincre un monstre en un seul tour.
+
+LE RUSH !
+Joue à 3 jeux de blackjack.
+
+Assez captivant
+Joue à 7 jeux de blackjack.
+
+Juste un de plus...
+Joue à 15 jeux de blackjack.
+
+Il est déjà si tard ?
+Joue 30 parties de blackjack.
+
+Merci d'envoyer de l'aide
+Joue à 50 jeux de blackjack.
+
+Trifecta
+Gagne 3 parties de blackjack d'affilée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

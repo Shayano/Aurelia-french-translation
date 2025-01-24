@@ -1,0 +1,999 @@
+﻿French
+Commencer
+Continuer
+Charger
+Suivant
+Choisis un nom pour ton personnage :
+Sauvegarder
+Dernière sauvegarde
+MENU PRINCIPAL
+COMPÉTENCES
+INVENTAIRE
+JOURNAL
+RÉUSSITES
+CONSEILS DE JEU
+SAUVEGARDER LE JEU
+CHARGER LE JEU
+PARAMÈTRES
+CHEATS
+Niveau:
+Points d'attributs :
+Niveau suivant :
+END
+Endurance:
+Détermine votre nombre maximum de HP.
+WIS
+Wisdom:
+Détermine ton maximum de PM.
+POW
+Power:
+Détermine le taux de réussite de tes actions, physiques ou magiques.
+AGI
+Agility:
+Facilite les tâches qui font appel à la vitesse.
+LUC
+Luck:
+Améliore tes chances dans les défis basés sur la chance.
+
+
+
+
+
+Hotkey:
+Graine magique
+Plante une graine dans la parcelle de terre vide sélectionnée.
+Croissance excessive
+Fait mûrir la plante sélectionnée.
+Consommer
+Tue la plante sélectionnée en échange d'une augmentation de ses attributs.
+Faucille
+Récolte la plante sélectionnée.
+
+
+
+
+
+
+
+
+EXPLORER AURÉLIA
+Explore les lieux et interagis avec les personnes et les objets de l'environnement en les sélectionnant.
+Inspecte bien chaque lieu, il y a des secrets disséminés partout !
+SAUT DANS LE TEMPS
+Ce bouton situé dans le coin supérieur gauche de l'écran te permet d'avancer dans le temps.
+Les personnages se trouvent à différents endroits tout au long de la journée ; ces endroits peuvent changer au fur et à mesure que vous apprenez à mieux vous connaître.
+CARTE DU MONDE
+Sélectionne cette option pour ouvrir la carte du monde.
+Certains endroits sont inaccessibles au début et devront être déverrouillés.
+LEVELING UP
+De nombreuses activités te récompenseront en te donnant de l'expérience. Lorsque ton expérience atteint le seuil fixé, tu montes de niveau et tu gagnes un point d'attribut. Ces points peuvent être utilisés pour améliorer tes attributs dans le menu principal.
+Endurance: Augmente ta puissance maximale.
+Widsom: Augmente ton maximum de PM.
+Power: Améliore tes capacités physiques et magiques.
+Agility: Vous donne plus de temps pour effectuer certaines tâches.
+Luck: Améliore tes chances dans les défis basés sur la chance.
+ORSON'S BAR
+Les clients indiqueront la boisson qu'ils veulent. Choisis la bonne dans le bar et fais-la glisser jusqu'au client avant que sa patience ne s'épuise.
+Sélectionne ceci pour ralentir le temps.
+-L'AGI ralentit l'épuisement de la patience des clients.
+-POW fait durer le sort "Ralentir le temps" plus longtemps.
+-LUC augmente le nombre de pick-ups bonus qui apparaissent.
+BARRE D'ORSON (PICK-UPS)
+Restaure 20 points de vie.
+Donne 15 bonus d'or.
+Sert tous les clients.
+Restaure 20 MP.
+LE JARDIN
+Tu peux faire pousser dans ton jardin des ingrédients qui peuvent être donnés à certains personnages et qui peuvent être utilisés pour fabriquer des objets dans une station d'alchimie.
+Les plantes poussent tous les jours et tu peux récolter leurs fruits une fois qu'ils sont arrivés à maturité.
+Utilise les sorts et les outils affichés au-dessus du jardin pour créer et gérer tes plantes. Pour plus d'informations sur un outil spécifique, passe ta souris dessus.
+STATION D'ALCHIMIE (POTIONS)
+À la station d'alchimie, tu peux combiner des ingrédients que tu trouves partout dans Aurélia pour créer des potions utiles !
+Pour fabriquer une potion, choisis un ingrédient de base à placer dans le premier emplacement. Cet ingrédient déterminera l'attribut qu'il améliore.
+Les ingrédients supplémentaires détermineront la puissance de la potion que tu prépares.
+STATION D'ALCHIMIE (AUTRES)
+Certains ingrédients supplémentaires rares auront des effets supplémentaires, comme la duplication de la potion ou l'attribution de plus d'expérience !
+Même si tu n'ajoutes pas d'ingrédient de base, la combinaison de trois ingrédients supplémentaires peut créer quelque chose... Tu peux expérimenter ou chercher de nouvelles recettes dans le monde.
+KAROS DEFENSE
+Les ennemis s'approchent par la droite. Défends la route pour que toi et Karos puissiez vous échapper en toute sécurité !
+Tu peux dépenser du bois de chauffage pour construire une barricade comme couche supplémentaire de protection.
+En cas de défaite, tes récompenses seront réduites de moitié ! N'oublie pas de demander une retraite stratégique lorsque c'est nécessaire.
+DÉFENSE DES KAROS
+Tu peux lancer des sorts puissants en échange de MP.
+Power: Augmente les dégâts de ton attaque.
+Luck: Améliore les dégâts infligés par les ennemis.
+
+
+
+
+
+LE DOMAINE DE MELKOR
+Une porte vers une autre dimension qui semble se transformer à chaque fois que tu la regardes. Il est donc impossible de prévoir ce qu'il y a à l'intérieur.
+Tu peux utiliser la carte pour naviguer dans chaque pièce.
+Chaque pièce contiendra un événement aléatoire, tel que : des ennemis, des pièges, des coffres au trésor ou un portail qui mène à l'étage suivant.
+LE DOMAINE DE MELKOR 2
+Les salles peuvent contenir des ennemis que tu dois vaincre pour continuer à explorer.
+Pour les vaincre rapidement, veille à suivre les instructions chaque fois que tu choisis une commande au combat.
+DOMAINE DE MELKOR 3
+Tes sorts magiques auront des propriétés différentes si tu effectues un test de compétence de type GREAT ou PERFECT.
+GREAT: Réduit l'attaque de l'ennemi de 30 %.
+PERFECT: Soigne de 2 à 10 points de vie.
+GREAT: Diminue la défense physique de l'ennemi de 50 %.
+PERFECT: Ignore la résistance magique de l'ennemi.
+DOMAINE DE MELKOR (CROCHETAGE)
+Pour crocheter un coffre, déplace le curseur en bas jusqu'à ce que les goupilles en haut commencent à bouger. Si tu trouves le bon endroit, l'épingle se déplacera plus rapidement vers le haut.
+La barre verte en haut de l'écran indique le temps qu'il te reste. Le temps total dont tu disposes dépend de ton AGI.
+
+Journée
+Matin
+Après-midi
+Soir
+Nuit
+
+Vider
+Sauvegarde automatique
+Délai de texte automatique
+Échelle de l'interface graphique
+Musique
+Son
+Changer le nom
+Maintenir pour tirer dans Karos Defense
+Défilement automatique du texte
+Plein écran
+Effets sonores du dialogue
+
+Un petit tas d'argent.
+Un tas d'argent.
+Un gros tas d'argent.
+Une coquille de fruit géante qui contient quelque chose.
+Une armoire à potions. Il pourrait y avoir quelque chose d'utile à l'intérieur.
+Une boîte.
+Un sarcophage... Il peut contenir un trésor ou autre chose.
+Un seau à poissons. Il y a du poisson à l'intérieur.
+Une station d'alchimie. Tu pourrais fabriquer quelque chose, mais cela pourrait se retourner contre toi...
+Une sphère rayonnante d'énergie. Elle guérira tes blessures.
+C'est peut-être le bâton dont parlait Ivy...
+Le sceau qui retient Erza à l'intérieur de la tombe. Je dois le briser.
+Autel démoniaque.  50 % de chances de réduire de moitié tes HP actuels et de doubler tes MP actuels.  50% de chances de diviser par deux tes PM actuels et de doubler tes HP actuels.
+Autel de la lumière brillante. Révèle l'étage actuel du donjon et restaure quelques HP.
+Vierge de fer. Il y a peut-être quelque chose à l'intérieur... Mais vérifier peut être risqué.
+Armure de chevalier. Te donne une quête secondaire.
+Autel d'os. Termine ta quête secondaire actuelle au prix de la moitié de tes HP.
+Table à manger. Qui n'aime pas un casse-croûte de donjon ? Récupère des HP et des MP et améliore l'un de tes attributs.
+Effigie sombre.  Peut te donner des [Epox] ! Ou t'apporter des ennuis...
+Un marchand de donjon.
+
+
+
+Vague d'eau
+Inflige des dégâts et réduit les attaques ennemies de 50 %.
+
+
+Boule de feu
+Inflige des dégâts et brûle l'ennemi.
+
+
+Guérison
+Te soigne de façon modérée.
+
+
+Voler
+Tente de voler de l'[Epox].
+
+
+Enchevêtrement
+Ralentit considérablement les actions des ennemis.
+
+
+Nuage toxique
+Empoisonne l'ennemi, lui infligeant des dégâts sur la durée.
+
+
+Fureur
+Te fait agir extrêmement rapidement mais t'épuise lorsqu'elle se dissipe.
+
+
+Douche de météores
+Bombarde l'ennemi avec jusqu'à 6 météores dommageables.
+
+
+Siphon d'âme
+Se nourrit de l'âme de l'ennemi pour régénérer les PM au fil du temps.
+
+
+Lame de faucheur
+Les attaques de mêlée volent la santé de l'ennemi.
+
+
+Le cadeau d'Erza
+Invite Erza à déformer la réalité à la fin de la bataille.
+
+Mirthal
+Réalisateur / Scénariste / Code principal
+
+Mia
+Admin / Finances
+
+Walnuss
+Artiste principal
+
+AridNight
+Artiste
+
+RedSheIs
+Artiste
+
+GurrenMk30
+Éditeur
+
+Ali
+Éditeur
+
+Fabian
+Artiste
+
+Ceux qui ont rendu cela possible
+
+Appuie à nouveau sur la touche pour passer à l'étape suivante.
+
+Oh, petit-fils, comme le temps passe vite...
+Il me semble qu'hier encore, tu courais partout en prétendant sauver des princesses et tuer des dragons.
+Regarde-toi maintenant !
+Tu es devenu un jeune homme si fort, et je ne pourrais pas être plus fière de toi.
+Je veux te donner la possibilité de grandir davantage. Je veux que tu te bâtisses une nouvelle vie.
+Tu te souviens de la vieille maison de notre famille à Aurelia ? Je te l'offre pour que tu puisses enfin avoir un endroit à toi.
+J'espère qu'il te procurera de nombreuses années d'aventure et d'excitation, tout comme il l'a fait pour moi.
+
+La météo a été un cauchemar pendant mon voyage.
+Mais je suis enfin arrivé.
+Ma propre maison...
+Je ferais mieux d'entrer avant que la pluie n'empire.
+
+C'est exactement comme je m'en souvenais.
+Je ferais mieux de poser mes affaires et de me reposer ; ces deux jours ont été difficiles.
+Hm ?
+Qu'est-ce qui brille sur la table ?
+Grand-père a oublié quelque chose ?
+
+C'est une très belle amulette.
+Je ne me souviens pas que grand-père s'intéressait aux bijoux.
+Peut-être l'a-t-il achetée pour une occasion spéciale ?
+Quoi qu'il en soit...
+Je ferais mieux de la garder pour pouvoir la rendre la prochaine fois que nous nous rencontrerons.
+Il est chaud au toucher. Comment est-ce possible ?
+
+Le lierre
+Écarlate
+Janet
+Lily
+Cristal
+Orson
+Ohro
+Dismas
+Reynauld
+Soran
+Kivir
+Elizabeth
+Ambre
+Draka
+Merah
+Luna
+Erza
+Naamu
+Karos
+Patron
+Ruf
+Lasagne
+Ki-Ki
+Ginny
+Maen
+Sa
+Bulgra
+Acolyte
+Kai
+Miza
+?
+Elizabeth
+Eri
+Draka
+Voix éthérée
+Lirey
+Melkor
+Djinn
+Kobold
+Bœuf
+Satyre
+Lamia
+Alraune
+Tigre
+Roublard
+Succube
+Valeria
+Diablotin
+Tiamat
+Sulph
+Rila
+Lela
+Mila
+Note du développeur :
+Tamara, sorcière de glace
+Sophy
+Kroah
+Velours
+Neige
+Carole
+Sucra
+Evee
+Mme Claus
+Bella
+Ahti
+Abby
+Zombie 1
+Zombie 2
+Zombie 4
+Zombie 5
+Zombie 8
+Zombie 9
+Zombie [j'ai perdu le compte].
+Tatry
+Kiri
+Iris
+Sera
+Vonya
+Mimi
+Soldat
+Sergent
+???
+Gerard
+
+Répète après moi !
+
+
+
+Réinitialiser les attributs
+Les attributs ont été réinitialisés.
+Bénédiction de Naamu
+Si tu atteins 0 HP, cette bénédiction sera dépensée, te permettant de survivre à peine avec 1 HP.
+Tes HP se régénèrent lentement.
+Tes PM se régénèrent lentement.
+Les effets de l'attribut POW sont doublés.
+10 % de chances d'esquiver tout dommage entrant.
+Tu gagnes 100 % d'EXP en plus. Lorsque tu auras atteint le niveau maximum, l'EXP se transformera en or.
+Ta bénédiction a été consommée !
+Naamu te bénit !
+Ta chambre
+À l'extérieur de la maison
+Premier étage
+Chambre d'Ivy
+Salon
+Hall d'entrée
+Colline
+Manoir de la duchesse
+Tanière du dragon
+L'église de Lirey
+Le lac
+Le tombeau de Melkor
+Place du village
+Le bar d'Orson
+La maison close de Luna
+Grotte du littoral
+Maison abandonnée
+Village
+Accueil
+
+Dragon vert
+Oni
+Cerbère
+Harpie
+Duo royal
+Élémentaire de glace
+Scylla
+Robot antique
+Ange déchu
+Vampire
+Mimique
+Cauchemar
+Canonnier
+Fantôme
+Horde de zombies
+Momie
+Sorcière
+Fabricants de jouets
+Sucralosy
+Eveneezer Scrooge
+Madame Noël
+
+Coût
+Tu surprends l'ennemi !
+L'ennemi te tend une embuscade !
+
+
+Tu reçois un assortiment d'armes.
+Le [Cimier d'argent] est prêt.
+Tu paies
+Tu apprends un nouveau sort !
+Tu n'as pas assez d'[Epox].
+L'expérience explose !
+L'énergie de l'orbe rafraîchit ton corps et ton esprit.
+Le sceau est brisé !
+[PROTÉGÉ_18] Tuez 7 ennemis.
+Mission: Explorez 4 étages.
+Mission: Cliquez sur 15 bibelots.
+Mission: Lancez 5 sorts.
+[PROTÉGÉ_22] Attaquez 10 fois.
+De nouveaux ennemis envahissent le royaume !
+Ennemis tués
+Étages explorés
+Événements déclenchés
+Sorts lancés
+Attaques effectuées
+Mission accomplie !
+Tu peux sentir une puissance arcanique rayonner à proximité.
+La tentative de vol a échoué !
+L'ennemi n'avait rien...
+Tu n'as pas d'ingrédients.
+La potion a échoué...
+Appuie deux fois sur la touche pour fermer le jeu.
+Vous avez besoin d'au moins 5 [Bois de chauffage] !
+Le coffre disparaît...
+Cette scène est verrouillée.
+Tu ne peux boire qu'une seule potion par jour.
+Vous ne pouvez pas délier le [Bracelets d'or].
+Artefact lié.
+Artéfact délié.
+Awwww, non, j'ai perdu~
+Héhé !
+Je t'aurai au prochain.
+Hrrrmph...
+Bon sang de bonsoir !
+Bien joué...
+Encore un.
+Un autre !
+...
+Oooh, pas de chance.
+Ferme !
+Je t'ai eu !
+Yay !
+Je vais garder mes vêtements un peu plus longtemps, alors~
+Bien...
+Haha ! Bénis soient les dieux !
+Bon jeu.
+TU GAGNES
+TIRAGE
+TU PERDS
+Argent
+Pari
+Autres recettes
+Langues
+Ginny: On dirait que les cinq éléments sont représentés.
+Ginny: Tu pourrais peut-être essayer de les combiner ?
+Ginny: Celui du milieu semble différent des autres.
+Vie
+Le feu
+L'eau
+La terre
+Le vent
+Métal
+Volcan
+Épée
+Nuage
+Forêt
+Plage
+Petits humanoïdes rusés à la peau écailleuse. Connus pour leur agilité et leur intelligence, ils se tapissent dans les coins sombres des donjons pour tendre des embuscades aux intrus.
+Gracieux et enjoué, le satyre incarne l'attrait de la nature avec ses jambes de chèvre et ses cheveux flottants. Avec leurs voix enchanteresses, ils attirent les aventuriers dans des pièges - des lances prêtes à capturer ceux qui ont osé les suivre.
+Des êtres rayonnants de fumée tourbillonnante et de lumière chatoyante qui exercent un pouvoir et une sagesse immenses. Ils exaucent les souhaits avec un sourire narquois et une présence captivante, mais attention, le prix à payer peut être élevé.
+Un hybride frappant qui combine la puissance draconique et la grâce humaine. Ils possèdent des ailes vibrantes, des écailles chatoyantes, des yeux ardents et une force incroyable - sans parler de leur esprit féroce.
+Une créature redoutable dotée de cornes imposantes et d'une charpente robuste. Connue pour sa force brute, elle peut franchir des obstacles ou attaquer des intrus avec une charge féroce.
+Créatures mythiques ayant le haut du corps d'une belle femme et le bas du corps d'un serpent. Enigmatiques et séduisantes, elles utilisent le charme et la ruse pour piéger ceux qui osent s'approcher de leur repaire.
+Monstres végétaux enchanteurs nés d'un sol enrichi par la force vitale d'une jeune fille mourante. Ils manipulent les plantes, enchantent leurs victimes avec des phéromones et prospèrent en tant que gardiens de la jungle.
+De rares hybrides nés d'une puissante sorcière et de l'esprit d'un tigre. Dotés de sens et d'une agilité accrus, ils excellent dans les acrobaties et sont des chasseurs et des guerriers exceptionnels.
+Ils sont connus pour leur peau vibrante, leurs dents acérées et leurs cornes. Ils possèdent une force immense et peuvent soulever jusqu'à dix fois le poids de leur corps. Ils s'accouplent pour la vie, ce qui en fait des partenaires férocement loyaux et protecteurs.
+Les fox-girls, à la fourrure fine, aux yeux ambrés et à la queue touffue, sont rarement vues par les humains, mais sont tout de même bien connues pour leur nature exigeante. Leurs queues servent d'indicateurs clairs de leurs sentiments et de leurs émotions.
+Les fox-girls sont de petits malins au sourire espiègle et à la peau d'un rouge éclatant et coloré. Ils se délectent de pitreries - causant souvent un chaos inoffensif - et sont connus pour leur charme coquin et leur esprit rusé.
+Des démones séduisantes qui sont invoquées par des rituels. Elles utilisent leur beauté enchanteresse pour séduire leurs victimes et se nourrissent d'énergie sexuelle, laissant leurs partenaires à la fois captivés et vidés.
+Redoutable gardien du monde souterrain à trois têtes. Chaque tête a sa propre personnalité.
+Leurs cris stridents sont souvent associés au mauvais temps puisque les harpies peuvent invoquer des tempêtes pour aider ou gêner les autres. Avec leurs plumes vibrantes et leurs serres acérées, ce sont des prédateurs féroces et des chasseurs habiles dans le ciel.
+Entités flamboyantes de feu pur qui prennent des formes vacillantes. Intelligentes et curieuses, elles résident dans un domaine enflammé dirigé par une puissante reine qui règne en maître.
+Des créatures imposantes forgées à partir de glace et de neige anciennes avec un noyau de magie gelée. Leur corps cristallin scintille à la lumière et elles manient des pouvoirs basés sur le gel pour figer les ennemis sur place.
+Autrefois nymphe, elle a été transformée en monstre par le dieu de la mer Glaucus en un monstre marin aux multiples têtes et au corps serpentin. Elle habite dans les grottes de l'océan, attirant les marins avec des chants enchanteurs.
+Automate d'une époque révolue, se tenant debout avec du métal rouillé et des engrenages complexes. Gardien du savoir, il détient les secrets du passé, ses yeux brillent faiblement d'une sagesse oubliée.
+Exilés du ciel pour avoir défié le statu quo, ces êtres divins ont des ailes en lambeaux et une attitude sombre. Avec un mélange de grâce et de cruauté, ils parcourent le royaume des mortels en quête de rédemption.
+La maîtresse de la nuit .
+Changeurs de forme trompeurs, les mimiques se déguisent en objets comme des coffres au trésor. Ils attirent les aventuriers avec leurs fausses apparences, puis frappent avec une rapidité surprenante. Ils nourrissent une peur profonde du feu.
+On sait très peu de choses sur ces créatures au pouvoir immense. Les cauchemars transcendent la compréhension humaine de l'espace et du temps, existant au-delà du voile de notre réalité et inspirant des sentiments de crainte.
+Ce char contient deux soldats Neko. Leur apparence mignonne est trompeuse - ce sont des combattants intrépides et redoutables issus d'une société hautement militarisée, connue pour son budget militaire grandiose.
+Des figures spectrales à la beauté obsédante et à la présence douloureuse. Ils glissent silencieusement, s'attardant à résoudre les affaires inachevées de leur passé.
+La horde de zombies se déplace comme un seul homme, ressemblant à un troupeau de moutons. Ils sont attirés par la faim, consommant en moyenne 20 livres de chair par jour. Leurs gémissements sinistres résonnent à la recherche de leur prochain repas.
+Ils sont enveloppés dans des linges en lambeaux, maudissant ceux qui troublent leur sommeil et les obligeant à satisfaire des désirs tordus. Obsédées par la beauté, elles cherchent à tout prix à retrouver leur allure perdue.
+Les praticiens de la magie sont souvent représentés comme des femmes maléfiques, hideuses et à la peau verte. Elles méprisent farouchement la légende urbaine selon laquelle elles mangent les enfants, sous prétexte qu'ils sont "trop osseux".
+Les lutins fabricants de jouets sont de joyeux artisans qui consacrent 15 ans à perfectionner leur métier, créant de magnifiques jouets avec soin et précision. Leur friandise préférée est le lait et les biscuits au chocolat.
+Sucralosy est la femme la plus douce que tu puisses rencontrer, incarnant l'esprit de tout ce qui est joyeux et gentil. A une personnalité vibrante et une collection impressionnante de 50 paires de ses leggings préférés.
+Evee a une peau d'albâtre délicate et est réputée pour son esprit vif et son élégance. Accordant une importance primordiale à la monnaie, elle a divorcé de M. Scrooge après qu'il ait proposé de partager l'addition lors du dîner de leur deuxième anniversaire de mariage.
+Mme Noël est le véritable cerveau du Pôle Nord, gérant les opérations de manière experte tandis que son mari est le visage de la marque. Elle accorde une grande importance à la vie privée, ce qui lui permet d'exercer son influence dans les coulisses.
+
+Ton inaction ralentit le rythme du temps.
+Annule une seule attaque ennemie.
+Récupère lentement les points de vie.
+Réduction de 30 % des dégâts.
+Dégâts réduits de 30 %.
+Vitesse d'action réduite de 70 %.
+Perte rapide de HP !
+Perd lentement des HP.
+Triple la vitesse d'action mais t'épuise par la suite.
+Vitesse d'action réduite de 30 %.
+Régénération des PM.
+Les attaques de mêlée permettent de récupérer des HP.
+Mission: Tuez 7 ennemis.
+Mission: Explorez 4 étages.
+Mission: Touchez 15 objets de curiosité.
+Mission: Lancez 5 sorts.
+Mission: Attaquez 10 fois.
+Perte de HP. Une fois l'effet terminé, tu seras grandement récompensé !
+Cette pièce est vide.
+Un coffre au trésor.
+Tu peux essayer de le verrouiller.
+Une distorsion dans cette réalité.
+Il te conduit plus profondément dans le royaume de Melkor.
+Il y a un petit tas de pièces sur le sol.
+Tu peux les ramasser.
+Il y a un tas de pièces sur le sol.
+Tu peux les ramasser.
+Il y a un gros tas de pièces sur le sol.
+Tu peux les ramasser.
+Un bulbe envahi par la végétation et rempli de nutriments !
+Récupère 20 % des points de vie manquants.
+Une vieille armoire avec des potions à l'intérieur.
+Il y en a peut-être une que tu peux prendre.
+Une boîte.
+Il y a peut-être quelque chose à l'intérieur.
+Un seau de poissons.
+Il y a peut-être quelque chose à l'intérieur.
+Une expérience inachevée.
+Elle peut te récompenser par des richesses... ou échouer violemment.
+Un orbe de guérison, suintant d'énergie.
+Récupère 100 % des HP et des MP.
+Le verrou mystique qui limite les pouvoirs d'Erza.
+Tu devrais le briser !
+Une statue noire imprégnée des pouvoirs d'une divinité mineure.
+Convertit tous tes MP en HP.
+Un autel baigné de lumière divine.
+Il te protège.
+Un instrument de torture médiéval.
+Tu peux regarder à l'intérieur au risque de te blesser.
+Une statue d'un chevalier stoïque.
+Vous envoie en mission.
+Les restes d'un sombre rituel.
+Termine ta mission actuelle en échange de 50 % de tes HP.
+Un repas pour deux - ou pour quelqu'un qui a suffisamment faim.
+Permet de régénérer les PV.
+Un œil qui observe ce royaume depuis une autre dimension.
+Récupère 20 % de tes PM manquants mais peut faire appel à des forces d'un autre monde.
+Un artiste qui cherche à faire du commerce.
+Les paiements ne sont acceptés qu'en [Epox].
+Un conteur cherche à faire du commerce.
+Un enchanteur qui cherche à faire du commerce.
+Une statue mystique représentant le dieu de la cupidité.
+Le chiffre supérieur indique le prix, et le chiffre inférieur indique votre [Epox] actuel.
+Vous pouvez échanger des [Epox] pour apprendre le sort qu'ils contiennent.
+Vous pouvez échanger des [Epox] pour récupérer vos HP.
+Vous pouvez échanger des [Epox] pour récupérer vos PM.
+Vous pouvez échanger [Epox] contre un gain d'expérience.
+Vous pouvez échanger [Epox] pour récupérer à la fois vos HP et vos MP.
+Une porte vers une autre réalité.
+Te transporte dans les champs de la joie.
+Veux-tu quitter le domaine de Melkor ?
+Quitter le jeu
+
+Parle-lui demain.
+Parle à Ivy. Elle devrait être dans sa chambre.
+Va en ville et achète de l'or.
+Parle à Ivy quand elle est dehors.
+Entraîne-toi à la magie avec Ivy.
+Parle-lui.
+Achetez de la [Bière] et du [Vin d'Orson] pour Ivy.
+Trouvez une [Clé de rechange] dans votre chambre et donnez-la à Ivy.
+Ivy se sent bien ici. Je devrais explorer Aurélia.
+
+RÔLE DE SCARLET
+
+Scarlet a emménagé. Je devrais lui parler ce soir.
+Qui est cette femme ?
+Entraîne-toi au tir à l'arc avec Scarlet.
+Coupez du [Bois de chauffage]. J'aurai besoin d'une [Hache de bûcheron].
+Scarlet n'est pas dans sa tente la nuit... Où est-elle ?
+Trouve sa dague. Elle devrait être à l'extérieur.
+Donne-lui la dague.
+Demande à Ivy ce qu'il en est de la dague.
+Trouvez la [Dague en argent véritable] dans la tombe de Melkor.
+Donnez-lui la [Dague en argent véritable].
+Parlez-lui la nuit.
+Parlez à Ivy des problèmes de sommeil de Scarlet.
+Trouvez un menuisier dans le village.
+Trouvez un moyen d'entrer dans la grotte du Littoral.
+Trouvez les [lunettes surdimensionnées] de Gérard dans la chambre d'Ivy.
+Parle-lui la nuit.
+Va dans la chambre d'Ivy.
+Va dormir.
+Va parler à la duchesse.
+
+Achète quelque chose dans le magasin de Janet.
+Demande à Ohro de réparer les égouts.
+Paie Ohro.
+Trouve le chat de Janet dans le village la nuit.
+Parle à Soran.
+Porte les boîtes ou demande à quelqu'un d'autre de le faire.
+Paie Soran.
+Aide Janet.
+Janet est heureuse. Je devrais me concentrer sur Crystal.
+
+Trouve Crystal et Janet ensemble.
+
+Sers les clients d'Orson pour que Crystal puisse avoir du temps libre.
+Obtenez un [Gâteau aux fraises] de Janet.
+Donnez le [Gâteau aux fraises] à Crystal.
+Jouer un tour à Ohro.
+Découvrez où Crystal se rend le matin.
+Donnez à Ohro un [Piment bouillant].
+Joue au blackjack avec elle le soir.
+Peut-être qu'Ivy aura une [Poupée hypnotique] ?
+Donnez à Crystal la [Poupée hypnotique].
+
+Demande des recommandations.
+Donnez à Lily des [grenouilles de lac].
+Trouvez le [Stellan] dans la grotte du Littoral.
+Lily devrait être à la Colline le soir.
+
+Trouve Amber dans la maison close.
+Demande à Luna ce que chante Amber.
+Achetez la [Guitare d'Amber] à Janet.
+Parlez à Luna.
+Donnez à Luna des [Fraises sucrées] et des [Piments bouillants].
+Découvrez où Amber se rend la nuit.
+Convaincs Ohro de danser au bordel.
+Trouvez Amber dans les coulisses, derrière le tableau.
+
+Demande les services de Luna.
+Subissez les services de Luna.
+Améliorez la maison close.
+
+Parle à Scarlet.
+Trouve le voleur. Ils devraient être au lac.
+Parlez à Lily.
+Mettez [l'essence de Luna] dans la ruche.
+Donnez une [Bouteille] à Luna.
+Donnez des fruits à Merah.
+Donnez à Luna de la [Sève ancienne].
+Pêchez 5 [Piranhas].
+
+Reste pour le sermon.
+Fais un don.
+Donne à Ginny un peu de [Thé à l'os vert].
+Allez voir Ginny la nuit.
+Fabriquez une [Corde d'annulation] pour Ginny.
+Acquérir de la [Bave] et un [Saphir]. Polissez une [partie de chandelier] de l'église.
+Résolvez le test de Lirey.
+
+Va voir Lily et demande-lui un cataplasme.
+Trouvez un [Jade géant] dans la grotte du Littoral.
+
+Acquiers l'artefact de l'église de Lirey.
+Acquiers l'artefact de l'antre du dragon.
+Acquiers l'artefact de la maison abandonnée.
+Je devrais aller voir Ivy avant le rituel d'Elizabeth.
+Gagne la confiance de la servante pour prendre le livre de la duchesse.
+Donne le livre à Ivy.
+Affronte la duchesse dans son manoir.
+
+
+
+
+
+
+
+Erza a faim ! Donne-lui des [Fruits séduisants].
+Apportez-lui de la [Bière] et un plat épicé.
+Brisez le sceau à l'intérieur du royaume de Melkor.
+Je devrais explorer le reste du royaume de Melkor.
+Apportez à Erza une [Potion bleue +3].
+Trouvez les [Conteneurs hexagonaux]. Les visions d'Ezra montrent Soran, la grotte du Littoral et une maison abandonnée.
+
+PÊCHE
+Tu auras d'abord besoin d'appâts ! N'oublie pas de vérifier s'il y a des vers près du lac.
+Une fois ta ligne lancée, clique lorsque le ! apparaît pour accrocher le poisson.
+Déplace ton curseur pour viser, en gardant le poisson dans la barre de capture.
+Tu as attrapé :
+
+Utilise
+Relier
+ACHETER
+VENDRE
+Lier
+Détacher
+Clique sur le plateau pour révéler d'autres noms de roi.
+PLANCHER
+Scarlet est le ...
+Ami
+
+Cendre
+Gorgoth
+
+
+HP
+MP
+ENTRÉE DU REPAIRE SECRET
+Utilise la touche WASD ou les FLECHES pour te déplacer.
+
+
+
+
+ATTENTION
+Ce fichier de sauvegarde appartient à une ancienne version d'Aurélia.
+Une partie importante du contenu du jeu a été remaniée, ce qui fait que les anciennes sauvegardes ont peu de chances de fonctionner correctement.
+Choisis l'une des deux options ci-dessous pour redémarrer :
+
+Nouveau jeu+ : Conserve ton niveau actuel, ton or, ton épox, tes ingrédients et tes potions.
+Redémarrage rapide : Abandonne ton inventaire actuel mais redémarre au niveau 50 avec 5 000 or.
+
+Je dois gagner la confiance de la duchesse.
+
+Profondeur de l'antre du dragon
+Guide Kai en toute sécurité à travers ces dangereuses profondeurs !
+Utilise les boutons en haut pour donner des ordres à Kai.
+
+Walnuss
+Flor
+Mirthal
+
+Soutien à l'édition et au développement par Critical Bliss
+Chefs de projet :
+LewdLogic & aphrodisia (Patchwork Princess)
+Editors:
+aphrodisia, archaeren, CalamitousIntent
+Assurance qualité :
+aphrodisia, CalamitousIntent, Chrno, Andrii 'ChimeraZak' Yarmolaiev
+Trailer:
+Zerodomai Kitsune
+
+Fuite précipitée
+S'échapper en toute sécurité !
+Tu as dégagé
+vagues !
+Rewards:
+Tu as débloqué le mode ENDLESS !
+DÉPART
+Vague
+Ta meilleure vague
+Barricade
+Nécessite 5 bois de chauffage
+Es-tu prêt ?
+Fais attention !
+Va les chercher, champion !
+
+Meilleur combo
+BIEN
+EXCELLENT
+GÉNIAL
+
+Tiens et relâche !
+Défends-toi !
+
+Tous les XP reçus sont multipliés par 10.
+Tout l'[or] reçu est multiplié par 10.
+100 HP/MP en plus
+
+Musique (nouvelle)
+Musique (héritage)
+Éditeur
+Traductions par
+Pulse Translation
+Chef de projet
+Chinois simplifié
+Relecture en chinois
+Chinois traditionnel
+Test de jeu en chinois
+Coréen
+Japonais
+Russe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
