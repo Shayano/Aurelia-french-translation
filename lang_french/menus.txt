@@ -1,4 +1,4 @@
-﻿French
+French
 Commencer
 Continuer
 Charger
@@ -262,11 +262,11 @@ Quoi qu'il en soit...
 Je ferais mieux de la garder pour pouvoir la rendre la prochaine fois que nous nous rencontrerons.
 Il est chaud au toucher. Comment est-ce possible ?
 
-Le lierre
-Écarlate
+Ivy
+Scarlet
 Janet
 Lily
-Cristal
+Crystal
 Orson
 Ohro
 Dismas
@@ -274,16 +274,16 @@ Reynauld
 Soran
 Kivir
 Elizabeth
-Ambre
+Amber
 Draka
 Merah
 Luna
 Erza
 Naamu
 Karos
-Patron
+Boss
 Ruf
-Lasagne
+Lasagna
 Ki-Ki
 Ginny
 Maen
@@ -296,35 +296,35 @@ Miza
 Elizabeth
 Eri
 Draka
-Voix éthérée
+Ethereal Voice
 Lirey
 Melkor
 Djinn
 Kobold
-Bœuf
-Satyre
+Ox
+Satyr
 Lamia
 Alraune
-Tigre
-Roublard
-Succube
+Tiger
+Foxy
+Succubus
 Valeria
-Diablotin
+Imp
 Tiamat
 Sulph
 Rila
 Lela
 Mila
-Note du développeur :
-Tamara, sorcière de glace
+Note du développeur:
+Ice Sorceress Tamara
 Sophy
 Kroah
-Velours
-Neige
-Carole
+Velvet
+Snowy
+Carol
 Sucra
 Evee
-Mme Claus
+Mlle. Claus
 Bella
 Ahti
 Abby
@@ -334,15 +334,15 @@ Zombie 4
 Zombie 5
 Zombie 8
 Zombie 9
-Zombie [j'ai perdu le compte].
+Zombie [I lost count.]
 Tatry
 Kiri
 Iris
 Sera
 Vonya
 Mimi
-Soldat
-Sergent
+Private
+Sergeant
 ???
 Gerard
 
@@ -379,7 +379,7 @@ La maison close de Luna
 Grotte du littoral
 Maison abandonnée
 Village
-Accueil
+Ma Maison
 
 Dragon vert
 Oni
@@ -714,7 +714,7 @@ PLANCHER
 Scarlet est le ...
 Ami
 
-Cendre
+Ash
 Gorgoth
 
 
