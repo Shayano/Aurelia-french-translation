@@ -987,7 +987,7 @@ main: !
 /ivy:Oh...
 /ivy: Mon Dieu...
 main:Quelque chose ne va pas, Ivy ?
-/ivy:Non.
+/ivy:Non ça va.
 /ivy:Je suis juste un peu nerveuse.
 /ivy:Et toi ?
 /ivy:Tu sais...
@@ -997,26 +997,26 @@ main:Quelques fois.
 main:On peut arrêter...
 /ivy:Non, non, non !
 /ivy:Je veux le faire.
-/ivy:Et je ne suis pas non plus désemparé.
+/ivy:Et je ne suis pas non plus désemparée.
 /ivy:Je sais comment ça marche.
-/ivy:UN... Ami à moi, m'en parlait.
+/ivy:Une... Amie à moi, m'en parlait.
 /ivy:De la façon dont elle faisait ces choses avec les hommes.
 /ivy:Parce que j'étais un peu à l'écart.
-/ivy:Et je ne pouvais pas voir les gens de l'extérieur.
-/ivy:Cela s'appliquait beaucoup plus strictement aux hommes.
+/ivy:Je ne pouvais pas voir beaucoup de gens de l'extérieur.
+/ivy:Cela s'appliquait beaucoup plus spécifiquement aux hommes.
 /ivy:Ce qui veut dire que je n'ai pas vu d'homme depuis que je suis petite.
 /ivy:Jusqu'à ce que je tombe sur toi.
 /ivy:Je lui ai donc demandé comment c'était.
 /ivy:J'ai demandé... Beaucoup.
 /ivy:Et je suis toujours aussi nerveuse.
-/ivy:Je pensais que je serais préparée.
+/ivy:Je pensais que j'y serais préparée.
 main:Tu t'en sors très bien, Ivy.
-/ivy:JE...
+/ivy:Je...
 /ivy: Vraiment ?
 /ivy:...
 /ivy:Merci~
 /ivy:Les recherches ont porté leurs fruits.
-/ivy:Je suis aussi... un peu curieux.
+/ivy:Je suis aussi... un peu curieuse.
 /ivy:Est-ce vrai que vous aimez quand...
 /ivy:Quand ça va sur le visage ?
 /ivy:Ou la bouche ?
@@ -1025,12 +1025,12 @@ main:Je dirais que oui. La plupart des gars aiment ça.
 main:Je ne sais pas.
 main:Nous le faisons, c'est tout.
 /ivy:C'est comme une chose primitive ?
-/ivy:Oh là là, je suis désolé. Est-ce que j'en demande trop ?
+/ivy:Oh là là, je suis désolée. Est-ce que j'en demande trop ?
 main:Avec quelqu'un d'autre, je dirais oui.
 main:Mais tu rends ça mignon.
 /ivy:...
 /ivy:Ne dis pas des choses comme ça.
-/ivy:Elles me font me sentir bizarre.
+/ivy:Ça me fait me sentir bizarre.
 main:Putain...
 /ivy:Ça t'a fait mal ?
 main:Non, pas du tout.
@@ -1038,7 +1038,7 @@ main:Tu t'en sors très bien, c'est pourquoi il est très difficile de se reteni
 /ivy:Oh~
 /ivy:Laisse-moi te rendre la tâche plus difficile, alors.
 /ivy:Tiens.
-/ivy:Mets-le ici~
+/ivy:Mets-la ici~
 /ivy:S'il te plaît.
 /ivy:J'ai bien travaillé.
 /ivy:Je le mérite, n'est-ce pas ?
@@ -1052,7 +1052,7 @@ main:Oui. Tout ce dont tu as besoin, c'est de te reposer.
 main:Aïe...
 /ivy:Non, pas comme ça !
 /ivy:C'est particulier, mais je ne déteste pas ça.
-/ivy:De toute façon...
+/ivy:Bref...
 /ivy:Bonne nuit, /main/.
 
 //Post-Fire Training
@@ -1061,7 +1061,7 @@ main:Oui.
 main:Mais je pensais que ce serait plus facile.
 /ivy:On peut y aller plus doucement si tu veux.
 /ivy:Ou nous pouvons...
-/ivy:Prendre un peu de vin et se détendre.
+/ivy:Prendre un peu de vin et nous détendre.
 main:J'ai une meilleure idée.
 /ivy:Je t'écoute.
 main:Nous allons faire un petit voyage aujourd'hui.
@@ -1078,18 +1078,18 @@ main:Alors prends des vêtements de rechange et prépare-toi à nager !
 /ivy:Es-tu sûr que c'est sans danger ?
 main:Oui.
 main:Mon père avait l'habitude de m'amener ici.
-main:Ce golfe est entouré de rochers déchiquetés.
+main:Cette crique est entourée de rochers escarpés.
 main:Et le seul moyen sûr d'y entrer est de passer par ce sentier forestier au sud de la maison.
 main:C'est aussi privé que possible tout en restant à l'extérieur.
 /ivy:J'ai l'impression que c'est trop beau pour être vrai.
-/ivy:Je ne suis jamais allé à la plage auparavant.
+/ivy:Je ne suis jamais allée à la plage auparavant.
 /ivy:Je ne sais même pas quoi faire.
 main:Nager, prendre un bain de soleil, jouer dans le sable... Ou...
 main:Jouer dans l'eau !
 /ivy:Hé !
 /ivy:C'est pas juste ! Tu ne m'as pas prévenu !
 main:Ça s'appelle une attaque surprise.
-/ivy:Très bien, alors ! Les deux peuvent jouer à la triche.
+/ivy:D'accord, alors ! On peut être deux à tricher.
 /ivy:Et maintenant ?
 main:J'admets ma défaite ?
 /ivy:Hahaha.
@@ -1100,7 +1100,7 @@ main:Est-ce que tu peux encore t'épuiser à faire de la magie ?
 /ivy:Oui, bien sûr.
 main:Montre-moi !
 /ivy:Je ne sais pas...
-/ivy:Je ne suis pas censé le faire.
+/ivy:Je ne suis pas censée le faire.
 main:Pourquoi ?
 /ivy:Mon maître me l'a interdit.
 main:Une raison de plus pour que tu le fasses.
@@ -1113,7 +1113,7 @@ main:Ivy...
 main: !
 main:Pas étonnant que tu ne ressentes pas notre entraînement.
 main:Si c'est ce qu'il faut pour te fatiguer.
-main:Ça dépasse l'horizon... Incroyable !
+main:Ça va plus loin que l'horizon... Incroyable !
 /ivy:Aggh-
 /ivy:Je dois m'arrêter.
 /ivy:C'était...
