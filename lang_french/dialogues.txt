@@ -1742,7 +1742,7 @@ main:...
 /ivy:Je suis désolé ! Je ne suis pas habillé.
 /ivy:J'ai oublié d'emporter quelque chose pour dormir.
 /ivy:Tu peux m'en donner un peu ? Je serai bientôt en bas.
-main:Fine.
+main:Bien.
 
 narr:Tu entends des bruits méconnaissables provenant de la chambre d'Ivy.
 main:Ivy ?
@@ -4988,7 +4988,7 @@ loop_1 105% vitesse
 transition vers le nouveau à 95% de vitesse
 loop_2 100% vitesse
 loop_2 105% de vitesse
-Cum shot into breathing loop 100% speed
+Jouir dans le circuit respiratoire 100% speed
 
 
 
@@ -5075,8 +5075,8 @@ scar:Va dormir pour être frais et dispos demain.
 //Scarlet Wakes you up
 scar:/main/!
 scar:Espèce de paresseux !
-main:Nnnnnnghhhh...
-main:Wh-Quoi?
+main:Mmmmhhhh..
+main:Qu-Quoi?
 scar:Allez !
 main:Scarlet? Qu'est-ce qui se passe ?
 scar:Oh, putain de merde !
@@ -5262,7 +5262,7 @@ scar:Continue comme ça.
 main:Même les doigts ?
 scar:Ferme ta gueule et fais ton boulot !
 scar:Je suis presque...
-scar:Almost—
+scar:Presque—
 scar:~ !
 scar:Putain oui !
 scar:C'est si bon.
@@ -5332,7 +5332,7 @@ main:Tout va bien.
 main:Tu as l'air de traverser beaucoup de choses.
 main:Alors reste ici. Prends une nuit et repose-toi.
 main:Et si tu veux, je ferai comme si je ne t'avais jamais vu ici.
-scar:Fine.
+scar:Bien.
 scar:...
 scar:Merci.
 main:Bonne nuit, Scarlet.
@@ -5518,7 +5518,7 @@ scar:[Et ce type pousse tous mes boutons.]
 scar:[Je ne vais pas durer.]
 scar:[Tenez, /main/, profitez de ces excuses].
 main:Mmmnnh~
-scar:[Almost there!]
+scar:[Presque!]
 scar:~ !
 scar:[J'adore ça].
 scar:[Je jouis avec ça au fond de ma bouche.]
@@ -5698,7 +5698,7 @@ scar:La fin.
 main:Alors...
 scar:J'ai dit, la fin !
 scar:Ne parlez plus de la dague.
-main:Fine.
+main:Bien.
 main:[Peut-être qu'Ivy en sait plus à ce sujet.]
 
 //Ask Ivy about the silver dagger.
@@ -5869,7 +5869,7 @@ scar:Même si je t'ai dit de ne pas le faire.
 scar:Et ensuite je me sens coupable.
 main:D'accord, et si tu me demandais de prendre le canapé de temps en temps ?
 main:Tu demandes déjà ça à Ivy.
-scar:Fine.
+scar:Bien.
 scar:Je peux le faire.
 scar:Je te le dirai la prochaine fois que j'aurai besoin d'un bon repos, d'accord ?
 main:Great!
@@ -6265,7 +6265,7 @@ scar:Ça va prendre un peu de temps pour passer des doigts à ça.
 main:Tu prévois déjà de répéter l'expérience ?
 scar:Tais-toi...
 main:Alors, seulement cette fois-ci ?
-scar:No...
+scar:Non...
 scar:Tu veux que je le dise, n'est-ce pas ?
 main:Oui.
 scar:Nnnfff, très bien !
@@ -6480,7 +6480,7 @@ crys:Mais je ne veux pas l'inquiéter. Il a beaucoup de choses à faire ces dern
 
 
 main:Il essaie simplement de te protéger.
-crys:Je suis conscient...
+crys:J'en suis consciente...
 crys:Il veut seulement que je sois en sécurité et heureuse.
 crys:J'aimerais juste qu'il soit moins têtu à ce sujet.
 
@@ -6891,7 +6891,7 @@ main:Y a-t-il une raison pour que tu veuilles devenir bon ?
 crys:Oh, euh...
 crys:Noooooo? Hehe...
 main:Crystal...
-crys:Fineee!
+crys:Biennn!
 crys:J'ai besoin d'or.
 crys:Alors j'ai pensé que je pourrais devenir vraiment bon au blackjack.
 crys:Et en tirer de l'or.
@@ -7028,7 +7028,7 @@ crys:Tu as de la chance, je ne peux pas dire non à ce beau visage.
 crys:Mais ne fais pas de bruit. Je ne veux pas réveiller Pops.
 main:C'est toi qui pousse tes hanches contre moi.
 crys:Tu peux m'en vouloir ?
-crys:J'avais tellement besoin que tu m'étires à nouveau.
+crys:J'avais tellement besoin que tu m'écartes à nouveau.
 crys:Si tu continues à me bousculer comme ça, je ne me soucierai même plus de me faire prendre.
 crys:Mmmm~
 crys:Bon sang, /main/ !
@@ -7064,7 +7064,7 @@ crys:[Stop...]
 crys:Nffff—
 crys:[Je ne suce même plus...]
 crys:[Il utilise juste ma bouche et me tape sur le cul.]
-crys:[M-More?]
+crys:[P-Plus?]
 crys:[Mince!]
 crys:[C'était plus fort...]
 main:Putain... Crystal !
@@ -9313,7 +9313,7 @@ scar:Nous prenons une gorgée chaque fois qu'il y en a un dans le livre.
 /ivy:Scarlet...
 /ivy:C'est tellement puéril ! Pourquoi ne pouvons-nous pas lire le livre comme des gens normaux sans en faire une compétition ?
 scar:Oh, allez, Ivy ! Ce sera amusant !
-/ivy:Fine... On va le faire à ta façon cette fois-ci.
+/ivy:Bien... On va le faire à ta façon cette fois-ci.
 scar:J'espère que tu n'es pas des poids plume ! Haha !
 narr:Ivy poursuit sa lecture. Toutes les deux pages, vous buvez tous les trois un peu de vin avant de continuer.
 narr:Il ne vous faut pas longtemps pour être pompettes.
@@ -9334,7 +9334,7 @@ scar:Haha! Qu'est-ce qu'il y a ?
 scar:Oh, non. Les choses deviennent enfin intéressantes ! Allez, on y va ! Continue à lire.
 /ivy:/main/, qu'en penses-tu ?
 main:Le contenu... érotique ne me dérange pas, honnêtement. Je suis à l'aise.
-/ivy:Fine...
+/ivy:Bien...
 /ivy:Annisa sourit et se mord la lèvre...
 /ivy:Tout en s'agenouillant... S'agenouiller...
 scar:HAHAHAHA !!!
@@ -9425,11 +9425,11 @@ main:Quelque chose ? Comme quoi ?
 erza:Hm... Je n'arrive pas à penser à quoi que ce soit en tête.
 erza:Mais c'est amusant de jouer avec toi, je l'admets. Tu peux faire des choses qui me divertissent.
 erza:Ou peut-être faire une quête pour moi. Je trouverai quelque chose plus tard.
-erza:Fine. Maintenant que j'ai votre engagement, donnez-moi le bâton !
+erza:Bien. Maintenant que j'ai votre engagement, donnez-moi le bâton !
 main:Euh, je...
 erza:Je n'ai pas tout le siècle !
 main:D'accord, le voici.
-erza:Fine!
+erza:Bien!
 main: !
 erza:C'est fait, c'est fait.
 main:C'est tout ! ?
@@ -9437,7 +9437,7 @@ erza:Tu as des réclamations à faire ?
 main:Non, c'est juste que... Je ne m'attendais pas à ce que tu sois aussi rapide.
 erza:Eh bien, je m'attends à ce que tu quittes cet endroit tout aussi rapidement !
 erza:C'est l'heure de ma sieste... Ma sieste des ténèbres !
-main:Fine...
+main:Bien...
 main:Merci.
 erza:Pars!
 
@@ -9724,11 +9724,11 @@ jane:J'ai un sacré nœud là-dessous. Donne-lui aussi un peu d'amour, ma chéri
 main:Tu es sûre ?
 jane:Oui, oui. Allez, je sais que tu vas me faire du bien.
 jane:Nous sommes seuls maintenant, juste toi et moi.
-jane:Fais-le comme tu sais que j'aime ça~
+jane:Fais-le comme je l'aime~
 main:Comme ça ?
 jane:Oui, juste comme ça. Exactement.
 jane:Ah, tu as tellement de talent. Mmh, c'est vrai.
-jane:Continue. Un peu plus bas, chérie. Allez, on y va.
+jane:Continue. Un peu plus bas, chéri. Allez, on y va.
 jane:Laisse-moi te faciliter la tâche.
 main:Oh.
 jane:Tu vois ? C'est ici que je le veux. Ça fait tellement mal, bébé. Fais en sorte que ça aille mieux, tu veux bien ?
@@ -9745,10 +9745,10 @@ jane:Bien et facile. Bien, bien.
 jane:Mmh...
 jane:Tu les aimes ?
 main:Oui, elles sont si rebondies et si douces...
-jane:Merci, chérie.
+jane:Merci, chéri.
 jane:J'ai peut-être quelques années de plus que toi, mais j'ai beaucoup plus d'amour à donner~
 jane:Ah... je me sens tellement mieux.
-jane:J'espère que tu as apprécié, chérie.
+jane:J'espère que tu as apprécié, chéri.
 jane:N'hésite pas à revenir quand tu veux.
 
 
@@ -10709,8 +10709,8 @@ ginn:Je te remercie, L-Lirey...
 ginn:Pour ce... Ahh... Cadeau que tu as mis sur mon chemin.
 main:Et ?
 ginn:J'espère pouvoir prier tous les jours avec lui qui me martèle sans raison.
-ginn:Je suis si reconnaissant.
-main:Tu as oublié la partie où tu es accouplé~
+ginn:Je suis si reconnaissante.
+main:Tu as oublié la partie où tu es accouplée~
 ginn: !
 ginn:Tu as raison.
 ginn:Je suppose qu'il va falloir tout recommencer~
@@ -11956,7 +11956,7 @@ jane:Viens, ne sois pas timide~
 main:Je ne le serai pas.
 jane: !
 crys:Oh mon dieu...
-crys:Vous n'avez pas honte.
+crys:Tu n'as pas honte.
 jane:Ahh~
 jane:Ce n'est pas sain de garder ces choses à l'intérieur.
 jane:Je suis un bonne commerçante~
@@ -11983,7 +11983,7 @@ crys:Putain...
 crys:Tu n'as pas réfléchi à deux fois.
 jane:Pourquoi l'aurait-il fait ?
 jane:Tu as dit que tu étais un bonne commerçante.
-jane:Et ça veut dire qu'on t'encule jusqu'à ce que tu jouisses.
+jane:Et ça implique de te faire enculer jusqu'à ce que tu jouisses.
 jane:Tu te souviens ?
 crys:Putain...
 crys:C'est juste énorme.
@@ -12090,7 +12090,7 @@ main:Amber, pour l'amour de Lirey !
 ambe:Quoi?
 ambe:Tu veux que je les secoue ?
 main:Je suis sérieux.
-ambe:Fine...
+ambe:Bien...
 ambe:Je ne sais même pas par où commencer.
 ambe:J'ai très peu d'options ici à Aurélia.
 main:Élaborer...
@@ -12157,7 +12157,7 @@ ambe:Comme si tu t'attendais à ce que je continue à raconter ma vie.
 main:C'était le marché, tu te souviens ?
 main:J'apporte le vin et les fraises, et tu apportes les histoires.
 ambe:Hahahaha !
-ambe:Fine.
+ambe:Bien.
 main:Alors, qu'est-ce que tu vas faire pour le bordel ?
 main:Tu n'as plus l'air de trouver ça agréable.
 main:Tu as pensé à trouver quelque chose de nouveau ?
@@ -12510,8 +12510,8 @@ ambe:Comme une exception~
 main: !
 ambe:~
 ambe:Putain, il y en a tellement.
-ambe:Tu ne peux pas... comme...
-ambe:Cum moins pour une fois ?
+ambe:Tu ne peux pas... joui...
+ambe:Jouir en moins grand quantité pour une fois ?
 main:Tu voulais une "exception", n'est-ce pas ?
 ambe:Eh bien, oui.
 ambe:Mais peut-être une plus petite "exception" ?
@@ -12524,7 +12524,7 @@ main:Je devrais y aller...
 ambe:Non.
 main:...
 ambe:S'il vous plaît ?
-main:Fine.
+main:Bien.
 ambe:Merci~
 ambe:Bonne nuit, /main/.
 
@@ -12888,11 +12888,11 @@ foxx:Tais-toi, grand-père.
 
 ///Xmas Elves
 snow:Allez, allez ! S'il te plaît !
-caro:Je ne sais pas, Milou... Es-tu sûr de toi ?
+caro:Je ne sais pas, Snowy... Es-tu sûr de toi ?
 snow:Hm ? Qu'est-ce que tu veux dire, Carol ?
 caro:This... Es-tu sûre que cela fait partie de notre travail ?
-snow:Bien sûr, idiot ! Allez, cette bite ne va pas se sucer toute seule !
-snow:Vous ne voulez pas apporter à ce garçon le bonheur de Noël ?
+snow:Bien sûr, idiote ! Allez, cette bite ne va pas se sucer toute seule !
+snow:Tu ne veux apporter à ce garçon le bonheur de Noël ?
 caro:Bien sûr que si ! Mais quel est le rapport avec la fabrication de jouets ?
 snow:Fabriquer des jouets, être des jouets... Quelle est la différence ? Hnnnh...
 snow:Tout ce qui compte, c'est d'apporter de la joie...
@@ -12901,7 +12901,7 @@ caro:Oh, oublie ça ! Je ne vais pas te laisser faire tout seul.
 caro:Avec la façon dont tu t'emportes sans supervision, qui sait quel genre de désordre tu ferais ?
 snow:Hehe... Je suppose que je m'emporte et que je fais du désordre.
 snow:Je veux vraiment faire du désordre maintenant... Mmmmh...
-caro:Non, non, non, écartez-vous. Je dois te montrer comment on fait.
+caro:Non, non, non, écarte-toi. Je dois te montrer comment on fait.
 caro:Regarde-moi et prends des notes pour la prochaine fois.
 caro:Tu dois lécher comme ça... et maintenant sucer comme ça...
 snow:Aha, aha...
@@ -12909,17 +12909,17 @@ snow:Tu prends ça tellement au sérieux.
 caro:Bien sûr ! Quel que soit notre travail, il doit être bien fait.
 snow:Tu m'inspires toujours, Carol. Tu es tellement responsable !
 snow:Maintenant, je veux faire plus d'efforts.
-snow:Comment ferais-je le suivi ?
+snow:Comment je vais faire la suite ?
 caro: !
 snow:Oooooh, c'est vrai, c'est vrai.
 caro:Mmmmh...
-snow:Whoa, tu peux vraiment le prendre.
+snow:Whoa, tu peux vraiment la prendre en entier.
 snow:Presque tout...
 caro:Aaaaaah~
 caro:Je prends mon travail au sérieux. J'ai été nommé superviseur pour une bonne raison.
 snow:Qu'il s'agisse de fabriquer des jouets ou d'être soi-même un jouet~
 caro:Eh bien, ce n'est pas exactement ce que je...
-snow:Oh, tu l'as laissé palpitant !
+snow:Oh, tu l'as laissée palpitante !
 snow:Est-ce que ça fait partie de ce que je dois faire ?
 caro:Non ! Tu...
 caro:Regarde...
@@ -12928,7 +12928,7 @@ snow:Oh oui, c'est beaucoup plus clair~
 snow:Aller jusqu'au bout de la démarche.
 main: !
 snow:Sacrés flocons de neige ! C'est un blizzard si j'en ai déjà vu un !
-caro:M-Merry Christmas.
+caro:J-Joyeux Noël.
 snow:C'était pas génial ?
 caro:Un peu épuisant...
 caro:Mais plutôt amusant, pour changer.
@@ -12942,7 +12942,7 @@ caro:Bien sûr.
 
 //Xmas sucr
 sucr:Tee-hee! C'est parti ! Sucralosy est là ! Maintenant, tout le monde peut se réjouir !
-main:Et vous êtes... ?
+main:Et tu es... ?
 sucr:Hein ? Qu'est-ce que tu veux dire par là ? Tout le monde me connaît !
 sucr:Mais peut-être viens-tu d'un pays lointain, alors je laisse passer....
 sucr:Je vais te le dire ! Je suis Sucralosy, la fille la plus douce du pays.
@@ -12951,7 +12951,7 @@ sucr:Ma seule présence suffit à...
 sucr:Aaaah? Qu'est-ce que tu fais ?
 sucr:HEY, C'EST MON LEGGING PRÉFÉRÉ !
 sucr: !
-sucr:H-Hey ! Où essaies-tu d'aller si vite ?
+sucr:H-Hey ! Pourquoi veux-tu aller si vite ?
 sucr:Tu ne veux pas profiter de ma présence ? Cela devrait suffire amplement à adoucir ta journée !
 sucr:Regarde mon joli visage, et laisse la joie remplir ton cœur !
 main:Tu as dit qu'il n'y avait rien de plus doux que toi, n'est-ce pas ?
@@ -12969,12 +12969,12 @@ main:Je suis heureux de l'entendre car la meilleure partie est sur le point de c
 sucr:La meilleure partie ? Mmmh... Qu-Qu'est-ce que tu racontes ?
 sucr:Aaaaah??
 main:Tu vois ? Maintenant, c'est doux.
-sucr:Uggggh... ! Attendez une minute !
+sucr:Uggggh... ! Attends une minute !
 sucr:V-Vous allez beaucoup trop loin. C'est une escalade trop rapide ! Doucement ! Vas-y doucement !
 main:Tu es sûr ? Ça commence à ressembler à ce que tu avais promis.
 main:J'avais des doutes au début, mais tu as pris cette canne si facilement~
 main:Tu es vraiment en train de devenir la plus douce que j'ai jamais connue.
-sucr:Do... Tu le penses vraiment... ?
+sucr:Tu... Tu le penses vraiment... ?
 main:Oui, de tout mon cœur.
 sucr:Heheh... Mmmh... B-Bien sûr ! Je suis la douceur et la joie à l'état pur !
 sucr:Rien n'est comparable à moi ! Nnh ! Tout le monde rêve de voir mon joli visage !
@@ -12987,9 +12987,9 @@ sucr:Nnh...
 main:Tu disais ?
 sucr:Je-je disais que...
 sucr:Ngh ! Ahh...
-sucr:Arrêtez~
-main:Désolé, tu es trop gentil... Je ne peux pas m'en empêcher !
-sucr:Y-Toi...
+sucr:Arrête~
+main:Désolée, tu es trop gentil... Je ne peux pas m'en empêcher !
+sucr:T-Toi...
 sucr: !
 main:Oh !
 main:Maintenant, tu te déhanches.
@@ -12998,17 +12998,17 @@ sucr: !
 sucr:Ohh, mon dieu !
 sucr:Encore un peu !
 sucr: !
-sucr:Fffffh...
+sucr:Put...
 sucr:Aaaah~!
 main:Putain...
 main:Tu as raison.
 main:C'est mignon~
-sucr:Th-Th-Th-Merci~
+sucr:Me-Me-Me-Merci~
 sucr:Même avec ton attitude exigeante, je gagne.
-main:Oui, laisse-moi me rendre.
+main:Oui, laisse-moi me décharger.
 main: !
 sucr:Ahhh... Ngahh... Hah...
-sucr:Yooouu b-brute.
+sucr:Toiiii b-brute.
 sucr:Oh... Ma tête tourne... M-Ma tête tourne...
 sucr:Oh là là, j'ai besoin d'une sieste maintenant...
 sucr:Peux-tu m'aider à me lever ? Mes jambes tremblent...
@@ -13021,22 +13021,22 @@ sucr:Ou la prochaine fois, tu n'auras rien d'autre à déchirer que moi !
 miss:Qu'avons-nous là ? Un bon garçon ? Ou un vilain garçon ?
 main:Tout ce que vous voulez que je sois.
 miss:Ho, ho, ho ! Espèce d'idiot, ce n'est pas comme ça que ça marche.
-miss:Pourquoi ne dis-tu pas à Maman Noël à quel point tu t'es bien comporté cette année ?
+miss:Pourquoi ne dis-tu pas à Mère Noël à quel point tu t'es bien comporté cette année ?
 miss:As-tu partagé tes affaires avec ceux qui en avaient besoin ?
 main:Oui... J'ai même fait des quêtes pour aller chercher des choses que les gens voulaient.
-miss:C'est merveilleux ! Et pour ce qui est de mentir ? As-tu déjà menti, ma chérie ?
-main:Euh... Pas vraiment. Seulement quelques mensonges blancs ici et là.
-miss:Pas mal, pas mal. Et as-tu fait en sorte que tes amants viennent avant toi ?
+miss:C'est merveilleux ! Et pour ce qui est de mentir ? As-tu déjà menti, mon chéri ?
+main:Euh... Pas vraiment. Seulement quelques omissions ici et là.
+miss:Pas mal, pas mal. Et as-tu fait en sorte que tes amantes jouissent avant toi ?
 main:Woah... Eeeeeeeeh-
-miss:N'oubliez pas, on ne ment pas !
+miss:N'oublie pas, on ne ment pas !
 main:J'essaie de faire de mon mieux à chaque fois.
 miss:Oh, espèce de coquin !
 miss:Je suis ravi de l'entendre !
 miss:Très bien, ça suffit pour moi. Je sais que tu as été sage, et les bons garçons sont récompensés.
-miss:La tienne vient directement de moi~
-main:Bon sang, Madame Noël... !
+miss:Ta récompense vient directement de moi~
+main:Bon sang, Mère Noël... !
 miss:Ho, ho, ho ! Je suis là depuis longtemps. Je sais comment faire neiger, quel que soit le temps...
-main:Sainte f...
+main:Sainte p...
 miss:Pas de jurons !
 main:C'est juste que...
 main: !
@@ -13046,65 +13046,65 @@ main: !!
 miss:Excellent ! Quelle générosité ! Tu es vraiment un très bon garçon.
 main:Comme si j'avais le choix...
 main:Merci pour la... Euh... Récompense ? Cadeau ?
-miss:Pas de problème, ma chérie. Tu l'as bien mérité. Amuse-toi bien !
+miss:Pas de problème, mon chéri. Tu l'as bien mérité. Amuse-toi bien !
 main:Huh...?
 main: !
-miss:Oh, non, non, ne t'attendris pas encore. Je sais que tu en as encore sous le coude, n'est-ce pas ?
-main:Euh, M-Mme Claus... J'apprécie, mais...
-miss:Oh, allez, ma chérie. Un de plus ne fera pas de mal, n'est-ce pas ? Voilà.
-main:I-
+miss:Oh, non, non, ne te ramolli pas encore. Je sais que tu en as encore sous le coude, n'est-ce pas ?
+main:Euh, M-Mère Noël... J'apprécie, mais...
+miss:Oh, allez, mon chéri. Une fois de plus ne fera pas de mal, n'est-ce pas ? Voilà.
+main:J-
 miss:Aggh, mmm~
 main: !
 main:Comment diable... Je viens de...
 miss:Il y a des avantages à passer la nuit avec une femme expérimentée, ho, ho, ho !
 main:A-Ahh!
 main:J'ai du mal à tenir au moment où tes lèvres me touchent...
-miss:C'est bon~ Joue quand tu es prête, ma chérie~
+miss:C'est bon~ jouis quand tu es prêt, mon chéri~
 miss:Il y a plein d'espace inutilisé ici, et il est tout à toi~
-main:Fuuu—
+main:Puu—
 miss:Nhoo shwearim !
 main: !
 miss:Awww! C'est vrai que tu l'avais en toi !
 miss:Et regarde ça. J'ai du mal à tenir tout ça~
 main:Huff...
 main:J'ai peut-être repoussé mes limites, mais j'ai eu une sensation incroyable...
-miss:Madame Noël, je reviendrai certainement pour plus tard...
+miss:Mère Noël, je reviendrai certainement plus tard...
 main:Ehm... Je peux ?
-miss:Madame, s'il vous plaît...
-miss:Later?
-miss:Oh, mais pourquoi se presser ? Tu ne veux pas rester un peu plus longtemps ? Maman Noël a du temps à perdre... et de l'amour à revendre !
-main:Doucement, je t'en prie ! Je viens de terminer deux fois...
+miss:Mère Noël, s'il te plaît...
+miss:Plus tard?
+miss:Oh, mais pourquoi se presser ? Tu ne veux pas rester un peu plus longtemps ? Mère Noël a du temps à perdre... et de l'amour à revendre !
+main:Doucement, je t'en prie ! Je viens de jouir deux fois..
 miss:La troisième fois sera la bonne !
-main:M-Mme Claus...
-miss:Allez, ma chérie, tu ne vois pas que j'ai été une bonne fille moi aussi ? Je me suis mérité un peu plus de toi~
+main:M-Mère Noël...
+miss:Allez, mon chéri, tu ne vois pas que j'ai été une bonne fille moi aussi ? J'ai mérité un peu plus de toi~
 main: !
 main:Je ne pense pas qu'il y ait plus de moi ici...
 main:Nnngh!
-miss:Essaie de ne pas trop te tordre, chérie ; j'ai failli rater le bout avec ma bouche.
+miss:Essaie de ne pas trop te tordre, chéri ; j'ai failli rater le bout avec ma bouche.
 main:Je ne le fais pas exprès...
 miss:Maintenant, maintenant. Tu dois croire en toi !
-miss:Allez, encore un pour maman Noël. Je sais que tu as tout ce qu'il faut en toi ! Je t'aiderai autant que tu le voudras.
-main:Je pense que tu as plus qu'aidé à ce stade.
+miss:Allez, encore un pour Mère Noël. Je sais que tu as tout ce qu'il faut en toi ! Je t'aiderai autant que tu le voudras.
+main:Je pense que vous avez plus qu'aidé à ce stade.
 miss:Très bien...
 miss:Je vais le formuler autrement.
 miss:Tu vas te ressaisir et garder cette putain de bite dure !
 miss:Parce que la seule façon pour toi de partir, c'est de me remettre à ma place et de me regarder avaler tout ton sperme comme une salope avide.
 main:Voici donc mon dernier effort.
-main:Bon garçon ! Donne tout à maman Noël.
+main:Bon garçon ! Donne tout à Mère Noël.
 main:Je ne peux même pas...
 main:Putain! Ghhk !
 miss:Aaaah! Ho, ho, hoooooo !
 miss:Je le savais ! Je savais que tu y arriverais !
-miss:Oh, je suis si heureux~
+miss:Oh, je suis si heureuse~
 main:S'il vous plaît, ayez pitié... Je t'ai donné tout ce que j'avais...
-miss:Et tu as bien travaillé. Joyeuses fêtes, ma chérie.
-main:Fappy Hole-idays... ugh... Madame Noël...
+miss:Et tu as bien travaillé. Joyeuses fêtes, mon chéri.
+main:J-Joyeux Noël... ugh... Mère Noël...
 
 
 //Evee
 evee:Qu'est-ce que tu attends ? Une tape sur l'épaule ?
 main:Je crois que vous avez quelque chose pour moi.
-evee:Hmph! Quelque chose pour TOI ? C'est absurde. Et pourquoi vous donnerais-je quoi que ce soit ?
+evee:Hmph! Quelque chose pour TOI ? C'est absurde. Et pourquoi te donnerais-je quoi que ce soit ?
 main:Je n'arrive jamais à obtenir quoi que ce soit de toi. J'ai l'impression que tu me trompes.
 evee:C'est absurde ! C'est le mien, et tu ne peux pas me l'enlever.
 main:Ce n'est pas comme ça que ça marche.
@@ -13113,7 +13113,7 @@ main:Tu ne peux pas continuer à faire ça...
 evee:Oh, allez~
 evee:Tu sais, on pourrait s'entendre~
 evee:Qu'est-ce que cet objet va t'apporter de toute façon ? Hum ?
-evee:Pourquoi ne pas plutôt vous détendre et profiter~
+evee:Pourquoi ne pas plutôt te détendre et profiter~
 main:Ce n'est pas non plus comme ça que ça marche...
 evee:Tu n'es pas sur le point d'en profiter alors ?
 main:Si, mais ce n'est pas la question.
@@ -13135,7 +13135,7 @@ main:Ça te dérange si je me rapproche un peu plus ?
 evee:Mhm~
 main:D'accord, juste un peu~
 evee:Mmh~!
-evee:[Oh... Vous devenez courageux ?]
+evee:[Oh... Tu deviens courageux ?]
 evee:[Il était temps~]
 evee:[Combien de fois vais-je devoir faire semblant de me soucier d'une chose sans valeur...]
 evee:[Alors que tout ce que je veux, c'est cette bite enfoncée dans ma gorge ?]
@@ -13143,15 +13143,15 @@ main:Tu suces à pleines dents, tu travailles vraiment dur pour me distraire, n'
 main:Putain... Tu ne peux pas continuer à t'en tirer comme ça, Evee...
 evee:[Tu as tout à fait raison.]
 evee:[Je ne devrais pas m'en tirer comme ça... Je devrais être punie...]
-evee:[On me pilonne sans raison jusqu'à ce que mes jambes lâchent...]
-evee:[Et tout ce que je peux faire, c'est gémir sur le sol pendant que vous continuez à vous servir de moi].
+evee:[Tu me pilonne sans raison jusqu'à ce que mes jambes lâchent...]
+evee:[Et tout ce que je peux faire, c'est gémir sur le sol pendant que tu continues à te servir de moi].
 main:Putain...
-evee:[Merde, je le pousse encore trop vite...]
+evee:[Merde, je vais trop vite...]
 evee:[Je devrais ralentir...]
 main:Tu es incroyable, Evee.
 evee:[Ne joue pas avec moi...]
 main:Je suis sur le point de...
-main:[Fine!]
+main:[Bien!]
 evee:[Je ne peux pas m'empêcher de le sucer de toute façon.]
 evee:[Alors au moins tu t'amuses !]
 evee:[De qui je me moque...]
@@ -13164,8 +13164,8 @@ evee:Ahem... Tu t'es bien amusé ?
 main:Bien sûr.
 main:Mais allez...
 evee:Shhhhhh~
-evee:Profitez de l'instant présent.
-main:Fine. Mais la prochaine fois...
+evee:Profite de l'instant présent.
+main:Bien. Mais la prochaine fois...
 evee:Nous en parlerons, bien sûr.
 evee:[La prochaine fois~]
 evee:[La prochaine fois sera la bonne !]
@@ -13793,7 +13793,7 @@ main: !
 naam:Voilà une expression que j'adore.
 /kai:Ahh~
 naam:Maintenant, vas-tu encore être grossier ?
-/kai:No...
+/kai:Non...
 /kai:Je ne le ferai pas.
 naam:Même si je te retiens un peu.
 /kai:Je ne peux rien promettre.
@@ -13801,7 +13801,7 @@ naam:Hahaha, tu es sans espoir !
 
 
 //Threesome Loop
-/kai:Wh-Quoi...? Vraiment ?
+/kai:Qu-Quoi...? Vraiment ?
 /kai:Oui ! Oui, oui, oui !
 /kai:Oh, s'il vous plaît, faites-le maintenant !
 naam:Doucement, Kai. C'est /main/ qui mène la danse ici. Littéralement. Tu fais ce qu'il dit, compris ?
@@ -14049,21 +14049,21 @@ ginn:Allez, /main/ ! Cela devrait déjà être évident.
 main:S'il te plaît, donne-moi au moins un indice. Je me sens un peu perdu.
 ginn:Tu sais que tu ne l'es pas.
 main:...
-ginn:Fine!
-ginn:Tu voudras vérifier sous ma robe. Il y a quelque chose en bas pour lequel j'ai besoin de ton aide.
+ginn:Bien!
+ginn:Tu veux bien sous ma robe. Il y a quelque chose en bas pour lequel j'ai besoin de ton aide.
 ginn:Tu le vois ?
-main:Ah, je crois que j'ai compris maintenant. Ou bien est-ce le cas ?
+main:Ah, je crois que j'ai compris maintenant. ou bien n'est-pas là?
 ginn:Ne joue pas avec moi, /main/ !
 main:Les acolytes t'attendent encore ?
 ginn:Non. Cette fois, nous pouvons passer autant de temps que nous le souhaitons ici.
 main:C'est bon à savoir.
-ginn:Alors mettez-vous au travail, allez !
+ginn:Alors mets toi au travail, allez !
 ginn:C'est ça... Maintenant, fais-le !
 main:Faire quoi ?
 ginn:Pour l'amour de... ! /main/, tu ne vois pas que j'en ai très envie ?
 main:Tu ne veux pas, je ne sais pas, faire une prière d'abord ou quelque chose comme ça ?
 ginn:Ah, espèce de vilain... ! Tais-toi !
-main:Qui est méchant ? Tu me demandes de faire ça.
+main:Qui est le méchant ? Tu me demandes de faire ça.
 main:Tu es un peu perverse, n'est-ce pas, Ginny ?
 ginn:Nnnnnngh!
 ginn:Très bien ! Et si je le suis ? Je travaille si dur tous les jours, j'ai besoin d'être libérée !
@@ -14072,25 +14072,25 @@ ginn:Cet appareil magique affaiblit mes pouvoirs, me prive de ma force et de ma 
 main:Ah oui, j'avais presque oublié que c'était ton truc. N'est-ce pas ?
 ginn:...
 main:D'accord?
-ginn:Oui, oui, c'est vrai ! Je ne peux pas attendre. Être sous ta volonté, c'est ce qui me rend libre !
+ginn:Oui, oui, c'est vrai ! Je ne peux pas attendre. Être à ta merci, c'est ce qui me rend libre !
 ginn:Maintenant, s'il te plaît, pour l'amour de tout ce qui est bon, mets-le en moi ! Et pas le jouet...
 ginn:...Aah?
 ginn:Oh!!
-ginn:Feels... Tellement faux...
+ginn:Je me sens... si mal...
 main:Pourtant, tes jambes tremblent déjà.
 ginn:Tu as raison. J'adore ça.
 ginn:J'en ai besoin plus que tout.
-ginn:Enfonce-le.
+ginn:Enfonce-la.
 main:Ce ne sont pas les mots que dirait une prêtresse.
-ginn:Pour l'instant... Mon rôle de prêtresse est secondaire. Je suis d'abord la tienne.
+ginn:Pour l'instant... Mon rôle de prêtresse est secondaire. Je suis d'abord tienne.
 ginn:Même si je le voulais, je ne pourrais pas m'échapper.
 ginn:S'il vous plaît, utilisez-moi...
 ginn: !
 ginn:Quelle sensation irrésistible !
 ginn:Ne t'arrête pas !
 main:Je ne pense pas que tu sois en position de donner des ordres.
-ginn:Je suis désolé, je ne le pensais pas.
-ginn:I'll—
+ginn:Je suis désolée, je ne le pensais pas.
+ginn:Je vais—
 main:Tu feras ce que je te dis.
 ginn:Oui.
 ginn:Ces seuls mots font brûler tout mon corps.
@@ -14101,7 +14101,7 @@ main:Fais-le.
 ginn:Merci, Lirey !
 ginn:Merci de m'avoir rendu ainsi.
 ginn:Pour m'avoir laissé porter mes robes, juste pour les mettre de côté pour /main/.
-ginn:Pour me donner de la force, afin que l'on puisse m'enlever.
+ginn:Pour me donner de la force, afin que l'on me prenne.
 ginn:Pour que je puisse me soumettre, non pas à une déesse, mais à un homme mortel.
 main:Bien, n'oublie pas que c'est toi qui l'as demandé.
 ginn:Je n'ai pas demandé. J'ai supplié.
@@ -14111,12 +14111,12 @@ main: !
 ginn:Quelle chaleur !
 ginn:J'adore ça... Et pourtant, je ne peux pas m'empêcher d'avoir honte.
 ginn:Tu me trouves bizarre, /main/ ?
-main:La seule chose que tu es, c'est moi qui l'utilise à ma guise.
+main:Tu n'es rien d'autre que ma propriété, à utiliser comme bon me semble..
 ginn:Je suis~
 ginn:Et cela me procure une telle joie.
 ginn:Puis-je demander quelque chose ?
 main:Si tu demandes gentiment.
-ginn:Remettez la prise, s'il vous plaît. Je t'en supplie.
+ginn:Remets le plug anal, s'il te plaît. Je t'en supplie.
 ginn:Mmh!
 ginn:Ah... Hah... Exquis.
 ginn:Cela me rappellera à qui j'appartiens...
@@ -14518,7 +14518,7 @@ succ:... Tu l'as dit ?
 main:Oui.
 succ:Oh, non... Attends, il était censé le dire avant ou après... ?
 succ:Est-ce qu'on a commencé par le "Les forces obscures nous étreignent" ?
-main:No...
+main:Non...
 succ:Ou c'était "Maintenant les forces obscures nous acceptent ?"
 succ:...
 main:...
@@ -14554,10 +14554,10 @@ succ:C'est une bonne affaire !
 succ:Maintenant, que dirais-tu d'une "sacrée pression" ?
 main:Très bien... Tu sais comment fonctionne cette partie.
 succ:Oui! Maintenant, fais-le !
-succ:Donne-le moi !
+succ:Donne-la moi !
 main: !
 succ:Haah, mmmm~
-succ:More~
+succ:Plus~
 succ:Je veux plus de ce désir brûlant.
 succ:Je suis peut-être nouveau dans le métier...
 succ:Mais je n'ai pas frayé hier !
@@ -14816,7 +14816,7 @@ rila:Remember.
 rila:Tu voulais monter en grade ?
 rila:Tu ne veux pas tout gâcher, hein ?
 lela:JE...
-lela:No...
+lela:Non...
 main:Tu auras ta chance, Lela. La prochaine fois.
 lela:Promise?
 main:Bien sûr...
@@ -14892,7 +14892,7 @@ scar:Non, je peux.
 scar:C'est une idée stupide !
 main:S'il te plaît.
 main:C'est toi l'expert en matière d'armement.
-scar:Fine...
+scar:Bien...
 scar:Mais je vais avoir besoin de beaucoup de [Whetstones] !
 scar:Dix devraient suffire.
 scar:Ainsi que de la [Poussière d'os]...
@@ -15075,7 +15075,7 @@ main:Ralentis, Bulgra.
 main:S'il te plaît.
 bulg:Uggh...
 bulg:Je ne peux pas dire non à ces yeux de chiots.
-bulg:Fine! Juste un peu plus lentement.
+bulg:Bien! Juste un peu plus lentement.
 main: !
 bulg:Hé, je t'aide.
 bulg:Comme ça, tu jouis moins vite.
@@ -15456,7 +15456,7 @@ main:Non, je veux dire à propos de ce raccourci.
 main:Il semble dangereux.
 isor:Ça devrait aller.
 isor:Je prenais ce chemin tout le temps quand j'étais plus jeune.
-isor:Le truc, c'est d'éviter la glace fine...
+isor:Le truc, c'est d'éviter la glace trop mince...
 isor:Aggh!
 isor:...
 main:Tu m'entends encore là-dedans ?
@@ -15569,7 +15569,7 @@ scyl:Regarde-le, en jetant un coup d'œil à travers.
 scyl:Il est si mignon !
 main:Putain...
 scyl:Oh, je t'ai fait mal ?
-main:No...
+main:Non...
 main:Tu es exceptionnel, c'est tout.
 scyl:Oh, merci !
 scyl:Je n'ai jamais vu un humain descendre profondément dans ces grottes.
@@ -15601,7 +15601,7 @@ scyl:Mais nous sommes si près du but.
 scyl:Ce serait dommage de prendre ce risque.
 main:Mhm...
 scyl:Awwh, je ne peux pas résister à tes yeux de chiots tremblants.
-scyl:Fine.
+scyl:Bien.
 scyl:Juste une poussée.
 scyl:Recule tes hanches.
 scyl:Et laisse-toi aller.
@@ -16366,7 +16366,7 @@ main:Tu peux garder ça entre nous ?
 main:Je vais te le dire...
 main:Si tu me dis quelque chose sur toi en échange.
 ????:Hmm.
-????:Fine.
+????:Bien.
 main:Quel est ton nom ?
 miza:Miza.
 miza:Comment es-tu devenu mage ?
@@ -17785,7 +17785,7 @@ lire:Mais assez parlé, mortel.
 lire:Montre-moi à quel point tu aimes Ginny.
 main:Lirey...
 main:C'est, hum, accablant.
-lire:Je suis conscient de vos limites physiques.
+lire:Je suis consciente de vos limites physiques.
 lire:Et de l'effet que j'ai sur toi, même s'il est réduit grâce à mon avatar.
 lire:Mais cela fait un moment que je t'observe.
 lire:En observant tes exploits.
@@ -18311,14 +18311,14 @@ lily:Tu vas rester ici pendant un certain temps aujourd'hui.
 
 //DRAGON DUNGEON
 main:[Très bien...]
-main:[Almost there...]
+main:[J'y suis presque...]
 main:[Concentre-toi, /main/.]
-gdra:*snort*
+gdra:*renifle*
 main:...
 main:Oh putain...
 main:Tu m'as fait une peur bleue !
 main:Mon cœur s'emballe.
-gdra:Je suis conscient.
+gdra:J'en suis consciente.
 gdra:Je peux l'entendre battre.
 main:Uhhhh—
 main: !
@@ -18337,14 +18337,14 @@ main:Je suis un fervent acolyte de Lirey, la déesse de l'amour et de la beauté
 main:On m'a dit que le plus beau des dragons vivait dans ce repaire.
 main:Je devais donc m'en rendre compte par moi-même...
 gdra:Très bien...
-gdra:Je te le remets...
+gdra:Je te l'accorde...
 gdra:Même avec mes quelques centaines d'années d'expérience...
 gdra:C'est certainement une phrase que je n'avais jamais entendue auparavant.
 gdra:Tu as une minute pour m'amuser davantage avant que je ne te fasse rôtir.
 gdra:Combien de temps peux-tu gagner ?
 main:Je peux te convaincre du contraire.
 gdra: !?
-gdra:Human?
+gdra:Humain?
 gdra:Qu'est-ce que tu crois faire ?
 main:Je suis en train de prendre mon dernier repas.
 gdra:Hahahahaha !
@@ -18368,18 +18368,18 @@ gdra:Très bien...
 gdra:Je te crois maintenant...
 gdra:Aucune personne saine d'esprit ne ferait ce que tu viens de faire.
 gdra:Mmmmm~
-gdra:Tu as de la chance. J'apprécie le...
+gdra:Tu as de la chance. J'apprécie ton...
 gdra:Enthousiasme.
 gdra:Mais tu vas devoir respecter quelques règles.
-gdra:Pour commencer, fais-le sortir. Tu t'es déjà bien amusé.
-gdra:Human?
+gdra:Pour commencer, fais-la sortir. Tu t'es déjà bien amusé.
+gdra:Humain?
 main:Juste un peu...
 gdra:Humain, ne t'avise pas de...
 main: !
 main:Putain, c'est si bon...
 gdra:...
 main:Et tu as tout pris...
-gdra:HUMAN!
+gdra:HUMAIN!
 main:Oui~?
 gdra:*sigh*...
 gdra:Comprends-tu que je n'ai plus d'autre choix que de t'incinérer ?
@@ -18620,9 +18620,9 @@ fang:Je suis censé servir.
 main:Je ne devrais pas décider, alors ? Continue.
 fang:Oui~
 fang:Merci~
-fang:I-I'm almost...
+fang:J-J'ai failli...
 fang: !
-fang:I-It's... Incroyable.
+fang:C-C'est... Incroyable.
 fang:Merci. Je pensais que j'étais perdue...
 fang:Pour ne plus jamais retrouver le chemin.
 fang:Mais maintenant je sais.
@@ -18673,7 +18673,7 @@ mimi:Putain!
 mimi:Pourquoi je ne lis pas ces choses correctement avant de les utiliser ?
 mimi:Ugh~
 mimi:Au moins, de tous les gars, j'en ai un qui est mignon.
-mimi:Avec quelques... Bon sang... Fine... De la viande...
+mimi:Avec quelques... Bon sang... Bien... De la viande...
 mimi:Merde... Concentre-toi !
 mimi:Je dois me concentrer.
 mimi:Peut-être que si je me laisse aller un peu, ce sera plus facile, non ?
@@ -18723,7 +18723,7 @@ nsar:Ne paniquez pas !
 nsar:Il ne nous reste plus qu'à lancer le drapeau de la reddition et à manœuvrer pour sortir d'ici !
 npri:Oui, sergent !
 nsar:Attends!
-npri:Wh-Quoi?
+npri:Qu-Quoi?
 nsar:Ce n'est pas le drapeau de la reddition, soldat...
 npri:Je suis vraiment désolé !
 npri:Je ne savais même pas qu'il y en avait un deuxième.
