@@ -324,7 +324,7 @@ Snowy
 Carol
 Sucra
 Evee
-Mlle. Claus
+Mère Noël
 Bella
 Ahti
 Abby
@@ -334,7 +334,7 @@ Zombie 4
 Zombie 5
 Zombie 8
 Zombie 9
-Zombie [I lost count.]
+Zombie [J'ai perdu le compte.]
 Tatry
 Kiri
 Iris
@@ -509,7 +509,7 @@ Les praticiens de la magie sont souvent représentés comme des femmes maléfiqu
 Les lutins fabricants de jouets sont de joyeux artisans qui consacrent 15 ans à perfectionner leur métier, créant de magnifiques jouets avec soin et précision. Leur friandise préférée est le lait et les biscuits au chocolat.
 Sucralosy est la femme la plus douce que tu puisses rencontrer, incarnant l'esprit de tout ce qui est joyeux et gentil. A une personnalité vibrante et une collection impressionnante de 50 paires de ses leggings préférés.
 Evee a une peau d'albâtre délicate et est réputée pour son esprit vif et son élégance. Accordant une importance primordiale à la monnaie, elle a divorcé de M. Scrooge après qu'il ait proposé de partager l'addition lors du dîner de leur deuxième anniversaire de mariage.
-Mme Noël est le véritable cerveau du Pôle Nord, gérant les opérations de manière experte tandis que son mari est le visage de la marque. Elle accorde une grande importance à la vie privée, ce qui lui permet d'exercer son influence dans les coulisses.
+Mère Noël est le véritable cerveau du Pôle Nord, gérant les opérations de manière experte tandis que son mari est le visage de la marque. Elle accorde une grande importance à la vie privée, ce qui lui permet d'exercer son influence dans les coulisses.
 
 Ton inaction ralentit le rythme du temps.
 Annule une seule attaque ennemie.
