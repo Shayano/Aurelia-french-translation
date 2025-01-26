@@ -1131,42 +1131,42 @@ main:Je ne voulais pas...
 /ivy:/main/, tu m'as fait une peur bleue !
 main:Tu t'attendais à quelqu'un d'autre ?
 /ivy:Bien sûr que non.
-/ivy:Tu m'as juste pris par surprise.
-main:Tu vas bien ? D'habitude, tu es réveillé à ces heures-là.
+/ivy:Tu m'as juste prise par surprise.
+main:Tu vas bien ? D'habitude, tu es réveillée à ces heures-là.
 /ivy:Oui !
-/ivy:Notre petite excursion à la plage m'a épuisé. C'est tout.
+/ivy:Notre petite excursion à la plage m'a épuisée. C'est tout.
 main:Je reviendrai plus tard.
-/ivy:Non, s'il vous plaît.
+/ivy:Non, s'il te plaît.
 /ivy:Dis-moi.
 /ivy:Pourquoi es-tu venu ?
-main:JE...
-main:Je viens juste prendre de tes nouvelles.
-/ivy:Oh, je remarque.
+main:Je...
+main:Je venais juste prendre de tes nouvelles.
+/ivy:Oh, je vois.
 main:Non, pas comme ça.
 /ivy:Aw~
 /ivy:Je te mets mal à l'aise.
 main:Mal à l'aise n'est pas le mot.
 /ivy:Quel est le mot, alors ?
 main:Mmm...
-main:Séduit ?
+main:Tenté ?
 /ivy:Un rapport avec ces deux-là ?
 main:Certainement.
-/ivy:Allez, donnez-leur un peu d'amour.
-main:Je suis à vos ordres.
+/ivy:Allez, montre-leur un peu d'amour.
+main:Je suis à tes ordres.
 /ivy: !
 /ivy:C'est un peu plus que ce que j'avais en tête.
 main:Oh, je peux faire marche arrière si...
 /ivy:Non !
 /ivy:J'aime bien ça.
-/ivy:Même si c'est un peu écrasant.
+/ivy:Même si c'est un peu intense.
 /ivy:Mmm~
 /ivy:Et je vois que tu l'aimes aussi.
 /ivy:Je ne m'attendais pas à ce que tu les aimes autant.
 /ivy:J'ai toujours eu l'impression que...
-/ivy:Elles sont peut-être un peu trop grandes ?
-main:C'est absurde.
+/ivy:Ils sont peut-être un peu trop grands ?
+main:Ne dis pas n'importe quoi.
 /ivy:Ah~
-main:Elles sont parfaites.
+main:Ils sont parfaits.
 /ivy:Merci.
 /ivy:Je me suis toujours comparé aux autres autour de moi.
 /ivy:Et j'avais l'impression que les miens étaient...
@@ -1190,16 +1190,16 @@ main:Tu viens de... ?
 /ivy:Oh... Je ne devrais pas l'avaler ?
 main:Non, non... C'est très bien.
 /ivy:Je commence à changer d'avis.
-/ivy:C'est un goût acquis.
+/ivy:C'est un goût qui s'acquiert.
 main:Je suppose qu'il nous faudra un peu de temps pour en avoir le cœur net.
 /ivy:Eh bien...
-/ivy:JE...
+/ivy:Je...
 /ivy:Tu me fais confiance ?
 main:Bien sûr.
 /ivy:Je pourrais essayer avec la magie.
 /ivy:Pour... Te revitaliser. Si tu vois ce que je veux dire.
 /ivy:Je ne l'ai pas pratiquée.
-/ivy:Ça pourrait aller...
+/ivy:Ça devrait aller...
 main:Je te fais confiance.
 /ivy:...
 /ivy:Merci.
@@ -1219,7 +1219,7 @@ main:Tu es sûr ?
 /ivy:La deuxième fois, je l'appréciais un peu.
 /ivy:Avec une troisième, une grosse... Je pourrais même commencer à en avoir envie.
 /ivy:Alors qu'est-ce que tu attends ?
-/ivy:Nourrissez-moi de tout ce que vous avez.
+/ivy:Nourris-moi de tout ce que vous avez.
 main: !!!
 main:Putain...
 /ivy:*gulp*
