@@ -71,7 +71,7 @@ ohro:WildTaffer m'a dit un jour : Quand la rivière rouge coule, prends le chemi
 ohro:Le capitaine Shawn m'a dit un jour : Pourquoi une sirène porte-t-elle des coquillages ? Parce qu'elle est devenue trop grande pour ses coquilles B !
 ohro:Dirty Dan m'a dit un jour : Il n'y a que des diables dans la tour.
 ohro:Brandoink m'a dit un jour : Si tu fais des efforts, que tu n'abandonnes jamais et que tu ne t'arrêtes jamais de courir, ils ne t'attraperont jamais !
-ohro:Mathos m'a dit un jour : Tu peux faire pipi sans pipi, mais tu ne peux pas faire pipi sans pipi.
+ohro:Mathos m'a dit un jour : Tu peux faire pipi sans caca, mais tu ne peux pas faire caca sans pipi.
 ohro:Nedrajk m'a dit un jour : Si tu veux te détremper... Il y a toujours le chien du quartier !
 ohro:Dark Sol m'a dit un jour : Si une épée ne peut pas tout à fait couper, la magie est probablement la solution. Ça, ou une plus grosse épée.
 ohro:La baronne m'a dit un jour : Si tu n'as pas été cru par un loup-garou une fois dans ta vie, tu n'as pas vécu.
@@ -562,20 +562,20 @@ narr:*toc toc toc*
 /ivy:Je peux entrer ?
 main:Qu'est-ce qui se passe ?
 main:Où sont mes vêtements ?
-main:Attendez une seconde !
+main:Attends une seconde !
 main:Très bien...
-main:Entrez !
+main:Entre !
 /ivy:Bonjour.
-/ivy:Comment vous sentez-vous ?
+/ivy:Comment te sens-tu ?
 main:J'ai été mieux, mais aussi moins bien.
-/ivy:Oh... Merci les dieux.
+/ivy:Oh... Merci mon dieu.
 /ivy:Tu m'as inquiété pendant quelques jours.
 main:Tu viens de dire... quelques jours ?
 /ivy:Oui. Tu as été inconscient pendant trois jours.
 /ivy:Je suis vraiment désolé, je le jure !
 main:Calme-toi, si tu voulais me faire du mal, tu as eu tout le temps.
 main:Cela dit, j'apprécierais un avertissement la prochaine fois que tu m'assommes et que tu m'enlèves mes vêtements.
-/ivy:N-Non ! Ce n'était pas comme ça !
+/ivy:N-Non ! Ça ne s'est pas passé pas comme ça !
 /ivy:Je ne t'ai pas assommé, et je n'ai pris tes vêtements que parce qu'il pleuvait.
 /ivy:Je ne pouvais pas te laisser dormir sur une flaque d'eau mouillée. Tu pourrais tomber malade ou...
 main: Je plaisantais ! Je plaisantais !
@@ -596,25 +596,25 @@ main:Tu sais, avant que tu ne m'assommes ?
 /ivy:Je suppose que tu l'as activée, d'une manière ou d'une autre.
 main:C'est une sacrée babiole que tu as là.
 /ivy:Eh bien, c'est une... nouvelle acquisition.
-/ivy:Je ne sais pas exactement comment il fonctionne.
+/ivy:Je ne sais pas exactement comment elle fonctionne.
 /ivy:... Ce qui me fait craindre des effets secondaires persistants.
 main:Définis "effets secondaires".
-/ivy:Pour l'instant, quelque chose ?
-/ivy:Sans un peu de temps pour étudier l'amulette, je suis désemparé.
+/ivy:Pour l'instant, je ne sais pas trop.
+/ivy:Sans un peu de temps pour étudier l'amulette, je suis désemparée.
 /ivy:Cela dit, observer quelqu'un qui a déclenché ses effets pourrait m'aider à les identifier plus rapidement.
 main:Je suppose que nous sommes coincés ensemble, alors.
 main:Que puis-je faire pour t'aider ?
 /ivy:Pour l'instant, rien. Tout ce que je peux faire, c'est étudier mes notes sur le sujet.
 /ivy:Je peux trouver un autre endroit où rester, mais... cela me prendra la majeure partie de mon temps. Et le temps, c'est quelque chose que tu n'as peut-être pas...
 main:Je n'ai pas vraiment le choix, n'est-ce pas ?
-/ivy:Désolé...
+/ivy:Désolée...
 main:Très bien ! Tu peux rester jusqu'à ce que tu découvres ce que cette babiole m'a fait.
 /ivy: Merci ! Merci beaucoup !
 /ivy:Je m'y mets tout de suite !
 
 
 //Bed - No Sleep Loop
-main:Je ferais mieux d'utiliser mon temps à bon escient après avoir été assommé pendant trois jours.
+main:Je ferais mieux d'utiliser mon temps à bon escient après avoir été dans les vapes pendant trois jours.
 main:Avant toute chose, je dois parler à Ivy.
 
 
@@ -642,7 +642,7 @@ main:...
 main:Je suppose que nous sommes coincés ensemble alors...
 main:Alors, que puis-je faire pour t'aider ?
 /ivy:Rien, pour l'instant. D'abord, je vais étudier mes notes pour comprendre comment l'amulette t'a fait du mal.
-/ivy:Je veux être bien préparé avant de prendre les choses en main.
+/ivy:Je veux être bien préparée avant de prendre les choses en main.
 /ivy:J'ai donc besoin d'un endroit calme pour étudier... Cette maison dans les bois serait parfaite...
 main:Ici ?
 /ivy:Je peux trouver un autre endroit où loger mais... ça me prendrait la majeure partie de mon temps. Et le temps, c'est quelque chose que tu n'as peut-être pas...
@@ -721,7 +721,7 @@ main:[Je devrais attendre Ivy.]
 
 main:Où en sont tes recherches ?
 /ivy:Aucune avancée pour l'instant.
-main:D'accord, on se reparle bientôt.
+main:D'accord, on en reparle bientôt.
 main:Pour tuer le temps, je devrais me rendre au village et chercher un emploi.
 main:Cela prendra un certain temps. Au moins une journée.
 
@@ -754,7 +754,7 @@ main:Tresed uoy ?
 /ivy:Plus fort.
 main:Tresed uoy !
 /ivy:C'est ça !
-/ivy:Maintenant, ne bougez pas et laissez-moi lancer le sort.
+/ivy:Maintenant, ne bouge pas et laisse-moi lancer le sort.
 /ivy:Ahem...
 /ivy:Reven annog evig uoy pu !
 /ivy:Reven annog tel ouy nwod !
@@ -795,16 +795,16 @@ main:Oh, vraiment ?
 main:Non, je n'en ai jamais eu.
 /ivy:Ce qui veut dire que tu m'as surpassé sur ce point.
 main:C'est une chose courante ?
-/ivy:Non, je n'ai été dominé qu'une seule fois avant cela.
+/ivy:Non, je n'ai été dominée qu'une seule fois avant cela.
 main:Oh...
 main:Très bien !
 /ivy:Hahaha, ne sois pas arrogant.
-/ivy:La raison pour laquelle tu m'as submergé là, c'est parce que je ne m'y attendais pas.
+/ivy:La raison pour laquelle tu m'as submergée là, c'est parce que je ne m'y attendais pas.
 /ivy:Ce n'est pas dû à une quelconque prouesse magique brute.
 main:Aww...
 /ivy:Plus important encore, les personnes qui possèdent un don pour la magie sont très rares.
 /ivy:Et à ton âge, tu aurais déjà eu plusieurs expériences naturelles avec la magie.
-/ivy:Tu saurais déjà si tu as le potentiel pour la manier.
+/ivy:Tu saurais déjà si tu avais du potentiel pour la manier.
 /ivy:Cela signifie que la seule explication est que l'amulette t'a accordé un certain niveau de pouvoir.
 main:C'est génial !
 main:Je suis un mage maintenant ! Putain, ouais !
@@ -818,19 +818,19 @@ main:Quand commençons-nous, alors ?
 /ivy:Mais pour l'instant, je n'ai pas d'endroit où loger.
 main:Oh, je vois où tu veux en venir.
 /ivy:Si tu y réfléchis, c'est une bonne affaire !
-/ivy:Ce n'est pas tout le monde qui peut apprendre la magie - c'est rare et très cher.
+/ivy:Tout le monde ne peut pas apprendre la magie - c'est rare et très cher.
 main:D'accord, mais je veux commencer à m'entraîner le plus tôt possible.
 /ivy:Bien sûr !
 /ivy:J'aurai des leçons prêtes en un rien de temps !
 /ivy:Aussi...
-/ivy:J'apprécierais que cela reste secret entre vous et moi.
+/ivy:J'apprécierais que cela reste secret entre toi et moi.
 main:Pourquoi ?
 /ivy:Eh bien... Ah...
 /ivy:Si les gens l'apprennent ! Ils vont envahir cet endroit !
 /ivy:Comme je l'ai dit, les utilisateurs de magie sont rares.
 main:Alors je n'ai pas le droit d'utiliser la magie en public ?
 /ivy:Pas encore, non.
-/ivy:Ou leur dire que je reste ici.
+/ivy:Ou leur dire que je crèche ici.
 main:JE...
 /ivy:S'il te plaît !
 /ivy:Je sais que ça fait beaucoup de règles, mais je ferai en sorte que ça en vaille la peine. Je te le promets !
@@ -846,11 +846,11 @@ main:Qu'est-ce que tu fais ici ?
 /ivy:J'ai vu le jardin depuis ma fenêtre.
 /ivy:J'ai pensé que je pourrais faire pousser quelques plantes.
 /ivy:Avoir une source de nourriture à proximité.
-/ivy:J'espère que cela ne vous dérange pas.
+/ivy:J'espère que cela ne te dérange pas.
 main:Je n'avais pas vraiment de projets pour ce vieux jardin.
-main:Mais si vous parvenez à le faire revivre, je ne m'en plaindrai pas.
+main:Mais si tu parviens à le faire revivre, je ne m'en plaindrai pas.
 /ivy:Je ferai de mon mieux, alors !
-/ivy:Et veillez à ce que ce jardin pousse en abondance pour que nous puissions manger.
+/ivy:Et veille à ce que ce jardin pousse en abondance pour que nous puissions manger.
 /ivy:Comme ça, nous pourrons nous concentrer sur ton entraînement.
 main:Génial !
 main:J'ai hâte d'en faire moi-même.
@@ -876,11 +876,11 @@ main:Ha, pas besoin de se la péter.
 /ivy:Quoi ? Je ne te suis pas.
 main:Tu n'as rien senti la première fois ? Je suppose que cela témoigne de ton pouvoir.
 /ivy:Non !
-/ivy:Je suis désolé, ce n'est pas ce que je voulais dire.
+/ivy:Je suis désolée, ce n'est pas ce que je voulais dire.
 /ivy:C'est juste que... Je ne me souviens pas.
 main:Comment ?
-/ivy:Je suis ce qu'on appelle un "Exalté".
-main:Exalté ?
+/ivy:Je suis ce qu'on appelle une "Exaltée".
+main:Exaltée ?
 /ivy:Je suis né avec de la magie dans les veines, un trait héréditaire.
 /ivy:Ce qui veut dire que la première fois que j'ai manipulé de l'énergie, c'était si tôt que je ne m'en souviens pas.
 /ivy:Et lorsque j'ai commencé à former des souvenirs, c'était déjà aussi naturel que de respirer.
@@ -890,7 +890,7 @@ main:C'est génial !
 /ivy:Ce qui a entraîné de nombreuses... Restrictions à mon mode de vie.
 /ivy:Cela peut paraître égoïste, mais il m'arrive de rêver de ne pas avoir de pouvoirs.
 main:Oh, je suis désolé.
-/ivy: Ne le soyez pas !
+/ivy: Ne le sois pas !
 /ivy:Je suis en train de divaguer.
 /ivy:Assure-toi de bien te reposer ce soir, et nous continuerons à nous entraîner quand tu le voudras.
 
@@ -899,33 +899,33 @@ main:Oh, je suis désolé.
 /ivy:Désolé, je vais aussi vite que possible.
 main:Tu n'as pas besoin de te précipiter. Je ne vais nulle part.
 /ivy:Certainement.
-/ivy:Mais j'ai l'impression de prendre votre maison pour acquis en ce moment.
+/ivy:Mais j'ai l'impression de prendre ta maison pour acquis en ce moment.
 main:Allons au village pour un moment, alors ! Nous pourrons boire quelques verres et nous amuser !
 main:Comme ça, tu pourras prendre l'air.
 main:Tu n'auras plus à penser à la maison.
-/ivy:Ça a l'air d'être un bon moment.
+/ivy:Du bon temps en perspective.
 /ivy:Mais je dois refuser.
 /ivy:Je dois rester ici.
 main:Tu dois ?
 /ivy:...
-/ivy:Tu sais que je t'ai dit que j'étais un Exalté ?
+/ivy:Tu sais que je t'ai dit que j'étais une Exaltée ?
 /ivy:Né avec la magie ?
 main:Et entraîné depuis mon plus jeune âge, oui.
 /ivy:Dans mon cas, j'ai ce qu'on pourrait appeler un... Maître.
 /ivy:Elle doit me chercher.
 /ivy:Et c'est pour ça que je voulais me cacher ici, dans les bois.
-/ivy:Pourquoi j'ai trouvé votre maison, et vous.
-/ivy:Crois-moi, j'aimerais bien sortir avec toi.
+/ivy:Pourquoi j'ai trouvé ta maison, et toi avec.
+/ivy:Crois-moi, j'aimerais bien sortir d'ici avec toi.
 /ivy:Et faire l'expérience de l'alcool pour la première fois.
 /ivy:Mais je ne peux pas prendre le risque d'y aller pour l'instant.
 main:Hmm...
 main:C'est vraiment dommage.
-main:Mais si je ne peux pas te faire sortir pour aller chercher à boire....
+main:Mais si je ne peux pas te faire sortir boire un coup....
 main:Je peux juste apporter l'alcool ici.
 main:Et nous pourrons faire notre propre fête !
 /ivy:/main/, j'apprécie.
-/ivy:Mais je ne veux pas vous causer d'ennuis.
-main:Ne t'en fais pas ! Ce sera moi qui régale.
+/ivy:Mais je ne veux pas te causer d'ennuis.
+main:Ne t'en fais pas ! Ça sera moi qui régale.
 main:Je t'apporterai tout ce qu'il y a au Orson's Bar, pour que tu puisses goûter par toi-même !
 /ivy:Merci.
 
@@ -941,21 +941,21 @@ main:Je t'ai apporté de la bière et du vin.
 /ivy:/main/ !
 /ivy:Tu n'étais pas obligé de le faire.
 main:Non, non, non.
-main:Nous célébrons ici vos progrès vers la liberté !
+main:Nous célébrons ici tes progrès vers la liberté !
 main:Alors, commençons !
 /ivy:Célébrons alors.
-/ivy:Et voyons le goût de la liberté~
+/ivy:Et voyons quel goût à la liberté~
 /ivy:Qu'est-ce que...
 /ivy:Eeeeeeew !
 main:Hahaha.
-main:C'est certainement un goût acquis.
-main:La plupart du temps, tu le fais parce que ça te donne un avantage.
-/ivy:Un avantage ?
+main:C'est certainement un goût qui s'acquiert.
+main:La plupart du temps, on le fait parce que ça donne un petit plus.
+/ivy:Un petit plus ?
 main:Tu sais. Un peu de courage !
 main:Pour parler aux autres, danser ou chanter.
 main:Tiens, prends un peu de vin.
 /ivy:Je ne sais pas...
-main:C'est très différent, je vous le jure.
+main:C'est très différent, je te le jure.
 /ivy:D'accord.
 /ivy:Hmm...
 /ivy:Oui, c'est beaucoup plus supportable.
@@ -964,7 +964,7 @@ main:Je sais que ce n'est pas grand-chose, mais c'est un début !
 /ivy:C'est déjà beaucoup plus que ce à quoi je m'attendais, /main/.
 /ivy:Merci.
 /ivy:Tu veux rayer une autre chose de ma liste ?
-main:Bien sûr ! Dites-le-moi.
+main:Bien sûr ! Dis moi.
 /ivy:Danse avec moi.
 main:C'est vraiment ta première fois ? On ne dirait pas...
 main:Tu sais vraiment comment bouger.
