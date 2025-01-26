@@ -1,6 +1,6 @@
-﻿Français
+Français
 
-N'EFFACE PAS LES RANGÉES MÊME SI ELLES SONT VIDES
+N'EFFACEZ PAS LES RANGÉES MÊME SI ELLES SONT VIDES
 Or
 Pièces d'or qui sont la monnaie courante à Aurélia.
 L'or est utilisé comme monnaie à Aurélia depuis plusieurs siècles. Auparavant, les gens utilisaient des scarabées brillants comme pièces de monnaie, mais les insectes s'enfuyaient si souvent qu'ils ont dû changer de système.
@@ -226,7 +226,7 @@ Les crânes et les cœurs ont été pendant très longtemps les reliques les plu
 Bave
 Ingrédient d'alchimie. Multiplie par 3 la quantité de potions reçues.
 La bave est un composant majeur de nombreuses créatures étranges qui se cachent tout autour d'Aurélia. Elles peuvent laisser ce liquide épais derrière elles lorsqu'elles se faufilent à travers les rochers et les fourrés ; cette bave peut transférer ses propriétés à un objet désiré avec l'incantation appropriée.
-Tuyau de l'ancêtre
+Pipe de l'ancêtre
 Vous donne +1% d'XP pour chaque jour écoulé.
 Fumer sur des pipes est une vieille coutume à Aurélia, d'abord introduite par les nains, puis rapidement adoptée par les autres races. Les elfes en particulier aiment expérimenter des mélanges d'herbes et de fleurs qu'ils fument pour leurs propriétés particulières.
 Corne d'Arbac
