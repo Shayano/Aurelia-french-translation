@@ -652,7 +652,7 @@ main:Cela te donnerait-il plus de temps pour faire des recherches ?
 /ivy:Je veux dire... Oui, merci ! Je vais commencer à étudier tout de suite !
 /ivy:Je te verrai en bas dans l'après-midi.
 /ivy:
-main:["Rendez visite à Aurélia", ont-ils dit... "Ce sera amusant", ont-ils dit...]
+main:["Rendez visite à Aurelia", ont-ils dit... "Ce sera amusant", ont-ils dit...]
 narr:Veux-tu jouer à un tutoriel ?
 
 narr:Tu peux faire avancer le temps en appuyant sur ce bouton.
@@ -801,7 +801,7 @@ main:Très bien !
 /ivy:Hahaha, ne sois pas arrogant.
 /ivy:La raison pour laquelle tu m'as submergée là, c'est parce que je ne m'y attendais pas.
 /ivy:Ce n'est pas dû à une quelconque prouesse magique brute.
-main:Aww...
+main:Ohh...
 /ivy:Plus important encore, les personnes qui possèdent un don pour la magie sont très rares.
 /ivy:Et à ton âge, tu aurais déjà eu plusieurs expériences naturelles avec la magie.
 /ivy:Tu saurais déjà si tu avais du potentiel pour la manier.
@@ -1239,9 +1239,9 @@ main:Magnifique.
 //Ivy - End of magic training
 /ivy:Nous y sommes, /main/.
 /ivy:Tu en sais déjà assez pour apprendre et explorer tes capacités magiques par toi-même.
-/ivy:Je pense que c'est un bon moyen de vous remercier d'être resté si longtemps ici.
-main:Aww, bien sûr ! Maintenant que le plaisir a commencé...
-/ivy:Je suis d'accord, mais j'ai l'impression que chaque jour que je passe ici, je risque qu'il t'arrive quelque chose.
+/ivy:Je pense que c'est un bon moyen de te remercier m'avoir laissé resté si longtemps ici.
+main:Ohh, bien sûr ! Maintenant que le plaisir a commencé...
+/ivy:Je suis d'accord, mais j'ai l'impression que chaque jour que je passe ici te met en danger.
 /ivy:Et je ne sais pas si je...
 /ivy: !
 main:Reste.
@@ -1259,7 +1259,7 @@ main:Comment suis-je censé continuer à te montrer la liberté ?
 main:Plus lentement ?
 /ivy:Non.
 /ivy:Je vais bien.
-/ivy:Tu fais beaucoup d'efforts, c'est tout.
+/ivy:Elle est grosse à recevoir, c'est tout.
 /ivy:Surtout pour une première fois.
 /ivy:Ah~
 /ivy:Mais ne t'inquiète pas.
@@ -1276,7 +1276,7 @@ main:Tu es sûr ?
 /ivy:Oui !
 /ivy:Je t'ai dit...
 /ivy:Je veux apprendre de toi bien plus que la liberté.
-/ivy:Montre-moi ce que je ressens, avec tous les détails !
+/ivy:Montre-moi ce qu'on ressent, avec tous les détails !
 main: !
 /ivy:Merde !
 /ivy:Merde...
@@ -1295,11 +1295,11 @@ main:Comment ça ?
 /ivy:Autant que possible.
 /ivy:Mais tu as changé ça, /main/.
 /ivy:Je sais que j'ai fait des cachotteries sur mon passé.
-/ivy:Et je n'en suis pas fier...
+/ivy:Et je n'en suis pas fière...
 /ivy:Je veux tout te dire.
 /ivy:Mais je dois d'abord mettre de l'ordre dans mes pensées.
 /ivy:En ce moment, je n'ai même pas l'impression d'être à ma place ici.
-/ivy:... Peut-être que je ne le ferai jamais.
+/ivy:... Peut-être que je ne le serais jamais.
 main:Prends ton temps.
 main:Tu peux dire que c'est chez toi, même si tu n'as pas l'impression que c'est le cas.
 /ivy:J'aimerais que ce soit aussi facile.
@@ -1317,10 +1317,10 @@ main:Une clé de la maison.
 main: J'en avais un exemplaire qui traînait.
 main:J'ai pensé que ça t'aiderait à te sentir à ta place ici.
 main:Et si tu dois partir, tu pourras toujours revenir.
-/ivy:JE...
+/ivy:Je...
 /ivy:Je ne sais pas quoi dire.
 /ivy:Merci.
-/ivy:Je le garderai précieusement.
+/ivy:Je la garderai précieusement.
 /ivy:Aussi...
 /ivy:Cela m'a donné une idée.
 /ivy:Mais je vais avoir besoin d'une journée pour travailler dessus.
@@ -1333,49 +1333,49 @@ main:Tu n'en as pas besoin.
 narr:*toc toc toc*
 main:Entre !
 main:...
-main:Bonjour ?
+main:Salut ?
 main:[C'est un mot sur la porte ?]
 main:"J'ai laissé quelque chose sur ta table de nuit.
 main:Huh...
 main:Prends-le et viens me voir.
 main:Ne me fais pas attendre !
 main:- Ivy~"
-main:[Il vaut mieux suivre les ordres.]
+main:[Mieux vaut suivre les ordres.]
 main:Hé, Ivy !
 main:J'ai trouvé ton mot dans mon...
 main:Ivy ?
 main:Qu'est-ce que tu fais ?
 /ivy:Je m'occupe des plantes.
-/ivy:Et je passe le temps jusqu'à ce que tu découvres la vérité.
-main:Découvrir ?
-/ivy:Ce qu'il ouvre...
+/ivy:Et je passe le temps en attendant que tu découvres..
+main:Que je découvre ?
+/ivy:Ce que ça ouvre...
 /ivy:Cette clé.
 main:Oh !
 main:Très bien, tu as donc imaginé un jeu pour moi.
-main:Est-ce que j'ai un indice ?
+main:Est-ce que je peux avoir un indice ?
 /ivy:Peut-être...
-/ivy:Si vous me traitez gentiment.
-main:Je pourrais trouver quelques idées pour cela...
+/ivy:Si tu me traite gentiment.
+main:J'aurais bien quelques idées pour ça...
 main:Mais nous risquons d'être distraits.
 /ivy:Mmm~
 /ivy:J'aime bien cette piste de réflexion.
 /ivy:Et j'aime encore plus ton regard sur moi.
-/ivy:Mais il va me falloir un peu plus que de bonnes intentions pour te donner un indice.
+/ivy:Mais il va me falloir un peu plus que de bonnes intentions pour que je te donne un indice.
 main:Tu l'as bien cherché.
-main:Rappelez-moi la clé...
+main:Rappele-moi la clé...
 main:Plus tard...
 main:Bon sang, Ivy...
 main:Tu es pleine de surprises aujourd'hui.
 /ivy:Merci~
 /ivy:Ça te plaît ?
-main:Certainement.
+main:Absolument.
 /ivy:J'ai passé une nuit entière à le bricoler.
 /ivy:Je me suis dit que puisque tu m'avais donné la clé de ta porte d'entrée...
 /ivy:Je pourrais te donner la clé de ma porte de derrière.
 /ivy:Tout ce que tu as à faire, c'est de mettre la clé dedans.
 /ivy:Et puis c'est à toi.
 /ivy:Nnff !
-/ivy:Tirez~
+/ivy:Tire~
 /ivy:Ah~
 main:Déjà en train de gémir ?
 /ivy:Tu as mis du temps à te réveiller.
@@ -1387,11 +1387,11 @@ main:Déjà en train de gémir ?
 /ivy:Putain !
 main:Pourquoi je ferais ça alors que j'ai ma propre clé ?
 /ivy:Tu as raison.
-/ivy:Fais-toi...
+/ivy:Mets-toi...
 /ivy:Ah !
-/ivy:C-Confortable.
+/ivy:À-à l'aise.
 /ivy:Putain...
-/ivy:C'est à fond ?
+/ivy:Elle est complètement au fond ?
 main:Tout à fait.
 /ivy:Tu ne veux pas vérifier si tu n'as pas oublié des endroits ?
 main:Si tu insistes.
@@ -1401,7 +1401,7 @@ main:Si tu insistes.
 main:Ne t'inquiète pas. Je prendrai soin de toi.
 /ivy:Tu l'as toujours fait.
 /ivy:Depuis que tu m'as trouvé ici, dans ta maison...
-/ivy:Tu n'as été que gentille avec moi.
+/ivy:Tu as été si gentil avec moi.
 /ivy:Je ne sais pas ce que je ferais si tu n'étais pas venu.
 /ivy:Mais ce que je sais avec certitude, c'est que...
 /ivy:Ce ne serait pas aussi amusant.
@@ -1409,7 +1409,7 @@ main:Putain...
 /ivy:Est-ce que j'accélère ?
 main:Un peu.
 /ivy:Désolé, le choc initial s'est estompé.
-/ivy:Et je ne me retiens pas !
+/ivy:Et ne te retiens pas !
 /ivy:Je te veux~
 main:Bon sang...
 /ivy:Fais-le~
@@ -1437,7 +1437,7 @@ main: !
 /ivy:Ah~
 /ivy:Bon sang, nous jouons à un jeu dangereux.
 main:Eh, qu'est-ce que la vie sans un peu de danger ?
-/ivy:Bien vu.
+/ivy:Bien dit.
 
 
 
@@ -1450,7 +1450,7 @@ kivi:Tu peux entrer, alors.
 main:Merci.
 kivi:/main/ ?
 kivi: ?
-kivi:Merci de ne pas t'être enfui à l'époque, lors de l'embuscade.
+kivi:Merci de ne pas t'être enfui lors de l'embuscade.
 kivi:Je te suis redevable.
 
 
@@ -1465,7 +1465,7 @@ sora:Je vais attendre que tu sois prêt, mais ne tarde pas trop.
 
 
 
-main:[Hmmmm... Où puis-je trouver un emploi à Aurélia ?]
+main:[Hmmmm... Où puis-je trouver un emploi à Aurelia ?]
 main:[La taverne serait peut-être un bon point de départ].
 main:
 
@@ -1475,7 +1475,7 @@ main:
 
 narr:L'enseigne indique "Librairie du ciel étoilé". Elle est fermée.
 
-narr:"Je suis actuellement en déplacement. Veuillez nous rendre visite à nouveau dans un avenir proche."
+narr:"Je suis actuellement en déplacement. Veuillez me rendre visite à nouveau prochainement."
 
 
 
@@ -1487,14 +1487,14 @@ orso:Que puis-je faire pour toi ?
 Travailler au bar
 Acheter quelque chose
 Où est Crystal ?
-Demande quelque chose - 10 or
+Demander quelque chose - 10 or
 Partir
 orso:Bienvenue !
-orso:Que puis-je vous offrir ?
+orso:Que puis-je te servir ?
 orso:Une bière rafraîchissante pour lutter contre la chaleur ?
-orso:De la nourriture pour apaiser votre faim ?
+orso:De la nourriture pour apaiser ta faim ?
 main:Je suis en fait à la recherche d'un peu de travail.
-orso:Petit, tu n'aurais pas pu choisir un pire moment si tu avais essayé !
+orso:Petit, même en ayant tu n'aurais pas pu choisir un pire moment !
 orso:Le festival de la ville s'est terminé il y a quelques jours.
 orso:Et avec elle, tous les besoins en main d'œuvre supplémentaire.
 main:Oh, bon sang !
@@ -1505,7 +1505,7 @@ orso:Je PEUX t'offrir un travail, mais ce ne sera pas un travail idéal.
 main:Que devrais-je faire ?
 orso:Les soirées sont un peu chargées par ici.
 orso:Tu pourrais servir des boissons à nos clients.
-orso:Je ne peux pas vraiment vous payer...
+orso:Je ne peux pas vraiment te payer...
 orso:Mais je te laisserai tous les pourboires !
 orso:Viens plus tard et essaie !
 
@@ -1529,14 +1529,14 @@ orso:Peux-tu te le permettre ?
 
 
 
-orso:As-tu la pièce pour cela ?
+orso:As-tu la pièce pour ça ?
 
 
 
 
 
 orso:Bon choix, petit.
-orso:Ce vin est le meilleur que tu puisses acheter dans toute l'Aurélie.
+orso:Ce vin est le meilleur que tu puisses acheter dans tout Aurelia.
 orso:Fabriqué à la main par votre serviteur, bien sûr !
 orso:Seulement 40 pièces d'or le verre !
 
@@ -1545,8 +1545,8 @@ orso:Seulement 40 pièces d'or le verre !
 
 
 main:[Je vais complimenter le vin, je veux que ce type soit de mon côté.]
-main:Mmmmm, le vin est superbe !
-orso:Précisément ! Qu'est-ce que tu aimes dans ce vin ?
+main:Mmmmm, le vin est incroyable !
+orso:Très bien ! Qu'est-ce que tu aimes dans ce vin ?
 main:[Oh, bon sang... Uhh...]
 
 
@@ -1576,15 +1576,15 @@ orso:Elle reflète la lumière comme un grenat... Je pourrais la regarder pendan
 
 
 
-Parle-moi de Janet
+Parlez-moi de Janet
 Parlez-moi de Ohro
 Parlez-moi de Kivir
 Parlez-moi de Soran
-Parle-moi de Reynauld et de Dismas
+Parlez-moi de Reynauld et de Dismas
 Parlez-moi de Lily
-Parle-moi des marchands ambulants
-Parle-moi de Ruperta
-Parle-moi de Karos
+Parlez-moi des marchands ambulants
+Parlez-moi de Ruperta
+Parlez-moi de Karos
 
 
 
@@ -1640,14 +1640,14 @@ orso:Mais ne lui dis pas que j'ai dit ça !
 
 
 
-orso:Ne laissez pas Ohro vous tromper.
+orso:Ne laisse pas Ohro te tromper.
 orso:Il est connu ici pour être un homme excentrique et inhabituel.
 orso:Mais... Si tu écoutes attentivement, ses paroles ont un sens plus profond.
 
 
 orso:Si je peux te donner une recommandation personnelle, essaie de rendre visite au lac.
 orso:Il n'est pas seulement beau à cette époque de l'année...
-orso:Mais aussi un endroit pratique pour attraper du poisson !
+orso:Mais c'est aussi un endroit pratique pour attraper du poisson !
 orso:Si tu es doué, tu pourras peut-être même gagner un peu d'or.
 
 
@@ -1660,7 +1660,7 @@ orso:Si tu es doué, tu pourras peut-être même gagner un peu d'or.
 orso:Le nain assis dans le coin ?
 orso:C'est Soran.
 orso:Il n'a pas peur de faire le sale boulot...
-orso:Si vous voyez ce que je veux dire.
+orso:Si tu vois ce que je veux dire.
 orso:Et pourtant, c'est l'une des personnes les plus honorables que j'ai jamais rencontrées.
 orso:Il tient toujours ses promesses. Il paie toujours.
 orso:Demande-lui ce qu'il en est des "offres spéciales".
@@ -1739,9 +1739,9 @@ main:C'est moi, /main/, tu es là ?
 main:Bie-
 main: !
 main:...
-/ivy:Je suis désolé ! Je ne suis pas habillé.
-/ivy:J'ai oublié d'emporter quelque chose pour dormir.
-/ivy:Tu peux m'en donner un peu ? Je serai bientôt en bas.
+/ivy:Je suis désolé ! Je ne suis pas habillée.
+/ivy:J'ai oublié de mettre quelque chose pour dormir.
+/ivy:Tu peux me donner un peu de temps ? Je serai bientôt en bas.
 main:Bien.
 
 narr:Tu entends des bruits méconnaissables provenant de la chambre d'Ivy.
@@ -1755,7 +1755,7 @@ main:Ivy, tu es là ?
 main:J'ai entendu des bruits bizarres, ça va ?
 /ivy:Oui, je vais... bien...
 main:Je te retrouve dehors alors.
-/ivy:Attendez ! Ne partez pas.
+/ivy:Attends ! Ne pars pas.
 main: ?
 /ivy: !
 main:Ivy ?
@@ -1780,10 +1780,10 @@ main:Je suis prêt à poursuivre ma formation.
 /ivy:Très bien!
 /ivy:Commençons par des exercices de concentration.
 /ivy:Ils t'aideront à concentrer ton énergie et à être plus précis.
-/ivy:Ready?
-main:Ready.
+/ivy:Prêt?
+main:Prêt.
 main:Tu t'es entraîné avec Ivy jusqu'à tard dans la soirée.
-main:[Wew, I'm getting the hang of this.]
+main:[Woah, Je commence à avoir la main.]
 
 
 
@@ -1794,7 +1794,7 @@ main:Je suis prêt à reprendre mon entraînement.
 /ivy:La dernière fois, tu t'es bien débrouillé avec la méditation.
 /ivy:Essayons un exercice plus intense aujourd'hui.
 narr:Ivy et toi vous entraînez jusqu'au soir.
-main:[Wew, I'm getting the hang of this.]
+main:[Woah, Je commence à avoir la main.]
 
 
 
@@ -1803,15 +1803,15 @@ main:[Wew, I'm getting the hang of this.]
 main:On continue ?
 /ivy:Mmmmm.
 /ivy:Oui, bien sûr.
-/ivy:Vous faites de bons progrès.
-/ivy:Et si je vous apprenais à manipuler les éléments de la nature ?
+/ivy:Tu fais de bons progrès.
+/ivy:Et si je t'apprenais à manipuler les éléments de la nature ?
 main:Ça a l'air intéressant.
-/ivy:Nice!
+/ivy:Ok super!
 main:Alors... Lançons des boules de feu !
 /ivy:Hahaha!
 /ivy:Eh bien... Je pensais à quelque chose de moins dramatique.
 /ivy:Je te prêterai mon vieux grimoire d'eau.
-/ivy:Avant de commencer cette formation, tu dois le lire de la tête aux pieds.
+/ivy:Avant de commencer cette formation, tu dois le lire en entier.
 /ivy:Le grimoire me tient à cœur.
 /ivy:Traite-le avec douceur~
 main:[Je devrais aller dans ma chambre et lire le grimoire].
@@ -1829,7 +1829,7 @@ narr:......
 
 
 narr:"Le lanceur de sort doit adopter une posture détendue."
-narr:"Place tes bras autour de tes hanches pour laisser ton esprit circuler..."
+narr:"Placez vos bras le long de vos hanches pour laisser votre esprit circuler..."
 narr:......
 
 
@@ -1853,8 +1853,8 @@ narr:......
 
 /ivy:Tu as hâte de commencer ?
 /ivy:J'espère que tu as bien étudié le grimoire.
-/ivy:Votre première tâche consiste à vider un verre d'eau plein...
-/ivy:... Mais ! Seulement en utilisant vos leçons d'entraînement spirituel.
+/ivy:Ta première tâche consiste à vider un verre d'eau plein...
+/ivy:... Mais ! Seulement en utilisant tes leçons d'entraînement spirituel.
 main:Cela semble assez facile.
 /ivy:Pourtant, ce n'est pas le cas.
 main:Oh... D'accord...
@@ -1882,7 +1882,7 @@ main:Oh... D'accord...
 
 
 /ivy:Très bien.
-/ivy:Canalisez vos émotions, /main/.
+/ivy:Canalise tes émotions, /main/.
 /ivy:Se remémorer des événements marquants de ton passé pourrait t'aider à te concentrer.
 main:[Je vais me concentrer sur...]
 
@@ -1921,12 +1921,12 @@ main:Oui... Une autre fois.
 
 
 
-main:Aghhhhh! Pas question !
+main:Arghhhhh! Pas question !
 /ivy:Concentre-toi sur l'eau. Allez...
 main:Ufffff... Ça ne bouge pas !
 main:Ngggghhhnnnh !
 /ivy:Ne précipite pas les choses, /main/. Peut-être n'es-tu pas encore prêt.
-/ivy:Peut-on remettre ça à plus tard ? Réessayons plus tard.
+/ivy:Peut-on remettre ça à plus tard ?
 
 
 
@@ -1940,11 +1940,11 @@ main: !!!
 /ivy:Ohh !
 /ivy:Bien joué, /main/ !
 /ivy:Tu as presque réussi à en faire sortir la moitié !
-main:*pantalon pantalon*
-main:Aghhh!
-main:J'avais l'impression que mon âme était battue à plate couture...
+main:*halète halète halète*
+main:Arghhh!
+main:J'ai l'impression que mon âme a été martelée...
 main:... et je n'ai réussi à faire sortir que la moitié de l'eau !
-/ivy:Hush! Ne sois pas si dur avec toi-même. C'était bien !
+/ivy:Chut ! Ne sois pas si dur avec toi-même. C'était bien !
 /ivy:Fais une pause, tu le mérites.
 
 
@@ -2005,7 +2005,7 @@ main:... et je n'ai réussi à faire sortir que la moitié de l'eau !
 main:Comment vas-tu ?
 /ivy:Je reviens d'une promenade dans les bois. J'adore être dehors, profiter de la nature et de ses sons relaxants....
 /ivy:Comme je n'ai pas à étudier toute la journée, j'ai du temps libre.
-/ivy:J'ai été confiné à l'intérieur la majeure partie de ma vie, alors rester avec toi est un changement de rythme agréable.
+/ivy:J'ai été confinée à l'intérieur la majeure partie de ma vie, alors rester avec toi est un changement de rythme agréable.
 main: ?
 /ivy:Je ne veux pas t'ennuyer avec mes problèmes...
 main:Tu te sentiras mieux si tu le laisses sortir. Fais-moi confiance !
@@ -2016,14 +2016,14 @@ main:Tu te sentiras mieux si tu le laisses sortir. Fais-moi confiance !
 main:Tu n'avais personne avec qui jouer ?
 /ivy:Si, j'avais quelqu'un, mais elle était "normale".
 /ivy:Elle me racontait des histoires hilarantes sur ses amis.
-/ivy:Mais elle était à peine à la maison... elle était généralement chez son petit ami.
+/ivy:Mais elle ne venait pas souvent à la maison... elle était généralement chez son petit ami.
 /ivy:Je me souviens qu'il lui offrait constamment des fleurs.
 /ivy:J'étais tellement jalouse...
 main:Cette époque appartient au passé. Profite du présent. Tu peux faire ce que tu veux maintenant !
 main:Ne laisse pas ces souvenirs hantés te déranger.
 /ivy:Tu as raison ! Je profiterai davantage du présent.
 /ivy:Le soleil se couche, je ferais mieux de rentrer.
-/ivy:Merci d'avoir écouté, /main/.
+/ivy:Merci de m'avoir écoutée, /main/.
 
 
 
@@ -2056,7 +2056,7 @@ main:Alors, je t'ai acheté ça !
 /ivy: !
 /ivy:Tu n'avais pas à le faire !
 /ivy:Je ne te remercierai jamais assez.
-main:Tu n'as pas besoin de le faire.
+main:Ça n'est pas nécessaire.
 /ivy:Non.
 /ivy:Je veux le faire.
 
@@ -2071,10 +2071,10 @@ main:Tu n'as pas besoin de le faire.
 
 /ivy:Tu es allé au village dernièrement ?
 main:Oui, j'ai même trouvé un travail à la taverne !
-/ivy:Really? C'est super !
+/ivy:Vraiment? C'est super !
 /ivy:Le village semble être un endroit dynamique et intéressant !
 main:Oui, c'est vrai.
-/ivy:Je suis curieux. Qu'est-ce que les gens font là-bas pour s'amuser ?
+/ivy:Je suis curieuse. Qu'est-ce que les gens font là-bas pour s'amuser ?
 main:Manger, socialiser et se saouler !
 main:Le soir, la taverne est toujours pleine de monde.
 main:La prochaine fois, tu pourras venir avec moi et vérifier par toi-même.
@@ -2087,8 +2087,8 @@ main:La prochaine fois, tu pourras venir avec moi et vérifier par toi-même.
 /ivy:Je ne veux pas que mes problèmes soient un fardeau.
 /ivy:Désolée... Je ne voulais pas mentir.
 /ivy:Je préfère rester à la maison jusqu'à ce que ce soit sans danger pour moi.
-/ivy:Mais j'encaisserai un jour ton offre et je boirai cette bière avec toi !
-main:J'attendrai avec impatience.
+/ivy:Mais j'accepterai un jour ton offre et je boirai cette bière avec toi !
+main:J'attends ce jour avec impatience.
 
 
 
@@ -2097,38 +2097,38 @@ main:J'attendrai avec impatience.
 
 main:Hé, je t'ai acheté de la bière !
 main:Si tu ne peux pas aller à la taverne, la taverne viendra à toi !
-/ivy:Awwww. Tu es trop mignon ! Merci.
+/ivy:Ohhhh. Tu es trop mignon ! Merci.
 main:Tiens, bois !
 /ivy:Okay...
 /ivy:C'est parti !
 /ivy: !
-/ivy:Aghhhh, si amer !
+/ivy:Arghhhh, si amer !
 main:C'est un goût qui s'acquiert.
 /ivy:...
 /ivy:Laisse-moi le boire à nouveau.
 /ivy: !
-/ivy:Yuck!
+/ivy:Pouah!
 /ivy:Si fort. Ça a un goût de métal !
 main:Tu as un palais si délicat.
-/ivy:Ne vous moquez pas de moi !
+/ivy:Ne te moques pas de moi !
 main:Ahahahaha !!!
-narr:Tu bois toute la nuit et tu parles pendant des heures.
+narr:Vous buvez toute la nuit et parlez pendant des heures.
 main:Et puis il a dit...
 main:Comment appelle-t-on un groupe de voyous ?
 main:Une fête surprise !
 /ivy:Aahhahahah !
 main:Oops! Malheureusement, il n'y a plus de jus de fruit.
-/ivy:Hmm. Je peux penser à d'autres façons de m'amuser...
-/ivy:Penchez-vous en arrière.
+/ivy:Hmm. Je peux penser à d'autres façons de nous amuser...
+/ivy:Penche-toi en arrière.
 /ivy:Je vais me mettre plus à l'aise. Laisse-moi enlever ça...
 main: !
 narr:
-/ivy:[Wow, c'est beaucoup plus gros que ce à quoi je m'attendais.]
+/ivy:[Woah, c'est beaucoup plus gros que ce à quoi je m'attendais.]
 /ivy:Mmmmm...
 /ivy:[Ça m'excite...]
 /ivy:[Sa bite est si chaude...]
 main:Aaaaaah...
-/ivy:[Et elle tressaille dans mes lèvres.]
+/ivy:[Et elle tressaille sur mes lèvres.]
 main:Je suis proche, Ivy...
 /ivy:Vas-y.
 /ivy: !
@@ -2156,12 +2156,12 @@ main:Je t'ai acheté d'autres bières !
 
 main:Hé, j'ai une surprise pour toi !
 /ivy: ?
-main:Je t'ai acheté une bouteille du "meilleur vin d'Aurélia".
+main:Je t'ai acheté une bouteille du "meilleur vin d'Aurelia".
 
 main:Eh bien... Du moins, c'est ce qu'on m'a dit...
 main:Elle a un goût sucré, alors tu l'aimeras sûrement plus que la bière.
-/ivy:Great! Ouvrons la bouteille ! J'ai hâte de goûter un verre !
-narr:Tu perds la notion du temps en buvant et en riant.
+/ivy:Super! Ouvrons la bouteille ! J'ai hâte de goûter un verre !
+narr:Vous perdez la notion du temps en buvant et en riant.
 /ivy:Ce vin est bien meilleur que la bière, c'est certain.
 /ivy:Je l'adore !
 main:Je suis content que tu l'aies aimé.
@@ -2179,16 +2179,16 @@ main:Ça va ?
 /ivy:Oui, ça va.
 /ivy:Donne-moi une seconde.
 /ivy:Ta bite est énorme !
-/ivy:Et ça fait...
+/ivy:Et elle est...
 /ivy:Vraiment bonne.
 /ivy:Mmmnn...
 main:I-Ivy, je vais...
-/ivy:Joue en moi, /main/ !
+/ivy:Jouis en moi, /main/ !
 /ivy: !!!
 /ivy:Ahh... Hah... Ahh...
 /ivy:C'était incroyable...
 /ivy:Tellement intense.
-/ivy:Maintenant, je me sens épuisé.
+/ivy:Maintenant, je me sens épuisée.
 /ivy:Tu veux bien...
 /ivy:Dormir avec moi ?
 
@@ -2207,7 +2207,7 @@ Bois du vin avec Ivy
 Rien
 
 
-/ivy:Chérie, ça te dérangerait de coucher avec moi ?
+/ivy:Chéri, ça te dérangerait de dormir avec moi ?
 narr:......
 main:[Elle dort, je ferais mieux de quitter la pièce].
 narr:......
@@ -2242,7 +2242,7 @@ main:Tu es incroyable, Ivy ! Ne t'arrête pas !
 /ivy:J'ai attendu ça toute la journée !
 /ivy:Ahhhnnn~
 /ivy:[Je pourrais chevaucher sa bite pour toujours.]
-/ivy:[Il écarte ma chatte... C'est une sensation paradisiaque...]
+/ivy:[Elle écarte ma chatte... C'est une sensation paradisiaque...]
 main:Ivy, bon sang, ralentis !
 /ivy:Je ne peux pas !
 /ivy:J'ai tellement envie de ton sperme...
@@ -2265,7 +2265,7 @@ main:Ivy, bon sang, ralentis !
 
 /ivy: !!!
 /ivy:Si chaud...
-/ivy:Tu as fait un tel gâchis...
+/ivy:Tu en as mis partout...
 main:Je suis désolé.
 /ivy:Ne le sois pas ! J'adore ça.
 
@@ -2288,7 +2288,7 @@ narr:Elle te regarde fixement, en remuant ses hanches d'un côté à l'autre d'u
 /ivy:Je prends ça pour un non.
 /ivy: ?
 /ivy:Allez...
-/ivy:Tu m'as mis dans tous mes états.
+/ivy:Tu m'as mise dans tous mes états.
 /ivy:Tu vas me faire supplier ?
 /ivy:Regarde ça, /main/.
 /ivy:Il t'appartient.
@@ -2309,12 +2309,12 @@ narr:Elle te regarde fixement, en remuant ses hanches d'un côté à l'autre d'u
 /ivy:Ahhhh! Mmm-Ahhhh !
 main:Ivy !
 /ivy: !
-/ivy:*pantalon pantalon*
+/ivy:*halète halète halète*
 /ivy:C'est...
 /ivy:Beaucoup...
-/ivy:J'espère que tu reviendras pour en savoir plus.
+/ivy:J'espère que tu continueras à en redemander.
 
-/ivy:While
+/ivy:Pendant que
 
 
 
@@ -2326,15 +2326,15 @@ main:Mince! C'est si serré, Ivy...
 /ivy:Mon cul te fait du bien ?
 main:Hnngh... Ahhhh... Oui...
 /ivy:Je peux sentir ta bite se contracter en moi.
-/ivy:Tu montes une énorme charge...
+/ivy:Je sens une énorme charge arriver...
 /ivy:Allez, /main/.
-/ivy:Harder!
+/ivy:Plus fort!
 /ivy:Remplis-moi à ras bord !
 main: !
-/ivy:*pant pant pant pant*
+/ivy:*halète halète halète*
 /ivy:C'est...
 /ivy:Beaucoup...
-/ivy:J'espère que tu reviendras pour en savoir plus.
+/ivy:J'espère que tu continueras à en redemander.
 
 
 
@@ -2344,23 +2344,23 @@ main: !
 
 
 /ivy:Okay...
-/ivy:Soyez gentil, s'il vous plaît.
+/ivy:Sois gentil, s'il te plaît.
 
 
 
 
 
-main:Youchy!
+main:Ouille!
 
 
 
 
 
-/ivy:Great.
+/ivy:Super.
 /ivy:Viens ici.
 narr:Tu te blottis contre Ivy et tu dors toute la nuit.
-narr:C'est tellement chaud et confortable que tu t'endors trop tard jusqu'à midi.
-/ivy:Soyez gentil, s'il vous plaît.
+narr:C'est tellement chaud et confortable que tu t'endors jusqu'à midi.
+/ivy:Sois gentil, s'il te plaît.
 
 
 
@@ -2383,9 +2383,9 @@ main:Il est très joli.
 /ivy:Je pourrais faire tellement de choses...
 /ivy:J'ai toujours voulu voyager... Explorer des pays lointains.
 /ivy:Malheureusement, si j'essayais de partir, je suis sûr que je serais repéré et capturé.
-main:Et si vous vous cachiez ?
+main:Et si tu t'étais cachée?
 /ivy:Honnêtement, cette idée m'a traversé l'esprit plusieurs fois.
-/ivy:Mais pour l'instant, je suis heureux de vivre avec vous à Aurélia.
+/ivy:Mais pour l'instant, je suis heureux de vivre avec toi à Aurelia.
 /ivy:Je vais attendre que les choses se calment.
 main:À part voyager, y a-t-il autre chose que tu aimerais faire ?
 /ivy:Ummm... Laisse-moi réfléchir...
@@ -2398,13 +2398,13 @@ main:À part voyager, y a-t-il autre chose que tu aimerais faire ?
 
 
 
-main:[Wew, I'm getting the hang of this !]
+main:[Woah, Je commence à avoir la main.]]
 
 
 
 
 
-main:[Wew, I'm getting the hang of this !]
+main:[Woah, Je commence à avoir la main.]]
 
 
 
@@ -2449,7 +2449,7 @@ Bien sûr, entre !
 
 
 
-/ivy:Désolé de vous avoir dérangé.
+/ivy:Désolée de t'avoir dérangé.
 /ivy:Bonne nuit, /main/.
 main: ?
 
@@ -2463,13 +2463,13 @@ main: ?
 /ivy:Fais-moi de la place.
 /ivy:...
 /ivy:/main/?
-/ivy:J'ai beaucoup réfléchi à ces derniers jours...
-/ivy:Tu sais... S'enfuir de la maison, vivre avec toi...
+/ivy:J'ai beaucoup réfléchi ces derniers jours...
+/ivy:Tu sais... M'enfuir de la maison, vivre avec toi...
 /ivy:Je m'amuse tellement !
 /ivy:Mais quelque part, je me sens coupable de mon bonheur...
 /ivy:C'est comme si... J'ai l'impression de ne pas être à ma place ici.
-/ivy:Je veux être libre et ne pas m'inquiéter de mes pensées.
-/ivy:Mais, s'il vous plaît, /main/, ne vous méprenez pas ! Je suis heureux ici.
+/ivy:Je veux être libre et ne pas m'inquiéter de mes arrière pensées.
+/ivy:Mais, s'il te plaît, /main/, ne te méprends pas ! Je suis heureuse ici.
 /ivy:J'aime être avec toi.
 
 Laisse tomber le passé... pense à ton avenir !
@@ -2496,7 +2496,7 @@ main:Je suis sûr que tu te sentiras bientôt mieux.
 
 
 
-/ivy:*yawn*
+/ivy:*bâille*
 /ivy:Allez, arrêtons de parler de moi.
 /ivy:Comment s'est passée ta journée ?
 narr:Ivy et toi parlez pendant des heures tandis qu'elle repose sa tête contre ta poitrine.
@@ -2510,16 +2510,16 @@ narr:Sans que tu t'en rendes compte, elle s'endort.
 /ivy:Salut /main/.
 /ivy:Bonjour.
 main:Bonjour, Ivy.
-/ivy:Désolé de m'être endormi sur toi hier soir.
-/ivy:J'étais épuisé.
+/ivy:Désolée de m'être endormie sur toi hier soir.
+/ivy:J'étais épuisée.
 main:Ne t'inquiète pas.
 /ivy:Pour être honnête, tu es un oreiller très confortable.
 /ivy:Hehe~
-/ivy:Et j'ai eu quelque chose de mignon à regarder pendant que je me réveillais.
+/ivy:Et j'ai eu quelque chose de mignon à voir lors de mon réveil.
 /ivy:Hé, j'ai une idée !
 /ivy:Viens dans ma chambre.
 main: ?
-/ivy:Quick! Pas le temps de s'habiller !
+/ivy:Vite! Pas le temps de s'habiller !
 
 main:Ivy ?
 /ivy:Shhhh.
@@ -2537,10 +2537,10 @@ main: !
 /ivy:C'est ce que je voulais voir.
 /ivy:Une si belle et si grosse bite !
 /ivy:Je n'arrive pas à me la sortir de la tête.
-/ivy:Je suis sûr que tu veux m'en asperger.
+/ivy:Je suis sûr que tu veux m'asperger.
 /ivy:Allez, viens /main/.
 /ivy:J'en ai besoin !
-/ivy:Joue sur moi !
+/ivy:Jouis sur moi !
 /ivy: !
 /ivy:Si chaud...
 /ivy:Une bonne façon de commencer la matinée.
@@ -2554,11 +2554,11 @@ main: !
 
 /ivy:Hé, /main/ ?
 /ivy:Juste par curiosité.
-/ivy:Vous avez hérité de cette maison, n'est-ce pas ?
+/ivy:Tu as hérité de cette maison, n'est-ce pas ?
 /ivy:Quelle est l'histoire qui se cache derrière ?
 main:Oh...
 main:Elle appartenait à mon grand-père.
-main:Ma famille venait ici chaque printemps pour célébrer la fête d'Aurélia.
+main:Ma famille venait ici chaque printemps pour célébrer la fête d'Aurelia.
 main:Grand-mère préparait les meilleurs repas maison pour toute la famille.
 main:Grand-père servait son meilleur vin sur la table.
 main:Et nous nous sommes offert des cadeaux les uns aux autres.
@@ -2699,7 +2699,7 @@ main:Comme ça, tu...
 main: !
 /ivy:Merci, /main/.
 /ivy:Ça représente beaucoup pour moi...
-/ivy:Je suis la fille la plus chanceuse d'Aurélia.
+/ivy:Je suis la fille la plus chanceuse d'Aurelia.
 /ivy:Tu es vraiment un amour.
 main:Bon sang, c'était trop de nourriture.
 main:Pffft, je sais.
@@ -3024,7 +3024,7 @@ main:Je ne sais pas si aider est le mot que j'utiliserais.
 jane:Pourquoi pas ?
 jane:Ça revient ?
 main:Plus fort que jamais.
-jane:Aww~ Même en te retenant, tu n'as pas pu tout faire sortir.
+jane:Ohh~ Même en te retenant, tu n'as pas pu tout faire sortir.
 jane:Ne t'inquiète pas ! Je ne te laisserai pas partir comme ça.
 jane:Je ne pouvais pas me pardonner.
 jane:Après tout ce que tu as fait pour moi.
@@ -3258,7 +3258,7 @@ jane:Il est tôt le matin, chéri.
 jane:Tu avais l'air d'avoir besoin de te reposer, alors je ne t'ai pas dérangé.
 jane:J'espère que ça ne te dérange pas.
 main:C'est bon.
-jane:Great~
+jane:Super~
 jane:Pourquoi ne viendrais-tu pas manger quelque chose avec moi ?
 jane:Je vais vous préparer un petit déjeuner exceptionnel.
 jane:Oh~
@@ -3286,7 +3286,7 @@ jane:[Quelqu'un qui sait comment te faire plaisir, à tout moment~].
 main: !
 main:Putain.
 jane:[Bon garçon, continue de bouger tes hanches ! Vide tout dans ma bouche, je peux le supporter !]
-jane:[Aww~ Si mignon. Tu cherches à voir si j'engloutis tout ?].
+jane:[Ohh~ Si mignon. Tu cherches à voir si j'engloutis tout ?].
 jane:[Ne t'inquiète pas, chérie, il n'y a pas de monde où je laisserais cela se gaspiller.]
 jane:*gulp*
 jane:Ahh~ Beaucoup mieux, non ?
@@ -3589,7 +3589,7 @@ ohro:Croyez-moi... Ohro a essayé... Trop souvent...
 main:La permission ?
 ohro:Oui. Seuls quelques habitants de la ville peuvent visiter la maison close.
 ohro:Seuls les hommes qui "servent la communauté".
-ohro:... et la sagesse d'Ohro sert Aurélia, mais... Kivir n'est pas d'accord...
+ohro:... et la sagesse d'Ohro sert Aurelia, mais... Kivir n'est pas d'accord...
 ohro:Ta meilleure chance de te faufiler dans la maison close est de parler à Soran dans la taverne.
 ohro:C'est lui qui commande ici.
 ohro:Si quelqu'un demande... Ohro n'a jamais été là !
@@ -3643,7 +3643,7 @@ kivi:Bien sûr.
 
 sora:Hé, mon enfant, on s'est déjà rencontrés ?
 sora:Je ne crois pas t'avoir déjà vu...
-main:Non, je suis nouvelle en ville. Je viens d'emménager à Aurélia.
+main:Non, je suis nouvelle en ville. Je viens d'emménager à Aurelia.
 main:Je m'appelle /main/.
 sora:Soran. Enchanté de vous rencontrer, /main/.
 
@@ -3679,7 +3679,7 @@ main:J'ai entendu dire que c'est toi qui décides qui entre dans la maison close
 sora:Oui, mon enfant. Cette affirmation est vraie.
 sora:Pourquoi ? Tu as quelque chose à dire à ce sujet ?
 main:Eh bien, j'aimerais te demander la permission.
-sora:Really? Juste comme ça ?
+sora:Vraiment? Juste comme ça ?
 sora:Tu viens me demander la permission ?
 main:Eh bien, je pensais...
 sora:Ce serait si facile ?
@@ -3912,13 +3912,13 @@ Set d'alchimie
 
 lily:Oui, mais ça ne me dérange pas.
 lily:J'aime les atmosphères tranquilles et silencieuses.
-lily:Les habitants de la ville d'Aurélien préfèrent traîner à la taverne.
+lily:Les habitants de la ville d'Aurelia préfèrent traîner à la taverne.
 lily:Vous ne trouverez pas beaucoup de rats de bibliothèque en ville...
 
 lily:Oh, rien d'intéressant en fait... C'est un truc technique ennuyeux.
 main:C'est tout à fait dans mes cordes.
 main:Ennuyeux avec des trucs techniques.
-lily:Really? Je veux dire, bien sûr...
+lily:Vraiment? Je veux dire, bien sûr...
 lily:Je suis en train de lire "The Properties of Mana", un ouvrage très intéressant sur l'alchimie.
 lily:Plus proche d'une perspective culinaire que chimique.
 lily:Cela me donne envie d'utiliser à nouveau mon kit d'alchimie.
@@ -4024,7 +4024,7 @@ lily:Ce n'est pas grave. Ça fait partie de la vie.
 lily: !
 lily:Et c'est fait !
 lily:Tiens, tu peux l'avoir.
-main:Really?
+main:Vraiment?
 lily:Oui, bien sûr !
 lily:Tu as apporté les ingrédients après tout.
 main:Merci, Lily.
@@ -4402,7 +4402,7 @@ lily:C'est à des fins de recherche !
 lily:And... Je l'ai apporté... Il est dans le panier...
 main:N'en dis pas plus.
 main: !
-main:Agh ! Ça a un goût de bois !
+main:Argh ! Ça a un goût de bois !
 lily:Comment te sens-tu ?
 main:Rien qui ne sorte de l'ordinaire...
 main:Oh... Ehm...
@@ -4464,7 +4464,7 @@ lily:Es-tu prêt pour ça ?
 main:Je suis toujours prêt pour toi, Lily.
 lily:Merci.
 lily:Je te tiendrai parole~
-lily:Now...
+lily:Maintenant...
 lily:Aidez-moi à bouger, mes jambes sont faibles.
 lily:Il se fait tard. Nous devrions être rentrés à la maison à l'heure qu'il est.
 
@@ -4605,7 +4605,7 @@ main:Nine!?
 lily:Haha, oui.
 lily:J'étais le plus jeune.
 lily:Et je n'ai jamais attiré l'attention.
-lily:J'ai économisé un peu et je suis venu à Aurélia.
+lily:J'ai économisé un peu et je suis venu à Aurelia.
 lily:Peu de temps après, j'ai utilisé ma maison comme librairie pour gagner ma vie.
 
 
@@ -4648,7 +4648,7 @@ lily:Il est dans le panier, au cas où tu voudrais l'expérimenter.
 
 
 
-main:Agh ! Ça a un goût de bois.
+main:Argh ! Ça a un goût de bois.
 lily:Pourquoi tu... Laisse tomber. Qu'est-ce que tu ressens ?
 main:Je commence à avoir chaud.
 lily:Et ?
@@ -4706,7 +4706,7 @@ lily:Il se fait tard. Nous devrions être rentrés à la maison à l'heure qu'il
 
 
 main: !
-main:Aghh, si fort !
+main:Arghh, si fort !
 lily:Il faut que je travaille sur cette saveur.
 lily:Cependant, quelle meilleure excuse pour te donner quelque chose de sucré en retour ?
 main:Oh ? Tu es trempé.
@@ -4802,7 +4802,7 @@ main:...
 main:Lily?
 lily: ?
 main:Tu peux arrêter de le lécher maintenant.
-lily:Awww.
+lily:Ohhh.
 
 
 
@@ -4827,7 +4827,7 @@ narr:L'Horloge te permet d'avancer le temps à ta guise.
 narr:Du matin à l'après-midi...
 narr:De l'après-midi au soir...
 narr:Et du soir à la nuit.
-narr:La boussole ouvre la carte d'Aurélia et vous permet de vous rendre dans tous les lieux découverts.
+narr:La boussole ouvre la carte d'Aurelia et vous permet de vous rendre dans tous les lieux découverts.
 narr:Le sac ouvre le menu principal.
 narr:Dans le menu principal, tu peux consulter ton inventaire, la galerie, les tricheries et l'écran de sauvegarde/chargement.
 narr:Tu peux passer les dialogues en appuyant sur la touche TAB. Tu peux également masquer la boîte de dialogue en appuyant sur la touche H.
@@ -5062,7 +5062,7 @@ scar:J'en ai déjà trop dit.
 scar:Listen!
 scar:Veux-tu protéger Ivy ?
 main:Avec tout ce que j'ai.
-scar:Really?
+scar:Vraiment?
 scar:Très bien.
 scar:Je te tiendrai parole.
 scar:Mais plus de bavardage à partir de maintenant.
@@ -5132,7 +5132,7 @@ Comment as-tu dormi ?
 [Bois de chauffage]
 
 
-scar:Great!
+scar:Super!
 
 
 
@@ -5171,7 +5171,7 @@ scar:Agenouillez-vous.
 main:...
 scar:Ne me regarde pas bizarrement ! Tu seras mon premier chevalier.
 scar:C'est un honneur !
-scar:Great.
+scar:Super.
 scar:Répète après moi...
 scar:Je le jure sur mon honneur.
 main:Je le jure sur mon honneur.
@@ -5495,7 +5495,7 @@ scar:Je vais empirer les choses.
 scar:Si raide~
 scar:Je t'ai trop taquiné ?
 main:Peut-être un peu.
-scar:Aww, je me sens coupable...
+scar:Ohh, je me sens coupable...
 scar:J'en ai peut-être trop fait...
 scar:Est-ce que ça t'aide ?
 main:Probablement.
@@ -5541,7 +5541,7 @@ scar:Je ne vais pas garder ça sur mon visage toute la journée.
 scar:Et habille-toi, ou Ivy va commencer à poser des questions.
 
 //BJ LOOP
-scar:Awww...
+scar:Ohhh...
 scar:Un peu de bois au réveil, /main/ ?
 scar:Ne t'inquiète pas, je vais t'aider.
 scar:Mais...
@@ -5659,7 +5659,7 @@ scar:Où diable ai-je laissé ce fichu truc ?
 scar:Je suis sûr que je l'ai laissé ici.
 scar:Il faut que je revienne sur mes pas...
 main:Hé, quelque chose ne va pas ?
-scar:AGH !
+scar:ARGH !
 scar:/main/!
 scar:Ne me fais pas peur comme ça !
 main:Je vois que tu t'es mis à l'aise ici.
@@ -5854,7 +5854,7 @@ main:Tu as trop travaillé ces derniers temps ?
 main: ?
 /ivy:Je l'ai laissée dormir ici pendant que j'allais sur le canapé en bas.
 /ivy:Ça me fait mal au dos.
-/ivy:Now...
+/ivy:Maintenant...
 /ivy:Encore cinq minutes...
 
 //Talking to Scarlet
@@ -5872,7 +5872,7 @@ main:Tu demandes déjà ça à Ivy.
 scar:Bien.
 scar:Je peux le faire.
 scar:Je te le dirai la prochaine fois que j'aurai besoin d'un bon repos, d'accord ?
-main:Great!
+main:Super!
 
 //Sleeping.
 scar:Oh, génial ! Tu es ici.
@@ -6040,7 +6040,7 @@ scar:Même si j'adore être ici, il arrivera un moment où l'on nous trouvera.
 scar:Ça me fait peur d'y penser.
 main:Je suppose que nous pourrions toujours déménager.
 scar:J'aimerais que ce soit aussi facile.
-scar:Les patrouilles frontalières seront serrées, et le terrain autour d'Aurélia peut être impitoyable.
+scar:Les patrouilles frontalières seront serrées, et le terrain autour d'Aurelia peut être impitoyable.
 scar:L'itinéraire de fuite le plus sûr est probablement celui qui passe par la mer du Sud, l'itinéraire le moins surveillé par Elizabeth.
 scar:Mais Aurelia n'a pas de port. Ce qui signifie qu'il n'y a pas de navires qui entrent ou sortent.
 main:Nous pouvons toujours fabriquer notre propre bateau pour nous échapper.
@@ -6229,9 +6229,9 @@ scar:C'est peut-être l'une d'entre elles.
 
 
 
-main:Hé, tu te souviens de ce dont tu m'as parlé ? De quitter Aurélia.
+main:Hé, tu te souviens de ce dont tu m'as parlé ? De quitter Aurelia.
 scar:Oui. Qu'est-ce que tu as fait cette fois-ci ?
-main:J'ai réussi à convaincre quelqu'un de vous transporter, Ivy et toi, hors d'Aurélia.
+main:J'ai réussi à convaincre quelqu'un de vous transporter, Ivy et toi, hors d'Aurelia.
 scar:Eh bien, je ne peux plus dire que je suis surpris.
 scar:Tu es toujours à la hauteur.
 main:Merci!
@@ -6562,7 +6562,7 @@ jane:Oh, ne t'inquiète pas chéri~ J'ai dû l'égarer. Je la chercherai plus ta
 
 
 crys:Bon, je devrais y aller maintenant, je suis sûr que Pops a besoin de moi.
-jane:Awwwwww, si tôt ? Nous nous sommes à peine entraînés.
+jane:Ohhhhhh, si tôt ? Nous nous sommes à peine entraînés.
 crys:C'est bon, on aura plus de temps.
 jane:Je vais acheter du sucre et des fraises.
 jane:Mais il faudra du temps avant que je puisse tout rassembler.
@@ -6669,7 +6669,7 @@ crys: Tu as raison ! Ce n'est pas la même chose.
 crys:Mais j'en ai assez de la normalité et du travail.
 crys:J'ai besoin d'un peu de folie dans ma vie.
 crys:Et puis, c'est un peu de ta faute si tu deviens dur si facilement.
-main:Really?
+main:Vraiment?
 crys:Allez, je l'ai à peine frotté.
 main:Tu l'as fait exprès ?
 crys:Whaaaat? Noooooo. Comment as-tu pu penser une chose pareille ?
@@ -6978,7 +6978,7 @@ main:Utilise ta main pour étouffer ta bouche.
 crys:D'accord, mais je ne vois pas comment...
 crys: !!!
 orso:Je jure que j'ai entendu Crystal.
-orso:*yawn*
+orso:*bâille*
 orso:Je ferais mieux de dormir un peu... Je ne me fais pas de cadeaux ces derniers temps.
 
 
@@ -7505,7 +7505,7 @@ main: !
 erza:Oh mon...
 erza:J'ai vraiment testé tes limites, n'est-ce pas ?
 main:J'ai un peu mal maintenant...
-erza:Awww~ Je suis désolé, /main/.
+erza:Ohhh~ Je suis désolé, /main/.
 erza:J'espère que le plaisir en valait la peine.
 
 
@@ -7760,7 +7760,7 @@ ambe:Je n'ai pas saisi ton nom là-bas.
 main:/main/.
 ambe:/main/? Unique.
 ambe:Je n'ai pas vu ton visage dans le coin.
-main:J'ai déménagé à Aurélia il n'y a pas longtemps.
+main:J'ai déménagé à Aurelia il n'y a pas longtemps.
 ambe:Et tu es déjà autorisée à entrer dans la maison close ?
 ambe:La plupart des gens mettent du temps à convaincre Soran.
 ambe:Tu dois être tout à fait extraordinaire...
@@ -8083,7 +8083,7 @@ ambe:[And—]
 main:Le temps est écoulé.
 ambe:[Merde...]
 main: !
-ambe:[Now!?]
+ambe:[Maintenant!?]
 ambe:[J'ai failli t'avoir !]
 ambe:[Au moins, j'ai obtenu un deuxième prix collant.]
 ambe:[Bon sang, il n'arrête pas d'avancer.]
@@ -8247,7 +8247,7 @@ luna:Il a un excellent œil !
 luna:Malheureusement, ce bordel est loin d'être la chose la plus lucrative qu'il ait dans son assiette.
 luna:J'espère pouvoir changer cela et convaincre plus de filles de venir ici.
 devn:[La maison close pourra être améliorée à l'avenir].
-devn:[D'autres filles seront ajoutées plus loin dans le développement d'Aurélia].
+devn:[D'autres filles seront ajoutées plus loin dans le développement d'Aurelia].
 
 
 
@@ -8354,7 +8354,7 @@ Attends
 
 
 main:Hé, toi !
-mera:AGH ! HUMAIN !
+mera:ARGH ! HUMAIN !
 main:C'est quoi ce bordel...
 main:Elle vient de disparaître dans le sol !
 
@@ -8439,7 +8439,7 @@ mera:Mmmm~!
 mera:Il y a du punch aujourd'hui.
 mera:Bonnes abeilles !
 main:Hé, toi !
-mera:AGH, HUMAIN !
+mera:ARGH, HUMAIN !
 mera:Oh, non... Je ne peux pas perdre mon miel.
 mera:HUMAIN DE RETOUR !
 mera:MIEL LE MIEN !
@@ -8622,7 +8622,7 @@ mera:Le voici~
 mera:Ça te plaît ?
 main:Ouais.
 mera:Bien.
-mera:Now...
+mera:Maintenant...
 mera:Allez-y. Sois dur avec lui.
 mera: !
 mera:P-Putain!
@@ -9240,7 +9240,7 @@ scar:Elle lisait tout ce qui était écrit entre deux couvertures !
 /ivy:Je suis désolé... C'est trop bête ?
 main:Non, pas du tout. Je suis sûr que c'était un livre très intéressant.
 scar:Assez intéressant pour la tenir éveillée la nuit afin qu'elle puisse terminer le chapitre.
-scar:*yawn*
+scar:*bâille*
 scar:En parlant de veiller tard, je crois qu'il est temps d'aller au lit. Je commence à avoir sommeil.
 scar:Je passe à la caisse.
 /ivy:Moi aussi. Allons dormir.
@@ -9452,7 +9452,7 @@ main:Pas de problème.
 /ivy:Je vais devoir m'entraîner pendant un bon moment. Un objet aussi puissant... N'est pas facile à utiliser.
 /ivy:Mais une fois que je l'aurai maîtrisé...
 /ivy:Je serai capable de me défendre et même de te défendre.
-/ivy:Je ne veux pas quitter Aurélia, /main/. Ni toi. J'aime trop cet endroit.
+/ivy:Je ne veux pas quitter Aurelia, /main/. Ni toi. J'aime trop cet endroit.
 main:Je suis heureux de l'entendre.
 main:Tu auras toujours ta place ici.
 /ivy:Je devrais commencer ma formation dès que possible.
@@ -9589,7 +9589,7 @@ scar:Espèce de voyeur~
 /ivy:Je peux me joindre à toi, ou tu préfères que je regarde ?
 
 ///DUO BJ LOOP ROUTE 1
-scar:Great!
+scar:Super!
 main: !
 scar:Mmh, c'est tellement bon. Comme toujours.
 scar:Oh ? Ivy ? Qu'est-ce que tu fais, sale fille ?
@@ -9608,7 +9608,7 @@ main:Oh, ffPutain !
 scar:Mhh ! Ahhh !
 main: !
 scar: !
-/ivy:Wow, ça a l'air chaud !
+/ivy:Woah, ça a l'air chaud !
 scar:Oh, Ivy, tu l'as rendu tellement meilleur.
 scar:J'ai hâte de voir ce que notre petite Ivy a encore appris dans mon dos.
 /ivy:Et comment ! Il y a beaucoup de choses que je ne t'ai pas encore montrées~
@@ -10098,7 +10098,7 @@ Les cabines
 luna:Après toutes ces années, les rideaux et la tapisserie de nos cabines sont usés et décolorés.
 luna:Le meilleur matériau pour les remplacer est la [soie ancienne]. Nous en avons besoin pour remettre cet endroit à neuf.
 main:Où puis-je acheter ce type de tissu ?
-luna:Nowhere. J'ai cherché. Mais tu peux le fabriquer, je pense. Lily a un kit d'alchimie, je suis sûr qu'elle te laissera l'utiliser si tu lui demandes.
+luna:Nul part. J'ai cherché. Mais tu peux le fabriquer, je pense. Lily a un kit d'alchimie, je suis sûr qu'elle te laissera l'utiliser si tu lui demandes.
 luna:J'ai fait des recherches sur les composants nécessaires. Si je me souviens bien, il faut combiner deux [chiffons anciens] avec de l'[ectoplasme].
 luna:Je ne sais pas où tu peux trouver ces ingrédients.
 main:J'ouvrirai l'œil pour les trouver.
@@ -10255,7 +10255,7 @@ main: !
 kiki:Mmmmm~
 kiki:Ahhhh... Miam !
 kiki:*cough*
-kiki:Aww, tu m'as même laissé un peu endolori~
+kiki:Ohh, tu m'as même laissé un peu endolori~
 kiki:Merci, patron.
 kiki:Je travaillerai très dur pour toi !
 //DT LOOP
@@ -10744,7 +10744,7 @@ main:C'était trop fort ?
 ginn:Non, c'était parfait !
 ginn:Je ne peux pas me libérer de ces liens...
 ginn:Ugh !
-ginn:Agh !
+ginn:Argh !
 ginn:Ce n'est pas bien du tout.
 ginn:Mais c'est tellement agréable...
 ginn:Ahh !
@@ -10816,7 +10816,7 @@ crys:/main/! Bonjour ! Entrez, entrez.
 main:Est-ce que j'interromps quelque chose ?
 crys:Non, non. Nous venons juste de terminer.
 crys:Janet m'apprend de nouveaux trucs de cuisine !
-main:Really?
+main:Vraiment?
 crys:Mon père a insisté pour ajouter des aliments au menu maintenant que j'apprends à cuisiner.
 crys:Peut-être que je pourrai m'y entraîner... Et devenir un jour un chef cuisinier raffiné.
 crys:Comme ça, je n'aurai pas à travailler si dur tout le temps.
@@ -11014,7 +11014,7 @@ jane:Il est temps de se mettre au travail !
 crys:Ta-daaaaaah ! Un gâteau royal !
 main:Ça a l'air génial.
 jane:Beau travail, Crystal ! Maintenant, essayons-le. /main/ d'abord ! Après tout, tu es notre invitée.
-main:Wow... C'est délicieux.
+main:Woah... C'est délicieux.
 crys:Tu dis ça parce que c'est vrai ou parce que tu es trop pompette pour le dire ?
 main:De quoi tu parles ? Je ne suis pas pompette.
 crys:Ah oui? Et si je te demandais la bouteille de vin que tu as déjà avalée ?
@@ -11233,7 +11233,7 @@ main:Qu'est-ce que tu vas... ?
 erza: !
 main:Erza?
 erza:Silence, /main/ !
-erza:Je dois chercher à travers Aurélia.
+erza:Je dois chercher à travers Aurelia.
 erza:Ah, les images deviennent claires maintenant.
 erza:Je peux voir ce que je veux dans les mains de quelqu'un qui bat les cartes.
 erza:Il y en a une autre... Près du rivage, au fond d'une grotte.
@@ -11539,7 +11539,7 @@ luna:Kivir est quelque peu distrait ces derniers temps.
 luna:Il agit bizarrement.
 luna:Pourrais-tu aller le voir ?
 
-luna:Great!
+luna:Super!
 luna:Merci.
 
 main:Hé, Luna m'a dit que tu étais distrait ces derniers temps.
@@ -11590,7 +11590,7 @@ main:Oui.
 maen:Je m'appelle Maen, et cette beauté à mes côtés s'appelle Sa.
 saxx:Bonjour !
 maen:Nous venons d'au-delà de Ragasia en pèlerinage pour notre tribu.
-maen:Et nous espérons rester à Aurélia pendant un certain temps, pour répandre la parole de Lirey.
+maen:Et nous espérons rester à Aurelia pendant un certain temps, pour répandre la parole de Lirey.
 main:N'y a-t-il pas une église près du village ?
 maen:Même si nous vénérons le même dieu, nos points de vue divergent grandement de ceux de l'Église.
 maen:Nous croyons que Lirey nous a envoyés pour répandre l'amour et l'extase sans fin...
@@ -12023,7 +12023,7 @@ main:Comment ?
 luna:Tu sais !
 luna:Juste, si tu la trouves par hasard la nuit, tu sais.
 main:...
-luna:Allez, Aurélia n'est pas si grande que ça.
+luna:Allez, Aurelia n'est pas si grande que ça.
 luna:Et elle ne peut pas aller bien loin.
 luna:Ce n'est qu'une heureuse coïncidence.
 main:Très bien...
@@ -12092,7 +12092,7 @@ ambe:Tu veux que je les secoue ?
 main:Je suis sérieux.
 ambe:Bien...
 ambe:Je ne sais même pas par où commencer.
-ambe:J'ai très peu d'options ici à Aurélia.
+ambe:J'ai très peu d'options ici à Aurelia.
 main:Élaborer...
 ambe:Peux-tu garder un secret ?
 main:Oui.
@@ -12125,7 +12125,7 @@ ambe:L'instant d'après, je m'enfuyais moi aussi, caché dans une charrette.
 ambe:Putain de chariots...
 ambe:Ils ne font rien d'autre que de causer des problèmes...
 ambe:Et bien, tu connais la suite.
-ambe:Nous avons été conduits à Aurélia, et Soran nous a permis de rester au bordel.
+ambe:Nous avons été conduits à Aurelia, et Soran nous a permis de rester au bordel.
 main:C'est toute une histoire.
 ambe:Ouais...
 main:Toute une histoire...
@@ -13064,7 +13064,7 @@ miss:Il y a plein d'espace inutilisé ici, et il est tout à toi~
 main:Puu—
 miss:Nhoo shwearim !
 main: !
-miss:Awww! C'est vrai que tu l'avais en toi !
+miss:Ohhh! C'est vrai que tu l'avais en toi !
 miss:Et regarde ça. J'ai du mal à tenir tout ça~
 main:Huff...
 main:J'ai peut-être repoussé mes limites, mais j'ai eu une sensation incroyable...
@@ -13295,7 +13295,7 @@ main:Porte ça en toi pendant ta réunion.
 main:Alors tu penses à moi~
 ginn:Y-Toi...
 main:Quoi? Tu veux que je le sorte ?
-ginn:...Agh! Laisse tomber.
+ginn:...Argh! Laisse tomber.
 ginn:Laisse-le là.
 main:Oui, madame. Des commentaires finaux ?
 ginn:JE... Ah...
@@ -13332,7 +13332,7 @@ main:De quoi parlait la congrégation ? Je n'ai jamais vu autant d'acolytes.
 ginn:C'était à propos de ceci...
 main:Et c'est... ?
 ginn:Un morceau d'une statue de Lirey. Il provient d'un autre temple.
-ginn:Il est tombé tout seul, en plein milieu d'un sermon, alors que l'acolyte mentionnait Aurélia.
+ginn:Il est tombé tout seul, en plein milieu d'un sermon, alors que l'acolyte mentionnait Aurelia.
 ginn:C'est pourquoi ils me l'ont apporté. Les acolytes croient que c'est un signe divin et qu'il a sa place ici.
 main:Cela semble être une énorme responsabilité.
 ginn:C'est vrai, mais pas pour longtemps.
@@ -13353,7 +13353,7 @@ Tu reçois la pièce de la statue de Lirey.
 //Giving Naamu the piece
 main:Oh, tu as cherché des choses brillantes !
 main:C'est peut-être toi qui es censé voir ça ?
-naam:Wow !
+naam:Woah !
 naam:Ça, c'est un excellent brillant !
 naam:Donne-moi, donne-moi !
 main:Est-ce qu'il a de la valeur pour toi ?
@@ -13479,7 +13479,7 @@ naam:Grahh!
 ginn:Regarde ce petit frétillement. C'est trop mignon !
 main:Naamu?
 naam:Grrrrah~
-ginn:Awww, Naamu est un nom si puissant !
+ginn:Ohhh, Naamu est un nom si puissant !
 ginn:Qui a faim ? Le petit Naamu !
 ginn:De toute façon, je ne devrais pas laisser l'église sans surveillance pendant longtemps.
 ginn:Si vous avez à nouveau besoin de ma force, vous savez où me trouver.
@@ -13973,7 +13973,7 @@ luna:Je l'ai vu aller souvent chez Janet. Tu crois qu'il casse ses outils aussi 
 luna:J'ajouterais la barmaid du Orson's et la fille de la bibliothèque si je devais parier.
 kiki:Tu crois vraiment que c'est le cas ?
 kiki:Comme s'il baisait tout le monde en ville ?
-luna:Pourquoi rester en ville ? Aurélia est bien plus que cela.
+luna:Pourquoi rester en ville ? Aurelia est bien plus que cela.
 kiki:Pas question !
 luna:Shhhhh!
 main:Mmmh...
@@ -14991,7 +14991,7 @@ bulg:Awh, tu as peur que je le détache en tirant bien fort ?
 bulg:Allez, ça n'arrive presque plus.
 main:Anymore!?
 bulg:Je me moque de toi !
-bulg:Wow. Tu es tellement crédule.
+bulg:Woah. Tu es tellement crédule.
 bulg:D'accord, mon beau.
 bulg:Viens dehors avec moi.
 main: Attends, pourquoi on...
@@ -15087,7 +15087,7 @@ bulg:Tu aimerais améliorer l'expérience du massage ?
 //Oni - Massage Loop (Handjob)
 Continue
 // Handjob Scene
-bulg:Great.
+bulg:Super.
 bulg:Tu le veux rapide ou lent ?
 main:JE...
 main: !
@@ -16064,7 +16064,7 @@ mumm:Sinon, je devrais te flétrir jusqu'aux os, mon premier serviteur de cet â
 mumm:Et c'est toujours un mauvais départ.
 mumm:D'ailleurs, il y a une jouissance particulière dans ce culte grossier, axé sur la chair.
 mumm: !
-mumm:Really?
+mumm:Vraiment?
 mumm:Vous n'avez pas trouvé de réceptacle pour plus tard ?
 mumm:Vous avez dû tirer directement sur ce...
 mumm:Étonnamment dense...
@@ -16425,7 +16425,7 @@ miza:C'est idiot.
 miza:Mes pierres me manquent.
 main:Stones?
 miza:Des pierres précieuses, des métaux, des roches et des miroirs.
-miza:Agh... Quand je pense qu'ils vont probablement tout prendre chez moi...
+miza:Argh... Quand je pense qu'ils vont probablement tout prendre chez moi...
 miza:J'avais un jade vert que j'aimais beaucoup. Je l'ai trouvé près d'une rivière, à l'intérieur d'un rocher fissuré.
 miza:Il était de la taille d'une noix !
 main:Je vais garder l'œil ouvert pour en trouver un comme ça, alors.
@@ -17246,7 +17246,7 @@ bulg:Tu dois garder tes filles heureuses maintenant.
 maen:Et satisfaites.
 luna:Dernier effort ?
 main:Hhhghghghhhh-
-luna:Aww~
+luna:Ohh~
 luna:Il est complètement épuisé.
 luna:Les filles, venez ici et nettoyez-moi.
 luna:Je veux donner à /main/ un bon souvenir avant qu'il ne...
@@ -17715,7 +17715,7 @@ main:Je lui ai juste offert une maison.
 main:Parce qu'elle voulait avoir son propre espace pour se cacher.
 eliz:Très bien, c'est tout ce dont j'ai besoin.
 eliz:Il est temps de remplir ma part du contrat.
-eliz:L'Enoth est un artefact très puissant, plus ancien qu'Aurélia elle-même.
+eliz:L'Enoth est un artefact très puissant, plus ancien qu'Aurelia elle-même.
 eliz:Mais comme tout artefact, il n'est pas sans défaut.
 eliz:Dans le cas de l'Enoth, il a du mal à distinguer son hôte de son environnement immédiat.
 eliz:Prenant parfois le paiement de l'hôte et de ceux qui l'entourent.
@@ -17729,7 +17729,7 @@ eliz:Le problème, c'est que les utilisateurs de magie sont rares.
 eliz:Et les convaincre de prêter leur propre pouvoir vous prendrait des décennies.
 eliz:Notre meilleure chance est donc d'utiliser des artefacts - des artefacts au pouvoir immense.
 eliz:J'en ai quelques-uns que je suis prêt à sacrifier, mais ce ne sera pas suffisant.
-eliz:Heureusement pour toi, j'ai déjà fait preuve de diligence et j'ai traqué quelques-uns d'entre eux autour d'Aurélia.
+eliz:Heureusement pour toi, j'ai déjà fait preuve de diligence et j'ai traqué quelques-uns d'entre eux autour d'Aurelia.
 eliz:Le premier sur lequel nous devrions nous concentrer devrait être sous la protection de l'Église.
 eliz:Allez-y et gagnez leur confiance.
 eliz:Bonne chance.
@@ -17819,7 +17819,7 @@ main:Bon retour parmi nous.
 main:J'espère que tu n'as rien manqué.
 ginn:J'étais pleinement conscient pendant tout ce temps.
 ginn:Nous avons été bénis !
-ginn:Comme aucun autre mortel d'Aurélia.
+ginn:Comme aucun autre mortel d'Aurelia.
 ginn:Je savais que Lirey t'avait mis sur mon chemin.
 ginn:Et que tu as guidé chacun de mes sentiments.
 ginn:Ce qui signifie que je n'ai plus à douter de moi.
@@ -18687,8 +18687,8 @@ main:Qu'est-ce qui se passe ?
 mimi:On dirait que je n'ai pas fait preuve de la diligence nécessaire en lisant mes instruments magiques.
 mimi:Et il y a quelques effets secondaires possibles avant que le sommeil ne vous prenne.
 main:Ce qui explique la somnolence qui s'installe.
-mimi:Really!?
-mimi:Now!?
+mimi:Vraiment!?
+mimi:Maintenant!?
 mimi:Avec seulement la moitié du travail accompli ! ?
 main:Oh... je suis vraiment désolée.
 main:Laisse-moi réparer ça avant que le sort ne prenne tout son effet.
@@ -18817,7 +18817,7 @@ main: !
 main:Tout à fait.
 nigh:Je ne fais que commencer~
 main:Putain...
-nigh:Aww, qu'est-ce qui s'est passé ?
+nigh:Ohh, qu'est-ce qui s'est passé ?
 nigh:Tu t'es soudain sentie trop à l'étroit ?
 nigh:Tu ne peux pas te retirer ?
 nigh:Tu ressens un millier de caresses, de baisers et de tiraillements... ?
@@ -19248,7 +19248,7 @@ scar:Oui. Comme tu peux le voir, je suis meilleur avec les objets pointus.
 /ivy:C'est un jeu dangereux.
 scar:Je ne savais pas !
 scar:Je commençais à désespérer de te trouver...
-scar:Jusqu'à ce que je rencontre deux criminels de bas étage dans les faubourgs d'Aurélia.
+scar:Jusqu'à ce que je rencontre deux criminels de bas étage dans les faubourgs d'Aurelia.
 scar:Fuir un "sorcier tout-puissant".
 scar:L'un d'eux m'a tout raconté.
 scar:En échange de le "venger" en utilisant sa dague.
@@ -19624,7 +19624,7 @@ eliz:Voici ce que j'ai trouvé : une nouvelle relique qui pourrait vous aider.
 eliz:L'épée flamboyante, Tizona.
 eliz:La dernière fois qu'on l'a vue, elle était gardée par un noble de l'Est.
 eliz:Mais il a été attaqué par un dragon qui voulait l'épée.
-eliz:La dernière chose que nous savons, c'est que le dragon en question s'est envolé vers Aurélia.
+eliz:La dernière chose que nous savons, c'est que le dragon en question s'est envolé vers Aurelia.
 eliz:Je n'ai rien pu glaner de plus.
 eliz:Il va donc falloir chercher un repaire de dragons.
 eliz:Soyez prudents.
@@ -19878,7 +19878,7 @@ eliz:Et te libérer de ta dette avec l'amulette également.
 eliz:Draka, Eri. Laissez-nous.
 eliz:Autre chose que tu veux demander, /main/ ?
 main:Beaucoup.
-eliz:Aww~
+eliz:Ohh~
 eliz:J'ai l'impression que cette erreur est de ma responsabilité.
 eliz:Je t'ai conduit à cette escalade d'événements.
 eliz:Pourtant, cette fois, /main/... Je suis désolé de te dire que je ne peux pas tenir mes promesses.
@@ -20187,7 +20187,7 @@ main:Uuhgh—
 /eri:Avez-vous besoin de plus d'eau ?
 /eri:Plus de potions ?
 /eri:A-
-/eri:*yawn*
+/eri:*bâille*
 /eri:Un massage ?
 /eri:Mmm~
 /eri:Zzz...
@@ -20208,7 +20208,7 @@ main:Voilà. Le livre.
 /ivy:Et pas n'importe quel type de démon. Gorgoth est ce qu'on appelle un primordial.
 /ivy:Cela signifie qu'il se nourrit de forces primordiales. Des choses qui existent dans la nature.
 /ivy:Dans le cas de Gorgoth, le chaos et la peur semblent être ce qui le nourrit.
-scar:Comment diable une telle chose peut-elle arriver jusqu'à Aurélia ?
+scar:Comment diable une telle chose peut-elle arriver jusqu'à Aurelia ?
 /ivy:Il est rare que des démons primordiaux viennent dans notre royaume car les dieux nous protègent.
 /ivy:C'est pourquoi nous leur rendons hommage et les adorons.
 /ivy:Et la raison pour laquelle nous construisons des églises à leur nom.
@@ -20270,7 +20270,7 @@ eliz:Qu'est-ce que tu essaies d'accomplir ?
 eliz:Tu dois aussi respecter ta part du contrat.
 gorg:C'est simple.
 gorg:J'ai pris une Elizabeth, peu après la mort du duc.
-gorg:Inquiète de son avenir, je me demande comment elle va protéger Aurélia maintenant.
+gorg:Inquiète de son avenir, je me demande comment elle va protéger Aurelia maintenant.
 gorg:Comment elle va protéger sa famille.
 gorg:Et puis elle lui a proposé un marché incroyable !
 eliz:Arrête !
@@ -20383,7 +20383,7 @@ scar:Allez, /main/ !
 gorg: !?
 main:Ha ! Il convient à quelqu'un d'aussi perfide que toi de sentir ce que c'est que de se faire poignarder dans le dos.
 gorg:Espèce de fils de pute honteux.
-gorg:Agh!
+gorg:Argh!
 gorg:Notez bien ce que je vais vous dire.
 gorg:Je reviendrai.
 gorg:Et je chasserai ta lignée pendant des années si nécessaire.
@@ -20485,7 +20485,7 @@ eliz:Qu'est-ce que vous essayez d'accomplir ?
 eliz:Tu dois aussi respecter ta part du contrat.
 gorg:C'est simple.
 gorg:J'ai pris une Elizabeth, peu après la mort du duc.
-gorg:Inquiète de son avenir, je me demande comment elle va protéger Aurélia maintenant.
+gorg:Inquiète de son avenir, je me demande comment elle va protéger Aurelia maintenant.
 gorg:Comment elle va protéger sa famille.
 gorg:Et puis elle lui a proposé un marché incroyable !
 eliz:Arrêtez !
@@ -20584,9 +20584,9 @@ gorg:Non ! Non ! Non ! Non ! Non !
 gorg:Bande de stupides sacs à viande !
 gorg:Avez-vous la moindre idée des efforts que j'ai déployés pour obtenir ce contrat ?
 gorg:Allez vous faire foutre ! Maintenant que vous avez abandonné vos pouvoirs, j'ai plus qu'assez de puissance pour tous vous éliminer moi-même !
-scar:Hey, you-catch !
+scar:Hey, Attrape !
 gorg: !?
-gorg:Did—
+gorg:Que—
 gorg:Tu viens de me tirer dessus ?
 gorg:Again!?
 scar:Oui.
@@ -20598,7 +20598,7 @@ scar:Allez, /main/ !
 gorg: !?
 main:Ha ! Il convient à quelqu'un d'aussi perfide que toi de sentir ce que c'est que de se faire poignarder dans le dos.
 gorg:Espèce de fils de pute honteux.
-gorg:Agh!
+gorg:Argh!
 gorg:Retiens bien ce que j'ai dit.
 gorg:Je reviendrai.
 gorg:Et je chasserai ta lignée pendant des EONS si nécessaire.
@@ -20617,7 +20617,7 @@ eliz:Aveuglée par mes propres peurs, j'ai fini par échouer dans ma mission.
 eliz:Vous garder tous les deux en sécurité et heureux.
 eliz:Pourrais-tu un jour pardonner à quelqu'un comme moi ?
 /ivy:Je te pardonne.
-/ivy:C'était pour nous protéger. Et pour protéger les gens d'Aurélia.
+/ivy:C'était pour nous protéger. Et pour protéger les gens d'Aurelia.
 /ivy:La raison était noble.
 /ivy:Mais...
 /ivy:J'aurais préféré faire autre chose de ma vie que de pratiquer constamment la magie.
@@ -20693,7 +20693,7 @@ eliz:Pas après être allé si loin avec nous tous.
 /ivy:Mais tu as décidé de continuer.
 /ivy:D'abord avec Scarlet...
 /ivy:Puis avec Elizabeth.
-scar:Ouais! Vous vouliez tous les membres de la famille royale d'Aurélien !
+scar:Ouais! Vous vouliez tous les membres de la famille royale d'Aurelia !
 scar:Maintenant, tu ne peux plus te dégonfler.
 main:Putain—
 main:Je n'ai aucun regret.
@@ -20798,7 +20798,7 @@ A l'extérieur
 A l'intérieur
 
 //DuchessLast Dilaogue Loop
-eliz:Vous avez bien servi Aurélia, /main/.
+eliz:Vous avez bien servi Aurelia, /main/.
 eliz:Je n'ai plus rien à vous offrir.
 eliz:Profitez de votre liberté.
 
