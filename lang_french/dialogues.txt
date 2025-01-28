@@ -2566,7 +2566,7 @@ main:Et nous nous sommes offert des cadeaux les uns aux autres.
 /ivy:Tu as eu beaucoup de chance.
 /ivy:J'aurais tout donné pour partager des moments comme ça avec ma famille....
 /ivy:Surtout avec ma propre mère...
-/ivy:Nous n'avions pas de relations étroites.
+/ivy:Nous n'étions pas très proches.
 main:Je suis désolé de l'apprendre.
 /ivy:C'est bon, /main/, je ne peux pas changer le passé.
 /ivy:Je me concentre sur le présent !
@@ -2590,14 +2590,14 @@ main:[Avec des plats savoureux, du bon vin, des cadeaux...]
 main:Un petit oiseau m'a dit que tu étais une bonne cuisinière, Janet.
 jane:HA.
 jane:Une bonne cuisinière ?
-jane:S'il vous plaît, /main/...
+jane:S'il te plaît, /main/...
 jane:Je suis la meilleure cuisinière qu'Aurelia ait jamais vue !
 jane:Pourquoi penses-tu que je suis si jeune et si belle ?
 jane:Mes plats sont extraordinaires, chérie.
 main:J'organise un dîner spécial, et j'aimerais servir la meilleure tarte de la ville....
 jane:Oh, je vois... Tu essaies d'impressionner quelqu'un.
-jane:Dois-je être jaloux, /main/ ?
-jane:Hahahaha, je plaisante, chérie !
+jane:Dois-je être jalouse, /main/ ?
+jane:Hahahaha, je plaisante, chéri !
 jane:Tu es au bon endroit.
 jane:Je peux te préparer la tarte la plus délicieuse que tu aies jamais goûtée.
 jane:Pour un garçon aussi mignon que toi~
@@ -2623,7 +2623,7 @@ main:[J'ai déjà le double des clés de la maison, en cadeau].
 main:[Tout est prêt.]
 jane:Merci.
 jane:Viens avec moi dans la cuisine, mon beau.
-jane:Je finis en un clin d'œil !
+jane:J'ai tout de suite fini!
 jane:Attention, c'est chaud !
 main:Bon sang, ça sent délicieusement bon.
 jane:C'est encore meilleur.
@@ -2670,7 +2670,7 @@ main:[Mmmm, j'ai tout ce qu'il faut pour préparer un dîner spécial pour Ivy].
 
 
 
-main:[Done!]
+main:[Fini!]
 main:[Je ferais mieux de l'appeler.]
 main:Ivyyy!?
 main:Peux-tu venir dans le salon ! ?
@@ -16349,7 +16349,7 @@ main:Maintenant, déploie ton aile.
 ????:Ouch!
 ????:Ça pique.
 main:Ne fais pas le bébé pour ça.
-main:Done.
+main:Fini.
 ????:...
 ????:Merci.
 main:Pas de souci.
