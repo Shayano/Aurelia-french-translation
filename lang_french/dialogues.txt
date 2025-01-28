@@ -2588,12 +2588,12 @@ main:[Avec des plats savoureux, du bon vin, des cadeaux...]
 
 
 main:Un petit oiseau m'a dit que tu étais une bonne cuisinière, Janet.
-jane:HA.
+jane:Ah.
 jane:Une bonne cuisinière ?
 jane:S'il te plaît, /main/...
 jane:Je suis la meilleure cuisinière qu'Aurelia ait jamais vue !
 jane:Pourquoi penses-tu que je suis si jeune et si belle ?
-jane:Mes plats sont extraordinaires, chérie.
+jane:Mes plats sont extraordinaires, chéri.
 main:J'organise un dîner spécial, et j'aimerais servir la meilleure tarte de la ville....
 jane:Oh, je vois... Tu essaies d'impressionner quelqu'un.
 jane:Dois-je être jalouse, /main/ ?
@@ -2687,9 +2687,9 @@ main:Allez, Ivy ! La nourriture est en train de refroidir.
 main:Bien sûr!
 /ivy:C'était délicieux, /main/.
 /ivy:Surtout la tarte. Elle était fraîche, sucrée et croquante.
-/ivy:Il faut que tu aies la recette !
+/ivy:Il faut que tu réupères la recette !
 main:Je le ferai. Alors peut-être que je pourrais la faire pour toi.
-main:C'est bon d'entendre que tu l'as tant apprécié.
+main:C'est bon d'entendre que tu l'as tant appréciée.
 main:Oh, j'allais oublier !
 /ivy: ?
 main:Tiens, prends ça.
@@ -2701,18 +2701,18 @@ main: !
 /ivy:Ça représente beaucoup pour moi...
 /ivy:Je suis la fille la plus chanceuse d'Aurelia.
 /ivy:Tu es vraiment un amour.
-main:Bon sang, c'était trop de nourriture.
-main:Pffft, je sais.
-/ivy:J'ai toujours sommeil quand j'ai le ventre plein.
+main:Bon sang, j'ai trop mangé.
+main:Pfff, je sais.
+/ivy:Je suis toujours fatiguée quand j'ai le ventre plein.
 /ivy:Allons dormir, /main/.
 /ivy:Demain, nous nous sentirons comme neufs.
-main:better
+main:mieux
 
 
 
 
 
-/ivy:While
+/ivy:En attendant
 
 
 
@@ -2723,12 +2723,12 @@ main:Bonjour, Ivy.
 /ivy:Bonjour, /main/.
 main:Tu as besoin d'aide ?
 /ivy:Oh, ne t'inquiète pas.
-/ivy:Tu as déjà fait beaucoup pour moi.
+/ivy:Tu en as déjà fait beaucoup pour moi.
 /ivy:Je veux aussi être utile à la maison.
 main:Il n'y a pas besoin...
 main: !
-/ivy:Shhhhh.
-/ivy:Nuh-uh.
+/ivy:Chut.
+/ivy:Na-nan.
 /ivy:Je ne vais pas m'en plaindre, /main/.
 
 
@@ -2756,8 +2756,8 @@ narr:Ivy te donnera désormais des informations intéressantes sur le jardin.
 
 
 /ivy:[Fruit séduisant] ? Ils sont assez communs.
-/ivy:C'est un gros fruit qui ressemble à une pêche. Ils sont doux au toucher et sentent bon.
-/ivy:Avec le sort consume, la plante laissera tomber plusieurs fruits.
+/ivy:Ce sont de gros fruits ressemblant à des pêches. Ils sont duveteux au toucher et sentent bon.
+/ivy:Avec le sort de Consommation, la plante laissera tomber plusieurs fruits.
 
 
 
@@ -2765,23 +2765,23 @@ narr:Ivy te donnera désormais des informations intéressantes sur le jardin.
 
 /ivy:[Nectar de mana] ? C'est un peu rare.
 /ivy:Tu peux extraire le nectar de mana de certains spécimens de fleurs. Les humains utilisent le nectar de mana pour fabriquer des aphrodisiaques.
-/ivy:En l'utilisant avec le sort Consume, nous obtiendrons une augmentation de mana.
+/ivy:L'utiliser avec le sort de Consommation nous donnera un boost de mana.
 
 
 
 
 
 /ivy:[Les piments bouillants] sont très rares.
-/ivy:Ces piments violemment rouges sont extrêmement chauds. Manipule-les avec précaution !
-/ivy:En utiliser un avec le sort Consommer fera pousser toutes les plantes du jardin.
+/ivy:Ces piments d'un rouge violent sont extrêmement épicés. Manipulez-les avec précaution !
+/ivy:En utiliser un avec le sort de Consommation fera pousser toutes les plantes du jardin.
 
 
 
 
 
 /ivy:Un [Fruit d'or] est un trésor extrêmement rare.
-/ivy:Il s'agit d'une mutation du [Fruit séduisant] qui a un goût de miel ! Leur caractère unique les rend très chers.
-/ivy:En utiliser un avec le sort Consommer fera pousser une plante aléatoire dans tous les emplacements vides du jardin.
+/ivy:Il s'agit d'une mutation du [Fruit séduisant] qui a un goût de miel ! Leur unicité les rend chers.
+/ivy:En utiliser un avec le sort de Consommation fera pousser une plante aléatoire dans tous les emplacements vides du jardin.
 
 
 
@@ -2792,7 +2792,7 @@ narr:Ivy te donnera désormais des informations intéressantes sur le jardin.
 /ivy:Malgré certaines de ses actions...
 /ivy:Son attitude a l'air rude sur les bords.
 /ivy:Mais elle a de bonnes intentions.
-/ivy:Scarlet m'a toujours défendu devant les autres.
+/ivy:Scarlet m'a toujours défendue devant les autres.
 /ivy:Elle surprotège les gens qu'elle aime.
 /ivy:Bientôt, tu découvriras aussi cette partie de Scarlet.
 
@@ -2801,14 +2801,14 @@ narr:Ivy te donnera désormais des informations intéressantes sur le jardin.
 
 
 
-jane:Bienvenue sur Trinkets and Baubles ! Je m'appelle Janet.
-jane:Heureuse de vous voir.
-jane:Comment puis-je vous aider ?
+jane:Bienvenue à Babioles et Breloques! Je m'appelle Janet.
+jane:Heureuse de te voir.
+jane:Comment puis-je t'aider ?
 
 
 
 
-narr:L'enseigne indique "bibelots et boules". Il est fermé.
+narr:L'enseigne indique "Babioles et Breloques". le magasin est fermé.
 
 
 
@@ -2822,7 +2822,7 @@ jane:Comment puis-je t'aider ?
 Acheter
 Vendre
 Donner 3 [Fraises sucrées] à Janet
-Que vendez-vous ici ?
+Que vends-tu ici ?
 Cuisiner
 Donner des ingrédients
 Astuce - 10 or
@@ -2848,8 +2848,8 @@ jane:Comment puis-je t'aider ?
 
 
 
-jane:Nous vendons les produits de la plus haute qualité que vous pouvez acheter en ville.
-jane:Regarde autour de toi. N'hésitez pas à demander un produit que vous ne trouvez pas sur les étagères.
+jane:Je vends les produits les plus qualitatifs que tu peux acheter en ville.
+jane:Regarde autour de toi. N'hésitez pas à demander un produit que tu ne trouve pas sur les étagères.
 jane:Si tu te sens très généreux aujourd'hui, même le plus petit pourboire sera apprécié.
 
 
@@ -2858,7 +2858,7 @@ jane:Si tu te sens très généreux aujourd'hui, même le plus petit pourboire s
 
 
 jane:Oh, merci, mon cœur~
-jane:Merci, chérie.
+jane:Merci, chéri.
 
 
 
@@ -2872,7 +2872,7 @@ jane:J'aimerais bien le réparer moi-même, mais...
 jane:Je ne peux pas descendre parce que j'ai une peur bleue des rats.
 jane:Rien que l'idée des rats me fait frissonner... Bbrr...
 jane:J'ai des problèmes financiers, alors je ne peux pas non plus payer un professionnel pour faire le travail.
-jane:Désolé pour l'odeur désagréable.
+jane:Désolée pour l'odeur horrible.
 main:[Peut-être que je peux régler le problème des égouts ou trouver quelqu'un d'assez désespéré pour le faire à ma place].
 
 
@@ -2881,7 +2881,7 @@ main:[Peut-être que je peux régler le problème des égouts ou trouver quelqu'
 
 jane:Oui ! L'odeur désagréable a disparu !
 jane:Comment as-tu fait ?
-main:J'ai payé Ohro pour qu'il débouche vos égouts malodorants.
+main:J'ai payé Ohro pour qu'il débouche tes égouts malodorants.
 
 
 
@@ -2890,14 +2890,14 @@ main:J'ai payé Ohro pour qu'il débouche vos égouts malodorants.
 main:[Et si je pouvais contrôler l'eau du réseau d'égouts ?]
 main:Hé, Janet ! Je pense pouvoir t'aider à résoudre le problème des odeurs.
 main:Je peux aller voir dans la salle de bain ?
-main:Oh, bien sûr ! Malheureusement, je ne pourrai pas vous payer un centime...
+main:Oh, bien sûr ! Malheureusement, je ne pourrai pas te payer un centime...
 main:Ne t'inquiète pas, ma belle.
 jane:Merci ! Viens avec moi alors.
 narr:Janet te dirige vers l'entrée de la salle de bain.
-jane:Voilà, vous l'avez.
+jane:Voilà.
 jane:Je viendrai te voir plus tard. Je retourne au magasin.
 narr:......
-main:[Très probablement, je peux déboucher les tuyaux en manipulant la pression de l'eau].
+main:[Je peux probablement déboucher les tuyaux en manipulant la pression de l'eau].
 main:[D'accord, commençons...]
 main:[Les étapes qu'Ivy m'a enseignées étaient...]
 main:[POSTURE...]
@@ -2907,15 +2907,15 @@ main:[Je sens que quelque chose d'énorme est coincé.]
 main:[Nnnngggggh!!!]
 main:[Juste une petite poussée pour...]
 main: !!!
-main:Pheew!
+main:Fiou!
 main:Enfin, l'eau coule à flot !
-main:[Je ferais mieux d'aller informer Janet.]
+main:[Je ferais mieux d'aller en informer Janet.]
 main:Janet! J'ai terminé.
-jane:Oh mon Dieu ! Cette horrible odeur s'en va !
+jane:Oh mon Dieu ! Cette horrible odeur va s'en aller!
 
 
 Lasagnes
-jane:As-tu déjà vu mon chat ?
+jane:As-tu vu mon chat quelque part ?
 jane:Je jure que je l'entends miauler tout près la plupart des soirs...
 
 
@@ -2924,69 +2924,69 @@ jane:Je jure que je l'entends miauler tout près la plupart des soirs...
 
 
 
-jane:Hé /main/, tu as vu mes petites lasagnes ?
+jane:Hé /main/, tu as vu ma petite Lasagne ?
 main:Désolé, quoi ! ?
-jane:Avez-vous vu mon chat Lasagne ? Je ne le trouve nulle part...
+jane:As-tu vu mon chat Lasagne ? Je ne le trouve nulle part...
 jane:Il a l'habitude de rôder autour de la ville la nuit, mais il ne me quitte normalement jamais des yeux trop longtemps.
 jane:Je m'inquiète pour lui.
 jane:Oh... Ma pauvre petite chose...
-jane:Si tu le vois, fais-le moi savoir, ma chérie.
+jane:Si tu le vois, fais-le moi savoir, mon chéri.
 
 
 
 
 
 main:Oh, tu dois être Lasagne.
-lasa:Meeeeeeeeeeow.
+lasa:Miiiiaouuu.
 main:Qu'est-ce que tu fais loin de chez toi ?
 main:Viens, Janet est inquiète.
 main:Laisse-moi...
 main:Hé, ne cours pas !
-main:Lasagna!
+main:Lasagne!
 main:Pourquoi tu cours ?
 main:Je veux juste te ramener à la maison !
-lasa:MEOOOOOOW !!!
+lasa:MIAOUUUUU !!!
 main:Je t'ai eu !
-lasa:MEOOOOOOW !!!
+lasa:MIAOUUUUU!!!
 main:Comment fais-tu pour avoir encore autant d'énergie ?
-main:De toute façon, Janet saura quoi faire de toi !
+main:Bref, Janet saura quoi faire de toi !
 jane:Oh, Lasagne ! Espèce d'effronté !
 jane:Qu'est-ce que je vais faire de toi ?
 jane:Tu m'as fait peur !
-lasa:Meoooooow !
+lasa:Miiiiaouuu !
 jane:Non, non, tu as été un petit diable ces derniers temps.
 jane:N'essaie pas de faire le malin avec moi.
-jane:Lasagnes, arrêtez !
-lasa:Meoooooow !
-jane:Lasagna!
-jane:JE...
+jane:Lasagne, arrête !
+lasa:Miiiiaouuu !
+jane:Lasagne!
+jane:Je...
 jane:Qu'est-ce que je vais faire de lui...
-jane:De toute façon...
+jane:Peu importe...
 jane:Merci, chéri.
 jane:Tu es devenu mon porte-bonheur ces derniers temps.
 main:Ahem...
 main:Tes vêtements.
 jane:Je sais...
-jane:Je prendrai mes affaires de tailleur plus tard et je les réparerai.
+jane:Je prendrai mes affaires de couture plus tard pour le réparer.
 jane:Ça ne te dérange pas, n'est-ce pas ?
-jane:Ce n'est pas la première fois que tu les vois de toute façon.
-main:Oui, non. I-
+jane:De toute façon, ce n'est pas la première fois que tu les vois.
+main:Oui, non. Je-
 main:Ça ne me dérange pas.
 jane:Ça ne te dérange peut-être pas.
-jane:Mais ton ami là-bas...
+jane:Mais ton ami là-dessous...
 jane:Je le vois essayer de se libérer d'ici.
-jane:Honey~
+jane:Chéri~
 jane:Viens ici, tu veux bien ? Je vais m'en occuper.
-jane:/main/, chérie~
+jane:/main/, chéri~
 jane:Tu es douée à bien des égards.
 jane:Pas étonnant que je puisse le voir d'ici.
 jane:Le magasin est fermé. Nous pouvons prendre notre temps.
 jane:Pas besoin de se presser, d'accord ?
 main:Plus facile à dire qu'à faire.
 jane:/main/~
-jane:Ils sont tous à vous.
+jane:Ils sont tout à toi.
 jane:Je ne vais nulle part.
-jane:Prends ton temps et profite-en, chérie.
+jane:Prends ton temps et profite-en, chéri.
 main:J'en ai envie.
 main:Mais tu rends les choses très difficiles !
 jane:Ça fait du bien ?
@@ -2995,7 +2995,7 @@ jane:Merci, mon chéri.
 jane:Ça fait un moment que je n'ai pas sorti ça pour une balade.
 jane:Et quelle balade...
 main:Putain, je...
-jane:Je sais, chérie.
+jane:Je sais, chéri.
 jane:Je te sens sur le point d'exploser.
 jane:Mais je veux que tu te retiennes.
 main:Janet...
@@ -3004,38 +3004,38 @@ jane:Je sais que je ne te facilite pas la tâche.
 jane:Mais tu ne veux pas que ce soit spécial ?
 jane:Et tu te débrouilles très bien~
 main:Mince...
-jane:Bon travail, chérie.
+jane:Bon travail, chéri.
 jane:Tu es vraiment un amour.
 jane:Maintenant, donne-moi quelques poussées.
-jane:Et lâche-moi.
+jane:Et lâche-toi.
 jane:Laisse tout aller.
 main: !
 main:Putain!
 jane:Mince...
-jane:Le pourboire le plus généreux que j'ai jamais reçu.
+jane:C'est le pourboire le plus généreux que j'ai jamais reçu.
 main:Ah...
-main:It's...
-jane:Gonflé et picotant, je sais /main/.
-jane:Mais tu as tellement enduré.
-jane:Laissez-moi vous remercier.
+main:C'est...
+jane:Gonflé et fourmillant, je sais /main/.
+jane:Mais tu as enduré tellement
+jane:Laisse-moi te remercier.
 jane:Mmmm~
-jane:Est-ce que cela vous aide ?
+jane:Est-ce que cela t'aide ?
 main:Je ne sais pas si aider est le mot que j'utiliserais.
 jane:Pourquoi pas ?
 jane:Ça revient ?
 main:Plus fort que jamais.
 jane:Ohh~ Même en te retenant, tu n'as pas pu tout faire sortir.
 jane:Ne t'inquiète pas ! Je ne te laisserai pas partir comme ça.
-jane:Je ne pouvais pas me pardonner.
+jane:Je ne pourrais pas me pardonner.
 jane:Après tout ce que tu as fait pour moi.
-main:Mince... Janet... I-
-jane:Vas-y, chérie.
+main:Mince... Janet... Je-
+jane:Vas-y, chéri.
 jane:Je ne te ferai pas attendre cette fois.
 main: !
 jane:Mmm~
 jane:Tu te sens mieux ?
 main:Tu n'as pas idée.
-jane:Oh, chérie.
+jane:Oh, chéri.
 jane:J'en ai une bonne idée~
 jane:En fait, je peux même le goûter.
 main:Putain...
@@ -3164,9 +3164,9 @@ jane:Et voilà !
 
 
 
-jane:Un moment, chérie !
+jane:Un moment, chéri !
 jane:Cette foutue chose.
-narr:*thunk!*
+narr:*bam!*
 jane:Bon sang !
 main:...
 jane:Oh, /main/ !
@@ -3250,12 +3250,12 @@ main:Très bien.
 
 
 jane:/main/?
-main:*grumble*
+main:*marmonne*
 jane:Bonjour~
 main:Janet?
 main:Quelle heure est-il ?
 jane:Il est tôt le matin, chéri.
-jane:Tu avais l'air d'avoir besoin de te reposer, alors je ne t'ai pas dérangé.
+jane:Tu avais l'air d'avoir besoin de te reposer, alors je t'ai laissé tranquille.
 jane:J'espère que ça ne te dérange pas.
 main:C'est bon.
 jane:Super~
@@ -3265,14 +3265,14 @@ jane:Oh~
 jane:Mes vêtements sont-ils si révélateurs ?
 main:Eh bien...
 jane:Il n'y a pas de mal, chéri.
-jane:Ça veut dire que tu trouves quelqu'un comme moi attirant.
+jane:Ça veut dire que tu trouves quelqu'un comme moi attirante.
 main:Quelqu'un comme toi ?
 jane:C'est-à-dire quelqu'un de plus âgé que toi.
 jane:C'est pour ça que tu t'occupes de moi, n'est-ce pas ?
 main:Ton âge ne m'est venu à l'esprit à aucun moment, je voulais seulement t'aider.
 jane:Oh, /main/. Tu es un amour~
 jane:Laisse-moi te rendre la pareille, alors. Tu m'aides, je t'aide.
-main:Janet-Putain...
+main:Janet, putain...
 jane:[Mmm~]
 jane:[Pauvre garçon.]
 jane:[Se réveiller avec ça tous les matins.]
@@ -3280,17 +3280,17 @@ jane:[Ne t'inquiète pas, je prendrai soin de toi.]
 jane:[Tant que tu te réveilleras chez moi, je ne te laisserai pas sortir avec ce fardeau.]
 main:Mince!
 main:Je ne vais pas durer si tu continues comme ça.
-jane:[J'ai de l'expérience, chérie.]
+jane:[J'ai de l'expérience, chéri.]
 jane:[Et c'est justement ce dont tu as besoin.]
 jane:[Quelqu'un qui sait comment te faire plaisir, à tout moment~].
 main: !
 main:Putain.
 jane:[Bon garçon, continue de bouger tes hanches ! Vide tout dans ma bouche, je peux le supporter !]
 jane:[Ohh~ Si mignon. Tu cherches à voir si j'engloutis tout ?].
-jane:[Ne t'inquiète pas, chérie, il n'y a pas de monde où je laisserais cela se gaspiller.]
-jane:*gulp*
+jane:[Ne t'inquiète pas, chéri, il n'existe pas un monde où je laisserais ça se gaspiller.]
+jane:*gloup*
 jane:Ahh~ Beaucoup mieux, non ?
-jane:Maintenant, allons prendre ce petit déjeuner, chérie. J'ai besoin que tu sois forte pour moi~
+jane:Maintenant, allons prendre ce petit déjeuner, chéri. J'ai besoin que tu sois fort pour moi~
 
 
 jane:Absolument !
