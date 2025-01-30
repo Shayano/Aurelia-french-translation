@@ -4500,14 +4500,14 @@ lily:Il se fait tard. Nous devrions être rentrés à la maison à l'heure qu'il
 main:Ça a l'air génial, Lily !
 lily:Merci! J'ai essayé de nombreuses fois d'obtenir un résultat parfait.
 lily:J'en ai une boîte pleine à craquer pour le prouver.
-main:N'est-ce pas fastidieux ?
-lily:Oui, mais je veux te donner le meilleur de moi-même.
+main:Ça n'était pas trop compliqué ?
+lily:Oui, mais je veux donner le meilleur de moi-même.
 lily:Je peux encore te donner la boîte, si tu veux !
 lily:Mais je doute qu'ils aient un effet supplémentaire sur le jardin.
 main:Tu pourrais demander à Janet, peut-être que ça l'intéresse.
 lily:Oh, non, non, non.
 lily:Je ne saurais même pas par où commencer.
-lily:Et Janet ? Elle a plus d'intensité que je ne peux en supporter !
+lily:Et Janet ? Elle est trop intense pour moi!
 lily:Je n'ose même pas lui demander de rendre ces livres de cuisine qu'elle a empruntés il y a longtemps.
 main:Je peux lui demander pour toi.
 lily:Tu ferais ça ?
@@ -4522,15 +4522,15 @@ narr:Vous faites l'acquisition d'une boîte remplie de produits de jardinage.
 
 
 main:Janet, par curiosité...
-main:Seriez-vous intéressée par l'achat de ceci ?
+main:Serais-tu intéressée par l'achat de ceci ?
 main:C'est une boîte remplie de potions et d'élixirs pour aider les plantes à pousser.
 jane:Où as-tu trouvé ça ?
 main:Je l'avais chez moi.
 jane:Aha...
-jane:Eh bien, je ne sais pas si ça va se vendre du tout.
-jane:Laissez-moi la boîte ici. Si j'arrive à en vendre une partie, je te le ferai savoir.
-jane:Deal?
-main:Deal.
+jane:Eh bien, je ne sais pas si ça va se vendre.
+jane:Laisse-moi la boîte ici. Si j'arrive à en vendre une partie, je te le ferai savoir.
+jane:D'accord?
+main:Marché conclu.
 
 
 
@@ -4544,28 +4544,28 @@ lily:Elle est venue ici pour m'en parler.
 main:Comment a-t-elle su ?
 lily:Il y avait un peu de mes cheveux au fond de la boîte.
 
-lily:Je n'aurais jamais imaginé qu'elle le reconnaisse !
+lily:Je n'aurais jamais imaginé qu'elle les reconnaisse !
 lily:Je lui ai dit que c'était moi qui t'avais envoyé.
 lily:Mais elle a commencé à poser des questions sur l'alchimie...
-lily:Une fois que je lui ai parlé des potions, elle n'a pas voulu lâcher l'affaire.
+lily:Une fois que je lui ai parlé des potions, elle n'a plus voulu lâcher l'affaire.
 lily:Elle n'arrêtait pas de poser des questions à ce sujet.
 lily:Une chose en entraînant une autre...
 lily:Et j'ai fini par lui promettre de lui vendre des potions régulièrement.
 main:Je peux essayer de l'en dissuader si tu ne veux pas le faire.
 lily:Oh non !
 lily:C'est une grande chance d'améliorer mon alchimie.
-lily:Et l'or ne fera pas de mal.
-lily:Je suis juste un peu nerveux à ce sujet.
-lily:J'ai pris le temps de vérifier les collines près du village, et j'ai trouvé du nectar de mana.
+lily:Et un peu d'or ne fera pas de mal.
+lily:Je suis juste un peu nerveuse à ce sujet.
+lily:J'ai pris le temps de vérifier la colline près du village, et j'ai trouvé du nectar de mana.
 lily:Il n'est pas de la même qualité que celui que tu m'apportes, mais il devrait faire l'affaire.
-lily:Merci de m'avoir aidé.
-lily:Je n'aurais jamais été dans cette position si tu n'avais pas été là.
-lily:À partir de maintenant, je serai dans les collines le soir, à la recherche d'ingrédients.
+lily:Merci de m'avoir aidée.
+lily:Je ne serais jamais arrivée jusqu'ici si tu n'avais pas été là.
+lily:À partir de maintenant, je serai sur la colline le soir, à la recherche d'ingrédients.
 main:Il ne fera pas trop sombre ?
 lily:Ne t'inquiète pas, mes yeux s'adaptent rapidement à la nuit.
 lily:Et il est plus facile de repérer le nectar de Mana grâce à son éclat naturel.
 lily:J'apporterai probablement le Stellan avec moi aussi, ainsi que de la nourriture.
-lily:N'hésitez pas à passer me voir.
+lily:N'hésite pas à passer me voir.
 
 
 lily:Bonsoir /main/.
@@ -4576,12 +4576,12 @@ Bois l'aphrodisiaque
 Stellan
 Famille
 Utilise le Stellan
-Urges
+Pulsions
 
 lily:Bien sûr!
 lily:Tiens, prends quelques outils.
 lily:Merci, /main/.
-lily:Tenez, prenez des potions que j'ai préparées.
+lily:Tiens, prend des potions que j'ai préparées.
 lily:C'est le moins que je puisse faire.
 lily:Et je devrais avoir plus qu'assez d'ingrédients pour en faire d'autres pour Janet !
 
@@ -4591,7 +4591,7 @@ lily:Et je devrais avoir plus qu'assez d'ingrédients pour en faire d'autres pou
 
 
 lily:C'est très amusant !
-lily:C'est assez différent de ce à quoi je suis habitué.
+lily:C'est assez différent de ce à quoi je suis habituée.
 lily:La librairie est sympa, mais on s'y ennuie parfois.
 
 
@@ -4601,10 +4601,10 @@ lily:La librairie est sympa, mais on s'y ennuie parfois.
 lily:Ma famille ?
 lily:Ils vivent loin d'ici.
 lily:Je vivais avec mes parents et mes neuf frères et sœurs.
-main:Nine!?
+main:neuf!?
 lily:Haha, oui.
-lily:J'étais le plus jeune.
-lily:Et je n'ai jamais attiré l'attention.
+lily:J'étais la plus jeune.
+lily:Et je n'ai jamais attirée l'attention.
 lily:J'ai économisé un peu et je suis venu à Aurelia.
 lily:Peu de temps après, j'ai utilisé ma maison comme librairie pour gagner ma vie.
 
@@ -4614,7 +4614,7 @@ lily:Peu de temps après, j'ai utilisé ma maison comme librairie pour gagner ma
 
 lily:C'est l'une des premières choses que j'ai achetées avec l'argent que je gagnais à la librairie.
 lily:J'ai toujours voulu en avoir un, même quand j'étais très jeune.
-lily:Je pense que je suis un peu bizarre de vouloir quelque chose comme ça.
+lily:Je dois être un peu bizarre de vouloir quelque chose comme ça.
 
 
 
@@ -4635,14 +4635,14 @@ lily:Et embarrassant.
 lily:Mon corps réagit naturellement aux partenaires potentiels.
 lily:Cela m'est déjà arrivé, mais j'ai pu le contrôler sans trop de problèmes.
 lily:Avec toi... c'est différent, presque irrépressible.
-lily:Tu n'en as aucune idée.
+lily:Tu n'as aucune idée à quel point.
 main:Je ne pense pas que ce soit quelque chose que je puisse comprendre.
 lily:Eh bien...
 lily:J'ai travaillé sur un aphrodisiaque.
-lily:Je me suis inspiré de la formule que j'ai utilisée pour la première potion que nous avons préparée ensemble.
+lily:Je me suis inspirée de la formule que j'ai utilisée pour la première potion que nous avons préparée ensemble.
 lily:Il devrait permettre à quelqu'un comme toi de ressentir quelque chose de proche de mes pulsions.
-lily:C'est à des fins de recherche !
-lily:Il est dans le panier, au cas où tu voudrais l'expérimenter.
+lily:C'est pour la science bien sûr !
+lily:Elle est dans le panier, au cas où tu voudrais l'expérimenter.
 
 
 
@@ -4653,7 +4653,7 @@ lily:Pourquoi tu... Laisse tomber. Qu'est-ce que tu ressens ?
 main:Je commence à avoir chaud.
 lily:Et ?
 main:Un peu désorienté.
-lily:Je suis curieux de savoir à quel point l'effet imitera mes pulsions.
+lily:Je suis curieuse de savoir à quel point l'effet imitera mes pulsions.
 lily:Et à quel point il aura un impact sur ta capacité à prendre des décisions.
 lily:Il faut en général une heure pour que ça devienne insupportable.
 lily:... ?
@@ -4662,7 +4662,7 @@ lily:Tu m'écoutes ?
 main:Une heure ? Cela devient déjà insupportable pour moi.
 lily:La première fois est toujours terrible.
 lily:Ne t'inquiète pas, j'avais imaginé que cela arriverait.
-lily:J'étais même un peu... Impatient.
+lily:J'étais même un peu... Impatiente.
 lily:Ne t'inquiète pas, assouvissons ces pulsions ensemble.
 
 
@@ -4674,11 +4674,11 @@ main:Comment as-tu pu garder cela en toi ?
 lily:Tu me comprends enfin.
 lily:Cette sensation est ce que j'ai retenu chaque jour.
 lily:Depuis que tu as joui sur mon visage la première fois.
-lily:Le travail sur les cuisses a aidé, mais c'était loin d'être une solution.
+lily:La branlette entre les cuisses a aidé, mais c'était loin d'être une solution.
 lily:Je savais que je ne faisais que retarder le problème.
-lily:La seule solution était d'apaiser mes pulsions...
-lily:C'est en te faisant éperonner sans pitié.
-lily:Maintenant, pompe tout ce que tu as en moi.
+lily:La seule solution pour apaiser mes pulsions...
+lily:C'est que tu me prennes sans merci.
+lily:Maintenant, déverse tout ce que tu as en moi.
 lily:Aussi profondément que possible.
 lily:Jusqu'à la dernière goutte...
 lily: !
@@ -4689,7 +4689,7 @@ main:C'est tout ce que j'avais.
 lily:Mmmmmm...
 lily:Plus qu'il n'en faut.
 lily:Plus qu'assez.
-lily:Cependant, la sensation est tellement béate et libératrice...
+lily:Cependant, la sensation est tellement bonne et libératrice...
 lily:...
 lily:/main/?
 main: ?
