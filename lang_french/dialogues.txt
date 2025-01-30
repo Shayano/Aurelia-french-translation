@@ -3053,7 +3053,7 @@ jane:Ne me fais pas attendre~
 
 
 
-jane:Attends une seconde, je vais retourner le panneau d'ouverture, chérie.
+jane:Attends une seconde, je vais retourner le panneau d'ouverture, chéri.
 jane:Ne t'inquiète pas, /main/.
 jane:Je comprends tes besoins.
 jane:Tu es un jeune homme.
@@ -3062,26 +3062,26 @@ jane:Tu travailles très dur...
 jane:Demande-moi simplement...
 jane:Et je me mettrai à genoux.
 jane:Quand tu veux.
-jane:Tu l'enfonces dans mes lèvres...
+jane:Tu la pose sur mes lèvres...
 jane:Veux-tu l'enfoncer dans ma bouche ?
-jane:Ici, /main/ !
+jane:Voilà, /main/ !
 jane:Donne-moi une bouchée.
 jane: !
 jane:Délicieux.
 jane:Et il y en a tellement !
-jane:Merci pour ta contribution, chérie.
+jane:Merci pour ta contribution, chéri.
 jane:Laisse-moi nettoyer ça dans un instant.
 narr:Janet reste à genoux, léchant ton sperme sur ses seins et ton entrejambe.
 narr:Une fois que c'est fait, elle embrasse le bout de ta bite et te sourit.
-jane:J'espère que tu pourras me donner un autre conseil plus tard, chérie.
-jane:Le gars le moins cher que tu puisses rencontrer.
+jane:J'espère que tu pourras me donner un autre pourboire plus tard, chéri.
+jane:Le gars le plus radin que tu rencontreras jamais.
 
 
 
 
 
 jane:Uggh!
-jane:Le gars le moins cher que tu puisses rencontrer.
+jane:Le gars le plus radin que tu rencontreras jamais.
 jane:Je ne lui fais pas du tout confiance.
 jane:Il y a longtemps, je lui ai vendu une louche en fer.
 jane:Dès le lendemain de son achat, il s'est présenté au magasin avec celle-ci cassée en deux.
@@ -3104,22 +3104,22 @@ jane:Oh, oui.
 jane:Je cuisine de temps en temps.
 jane:Ces derniers temps, beaucoup moins.
 jane:Le magasin me prend beaucoup de temps.
-main:Et si je vous trouve des ingrédients ?
+main:Et si je te trouve des ingrédients ?
 jane:Oh, ce serait fantastique !
-jane:Je pourrais même ajouter les plats à la boutique, si tu m'en apportes suffisamment.
-main:De quoi auriez-vous besoin ? J'ai un jardin à la maison.
-jane:Tout ce que tu peux me donner est parfait, chérie.
-jane:Je l'attendrai avec impatience.
+jane:Je pourrais même ajouter des plats à la boutique, si tu m'en apportes suffisamment.
+main:De quoi aurais-tu besoin ? J'ai un jardin à la maison.
+jane:Tout ce que tu peux me donner est parfait, chéri.
+jane:Je l'attends avec impatience.
 
 
 Boîtes de transport
 jane:Soran devrait les avoir.
-jane:Apportez-les ici chaque fois que vous le pouvez.
-jane:Et merci encore, chérie.
+jane:Apporte-les ici dès que tu le peux.
+jane:Et merci encore, chéri.
 
 Contrat de Soran
-jane:Chérie, tu n'as pas à t'inquiéter.
-jane:J'ai signé le contrat de Soran, je m'en occupe.
+jane:Chéri, tu n'as pas à t'inquiéter.
+jane:J'ai signé le contrat avec Soran, je m'en occupe.
 jane:Merci de t'en soucier, en tout cas.
 
 
@@ -3172,14 +3172,14 @@ main:...
 jane:Oh, /main/ !
 jane:Bienvenue dans ma boutique.
 main:Quel était ce bruit ?
-jane:Ah, ne vous inquiétez pas.
+jane:Ah, ne t'inquiétes pas.
 jane:J'ai juste déposé une boîte avec quelques marchandises.
 jane:C'était plus volumineux que ce que je reçois habituellement.
-jane:Et le pire, c'est que j'ai bien plus à transporter...
-main:Je peux vous aider ?
-jane:Oh, ma chérie. Comme c'est gentil.
-jane:Ils ne sont même pas encore là.
-jane:Je les ai commandés à Soran, le nain de la taverne.
+jane:Et le pire, c'est que j'en ai bien plus à transporter...
+main:Je peux t'aider ?
+jane:Oh, mon chéri. Comme c'est gentil.
+jane:Elles ne sont même pas encore là.
+jane:Je les ai commandées à Soran, le nain de la taverne.
 jane:Les marchandises étaient assez intéressantes si je les achetais en gros, alors j'ai pensé que je ferais des économies de cette façon.
 jane:Je vois maintenant que ce n'était pas une bonne idée.
 jane:Pourrais-tu parler à Soran et faire venir les boîtes pour moi ?
@@ -3192,11 +3192,11 @@ jane:Merci beaucoup~
 
 
 
-sora:Ah oui, les marchandises du halfling...
+sora:Ah oui, les marchandises de la halfelin...
 sora:Elle a fait une sacrée affaire.
 sora:Tu es venu les prendre ?
 main:Oui.
-sora:Eh bien, j'ai préparé les 42 boîtes pour le moment où vous voudrez les prendre.
+sora:Eh bien, j'ai préparé les 42 boîtes pour le moment où tu voudras les prendre.
 main:42 !?
 sora:Hahahaha !
 sora:Bon, je te laisse un peu de temps pour y réfléchir...
@@ -3212,18 +3212,18 @@ reyn:Tu l'as eu, /main/.
 reyn:Fais attention, espèce de brute !
 reyn:Tu m'as frappé dans le dos.
 dism:Je dois rester près de toi pour m'assurer que tu gardes tes mains pour porter des trucs.
-reyn:Mean.
+reyn:Méchant.
 main:Et c'est la dernière, Janet.
 jane:Merci beaucoup, /main/ !
-jane:Vous m'avez sorti de cette situation.
+jane:Tu m'as sortie de cette situation.
 jane:Je suis tellement reconnaissante que quelqu'un comme toi prenne soin de moi ces derniers temps.
 main:Merci.
-jane:Chérie, tu n'as pas besoin de me remercier du tout.
-jane:Je me sentais bien seul dans ce village jusqu'à ce que tu viennes dans ma boutique.
+jane:Chéri, tu n'as pas besoin de me remercier du tout.
+jane:Je me sentais bien seule dans ce village jusqu'à ce que tu viennes dans ma boutique.
 jane:Tu as l'air de t'intéresser sincèrement à moi.
 jane:Je me sens en sécurité.
-jane:Mmmm, tu transpires encore, chérie.
-jane:Tu es fatiguée ?
+jane:Mmmm, tu es tout transpirant, chéri.
+jane:Tu es fatigué ?
 main:Oui, un peu.
 jane:Ce n'est pas grave, tu peux t'allonger sur mon lit et te reposer un peu.
 jane:S'il te plaît. Comme ça, je me sentirai moins coupable.
@@ -3234,7 +3234,7 @@ main:Très bien.
 
 
 sora:Brave garçon !
-sora:Eh bien, allez-y.
+sora:Eh bien, vas-y.
 main:Et c'est la dernière, Janet.
 jane:Merci beaucoup, /main/.
 jane:Tu vas bien ?
@@ -3260,7 +3260,7 @@ jane:J'espère que ça ne te dérange pas.
 main:C'est bon.
 jane:Super~
 jane:Pourquoi ne viendrais-tu pas manger quelque chose avec moi ?
-jane:Je vais vous préparer un petit déjeuner exceptionnel.
+jane:Je vais te préparer un petit déjeuner exceptionnel.
 jane:Oh~
 jane:Mes vêtements sont-ils si révélateurs ?
 main:Eh bien...
@@ -3294,7 +3294,7 @@ jane:Maintenant, allons prendre ce petit déjeuner, chéri. J'ai besoin que tu s
 
 
 jane:Absolument !
-jane:Faites comme chez vous.
+jane:Fait comme chez toi.
 jane:Je ferai en sorte de te réveiller tôt~
 narr:......
 main:Janet?
@@ -3304,11 +3304,11 @@ jane:[Je suis vraiment désolée, /main/.]
 jane:[Dès que je suis entré dans la chambre et que je l'ai vu remonter les draps...]
 jane:[Je me suis mordu la lèvre en essayant de me retenir.]
 jane:[Je me suis dit qu'un simple baiser ne pouvait pas faire de mal, non ?].
-jane:[Mais le baiser est devenu une attaque.]
-jane:[Le coup est devenu un coup de langue...]
+jane:[Mais le baiser s'est transformé en caresse.]
+jane:[La caresse est devenue un coup de langue...]
 jane:[Et puis je me suis perdue en le suçant...].
 main:Janet... Tu es tellement douée pour ça...
-jane:[Merci beaucoup, chérie.]
+jane:[Merci beaucoup, chéri.]
 jane:[Tu peux dormir ici n'importe quand.]
 jane:[Et je serai là tous les matins~]
 main: !
@@ -3321,7 +3321,7 @@ jane:[Je sais...]
 jane:[Encore un peu~]
 jane:*gulp*
 jane:Beaucoup mieux~
-jane:Maintenant, prenons ce petit déjeuner, chérie.
+jane:Maintenant, prenons ce petit déjeuner, chéri.
 
 
 
@@ -3329,14 +3329,14 @@ jane:Maintenant, prenons ce petit déjeuner, chérie.
 
 
 sora:Hé ! /main/.
-sora:Prêt à charger d'autres boîtes ?
-sora:Ils devraient bientôt arriver.
+sora:Prêt à porter d'autres boîtes ?
+sora:Elles devraient bientôt arriver.
 main:D'autres boîtes ? Je croyais que c'était tout.
 sora:Hahaha!
 sora:On est loin du compte, fiston !
 sora:Janet a signé un contrat prolongé la première fois qu'elle a acheté mes produits.
-sora:Désolée. Je croyais que tu travaillais pour elle maintenant.
-sora:Anyway. Je le dirai à Janet plus tard.
+sora:Désolé. Je croyais que tu travaillais pour elle maintenant.
+sora:Bref. Je le dirai à Janet plus tard.
 
 
 
@@ -3345,7 +3345,7 @@ sora:Anyway. Je le dirai à Janet plus tard.
 
 jane:Ah, ne t'inquiète pas, /main/ !
 jane:Tu m'as déjà beaucoup aidé !
-jane:Je n'étais pas au courant de la taille de la boîte, alors ça m'a pris par surprise l'autre jour.
+jane:Je n'étais pas au courant de la taille des boîtes, Ça m'a surprise l'autre jour.
 jane:Mais maintenant que je le sais, je suppose que je vais devoir trouver quelqu'un pour porter les affaires à ma place.
 main:Pourquoi ne dis-tu pas non à Soran ?
 jane:Oh, chéri.
@@ -3372,7 +3372,7 @@ sora:Mmmmmm.
 sora:Écoute, petit.
 sora:J'ai bientôt une réunion d'affaires avec des gens remarquables.
 sora:Et la nourriture de Janet peut faire une excellente impression.
-sora:Apportez-moi cinq tartes et trois parts de gâteau d'elle, et j'annulerai le contrat.
+sora:Apporte-moi cinq tartes et trois parts de gâteau d'elle, et j'annulerai le contrat.
 sora:Ça, ou les 1 200 dollars d'or. Je me fiche de savoir lequel des deux.
 
 
@@ -3380,8 +3380,8 @@ sora:Ça, ou les 1 200 dollars d'or. Je me fiche de savoir lequel des deux.
 
 
 sora:Bien!
-sora:Considérez que c'est annulé.
-sora:Maintenant, si vous le voulez bien, j'ai du travail.
+sora:Considére que c'est annulé.
+sora:Maintenant, si tu le veux bien, j'ai du travail.
 
 
 
@@ -3390,7 +3390,7 @@ sora:Maintenant, si vous le voulez bien, j'ai du travail.
 
 sora:Bien!
 sora:Considère que c'est annulé.
-sora:Maintenant, si vous le voulez bien, j'ai du travail.
+sora:Maintenant, si tu le veux bien, j'ai du travail.
 
 
 
@@ -3398,7 +3398,7 @@ sora:Maintenant, si vous le voulez bien, j'ai du travail.
 
 
 jane:/main/!
-jane:Oh, ma chérie.
+jane:Oh, mon chéri.
 jane:Soran est venu me dire que tu l'avais convaincu d'annuler le contrat.
 jane:Merci beaucoup !
 jane:Je ne sais pas ce que je ferais sans toi ces derniers temps.
@@ -3406,14 +3406,14 @@ jane:Tiens, j'avais économisé 300 or pour engager quelqu'un pour porter ces lo
 jane:Je veux que tu l'aies, maintenant que je n'en ai plus besoin.
 jane:Et si tu veux rester dans les parages, ne te gêne pas.
 jane:Tu peux m'aider au magasin ou simplement te reposer.
-jane:Tout ce que tu veux, chérie.
+jane:Tout ce que tu veux, chéri.
 
 
 
 
 
 
-jane:Tu veux m'aider, chérie ?
+jane:Tu veux m'aider, chéri ?
 jane:Bien sûr~
 jane:Laisse-moi retourner le panneau, alors.
 main: ?
@@ -3427,19 +3427,19 @@ jane:Beaucoup~
 jane:Tu y vas fort avec moi, /main/.
 jane:Tu me voulais à ce point ?
 main:Ouais.
-jane:Moi aussi, chérie.
+jane:Moi aussi, chéri.
 jane:Je le voulais depuis que tu as sauvé mon chat pour la première fois.
-jane:Dès que tu l'as sorti et que tu l'as enfoncé entre mes seins.
+jane:Dès que tu l'as sortie et que tu l'as glissée entre mes seins.
 jane:Nnnf~
 jane:Ça m'a donné envie de te sauter dessus et de te chevaucher...
 jane:Mais je ne voulais pas te faire fuir.
-main:Me faire peur ?
-jane:Je sais, n'est-ce pas ? C'est tellement bête maintenant que j'y pense.
-jane:Tant de temps perdu à ne pas se faire pilonner à cause de ça.
+main:Me faire fuir ?
+jane:Je sais, c'est tellement bête maintenant que j'y pense.
+jane:Tant de temps perdu à ne pas se faire fourrer à cause de ça.
 jane:Alors tu ferais mieux de me donner tout ce que tu as !
 main: !
 main:Désolé, j'ai frappé la table et...
-jane:Je m'en fiche, chérie !
+jane:Je m'en fiche, chéri !
 jane:Tiens-moi juste dans tes bras.
 
 
@@ -3454,22 +3454,22 @@ jane:Et j'adore quand tu m'aides comme ça.
 jane:Maintenant.
 jane:Frappe cette table aussi fort que tu le peux.
 main:Quelqu'un pourrait te voir, Janet.
-jane:Je sais, chérie.
+jane:Je sais, chéri.
 jane:Mais ça ne me dérange pas.
-jane:Faites savoir au village que vous avez réclamé ce commerçant.
-jane:Je suis tout à toi !
+jane:Laisse le village savoir que tu as fait tienne cette commerçante.
+jane:Je suis toute à toi !
 main: !
 main:Nnnf~
-jane:Ça y est, /main/ !
-jane:Continuez d'en mettre plein la vue.
-jane:Je veux faire couler ton sperme tout en parlant avec mes clients...
+jane:C'est ça, /main/ !
+jane:Continue comme ça.
+jane:Je veux que ton sperme coule de moi pendant que je parle à mes clients...
 
 
 
 
 
 
-jane:Bien sûr, chérie~
+jane:Bien sûr, chéri~
 Massage
 Branlette espagnole
 Passer la nuit
@@ -3497,7 +3497,7 @@ Paier 150 or pour le travail dans les égouts
 Paier 200 or pour le travail dans les égouts
 La ruelle
 Donner de l'argent à Ohro pour un repas - 20 or
-ohro:Ohro apprécie votre gentillesse.
+ohro:Ohro apprécie ta gentillesse.
 ohro:Mon ami, laisse le vieux Ohro partager avec toi les paroles de sagesse que j'ai entendues au fil des ans.
 ohro:Esta m'a dit un jour :  "Si tu n'arrives pas à trouver une réponse, il se peut que tu poses la mauvaise question".
 
@@ -3512,10 +3512,10 @@ main:Hé, mon vieux.
 main:Tu veux un moyen rapide de gagner de l'argent ?
 ohro:Toujours, mon petit.
 main:Aujourd'hui, c'est ton jour de chance.
-main:Si tu vas dans les égouts sous la boutique de Janet et que tu débranches manuellement ce qui bloque ses tuyaux, je te donnerai quelques pièces...
+main:Si tu vas dans les égouts sous la boutique de Janet et que tu débouches manuellement ce qui bloque ses tuyaux, je te donnerai quelques pièces...
 ohro:Un travail facile pour Ohro !
 ohro:Je le ferai tant que je serai payé à l'avance.
-main:Bien sûr, je vous donnerai...
+main:Bien sûr, je te donnerai...
 
 
 
@@ -3532,7 +3532,7 @@ ohro:Mes honoraires seront de 200 pièces d'or. Ni plus ni moins que cela.
 main:100 or ?
 ohro:Mmmmm...
 ohro:Oui, je crois que ça ira.
-ohro:Considérez que c'est fait.
+ohro:Considére que c'est fait.
 
 
 
@@ -3541,21 +3541,21 @@ ohro:Considérez que c'est fait.
 main:150 or ?
 ohro:Oh !
 ohro:Bien sûr, mon ami !
-ohro:Considérez que c'est fait.
+ohro:Considére que c'est fait.
 
 
 
 
 
-ohro:Deal! Je serai de retour dans une heure.
-narr:Vous attendez le retour d'Ohro.
-main:Bonjour Ohro ! Qu'est-ce qui t'a pris autant de temps ?
+ohro:Marché conclu! Je serai de retour dans une heure.
+narr:Toi, attends le retour d'Ohro.
+main:Salut Ohro ! Qu'est-ce qui t'a pris autant de temps ?
 ohro:Oh mec... Les égouts sont sales et dégoûtants. Il a fallu à Ohro quelques efforts...
-ohro:J'ai retiré trop de choses mortes du tuyau du magasin...
-ohro:Au moins quatre tortues et un rat flasque.
-ohro:Quoi qu'il en soit, le tuyau est dégagé maintenant. L'eau s'écoule agréablement.
-ohro:Maintenant, si vous voulez bien m'excuser, je vais aller me faire marteler.
-main:[Je dirai à Janet que son problème est résolu.]
+ohro:J'ai sorti trop de trucs morts du tuyau du magasin...
+ohro:Au moins quatre tortues et un rat tout flasque.
+ohro:Quoi qu'il en soit, le tuyau est dégagé maintenant. L'eau coule bien.
+ohro:Maintenant, si tu veux bien m'excuser, je vais aller me bourrer la gueule.
+main:[Je vais dire à Janet que son problème est résolu.]
 
 
 
@@ -3585,7 +3585,7 @@ ohro:Comment passer Kivir... ?
 ohro:...
 ohro:Kivir est un garde implacable et sans pitié.
 ohro:Il n'y a aucun moyen d'entrer dans la maison close sans sa permission.
-ohro:Croyez-moi... Ohro a essayé... Trop souvent...
+ohro:Crois-moi... Ohro a essayé... Trop souvent...
 main:La permission ?
 ohro:Oui. Seuls quelques habitants de la ville peuvent visiter la maison close.
 ohro:Seuls les hommes qui "servent la communauté".
@@ -3603,9 +3603,9 @@ ohro:Un travail facile pour Ohro !
 
 
 kivi:Tu cherches quelque chose, étranger ?
-main:Je regarde juste la place de la ville. Qu'est-ce qu'il y a au fond de la ruelle ?
-kivi:Ça ne vous regarde pas.
-kivi:Va te faire voir ! !!
+main:Je fais juste le tour de la place. Qu'est-ce qu'il y a au fond de la ruelle ?
+kivi:Ça ne te regarde pas.
+kivi:Dégage ! !!
 main:[Ce type garde farouchement la ruelle.]
 main:[Je me demande ce qu'il y a derrière lui.]
 ohro:Un travail facile pour Ohro !
@@ -3641,11 +3641,11 @@ kivi:Bien sûr.
 
 
 
-sora:Hé, mon enfant, on s'est déjà rencontrés ?
+sora:Hé, mon gars, on s'est déjà rencontrés ?
 sora:Je ne crois pas t'avoir déjà vu...
-main:Non, je suis nouvelle en ville. Je viens d'emménager à Aurelia.
+main:Non, je suis nouveau en ville. Je viens d'emménager à Aurelia.
 main:Je m'appelle /main/.
-sora:Soran. Enchanté de vous rencontrer, /main/.
+sora:Soran. Enchanté de te rencontrer, /main/.
 
 
 
@@ -3663,7 +3663,7 @@ Accepter l'offre de Soran - 300 or
 Payer pour le [Stellan] - 3000 or
 La maison close
 Les boîtes de Janet
-Transporte les boîtes
+Transporter les boîtes
 Le contrat de Janet
 Paier le contrat de Janet
 Donne à Soran 5 tartes et 3 parts de gâteau
@@ -3676,18 +3676,18 @@ sora:Bien sûr, tant que tu as de l'argent.
 
 
 main:J'ai entendu dire que c'est toi qui décides qui entre dans la maison close ?
-sora:Oui, mon enfant. Cette affirmation est vraie.
+sora:Oui, mon gars. C'est bien le cas.
 sora:Pourquoi ? Tu as quelque chose à dire à ce sujet ?
-main:Eh bien, j'aimerais te demander la permission.
+main:Eh bien, j'aimerais te demander la permission d'y aller.
 sora:Vraiment? Juste comme ça ?
 sora:Tu viens me demander la permission ?
 main:Eh bien, je pensais...
-sora:Ce serait si facile ?
-sora:Tu as du culot, mon enfant !
-sora:Qu'est-ce qui te fait croire que j'innocente quiconque vient me le demander ?
+sora:Que ça serait si facile ?
+sora:Tu as du culot, mon gars !
+sora:Qu'est-ce qui te fait croire que j'accepte quiconque vient me le demander ?
 sora:Si c'était si facile, tu ne crois pas que le bordel serait plein et la taverne vide ?
 main:Et si je gagnais ta confiance et me rendais utile ?
-sora:Mmmmm... Laisse-moi le temps d'y réfléchir, mon enfant...
+sora:Mmmmm... Laisse-moi le temps d'y réfléchir, petit...
 devn:Cette partie du jeu est en cours de construction.
 
 
@@ -3708,7 +3708,7 @@ reyn:Qu'est-ce que tu mijotes, petit ?
 
 
 dism:Tu as du temps à perdre !
-reyn:YEEEAAH!
+reyn:OUAIIIIS!
 dism:Tu te souviens de nos premières campagnes, Reynauld ?
 dism:C'était les jours de gloire...
 reyn:Nous ne sommes plus jeunes et pleins d'énergie comme avant....
@@ -3719,14 +3719,14 @@ Paye-les 200 or pour qu'ils portent les boîtes.
 
 
 reyn:Hé, toi !
-reyn:Je n'ai jamais vu ton visage terne avant !
+reyn:Je n'ai jamais vu ta face dans le coin avant !
 dism:Allez Reynauld, ne fais pas fuir le petit...
 dism:Ignore Reynauld, mon garçon.
 dism:C'est un homme amer et grincheux.
 reyn:Pardon, moi ?
 reyn:Pour qui te prends-tu, Dismas ?
 reyn:La reine ?
-dism:Bon sang de bonsoir... Ne recommencez pas avec la reine...
+dism:Bon sang de bonsoir... Ne recommence pas avec la reine...
 reyn:Je dirai ce que je veux à qui je veux.
 dism:Okay... D'accord... Reynauld...
 
@@ -3738,38 +3738,38 @@ main:La prochaine tournée est pour moi, les gars.
 reyn:Merci gamin, c'est apprécié !
 reyn:Je suis à court d'or.
 dism:Ouais, comme si tu avais déjà eu des problèmes pour "trouver" de l'or, hein.
-dism:Espèce de cambrioleur sournois !
-reyn:Allez Dismas, tu sais que je me suis bien comporté ces derniers temps.
-main:Étais-tu un voleur, Reynauld ?
-reyn:Ouais... Je n'en suis pas vraiment fier.
-dism:Conneries ! Tu n'arrêtes pas de t'en vanter !
-dism: "Aucune serrure ne peut résister à mes compétences."
+dism:Espèce de cambrioleur sournois!
+reyn:Allez Dismas tu sais que je me tiens à carreau ces derniers temps.
+main:Tu étais un voleur, Reynauld ?
+reyn:Ouais... Pas vraiment fier de ça.
+dism:Des conneries ! Tu t'en vantes constamment !
+dism: "Aucune serrure ne résistent à mes talents."
 main:Hein, vraiment ?
 main:C'est intéressant...
 reyn:Comment ça, /main/ ?
 main:J'ai un vieux coffre chez moi, et je n'ai pas la clé.
-main:Peux-tu me conseiller ?
+main:Tu peux me donner des conseils ?
 reyn:ABSOLUMENT !
-dism:Pas vraiment fier... dit-il...
+dism:Pas vraiment fier... qu'il disait...
 reyn:Oh, tais-toi, Dismas ! J'essaie d'aider notre ami !
 reyn:D'accord, mon garçon, écoute-moi.
-reyn:Tout d'abord, tu dois te procurer un crochet à serrure.
+reyn:Tout d'abord, tu dois te procurer un crochet.
 main:Où puis-je en trouver un ?
-reyn:Pas de souci, tu peux utiliser le mien.
+reyn:T'inquiètes pas, tu peux utiliser le mien.
 main:...
 dism:...
 reyn:Laisse tomber !
 reyn:C'est un souvenir...
-reyn:Quoi qu'il en soit, prends-le. Il est à toi maintenant.
-reyn:Ne brisez pas la serrure en utilisant la force brute.
+reyn:Peu importe, prends-le. Il est à toi maintenant.
+reyn:Ne brise pas la serrure en utilisant la force brute.
 reyn:L'astuce consiste à frapper les goupilles à l'intérieur de la serrure avec précision.
 reyn:Chaque goupille doit être frappée avec une certaine pression.
-reyn:Pour ouvrir la serrure, toutes les goupilles doivent être alignées à l'intérieur de la serrure, au-dessus du trou de la serrure.
+reyn:Pour ouvrir la serrure, toutes les goupilles doivent être alignées dans le cylindre, au-dessus du trou de la serrure.
 reyn:Vas-y doucement. La patience est la clé ici.
 dism:Regarde son visage ! Il est tout excité !
 reyn:Ahhh, les souvenirs !
-dism:Allez, on arrête de divaguer.
-dism:Merci pour les boissons, /main/. J'espère que tu auras fait disparaître cette poitrine.
+dism:Allez, arrête de radoter.
+dism:Merci pour les boissons, /main/. J'espère que tu te débrouilleras avec ce coffre.
 reyn:Dis-moi si tu y arrives !
 reyn:Pour qui te prends-tu, Dismas ?
 
@@ -3794,7 +3794,7 @@ main:[Oh, quel beau coin !]
 
 
 
-main:[Je ferais mieux de commencer à travailler dans ce jardin !]
+main:[Je ferais mieux de commencer à travailler dans le jardin !]
 narr:Tu t'occupes du jardin pendant toute la matinée.
 main:[ !]
 main:Mince!!
@@ -3821,25 +3821,25 @@ main:Mais d'abord, je dois acheter une nouvelle pelle.
 main:Je vais travailler dans le jardin aujourd'hui. Tu veux te joindre à moi ?
 /ivy:Bien sûr!
 narr:Armés de votre nouvelle pelle, Ivy et vous faites équipe dans le jardin pendant quelques heures.
-narr:Ivy lance divers sorts derrière vous.
+narr:Ivy lance divers sorts derrière toi.
 narr:Des étincelles et des ondes lumineuses bleues jaillissent de ses mains.
-narr:Un groupe de nuages de pluie se forme au-dessus du jardin.
-narr:Vous continuez à travailler sur le jardin pendant quelques heures encore....
-narr:Et vous surprenez Ivy en train de vous regarder à plusieurs reprises.
+narr:Des nuages de pluie se forment au-dessus du jardin.
+narr:Tu continues à travailler sur le jardin pendant quelques heures encore....
+narr:Et tu surprends Ivy en train de te regarder à plusieurs reprises.
 narr:Le soir tombe, et le dur labeur est enfin terminé.
-/ivy:Phew! C'était épuisant !
-/ivy:Je suis vraiment fatigué...
+/ivy:Fiou! C'était épuisant !
+/ivy:Je suis vraiment fatiguée...
 main:J'ai l'habitude du travail physique.
 main:Mais... Je sens à peine mes mains.
 /ivy:Hahahaha...
-/ivy:Ahhh. Je ne m'étais jamais imaginé faire ce genre d'activité.
-main:Comment cela se fait-il ?
-/ivy:Oh... C'est une longue histoire pour une autre fois.
+/ivy:Ahhh. Je ne m'étais jamais imaginée faire ce genre d'activité.
+main:Comment ça ?
+/ivy:Oh... C'est une longue histoire mais ça sera pour une autre fois.
 /ivy:Il se fait tard, /main/.
 /ivy:Si ça ne te dérange pas, je vais directement me coucher aujourd'hui.
-/ivy:À bientôt.
+/ivy:Bonne nuit.
 main:Je me demande ce qu'elle a voulu dire par "une longue histoire". Je lui demanderai plus tard.
-/ivy:Oh... C'est une longue histoire pour une autre fois.
+/ivy:Oh... C'est une longue histoire mais ça sera pour une autre fois.
 
 
 
@@ -3865,8 +3865,8 @@ main:[Elle a connu des jours meilleurs.]
 main:[Autant se mettre au travail !]
 //Ivy Garden Farm
 Le jardin
-/ivy:Ça va plutôt bien !
-/ivy:Tiens, j'ai gardé ça pour toi.
+/ivy:Il se porte plutôt bien !
+/ivy:Tiens, j'ai mis ça de côté pour toi.
 
 
 
@@ -3885,7 +3885,7 @@ main:...
 lily:Désolé pour l'attente. J'étais en train de compter les stocks à l'arrière.
 lily:Bienvenue au ciel étoilé !
 lily:Je m'appelle Lily et je suis la propriétaire de cette librairie.
-main:Enchanté de vous rencontrer.
+main:Enchanté de te rencontrer.
 main:Je m'appelle /main/.
 lily:Enchanté, /main/. Je stocke et je vends une grande variété de livres.
 lily:Du tir à l'arc à la sculpture sur bois ! Tu peux tout trouver !
@@ -3904,7 +3904,7 @@ Branlette
 Produits du jardin
 Livres pour la formation d'Ivy
 Acheter le livre pour l'entraînement d'Ivy - 60 pièces d'or
-Donnez-lui la pièce fixe [Pièce de Stellan].
+Donne-lui la pièce fixe [Pièce de Stellan].
 Dague de Melkor
 Culture du miel
 Set d'alchimie
@@ -3913,29 +3913,29 @@ Set d'alchimie
 lily:Oui, mais ça ne me dérange pas.
 lily:J'aime les atmosphères tranquilles et silencieuses.
 lily:Les habitants de la ville d'Aurelia préfèrent traîner à la taverne.
-lily:Vous ne trouverez pas beaucoup de rats de bibliothèque en ville...
+lily:Tu ne trouveras pas beaucoup de rats de bibliothèque en ville...
 
 lily:Oh, rien d'intéressant en fait... C'est un truc technique ennuyeux.
 main:C'est tout à fait dans mes cordes.
 main:Ennuyeux avec des trucs techniques.
 lily:Vraiment? Je veux dire, bien sûr...
-lily:Je suis en train de lire "The Properties of Mana", un ouvrage très intéressant sur l'alchimie.
+lily:Je suis en train de lire "Les Propriétés du Mana", un ouvrage très intéressant sur l'alchimie.
 lily:Plus proche d'une perspective culinaire que chimique.
 lily:Cela me donne envie d'utiliser à nouveau mon kit d'alchimie.
 lily:Pour l'instant, il ne sert qu'à prendre la poussière.
 main:Être alchimiste, c'est ennuyeux pour toi ?
-lily:Moi ! ? Non ! Je ne me qualifierais pas ainsi. Je connais les principes fondamentaux, mais c'est tout.
-lily:J'aimerais pouvoir en apprendre plus, mais je ne peux pas perdre autant de temps à me procurer des ingrédients. Je me contenterai donc de livres.
-lily:Surtout les grenouilles de lac ! Elles sont si difficiles à attraper... Et elles ne viennent que si tu utilises des brightbugs.
+lily:Alchimiste moi ! ? Non ! Je ne me qualifierais pas ainsi. Je connais les principes fondamentaux, mais c'est tout.
+lily:J'aimerais pouvoir en apprendre plus, mais je ne peux pas perdre autant de temps pour me procurer des ingrédients. Je me contenterai donc de livres.
+lily:Surtout les grenouilles de lac ! Elles sont si difficiles à attraper... Et elles ne viennent que si tu utilises des lucioles.
 lily:Qui sont assez chères...
-lily:Oh, avant que j'oublie ! Vous pouvez utiliser le kit d'alchimie si vous le souhaitez.
-lily:Demandez-moi quand vous voulez.
+lily:Oh, avant que j'oublie ! Tu peux utiliser le kit d'alchimie si tu le souhaite.
+lily:Demande moi quand tu en as besoin.
 lily:Hehe~!
-lily:Appuyez-vous ici.
+lily:Penche-toi ici.
 lily:/main/...
 lily:Tu es déjà dur.
 main:Oui.
-main:Ça fait du bien, Lily.
+main:C'est tellement bon, Lily.
 lily:Hehe~
 lily:Tu es trop gentil.
 lily:Ça ne me dérange pas de faire ça si ça te plaît autant...
@@ -3943,17 +3943,17 @@ lily:J'aime bien m'occuper de toi~
 lily:Mais...
 lily:S'il te plaît...
 lily:N'oublie pas que j'ai aussi des besoins et des envies.
-lily:Et le fait d'avoir ce...
+lily:Et le fait d'avoir cette...
 lily:Devant mon visage...
 lily:J'ai du mal à penser correctement.
 lily:Mon esprit devient flou.
-lily:C'est tellement grand, /main/...
+lily:Elle est tellement grosse, /main/...
 lily:Mmmm.
 main:Lily... Je me rapproche.
 lily:Vas-y.
-lily:Je le veux encore.
+lily:J'en veux encore.
 lily:Sur mon visage.
-lily:S'il vous plaît, ne vous retenez pas !
+lily:S'il te plaît, ne te retiens pas !
 lily: !
 lily:...
 lily:C'est beaucoup, /main/.
@@ -3965,7 +3965,7 @@ lily:Hehe~
 narr:Lily se lève, attrape un chiffon et se dépêche de se nettoyer.
 narr:Après cela, elle s'approche et commence à te nettoyer maladroitement tout en te fixant.
 lily:/main/...
-lily:La prochaine fois, c'est toi qui paieras, d'accord ?
+lily:L-La prochaine fois, c'est ton tour, d'accord ?
 
 
 
@@ -3974,9 +3974,9 @@ lily:La prochaine fois, c'est toi qui paieras, d'accord ?
 
 main:...
 main:Lily?
-lily:Coming!
-lily:Bonjour /main/ !
-main:Encore occupé ?
+lily:J'arrive!
+lily:Salut /main/ !
+main:Encore occupée ?
 lily:Toutes mes excuses. J'étais en train de lire un livre très intéressant.
 
 
@@ -3989,19 +3989,19 @@ main:Pour que tu puisses t'entraîner à l'alchimie.
 lily:Oh... /main/. Tu as fait ça pour moi ?
 lily:Je ne sais pas quoi dire.
 main:Il n'y a pas besoin de dire quoi que ce soit.
-lily:Et si je le gaspille ?
-main:J'en apporterai un autre.
+lily:Et si je la gaspille ?
+main:J'en apporterai une autre.
 lily:Tu...
 lily:Merci.
 lily:Tu as raison !
-lily:Au moins, je devrais faire un essai pour ton effort.
+lily:Au moins, je devrais essayer pour récompenser ton effort.
 lily:Juste...
 lily:... Je me sentirais plus en confiance si tu restais avec moi.
 main:Bien sûr, travaillons en équipe !
-main:Pour ne pas être un alchimiste, tu as l'air sûr de toi dans ce que tu fais.
+main:Pour quelqu'un qui n'est pas alchimiste, tu as l'air sûr de ce que tu fais.
 lily:Oh, je...
 lily:Merci.
-lily:C'est l'un des avantages d'avoir plusieurs frères et sœurs. Tu n'as pas le droit d'avoir les jouets les plus amusants.
+lily:C'est l'un des avantages d'avoir plusieurs frères et sœurs. Tu n'as pas le droit d'avoir les meilleurs jouets.
 lily:Tu dois ramasser ce qu'ils ne veulent pas, comme les livres.
 main:Je suis désolé.
 lily:Non, ne le sois pas.
@@ -4011,33 +4011,33 @@ lily:Et j'ai eu une bonne enfance ; mes parents dirigeaient une grande entrepris
 lily:Mais quand même, dix-sept frères et sœurs, ça veut dire beaucoup de bagarres pour les jouets, et je ne suis pas une battante.
 main:Dix-sept frères et sœurs ! ?
 lily:Oui, je sais que c'est beaucoup.
-lily:N'oublie pas que je ne suis pas un humain comme toi.
+lily:N'oublie pas que je ne suis pas une humaine comme toi.
 lily:Notre processus de reproduction est un peu différent.
 lily:Nous nous lions très fortement à nos partenaires, et pour de longues périodes.
 lily:Alors tu sais... Cela conduit à... Une grande quantité d'enfants.
-main:Comment faites-vous pour nourrir autant d'enfants ?
-lily:Eh bien, il faut que beaucoup de facteurs soient satisfaits avant que ce lien puisse même se produire.
+main:Comment arrivez-vous à nourrir autant d'enfants ?
+lily:Eh bien, nous avons besoin de satisfaire beaucoup de conditions avant que ce lien puisse même se produire.
 lily:Stabilité, sécurité et un partenaire que nous considérons comme digne.
-lily:Les critères sont très stricts, c'est pourquoi la plupart d'entre nous ne trouvent jamais l'amour.
+lily:Ces critères sont très stricts, c'est pourquoi la plupart d'entre nous ne trouvent jamais l'amour.
 main:Oh...
 lily:Ce n'est pas grave. Ça fait partie de la vie.
 lily: !
-lily:Et c'est fait !
+lily:Et voilà c'est terminé !
 lily:Tiens, tu peux l'avoir.
 main:Vraiment?
 lily:Oui, bien sûr !
 lily:Tu as apporté les ingrédients après tout.
 main:Merci, Lily.
 main:Tu es vraiment adorable.
-lily:JE...
+lily:Je...
 lily:Mmm...
 lily:Merci.
 main:Je t'en apporterai d'autres dès que possible.
 
 //Lily Post HJ Accident
 lily:Bon retour, /main/ !
-lily:How... te sens-tu ?
-lily:Since...
+lily:Comment... te sens-tu ?
+lily:Depuis...
 lily:Tu sais...
 main:Je me sens bien, je crois.
 main:Je n'ai rien remarqué de bizarre.
@@ -4046,7 +4046,7 @@ main:J'ai aussi appris une leçon !
 main:On ne boit pas de potions avant que Lily ne les ait vérifiées.
 lily:Haha...
 lily:Je suis content que tu l'aies si bien pris.
-lily:J'ai fini par prendre des notes après coup et par changer certaines choses.
+lily:J'ai fini par prendre des notes après coup et changer certaines choses.
 lily:Tiens, je veux que tu l'aies.
 lily:Pas d'effets secondaires cette fois-ci, je le jure.
 main:Oh, merci !
@@ -4063,10 +4063,10 @@ main:Lily?
 main:Lily!?
 lily:/main/, bienvenue.
 main:Huh...
-main:Ça va ? Ce sont des yeux qui pleurent ?
+main:Ça va ? Est-ce que tu pleures ?
 lily:Je vais bien, je vais bien.
 lily:Ne t'inquiète pas pour moi.
-main:Tu ne veux pas me le dire ? Ce n'est pas grave si tu ne le fais pas.
+main:Tu ne veux pas me raconter ? Ce n'est pas grave si tu ne le fais pas.
 lily:Non, c'est juste...
 lily:Mon Stellan s'est cassé.
 main:Stellan?
@@ -4077,30 +4077,30 @@ lily:Le Stellan était très vieux.
 lily:C'était une question de temps, je suppose.
 main:Tu ne peux pas en acheter un nouveau ?
 lily:J'aimerais que ce soit aussi facile.
-lily:C'est un artefact rare.
+lily:Mais c'est un artefact rare.
 lily:Tu ne peux l'acheter nulle part.
 lily:J'ai eu la chance d'en trouver un il y a quelques années.
-main:Where?
+main:Où ça?
 lily:Soran, le nain du bar, en avait un.
 lily:Mais c'était une vieille pièce dont il voulait se débarrasser.
-lily:De toute façon, je ne me sens pas très bien...
+lily:Bref, je ne me sens pas très bien...
 lily:Si tu veux bien, je vais lire quelque chose pour me distraire.
 
 //Soran's Stellan
 Stellan
 sora:Un Stellan ?
-sora:Tu voulais en acheter un ?
-main:J'y ai pensé, oui.
+sora:Tu veux en acheter un ?
+main:J'y pense, oui.
 sora:Ces choses sont très rares.
-sora:Je peux rester en contact si tu veux.
+sora:Je peux te tenir au courant si tu veux.
 sora:Mais la dernière fois que j'en ai vu un, c'était il y a presque un an.
 sora:Et ça va coûter cher.
-main:Quel prix ?
+main:Combien ça vaut ?
 sora:Environ 350 000 pièces d'or.
 main:QUOI!?
 main:C'est de la folie !
-sora:Agreed.
-sora:Mais c'est le coût d'achat de ce fichu objet et de son acheminement jusqu'ici.
+sora:Tout à fait.
+sora:Mais c'est le prix d'achat de cet objet et de son acheminement jusqu'ici.
 main:Je croyais que tu en avais vendu un à Lily... Est-ce qu'elle a payé autant ?
 sora:Oh !
 sora:Le bibliothécaire.
@@ -4113,18 +4113,18 @@ sora:Comme l'enfant le plus heureux du monde.
 sora:Ça m'a fait fondre.
 sora:Alors je lui ai pratiquement offert la chose.
 sora:Et d'après la façon dont tu parles d'elle.
-sora:Elle t'a lancé ce regard, n'est-ce pas ?
+sora:Elle t'a lancé ce regard aussi, n'est-ce pas ?
 main:Eh bien, pas exactement. Elle a cassé l'ancien.
-main:Et elle était assez désemparée à ce sujet.
+main:Elle était assez désemparée à ce sujet.
 sora:Oh non !
 sora:Je veux dire...
-sora:Très bien, petit. Écoute bien.
+sora:Très bien, petit. Écoute moi.
 sora:Je vais marquer un endroit sur ta carte.
 sora:C'est ici qu'une de nos dernières cargaisons s'est perdue.
 sora:J'ai essayé de les récupérer, mais l'endroit effraie tous ceux que j'y envoie.
 sora:On dit qu'il y a une bête dans la grotte.
-sora:Mais tu t'en sortiras !
-sora:Tu as ce jeune... Oomph !
+sora:Mais tu t'en sors !
+sora:Tu as cette jeune... Oomph !
 sora:Il devrait y avoir un tout nouveau Stellan juste là.
 sora:Si tu l'obtiens, Lily peut l'avoir gratuitement.
 
@@ -4134,8 +4134,8 @@ main:L'eau... C'est...
 main: !
 ger?:Hrrrrrm...
 ger?:Grhaaaaah !
-ger?:Landwalker...
-ger?:Ne quittez pas mon domaine...
+ger?:Marcheur terrestre....
+ger?:Disparais de mon domaine...
 ger?:...
 ger?:Mortymer ?
 ger?:C'est toi ?
@@ -4144,35 +4144,35 @@ main:C'est le nom de mon... nom de mon grand-père.
 gera:Oh, tu dois être /main/, alors.
 gera:Il avait raison ! Tu lui ressembles vraiment.
 gera:Dans sa jeunesse, bien sûr.
-main:Je suis... un peu perdue.
+main:Je suis... un peu perdu.
 gera:Oh, ne t'inquiète pas, je vais t'expliquer.
 gera:Ton grand-père venait ici quand je n'étais pas plus gros qu'une étoile de mer.
 gera:Il me donnait des fruits juteux de son jardin et partageait des histoires avec moi.
 gera:Ahhhh, le bon vieux temps.
 gera:Quoi qu'il en soit, qu'est-ce qui t'amène ici ?
-main:Explorer ?
+main:L'exploration ?
 gera:C'est de famille, je suppose.
-gera:Faites comme chez vous, alors.
+gera:Fait comme chez toi, alors.
 
 //Gerard Chest
-gera:Oh, tu aimes ce coffre ?
+gera:Oh, tu t'intéresses à ce coffre ?
 gera:Je l'ai récupéré dans une épave.
-gera:J'ai trouvé qu'il était joli dans la grotte.
+gera:J'ai trouvé qu'il faisait joli dans la grotte.
 main:Tu as regardé à l'intérieur ?
-gera:Oui, mais je ne sais même pas ce qu'est la moitié de l'objet.
+gera:Oui, mais je ne sais même pas ce qu'est la moitié de tout ça.
 gera:J'espérais un fruit porte-bonheur.
 gera:Oh, mais maintenant tu es là !
 gera:Que dirais-tu d'un marché ?
-gera:Vous pouvez prendre tout ce qui se trouve dans le coffre.
+gera:Tu peux prendre tout ce qui se trouve dans le coffre.
 gera:En échange de quelques baies d'or.
 gera:Tu as toujours le jardin chez ton grand-père, n'est-ce pas ?
-main:Deal.
-gera:Oh, c'est bien !
-gera:Apportez-moi 2 [Goldenberries].
+main:Marché conclu.
+gera:Oh, parfait !
+gera:Apporte-moi 2 [Baies d'or].
 gera:Mmmm... Ça me manquait.
 
 //Check chest Pre-Ger
-main:[C'est la poitrine de Gérard.]
+main:[C'est le coffre de Gérard.]
 main:[Je devrais d'abord lui demander.]
 
 //Deal for chest
@@ -4187,48 +4187,48 @@ gera:Bienvenue dans ma grotte, /main/.
 gera:Qu'est-ce qui t'amène ici ?
 
 Le coffre
-Donne-lui 2 [Goldenberries].
+Donne-lui 2 [Baies d'or].
 
 //open the chest
 main:[Jetons un coup d'œil.]
 //Chest already oppened
-main:[Un coffre vide.]
+main:[Le coffre est vide.]
 //
 
 //Lily
 lily: !
 lily:/main/!?
 lily:Je ne peux pas l'accepter.
-lily:C'est une petite fortune.
-main:Oh, ne vous inquiétez pas.
+lily:Ça vaut une petite fortune.
+main:Oh, ne t'inquiétes pas.
 main:J'ai fait une affaire extraordinaire.
-main:J'ai juste eu à faire un peu de travail.
+main:J'ai juste eu un petit travail à faire.
 lily:/main/...
-main:Allez, tu ne veux pas essayer ?
+main:Allez, tu ne veux pas l'essayer ?
 lily:Oui, bien sûr.
 lily:Merci.
 lily:Merci beaucoup !
 lily:Tu veux partager ce moment avec moi ?
 main:Avec plaisir.
-lily:Tu vois celui-là ?
+lily:Tu vois celle-là ?
 lily:C'est Alderon.
 lily:Symbole d'honneur et de protection.
 lily:Guidant les chevaliers et les guerriers dans leurs nobles quêtes et les protégeant de tout danger.
 lily:Et sur la droite.
-lily:Celui-là, c'est Zeph.
+lily:Celle-là, c'est Zeph.
 lily:Volant dans le ciel nocturne avec un éclat rouge caractéristique.
 lily:Associé à la liberté, à l'exploration et à la recherche de nouveaux horizons.
-main:Tu les connais tous, n'est-ce pas ?
-lily:Oh, désolé. Je suis encore en train de divaguer, n'est-ce pas ?
+main:Tu les connais toutes, n'est-ce pas ?
+lily:Oh, désolée. Je suis encore en train de divaguer, n'est-ce pas ?
 main:Non, non ! Au contraire. C'est impressionnant.
 main:Non seulement tu sais toutes ces choses, mais en plus tu les rends intéressantes.
 lily:Oh.
 lily:C'est vrai ?
-main:Oui, tu y ajoutes du charme. Tu le rends mignon.
+main:Oui, tu y ajoutes du charme. Tu les rends mignonnes.
 main:...
 main:Pourquoi me regardes-tu comme ça ?
 main: !
-lily:Because—
+lily:Parce que—
 lily:Ah~
 lily:Tu me rends complètement dingue.
 main:Lily?
@@ -4238,20 +4238,20 @@ lily:Je n'en peux plus !
 main: !!!
 main:Lily!?
 main:Tu vas bien ?
-lily:JE...
+lily:Je...
 lily:Oh mon dieu...
 lily:Je suis vraiment désolée.
 lily:Tes vêtements...
 lily:Qu'est-ce que je fais ?
-main:Tout va bien. Rien de plus que des vêtements.
-lily:JE...
+main:Tout va bien. Ça n'est rien de plus que des vêtements.
+lily:Je...
 lily:J'ai besoin de temps, /main/.
 lily:Pour réfléchir.
 main:Je reviendrai plus tard, alors.
 lily:Merci.
 
 //Next day
-lily:Bon retour parmi nous...
+lily:Bon retour chez moi...
 lily:/main/?
 lily:Je suis désolé de la façon dont j'ai agi l'autre jour.
 main:C'est quelque chose que j'ai fait ?
@@ -4266,11 +4266,11 @@ main:Oui.
 lily:Je t'ai raconté comment mon peuple... tu sais.
 lily:Après ça, on a traîné ensemble.
 lily:Nous sommes devenus amis...
-lily:And... J'ai en quelque sorte... Imprégné de toi...
+lily:Et... Je me suis en quelque sorte... Imprégné de toi...
 lily:C'est difficile à expliquer à un humain.
 lily:L'autre nuit, c'était trop pour moi, mes pulsions ont failli devenir incontrôlables...
 lily:Je ne voulais pas te faire peur.
-lily:Je suis désolé.
+lily:Je suis désolée.
 main:Je n'en avais aucune idée, Lily.
 main:Y a-t-il un moyen de t'aider ?
 lily:Eh bien, il y a un moyen.
@@ -4283,19 +4283,19 @@ lily:Merci ! Viens à l'étage avec moi alors, s'il te plaît.
 lily:...
 main:Es-tu sûr que cela va t'aider ?
 lily:Oui...
-lily:Je suis désolé.
-lily:Je suis juste un peu gêné.
+lily:Je suis désolée.
+lily:Je suis juste un peu gênée.
 lily:Je ne sais pas comment agir...
 lily:C'est la première fois que je fais... ça...
-lily:And...
+lily:Et...
 lily:...
-lily:JE... Je ne me sens pas encore tout à fait en contrôle.
+lily:Je... Je ne me sens pas encore tout à fait en possession de mes moyens.
 main:Nous pouvons nous arrêter à tout moment.
 lily:C'est ça le problème. Je ne veux pas m'arrêter.
-lily:Tu te sens sauvage...
+lily:Tu me fais me sentir sauvage...
 lily:C'est exaltant !
 lily:Je ressens un tel désir...
-lily:Pousse-le... S'il te plaît.
+lily:Enfonce-la... S'il te plaît.
 main:Tu es sûr ?
 lily:S'il te plaît, je t'en supplie !
 lily: !
@@ -4311,31 +4311,31 @@ lily:Ne t'arrête pas !
 lily:C'est si dur~ Si chaud~
 main:Si je continue...
 lily:Ne t'arrête pas, /main/ !
-lily:S'il vous plaît, j'en ai besoin...
+lily:S'il te plaît, j'en ai besoin...
 lily:Ne te retiens pas !
 lily:Mmmmh~
 main:Lily!
 lily:Oh~
-lily:Il est partout sur moi~
+lily:J'en ai partout sur moi~
 main:Ça va, Lily ?
 lily:Désolée...
-lily:Je me suis laissé emporter vers la fin...
+lily:Je me suis laissée emporter vers la fin...
 main:Ça a marché ?
 lily:Je crois.
 lily:Seul l'avenir nous le dira.
 lily:Merci quand même, /main/.
 lily:Je ne sais pas comment agir...
 lily:C'est la première fois que je fais... ça...
-lily:And...
+lily:Et...
 lily:...
-lily:JE... Je ne me sens pas encore tout à fait en contrôle.
+lily:Je... Je ne me sens pas encore tout à fait en possession de mes moyens.
 lily:Nous pouvons nous arrêter à tout moment.
 main:C'est ça le problème. Je ne veux pas m'arrêter.
-lily:Tu te sens sauvage...
+lily:Tu me fais me sentir sauvage...
 lily:Ne t'arrête pas, s'il te plaît !
 lily:C'est exaltant.
-lily:Je me sens lascif...
-lily:Pousse-le... S'il te plaît.
+lily:Je me sens pleine de désir...
+lily:Enfonce-la... S'il te plaît.
 lily: !
 main:Mmmppf...
 main:Tu aimes ça, Lily ?
@@ -4349,14 +4349,14 @@ lily:Continue de pousser !
 lily:C'est si dur~ Si chaud~
 main:Si je continue...
 lily:Ne t'arrête pas, /main/ !
-lily:S'il vous plaît, j'en ai besoin...
+lily:S'il te plaît, j'en ai besoin...
 lily:Ne te retiens pas !
 lily:Mmmmh~
 main:Lily!
-lily:Il est sur moi~
+lily:J'en ai sur moi~
 main:Ça va, Lily ?
 lily:Désolée...
-lily:Je me suis laissé emporter vers la fin...
+lily:Je me suis laissée emporter vers la fin...
 
 //Post TJ
 lily:/main/!
@@ -4364,30 +4364,30 @@ lily:J'ai une grande nouvelle !
 main:Oh ?
 lily:J'attends une nouvelle série de livres depuis que nous avons commencé à pratiquer l'alchimie.
 lily:Ils sont arrivés ce matin !
-lily:J'ai tout reçu, des potions et des élixirs à la chimie et à la transmutation.
-main:C'est super d'entendre ça.
-lily:Voilà, c'est ce que j'ai déjà fait !
+lily:J'ai tout reçu, des potions et des élixirs pour la chimie et à la transmutation.
+main:C'est super ça.
+lily:Voilà, prends ce que j'ai déjà fait !
 main:Oh !
 main:Tu es sûr ? C'est beaucoup.
-lily:Certain!
-lily:J'ai trouvé un endroit sur les collines où je peux me procurer des ingrédients.
+lily:Certaine!
+lily:J'ai trouvé un endroit sur la colline où je peux me procurer des ingrédients.
 lily:Et une fois que j'aurai vendu quelques potions, je pourrai acheter des ingrédients pour en fabriquer d'autres.
-lily:Je m'assurerai que vous bénéficiez d'une réduction !
+lily:Je m'assurerai que tu bénéficies d'une réduction !
 lily:Et, si tu veux...
-lily:Tu peux m'aider à cueillir des ingrédients dans les collines.
-lily:Je serai là tous les soirs à partir de maintenant.
+lily:Tu peux m'aider à cueillir des ingrédients sur la colline.
+lily:J'y serai tous les soirs à partir de maintenant.
 
 //Lily Hills Talking
 lily:C'est tellement amusant !
-lily:C'est assez différent de ce à quoi je suis habitué.
+lily:C'est assez différent de ce à quoi je suis habituée.
 lily:La librairie est sympa, mais on s'y ennuie parfois.
-lily:Et un peu solitaire aussi.
+lily:Et c'est une activité un peu solitaire aussi.
 lily:Mais tu as changé ça, /main/.
-lily:Tu as donné un tour à ma vie.
-lily:Je suis heureux que tu m'aies compris.
+lily:Tu as donné du changement à ma vie.
+lily:Je suis heureuse que tu m'aies comprise.
 lily:Je sais que c'est difficile à expliquer...
 lily:Et quelque peu embarrassant de mon côté.
-main:C'est bon, tu n'as pas à l'être.
+main:C'est bon, tu n'as pas être embarrassée.
 lily:Facile à dire pour toi.
 lily:Tu ne cèdes pas soudainement à tes pulsions.
 main:Pour toi, je le ferais.
@@ -4395,11 +4395,11 @@ lily:...
 lily:Eh bien...
 lily:Tu te souviens de la première potion qui nous a conduits ici ?
 lily:Je travaille dessus depuis un moment déjà.
-lily:J'ai Parfaitionné la formule pour qu'elle ne provoque pas de douleur ou d'engourdissement.
+lily:J'ai perfectionné la formule pour qu'elle ne provoque pas de douleur ou d'engourdissement.
 lily:Mais elle risque de t'embrouiller l'esprit à la place.
 lily:Elle devrait permettre à quelqu'un comme toi de ressentir quelque chose de proche de mes pulsions.
-lily:C'est à des fins de recherche !
-lily:And... Je l'ai apporté... Il est dans le panier...
+lily:C'est pour la science !
+lily:Et... Je l'ai apportée... elle est dans le panier...
 main:N'en dis pas plus.
 main: !
 main:Argh ! Ça a un goût de bois !
@@ -4407,7 +4407,7 @@ lily:Comment te sens-tu ?
 main:Rien qui ne sorte de l'ordinaire...
 main:Oh... Ehm...
 main:Un peu désorienté maintenant.
-main:Ça va... Rapidement.
+main:Ça va... Vite.
 lily:Je suis curieux de savoir à quel point l'effet imitera ma luxure.
 lily:Et à quel point il aura un impact sur ta capacité à prendre des décisions.
 lily:Je suis capable de les tenir à distance grâce à mon expérience sur le sujet.
@@ -4417,35 +4417,35 @@ lily:Tu m'écoutes ?
 main:Non !
 main:Putain non !
 lily:Ne t'inquiète pas. J'avais imaginé que cela arriverait.
-lily:J'étais même un peu... Impatient.
+lily:J'étais même un peu... Impatiente.
 lily:Il n'y a pas d'antidote.
 lily:Il va donc falloir s'abandonner à nos pulsions....
 lily:Ensemble~~.
 lily:/main/~
 
 //Lily Sex Scene
-lily:Tu comprends enfin ?
+lily:Tu comprends maintenant ?
 lily:Cette sensation est ce que je retiens chaque jour.
 lily:Depuis notre accident.
-lily:Profiter l'un de l'autre de temps en temps m'a aidé....
-lily:Mais c'était loin d'être une solution.
+lily:Profiter l'un de l'autre de temps en temps m'a aidée....
+lily:Mais c'était loin d'être la solution.
 lily:Je savais que je ne faisais que retarder le problème.
 lily:La seule solution à mon désir sans fin...
-lily:est de t'amener à m'éperonner sans pitié.
-main:JE...
+lily:C'est que tu me prennes sans merci.
+main:Je...
 main:~ !
 lily:Ne lutte pas.
-lily:La première fois est accablante, je le sais.
+lily:La première fois est bouleversante, je sais.
 lily:Mais nous n'avons plus à nous retenir.
 lily:Nous le voulons tous les deux.
 lily:Ah~
-lily:Je suis si heureux que tu sois entré dans ma vie.
+lily:Je suis si heureuse que tu sois entré dans ma vie.
 lily:Et que tu m'aies montré que j'avais ça en moi.
-lily:Se battant pour sortir.
+lily:Qui luttait pour sortir.
 main:Ugh~
 main:Lily!
 lily:Je sais, tu y es presque...
-lily:Impossible de s'arrêter.
+lily:Impossible de t'arrêter.
 lily:Incapable de t'empêcher d'être irresponsable.
 lily:Tout va bien, /main/.
 lily:Je peux le supporter.
@@ -4455,8 +4455,8 @@ lily:Serre-moi fort, /main/.
 lily:Ne gaspille pas une goutte !
 lily:Mmm~
 lily:Quelle sensation !
-lily:Heureux et libérateur.
-lily:Et surtout, rassasiant !
+lily:Heureuse et libératrice.
+lily:Et surtout, satisfaisante !
 lily:Tu ressens la même chose ?
 main:Oui.
 lily:Contrairement aux tiennes, mes envies vont revenir en un rien de temps.
@@ -4465,7 +4465,7 @@ main:Je suis toujours prêt pour toi, Lily.
 lily:Merci.
 lily:Je te tiendrai parole~
 lily:Maintenant...
-lily:Aidez-moi à bouger, mes jambes sont faibles.
+lily:Aide-moi à bouger, mes jambes sont faibles.
 lily:Il se fait tard. Nous devrions être rentrés à la maison à l'heure qu'il est.
 
 
