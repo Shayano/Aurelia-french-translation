@@ -1,6 +1,6 @@
 Français
 
-N'EFFACEZ PAS LES RANGÉES MÊME SI ELLES SONT VIDES
+N'EFFACE PAS LES RANGÉES MÊME SI ELLES SONT VIDES
 Or
 Pièces d'or qui sont la monnaie courante à Aurélia.
 L'or est utilisé comme monnaie à Aurélia depuis plusieurs siècles. Auparavant, les gens utilisaient des scarabées brillants comme pièces de monnaie, mais les insectes s'enfuyaient si souvent qu'ils ont dû changer de système.
@@ -10,7 +10,7 @@ Les bouteilles en verre fabriquées par l'homme ont une apparence simple, mais e
 Eau
 L'eau de la fontaine du village. Elle a un drôle de goût.
 Le village a été construit autour d'une source d'eau cristalline. Plus tard, les habitants ont construit une fontaine au-dessus de cette source. Aujourd'hui, c'est l'un des principaux points de rencontre des villageois.
-Brightbug
+Luciole
 Utilisé comme appât. Attire les grenouilles de lac, les piranhas et les esturgeons.
 On trouve souvent les punaises lumineuses dans les grottes et les constructions souterraines, où elles utilisent leur lumière pour trouver leur chemin et attirer des partenaires potentiels. Tu peux économiser sur les bougies si tu laisses quelques-unes d'entre elles vivre dans ton sous-sol.
 Sève ancienne
@@ -126,7 +126,7 @@ Ingrédient alchimique de base pour les potions d'AGILITÉ.
 Une sorcière gnome très gourmande a expérimenté sur des fraises ordinaires et a créé cette délicieuse variété que les paysans peuvent maintenant cultiver chez eux. Elles sont parfaites pour les desserts.
 Fraise d'or
 Ingrédient alchimique de base pour les potions de chance.
-Les femmes elfiques aiment porter des coiffes de Goldenberry et de vigne lors de leurs festivals de fertilité. Elles sont censées attirer la prospérité et les bonnes récoltes.
+Les femmes elfiques aiment porter des coiffes de baies d'or et de vigne lors de leurs festivals de fertilité. Elles sont censées attirer la prospérité et les bonnes récoltes.
 Tarte de Janet
 [+10 END, +4 WIS]
 La recette spéciale de Janet utilise des fruits séduisants comme ingrédient principal, ce qui ajoute de la saveur et de la texture à sa pâte épicée maison. Le résultat est délicieux ! De nombreux villageois s'accordent à dire que sa tarte est le cadeau idéal ou le plat principal d'une fête.
