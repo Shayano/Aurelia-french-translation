@@ -40,7 +40,7 @@ Les nuits peuvent être froides à Aurélia, mais il n'y a rien de mieux qu'un b
 Le grimoire d'Ivy
 Ce grimoire contient beaucoup de notes.
 Ivy a passé de nombreuses années à étudier l'art difficile du contrôle des éléments. C'est l'un de ses premiers livres de sorts, qu'elle a utilisé pour maîtriser la magie de l'eau. Certains disent qu'il a été écrit par la tribu de l'eau.
-Clé de maison
+Clé de maisond
 Une clé supplémentaire pour ta maison.
 Elle n'est pas seulement utile pour ouvrir ta porte d'entrée, mais aussi comme gage de reconnaissance pour toute personne que tu souhaites inviter à vivre avec toi.
 Lockpick
@@ -61,16 +61,16 @@ Les voyageurs utilisaient cet artefact complexe pour mesurer la position des ét
 Dague en argent véritable
 Des vagues d'énergie d'un autre monde émanent de sa lame.
 L'histoire de cette dague hypnotique reste un mystère, mais certains disent qu'elle a été fabriquée par les meilleurs forgerons nains dans un but très particulier...
-Cimier d'argent
+Écusson d'argent
 Le mana d'un sort sur sept est remboursé.
 Les orfèvres elfiques sont célèbres dans tout le pays pour leurs bijoux uniques, leurs armes magiques et leurs écussons labélisés. Pourtant, cette pièce semble... Particulière.
-Poupée hypnotique
-Poupée enchantée qui aide son utilisateur à dormir. Elles sont rares et chères, et sont donc surtout utilisées par les nobles et les membres de la famille royale.
+Poupée envoûtante
+Poupée envoûtante qui aide son utilisateur à dormir. Elles sont rares et chères, et sont donc surtout utilisées par les nobles et les membres de la famille royale.
 Les sorcières du bois et certains lanceurs de sorts plus louches fabriquent et vendent ces poupées à prix d'or... Parfois de l'argent, parfois des pierres précieuses, et parfois, une quinzaine de jours de sexe sauvage au clair de lune. C'est plus compliqué qu'il n'y paraît.
 La guitare d'Amber
 Une guitare bien décorée.
 L'un des talents les moins connus des elfes noirs est leur affinité pour les instruments à cordes. Les guitares, les luths et même les harpes sont une seconde nature pour la plupart d'entre eux. Qui sait, peut-être que la chanson que tu chantes à la taverne a été écrite à l'origine par un elfe noir...
-Souffle de feu
+SouffleDeFeu
 Doux et épicé.
 C'est la version spéciale d'Amber du cocktail, qui a plusieurs variantes connues à Aurélia. Les halflings aiment le mélanger avec de l'absinthe pour lui donner un coup de fouet supplémentaire, et les femmes elfes y ajoutent quelques gouttes de fruits séduisants lorsqu'elles se sentent coquines.
 Le jeton de Soran
