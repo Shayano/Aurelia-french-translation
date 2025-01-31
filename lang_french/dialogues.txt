@@ -3192,7 +3192,7 @@ jane:Merci beaucoup~
 
 
 
-sora:Ah oui, les marchandises de la halfelin...
+sora:Ah oui, les marchandises de la halfeline...
 sora:Elle a fait une sacrée affaire.
 sora:Tu es venu les prendre ?
 main:Oui.
@@ -6611,32 +6611,32 @@ jane:J'en ai aussi besoins.
 main:J'ai quelque chose de spécial pour toi, Crystal.
 crys:Un gâteau aux fraises !
 crys:Où as-tu trouvé ça ?
-main:J'ai donné beaucoup de fraises à Janet, alors tu peux continuer à t'entraîner.
-main:J'ai fini par en apporter plus que nécessaire et je ne voulais pas que quelque chose soit gaspillé.
+main:J'ai donné beaucoup de fraises à Janet, alors tu pourras continuer à t'entraîner.
+main:J'ai fini par en apporter plus que nécessaire et je ne voulais pas faire de gaspillage.
 crys:Ooooh, comme c'est gentil de ta part !
 crys:On peut le partager ?
 orso:Crystal!
 crys:Bon sang...
-orso:Allez, ma citrouille, ne sois pas paresseuse ! Il y a beaucoup de travail...
+orso:Allez, ma puce, ne sois pas paresseuse ! Il y a beaucoup de travail...
 crys:Papa! J'ai failli oublier !
 orso: ?
-crys:Janet vient de faire cuire ça pour toi !
+crys:Janet vient de préparer ça pour toi !
 main: ?
-orso:Janet? Ce halfling...
+orso:Janet? La halfeline...
 crys:Elle se sentait mal pour la fois où elle t'a vendu une louche défectueuse.
-orso:Tu vois ! Je t'avais dit qu'elle était défectueuse ! Elle a menti à ce sujet !
-orso:La tête de Reynauld n'est pas si dure que ça !
+orso:Tu vois ! Je t'avais dit qu'elle était défectueuse ! Elle m'a menti !
+orso:Même la tête de Reynauld n'est pas si dure que ça !
 crys:Je sais, je sais, tu me l'as déjà dit un million de fois....
 crys:Il faut que tu goûtes ! C'est délicieux.
 orso:Bien sûr, mais d'abord je dois...
 crys:Papa! Elle y a mis tout son cœur et toute son âme.
 orso:Tu as raison... Je ne veux pas être impoli.
 crys:Tiens, prends-le.
-orso:Mmmmm, du gâteau...
+orso:Mmmmm, ce gâteau...
 main: ?
 crys:Oh, ne me regarde pas comme ça !
 crys:C'est un mensonge inoffensif.
-crys:Désolé pour le gâteau... Laisse moi au moins te servir de la bière.
+crys:Désolée pour le gâteau... Laisse moi au moins te servir de la bière.
 main:Ce n'est qu'un gâteau.
 main:Et Orson avait l'air vraiment content.
 crys:Oui, il est parfois un peu têtu.
@@ -6644,7 +6644,7 @@ crys:Mais la nourriture est son point faible.
 crys:Et sur ce point...
 crys:Laisse moi te servir de la bière fraîche et quelques amuse-gueules.
 crys:Ça ne prendra qu'un instant.
-main:JE...
+main:Je...
 crys:Pas de refus ! J'insiste.
 crys:De plus, tu as une tache là.
 crys:Laisse-moi la nettoyer pour toi.
@@ -6672,21 +6672,21 @@ crys:Et puis, c'est un peu de ta faute si tu deviens dur si facilement.
 main:Vraiment?
 crys:Allez, je l'ai à peine frotté.
 main:Tu l'as fait exprès ?
-crys:Whaaaat? Noooooo. Comment as-tu pu penser une chose pareille ?
-crys:Je peux arrêter... tu dois juste demander.
+crys:Quuuuoi? Noooooon. Comment as-tu pu penser une chose pareille ?
+crys:Je peux arrêter... tu dois juste le dire.
 main:...
 crys:C'est ce que je pensais.
 crys:Maintenant, si tu veux bien, j'ai besoin de quelque chose pour remplacer ce gâteau.
-crys:Que dirais-tu d'un lait chaud et crémeux ? Je peux l'avoir ?
-crys:S'il vous plaît ?
-main:Sers-vous.
+crys:Je me contenterais d'un lait chaud et crémeux ? Je peux l'avoir ?
+crys:S'il te plaît ?
+main:Sers-toi.
 crys:Merci, /main/, je le ferai.
 main: !
 crys:Whoa...
 crys:Tu ne t'es pas du tout retenu, hein ?
 crys:Je ferais mieux de faire disparaître ça.
 crys:Soulagé ?
-main:Ouais.
+main:Oh oui.
 crys:Bien, maintenant remonte ton pantalon et sors. Je ne veux pas que Papa se doute de quoi que ce soit.
 main: Oui, tu as raison.
 crys:Hé, /main/ ?
@@ -6714,13 +6714,13 @@ crys:Sinon, je scellerais mes lèvres autour de ta bite.
 crys:Et je te ferais jouir jusqu'à ce que tu te dessèches.
 main:...
 crys:Tu es tendu, là.
-crys:Tu m'as imaginé à genoux ?
+crys:Tu m'as imaginée à genoux ?
 crys:En train de te regarder...
 crys:Prenant tout dans ma bouche...
 main: !
 crys:Hehe!
 crys:Tu as rendu ça trop facile.
-crys:Bon sang, toujours aussi désordonné.
+crys:Bon sang, il y en a partout.
 crys:Quel gâchis !
 crys:Maintenant, ne fais pas de bruit et sors avant que quelqu'un ne s'en aperçoive.
 main:Ouais.
@@ -6736,7 +6736,7 @@ crys:...
 main:Crystal?
 crys:Oh ! Bonjour !
 crys:Désolé, je rêvassais...
-crys:Je suis tellement ennuyée.
+crys:Je m'ennuies tellement.
 crys:Cette taverne est en train d'anéantir ma volonté de vivre.
 main:Nous pouvons discuter si cela peut t'aider.
 crys:Tu es si gentil, /main/.
@@ -6747,13 +6747,13 @@ main: ?
 crys:Tu vois... Le mendiant là-bas, Ohro.
 crys:Il ne supporte pas du tout la nourriture épicée.
 crys:Si quelqu'un lui donnait quelque chose d'épicé...
-crys:Il ferait une scène, et l'agitation pourrait insuffler un peu de vie dans cette foutue taverne ennuyeuse.
+crys:Il ferait une scène, et cette agitation pourrait insuffler un peu de vie dans cette foutue taverne ennuyeuse.
 crys:Qu'en penses-tu ?
 crys:S'il te plaît ?
 crys:Fais-le et je te montrerai quelque chose de doux~
 crys:Mais assure-toi que je sois là pour le voir.
 
-Faire des farces à Ohro
+Faire une farce à Ohro
 crys:As-tu déjà donné quelque chose d'épicé à Ohro ?
 crys:Allez, /main/. Je m'ennuie tellement.
 crys:S'il te plaît ?
@@ -6766,14 +6766,14 @@ ohro:J'essaie de savourer le doux parfum de la tarte de Janet qui vient de sa cu
 main:Et si je t'offrais une tarte de sa part ?
 main:Est-ce que tu mangerais le piment bouillant alors ?
 ohro:Mmmmmmm...
-ohro:Ohro voudrait...
+ohro:Ohro le ferait...
 
 
 
 
 
 
-main:Voilà, tu l'as.
+main:Voilà pour toi.
 ohro:REGARDE ÇA !
 ohro:Un plat si parfait... Tout pour Ohro maintenant.
 main:Alors, tu vas manger le piment bouillant maintenant ?
@@ -6783,9 +6783,9 @@ ohro:Euh, oh...
 ohro:C'est chaud.
 ohro:C'est chaud.
 ohro:C'EST CHAUD !
-ohro:FONTAINE, J'AI BESOIN DE FONTAINE ! !!
+ohro:FONTAINE, J'AI BESOIN DE LA FONTAINE ! !!
 narr:*splash*
-ohro:DIEU A PITIÉ D'OHRO ! *glrglrlgrlglrglrl* !
+ohro:DIEU AIT PITIÉ D'OHRO ! *glrglrlgrlglrglrl* !
 orso:Qu'est-ce qui se passe avec Ohro ?
 dism:Il se donne encore en spectacle.
 reyn:Devons-nous l'aider ?
@@ -6797,7 +6797,7 @@ main:[Je devrais rentrer...]
 
 
 
-crys:Re-bonjour, ma belle.
+crys:Re-bonjour, mon beau.
 main: !
 crys:Tu vois quelque chose qui te plaît ?
 
@@ -6821,7 +6821,7 @@ crys:...
 crys:Tu es méchant.
 main:Pourquoi ?
 crys:Parce que je ne pourrai pas me sortir ça de la tête avant un moment....
-crys:Ça va devenir difficile de travailler en fuyant pendant que je pense à toi.
+crys:Ça va être difficile de travailler tout en étant excitée et en pensant à toi.
 main:...
 crys:Hahaha, je t'ai fait rougir !
 
@@ -6832,14 +6832,14 @@ crys:Hahaha, je t'ai fait rougir !
 crys:Bon travail avec Ohro, au fait.
 crys:J'ai quelque chose en échange. Regarde !
 main:Ce sont les cartes de Soran ?
-crys:Shhhhh!
+crys:Chuuut!
 crys:Ne fais pas de bruit, veux-tu?
 crys:Ne t'inquiète pas pour lui, il a un millier de ces cartes.
 crys:Il les mélange constamment pour que les gens ne puissent pas compter les cartes.
 crys:Je viens d'en prendre une grosse pile.
 crys:Je suis sûr qu'il va penser qu'il les a égarées quelque part.
 crys:Alors, si tu veux jouer avec moi...
-crys:Passez me voir le soir~
+crys:Passe me voir le soir~
 
 
 
@@ -6848,9 +6848,9 @@ crys:Passez me voir le soir~
 
 crys:Bien sûr, donne-moi une seconde.
 crys:Ahem...
-crys:Pooooooops~
-crys:Puis-je conclure aujourd'hui ?
-orso:Je ne sais pas, ma citrouille.
+crys:Papaaaaaaa~
+crys:Puis-je fermer la taverne aujourd'hui ?
+orso:Je ne sais pas, ma puce.
 orso:C'est beaucoup de responsabilités.
 crys:Allez ! Ce n'est pas si difficile, et comme ça, tu pourras te reposer un peu plus.
 orso:Mmmmmmmmm...
@@ -6886,14 +6886,14 @@ crys:Qu'en dis-tu ? Je vais attendre que tu te décides.
 
 crys:Eh bien, c'était amusant !
 crys:Je vais avoir besoin que tu joues avec moi plus souvent.
-crys:Sinon, il me faudra une éternité pour devenir bon au blackjack.
-main:Y a-t-il une raison pour que tu veuilles devenir bon ?
+crys:Sinon, il me faudra une éternité pour devenir bonne au blackjack.
+main:Y a-t-il une raison pour que tu veuilles devenir bonne joueuse ?
 crys:Oh, euh...
-crys:Noooooo? Hehe...
+crys:Noooooon? Hehe...
 main:Crystal...
 crys:Biennn!
 crys:J'ai besoin d'or.
-crys:Alors j'ai pensé que je pourrais devenir vraiment bon au blackjack.
+crys:Alors j'ai pensé que je pourrais devenir vraiment forte au blackjack.
 crys:Et en tirer de l'or.
 main:Pourquoi as-tu besoin d'or ?
 crys:...
@@ -6901,17 +6901,17 @@ crys:Papa ne dort pas très bien ces derniers temps.
 crys:Il se réveille souvent au milieu de la nuit. Ça m'inquiète.
 crys:J'ai demandé à Lily ce qu'il en était et j'ai claqué mes économies dans des médicaments pour lui.
 crys:Ça n'a presque rien fait.
-crys:La seule option qui me reste, c'est de lui acheter une "poupée ensorcelante" enchantée.
+crys:La seule option qui me reste, c'est de lui acheter une "poupée envoûtante".
 crys:Tu sais, une de ces poupées magiques qui aident les gens à dormir.
 crys:Les nobles les donnent à leurs enfants.
 crys:Mais elles sont tellement chères !
-crys:Désolé si j'ai eu l'air de te tromper. Je m'inquiète juste pour papa...
+crys:Désolée si j'ai eu l'air de te cacher des choses. Je suis juste inquiète pour Papa...
 main:C'est bon.
 crys:Et pas un mot de tout ça ! À personne !
 crys:La dernière chose que je veux, c'est que Papa soit encore plus stressé.
 crys:Il ne m'écoute pas. Tu le connais : " Je vais bien ! Rien que la bière et le temps ne puissent réparer."
-crys:*sigh*
-crys:Quoi qu'il en soit... Continuez à venir pour plus de blackjack, d'accord ?
+crys:*soupir*
+crys:Quoi qu'il en soit... Continue à venir pour jouer au blackjack, d'accord ?
 crys:Comme ça, je pourrai battre Soran, un jour.
 crys:Je te promets que ça vaudra le coup à chaque fois !
 main:Je ne peux pas t'aider à payer ?
@@ -6919,7 +6919,7 @@ crys:Non, non, non, non !
 crys:Je ne veux pas profiter de toi. Je me sens déjà assez mal pour avoir menti.
 crys:De toute façon... Il se fait tard...
 crys:À bientôt, d'accord ?
-main:[Je dois trouver une poupée hypnotique.]
+main:[Je dois trouver une poupée envoûtante.]
 main:[Je pourrais peut-être demander à Ivy, elle s'y connaît en magie, après tout...]
 
 
@@ -6927,20 +6927,20 @@ main:[Je pourrais peut-être demander à Ivy, elle s'y connaît en magie, après
 
 
 
-/ivy:Une poupée jouet envoûtante ?
+/ivy:Une poupée envoûtante ?
 /ivy:J'en ai une qui date de mon enfance.
 /ivy:Je m'y suis attachée, même si je ne l'utilise plus.
 /ivy:Je sais que ça a l'air un peu puéril, mais ça m'a vraiment aidé !
-/ivy:Si tu as des problèmes de sommeil, je peux te le donner.
-main:Ce n'est pas pour moi. J'en veux un pour quelqu'un du village.
+/ivy:Si tu as des problèmes de sommeil, je peux te la donner.
+main:Ce n'est pas pour moi. J'en veux une pour quelqu'un du village.
 /ivy:Oh, je vois.
-/ivy:Eh bien, s'il peut aider quelqu'un d'autre, je suis d'accord pour le laisser partir.
-/ivy:J'espère que tu le donneras à quelqu'un qui en a besoin.
-/ivy:Tiens, prends-le.
+/ivy:Eh bien, s'il peut aider quelqu'un d'autre, je suis d'accord pour de la laisser partir.
+/ivy:J'espère que tu la donneras à quelqu'un qui en a besoin.
+/ivy:Tiens, prends-la.
 /ivy:Mais je prendrai quelque chose en retour !
 main: !
 /ivy:Cela fera l'affaire.
-/ivy:Mais tu ferais mieux de me donner un deuxième tour plus tard~
+/ivy:Mais tu ferais mieux de m'en redonner plus tard~
 
 
 
@@ -6948,13 +6948,13 @@ main: !
 
 
 
-main:Hé Crystal ! Je t'ai pris ça.
+main:Hé Crystal ! Je t'ai trouvé ça.
 crys: !
 crys:Qu'est-ce que tu as fait ?
 crys:Je t'avais dit de ne pas gaspiller d'argent pour moi !
-main:Je ne l'ai pas fait ! J'ai juste demandé à un ami.
-crys:Un ami ?
-crys:Tu as des amis nobles ! ?
+main:Je ne l'ai pas fait ! J'ai juste demandé à une amie.
+crys:Une amie ?
+crys:Tu as des amies nobles ! ?
 crys:Oh mon Dieu, tu es plein de ressources.
 crys:Merci beaucoup, /main/.
 main:Ce n'est pas nécessaire, c'est pour la santé d'Orson.
@@ -6963,21 +6963,21 @@ crys:Et qu'on s'amuse un peu ? Pour fêter ça.
 crys:Je ferai en sorte d'être une gentille fille et de tout avaler.
 orso:Bonjour?
 crys:Le placard à balais ! Maintenant !
-crys:Shhhh!
-crys:Ne faites pas de bruit !
+crys:Chut!
+crys:Ne fait pas de bruit !
 orso:Ohro, je ferais mieux de ne pas te retrouver ici !
-main:Je n'y peux rien si tu continues à t'enfoncer dans ma queue.
+main:Je n'y peux rien si tu continues à t'enfoncer sur ma queue.
 crys: Ce n'est pas ma faute ! Je ne vois rien !
-crys:Et ta trique occupe la moitié du placard !
-main:Je me demande qui m'a rendu comme ça ?
+crys:Et ta bite occupe la moitié du placard !
+main:On se demande bien qui m'a rendu comme ça ?
 orso:Crystal?
 crys:Il nous a entendus ?
 main:Tout va bien ! J'ai un plan.
 crys:C'est vrai ?
-main:Utilise ta main pour étouffer ta bouche.
+main:Utilise ta main pour étouffer tes gémissements.
 crys:D'accord, mais je ne vois pas comment...
 crys: !!!
-orso:Je jure que j'ai entendu Crystal.
+orso:Je jurerais avoir entendu Crystal.
 orso:*bâille*
 orso:Je ferais mieux de dormir un peu... Je ne me fais pas de cadeaux ces derniers temps.
 
@@ -6991,7 +6991,7 @@ orso:Je ferais mieux de dormir un peu... Je ne me fais pas de cadeaux ces dernie
 
 
 
-crys:Y-You animal !!! Qu'est-ce qui ne va pas chez toi ?
+crys:T-Tu es un animal !!! Qu'est-ce qui ne va pas chez toi ?
 crys:Tu sais à quel point il est difficile de retenir un gémissement...
 crys:Quand tu commences à me baiser par surprise ?
 main:Je pensais te retourner la faveur de la dernière fois.
@@ -7000,11 +7000,11 @@ crys:Tu as de la chance que je sois... Nfff-
 crys:De bonne humeur... Ahhh~
 crys:Alors je ne vais pas me disputer avec toi.
 main:Je n'y crois pas.
-crys:Merde, je suis un très mauvais menteur. Et... Il s'en est fallu de peu !
+crys:Merde, je suis un très mauvaise menteuse. Et... Il s'en est fallu de peu !
 crys:Aaahh~
 crys:Je peux te demander quelque chose ?
 main:Bien sûr.
-crys:Tu ne veux pas élever cette serveuse dévergondée ?
+crys:Tu ne veux pas remplir de sperme cette serveuse en chaleur  ?
 crys: !
 crys:[Si bon !]
 crys:[Il n'arrête pas de me remplir !]
@@ -7027,7 +7027,7 @@ crys:Allez, viens dans le placard.
 crys:Tu as de la chance, je ne peux pas dire non à ce beau visage.
 crys:Mais ne fais pas de bruit. Je ne veux pas réveiller Papa.
 main:C'est toi qui pousse tes hanches contre moi.
-crys:Tu peux m'en vouloir ?
+crys:Tu vas m'en vouloir ?
 crys:J'avais tellement besoin que tu m'écartes à nouveau.
 crys:Si tu continues à me bousculer comme ça, je ne me soucierai même plus de me faire prendre.
 crys:Mmmm~
@@ -7042,7 +7042,7 @@ crys:[C'est tellement bon.]
 crys:Encore à l'intérieur, /main/ ?
 crys:Tu deviens imprudent.
 main:Mais tu m'as dit...
-crys:Shhh!
+crys:Chut!
 crys:Je ne me plains pas.
 
 
@@ -7053,7 +7053,7 @@ crys:Je ne me plains pas.
 crys:Eh bien, il ne reste plus de vêtements.
 crys:Laisse-moi te donner autre chose.
 crys:[Enfin.]
-crys:[Je regardais ce bourrelet grossir et j'avais hâte de le mettre dans ma bouche.]
+crys:[Je regardais cette bosse grossir et j'avais hâte de le mettre dans ma bouche.]
 crys:[Je te suce en un rien de temps.]
 crys:[Mmm?]
 crys:[Putain!]
@@ -7201,7 +7201,7 @@ narr:Un tas de bois de chauffage. Scarlet semble prendre un peu trop au sérieux
 
 
 narr:L'épée de Scarlet. Elle est immaculée et extrêmement tranchante.
-main:[Les priorités...]
+main:[Le sens des priorités...]
 
 
 
@@ -7224,19 +7224,19 @@ main:[Fenêtres qui donnent sur l'avant de la maison. Je peux voir le jardin d'i
 
 
 orso:C'est l'arme que j'utilisais lorsque je faisais partie de la garde royale du duc.
-orso:Avec la pièce que j'ai gagnée, j'ai acheté cette barre.
+orso:Avec les pièces que j'ai gagnées, j'ai acheté cette taverne.
 orso:Je pensais que ce serait facile avec tout ce que j'avais amassé au fil des ans.
-orso:Mais tout d'un coup, Crystal est arrivé.
-main:Que veux-tu dire par "tout d'un coup" ?
+orso:Mais d'un coup, Crystal est arrivée.
+main:Que veux-tu dire par "d'un coup" ?
 orso:Eh bien, elle est tout simplement apparue dans ma vie. Comme ça !
 orso:Un soir, j'ai entendu un bébé pleurer alors que je m'apprêtais à fermer le bar.
 orso:Quand je suis allé vérifier... elle était là.
-orso:Personne à voir, pas un mot ou un seul indice.
+orso:Personne n'était là, pas un mot ou un seul indice.
 orso:J'ai demandé à tout le monde pendant des mois. Et je n'ai rien obtenu.
 orso:Alors je l'ai recueillie et j'ai fait de mon mieux.
 orso:Je peux te dire qu'elle est le plus beau cadeau que la vie m'ait fait.
 orso:Même si parfois elle dépense un peu trop en vêtements ou devient un peu paresseuse à la taverne.
-orso:Je n'aimerai rien de plus que ma petite citrouille.
+orso:Je n'aimerai jamais rien de plus que ma petite puce.
 
 
 
@@ -7245,7 +7245,7 @@ orso:Je n'aimerai rien de plus que ma petite citrouille.
 
 reyn:Hé ! Qui t'a dit ça ?
 reyn:Peu importe...
-reyn:Écoute, ça fait longtemps que j'essaie de me débarrasser de mon infamie.
+reyn:Écoute, j'essaie de me débarrasser de ma mauvaise réputation depuis longtemps.
 reyn:Peux-tu ne pas en parler ici, s'il te plaît ?
 dism:Haha! Ta réputation te précède, Reynauld !
 reyn:Que racontes-tu ? J'ai arrêté de le faire depuis longtemps.
@@ -7253,18 +7253,18 @@ dism:Tu pourrais rendre les choses que tu as prises.
 reyn:Je t'en ai déjà parlé !
 reyn:J'ai tout jeté.
 reyn:...
-dism:Aha, tout ça.
+dism:Aha, tout ?
 reyn:AAAAAGH!
 reyn:Tu sais quoi ? ENFIN ! !!
 reyn:Toi, petit, donne-moi ta carte !
 main: ?
 reyn:Je vais marquer ma cachette ici. Elle se trouve à l'intérieur d'un tronc d'arbre creux dans les collines voisines.
 dism:Je le savais.
-reyn:Il y a mon bâton de serrure et un écusson en argent.
+reyn:Il y a mon crochet de serrure et un écusson en argent.
 dism:Un écusson en argent ?
 reyn:Oui, il avait l'air de mauvais augure. Je l'ai donc gardé.
 reyn:Maintenant, pas un seul mot à ce sujet, d'accord ?
-main:S-Bien sûr.
+main:B-Bien sûr.
 dism:Reynauld...
 reyn:Quoi?
 dism:Je suis fier de toi, mon pote.
@@ -7280,7 +7280,7 @@ reyn:Oh, tais-toi...
 
 
 main:[La voici : la cachette de Reynauld !]
-main:[Quite hidden.]
+main:[Plutôt discrête.]
 main:[Voyons ce que je peux trouver à l'intérieur.]
 
 
@@ -7291,7 +7291,7 @@ main:[Voyons ce que je peux trouver à l'intérieur.]
 
 
 main:[La voici : la cachette de Reynauld].
-main:[It's empty...]
+main:[C'est vide...]
 
 
 
@@ -7322,10 +7322,10 @@ narr:Tu peux entendre une faible voix provenant de l'effigie.
 narr:"Un voleur l'a caché."
 narr:"Cherchez-le, au village..."
 narr:"Il boit avec son ami."
-narr:"Et ramène-moi mon écusson d'argent."
+narr:"Et ramènez-moi mon écusson d'argent."
 
 Touche l'effigie
-Utilise la [Crête d'argent]
+Utilise l'[Écusson d'argent]
 
 
 
@@ -7347,9 +7347,9 @@ Utilise la [Crête d'argent]
 
 
 main:Whoa!
-erza:F-i-n-a-l-l-y!!
+erza:E-N-F-I-N!!
 main:Uh-oh...
-erza:Free!
+erza:Libre!
 erza:Enfin libre !
 erza:Melkor, salaud ! Tu le paieras de ton sang !
 erza:On m'appellera Erza l'impitoyable après ce que je vais te faire !
@@ -7358,11 +7358,11 @@ erza:Mais d'abord...
 erza:Qui est cet être puissant qui m'a réveillé ?
 erza:Comment puis-je rembourser... ton... Attendez...
 erza:Monsieur ?
-erza:Es-tu en train de vous polymorpher ?
+erza:Etes-vous polymorphe ?
 main:Non.
 erza:Une illusion ?
 main:Non...
-erza:Tu as l'air très... tu sais... humain...
+erza:Vous avez l'air très... vous savez... humain...
 main:Je suis un humain.
 erza:QUOI!?
 erza:J'AI ÉTÉ SAUVÉ PAR UN SIMPLE HUMAIN ! ?
@@ -7377,7 +7377,7 @@ erza:LA PIÈCE EST SCELLÉE PAR MAGIE ?
 erza:IL A FALLU ME SCELLER DEUX FOIS, ESPÈCE DE BARBU DE MERDE ! ?
 main:Tu vas bien ?
 erza:JE VAIS BIEN ! PLUS QUE BIEN !
-erza:Je vais le traquer et l'effacer de l'existence !
+erza:Je vais le traquer et l'effacer de ce plan d'existence !
 erza:Tu dois être l'un de ses serviteurs ou quelque chose comme ça.
 erza:Dis-moi où il se trouve et je t'épargnerai la vie.
 main:Je ne suis pas son serviteur, et tu risques d'être en retard pour ta vengeance.
@@ -7385,14 +7385,14 @@ erza: ?
 main:D'après ce que je peux dire, c'est sa tombe.
 erza:... Il est déjà mort ? Bon sang !
 erza:Attends...
-erza:Attendez-attendez-attendez-attendez...
-erza:Depuis combien de temps suis-je enfermé ici ?
-erza:Pas étonnant que je sois affamé comme ça...
+erza:Attends-attends-attends-attends...
+erza:Depuis combien de temps suis-je enfermée ici ?
+erza:Pas étonnant que je sois affamée comme ça...
 erza:Nnngh...
-erza:Bon sang, je pourrais manger un baril de fruits alléchants sans hésiter...
+erza:Bon sang, je pourrais manger un baril de fruits séduisants sans hésiter...
 erza:...
 erza:Ne me regarde pas comme ça !
-erza:Je n'ai pas besoin de votre pitié !
+erza:Je n'ai pas besoin de ta pitié !
 erza:Grrr.
 erza:Laisse-moi tranquille !
 
@@ -7405,11 +7405,11 @@ erza:Comment va mon humain préféré ?
 
 
 
-Donnez-lui 3 [fruits séduisants].
+Donner 3 [Fruits séduisants].
 
 
 erza:Je t'ai dit que je n'avais pas besoin de ta pitié !
-erza:Mais ce fruit a l'air si juteux...
+erza:Mais ces fruits ont l'air si juteux...
 erza:Attends une seconde...
 erza:Qu'est-ce que tu attends de tout ça, humain ?
 main:J'ai un nom. C'est /main/...
@@ -7429,12 +7429,12 @@ erza:/main/...
 
 
 erza:Eh bien, c'est simple :
-erza:Ce bâtard de vermine !
+erza:CE BATARD DE NAIN !
 erza:Voilà comment !
-erza:Il me voulait vivante et enchaînée juste pour faire étalage de sa richesse et de ses richesses.
+erza:Il voulait me garder en vie et enchaînée juste pour étaler sa richesse et ses trésors.
 erza:Je préfère mourir que d'être le trophée de quelqu'un !
 erza:Je l'ai donc forcé à me sceller à cette effigie.
-erza:Je savais que quelqu'un viendrait briser le sceau tôt ou tard. Je ne m'attendais pas à ce que... Tu...
+erza:Je savais que quelqu'un viendrait et briserait le sceau tôt ou tard. Je ne m'attendais juste pas... à toi...
 
 
 
@@ -7445,7 +7445,7 @@ erza:J'ai encore un peu faim...
 main:Tiens, tu peux les prendre.
 erza: !
 erza:Mmmmm~
-erza:J'étais affamé !
+erza:J'étais affamée !
 erza:Tant de...
 erza:Mais j'ai encore un peu faim maintenant...
 main:Je peux t'en apporter d'autres si tu en as besoin.
@@ -7453,10 +7453,10 @@ erza:Les fruits sont délicieux... Mais j'ai envie de quelque chose de meilleur.
 erza:J'aimerais un repas cuisiné, épicé si possible.
 erza:Oh ! Avec de la bière aussi !
 main:...
-erza:Ne me regarde pas comme ça ! Ce n'est pas comme si je pouvais aller la chercher moi-même.
+erza:Ne me regarde pas comme ça ! Ce n'est pas comme si je pouvais aller les chercher moi-même.
 erza:Et ce sera mon premier repas décent depuis je ne sais combien de temps.
-erza:Très bien, je vais rester assis ici et dépérir à la place.
-erza:Et je suis censé être le démon...
+erza:Très bien, je vais rester assise ici et dépérir à la place.
+erza:Et je suis censé être la démonne...
 
 
 
@@ -7470,9 +7470,9 @@ erza:Délicieux. Enfin de la bonne bouffe !
 erza:Ah, oui...
 erza:Hé, /main/.
 erza:J'ai l'impression que nous sommes partis du mauvais pied.
-erza:J'étais peut-être un peu frustré par ma situation actuelle.
+erza:J'étais peut-être un peu frustrée par ma situation actuelle.
 erza:Tu sais ce que c'est, je refoulais mes sentiments à l'intérieur.
-erza:Mais tu n'as été rien d'autre que gentil avec moi depuis le début.
+erza:Mais tu n'as été si gentil avec moi depuis le début.
 erza:Je ne pense pas que je t'ai traité équitablement.
 erza:Viens ici~
 
@@ -7481,31 +7481,31 @@ erza:Viens ici~
 
 
 erza:Laisse-moi t'aider à te détendre.
-erza:Respirez profondément.
+erza:Respire profondément.
 main:E-Erza!?
 erza:C'est bon. Tu avais juste l'air un peu raide.
-erza:Et maintenant que tu m'as rassasié et satisfait avec la fin de la nourriture...
+erza:Et maintenant que tu m'as rassasié et satisfaite avec le reste de la nourriture...
 erza:Je pense à d'autres désirs dont j'ai envie depuis si longtemps.
 erza:Tu vois, je savais que tu étais un peu en manque.
 erza:Pas mal du tout pour un humain, je dois dire.
 erza:Je vais tellement m'amuser avec ça !
-erza:Ne me regardez pas comme ça.
+erza:Ne me regarde pas comme ça.
 erza:Voilà, je fais ça pour ton plaisir.
 main:Nnnnh~
 erza:Tu vois ?
 erza:Je dois être honnête avec toi.
-erza:Maintenant, je suis curieux.
+erza:Maintenant, je suis curieuse.
 main: ?
 erza:Si tu es assez puissant pour briser l'effigie, tu ne devrais avoir aucun problème à gérer ceci.
 main: !
 main:C'est beaucoup trop !
 erza:Tu n'as pas explosé immédiatement. C'est bien mieux que ce à quoi je m'attendais.
-erza:Ne t'inquiète pas, tu peux tout laisser tomber~
+erza:Ne t'inquiète pas, tu peux tout lâcher
 main: !
 erza:Oh mon...
-erza:J'ai vraiment testé tes limites, n'est-ce pas ?
+erza:Je t'ai vraiment poussé à tes limites, n'est-ce pas?
 main:J'ai un peu mal maintenant...
-erza:Ohhh~ Je suis désolé, /main/.
+erza:Ohhh~ Je suis désolée, /main/.
 erza:J'espère que le plaisir en valait la peine.
 
 
@@ -7525,12 +7525,12 @@ erza:Tu vois ce cercueil ? J'ai besoin que tu entres à l'intérieur.
 main:Pourquoi!?
 erza:J'ai besoin de quelque chose à l'intérieur.
 main:Tu ne peux pas l'ouvrir et l'attraper ?
-erza:Je te laisse une seconde pour réfléchir à la raison pour laquelle c'est stupide.
+erza:Je te laisse une seconde pour réfléchir à la raison pour laquelle cette idée est stupide.
 main:Tu l'aurais déjà fait...
 erza:JE L'AURAIS DÉJÀ FAIT !
 erza:Mais tu vois... ce n'est pas un cercueil.
 main: ?
-erza:Ce n'est qu'un conteneur. Une porte vers une dimension de poche entière.
+erza:Ce n'est qu'un conteneur. Une porte vers une autre dimension.
 erza:Je peux l'ouvrir depuis ce plan - et surtout, la garder ouverte.
 erza:Mais j'ai besoin de quelqu'un pour entrer à l'intérieur.
 erza:Parce que ce qui me retient scellé dans cet endroit maudit s'y trouve.
@@ -7539,14 +7539,14 @@ erza:N'importe quoi ? Des monstres, des trésors, des clowns, je ne sais pas.
 erza:Mais tu dois trouver mon sceau et le détruire.
 main:Ne t'inquiète pas, si je te vois en difficulté, je te sortirai de là.
 erza:J'attendrai ta réponse, mais je n'ai pas un éon de plus à perdre.
-erza:Ah oui ! J'ai failli oublier de dire la chose.
+erza:Ah oui ! J'ai failli oublier de dire LA chose.
 erza:S'il te plaît~
 
 Va dans le royaume de Melkor
 narr:Le sarcophage de Melkor
 erza:Tu es prêt ?
-main:Donnez-moi une seconde...
-erza:ALLEZ !
+main:Donne-moi une seconde...
+erza:VAS-Y !
 
 erza:Hé !
 erza:/main/!
@@ -7557,13 +7557,13 @@ erza:Fais attention la prochaine fois. Tu ne m'es d'aucune utilité mort.
 erza:Ha !
 erza:Hahahaha !
 erza:HAHAHAHAHHAHAHAHA !!!
-erza:FINALLY!
+erza:ENFIN!
 erza:Je peux sentir la force couler à nouveau dans mon corps !
 erza:Ça m'a tellement manqué...
 erza:/main/~
 erza:Tu as réussi.
 main:Tu peux enfin quitter cet endroit.
-erza:Leave?
+erza:Partir?
 erza:Maintenant que j'ai conquis le royaume ?
 erza:...
 erza:Cet endroit est tout à nous maintenant~
@@ -7587,7 +7587,7 @@ erza:Tu es délicieusement amusant !
 erza:Mmmm~
 erza:Et tu m'as rendu de si bons services.
 erza:Il ne serait donc pas juste que tu ne puisses pas en profiter.
-erza:D'accord?
+erza:Tu n'es pas d'accord?
 main: !
 main:Merde—
 erza: Tu vois ?
@@ -7603,13 +7603,13 @@ erza:/main/?
 erza:Ahh~!
 erza:/main/!?
 erza:Tu es sourd ?
-erza:Arrêtez ! S-
+erza:Arrête ! M-
 erza:Arrête de pousser et écoute ta reine !
 main:Désolé, ma reine.
 main:Tes pouvoirs sont trop importants pour moi.
-erza:Il n'y a pas de charme ici !
+erza:Il n'y a pas de charme impliqué ici !
 main:Tu n'as pas besoin d'un sort de charme.
-erza:JE...
+erza:Je...
 erza:Ugh !
 erza:Ne joue pas avec moi !
 erza:Tu es un serviteur, et les serviteurs ne devraient pas être autorisés à...
@@ -7620,20 +7620,20 @@ erza:Putain...
 erza:Je suis pleine.
 main:Désolé, Erza.
 main:Tu es trop difficile à gérer pour mon esprit de mortel.
-erza:Tais-toi et retiens-toi.
+erza:Tais-toi et reste dedans.
 main:Et les règles ?
 erza:Je suis la reine. C'est moi qui fixe les règles.
 erza:Et ce que je veux maintenant, c'est être remplie !
 main:Oui, ma reine.
 erza:Bon sang !
-erza:J'espère que tu es heureuse.
+erza:J'espère que tu es heureux.
 main:Tu n'as pas idée.
 main:J'ai l'impression d'avoir dépassé les attentes.
 erza:Toi...
-erza:Tu as plus que dépassé les attentes.
+erza:Tu as plus que dépassé mes attentes.
 erza:Considère-toi chanceux que j'étais d'humeur.
 erza:Et que je m'amuse en ce moment.
-erza:Sinon, je te frapperais !
+erza:Sinon, je te foudroierais!
 
 
 
@@ -7659,16 +7659,16 @@ erza:Sinon, je te frapperais !
 crys:Ehm, je veux dire... Bienvenue à la taverne d'Orson !
 crys:Que puis-je t'offrir ?
 crys:Une bière rafraîchissante pour lutter contre la chaleur ?
-crys:De la nourriture pour apaiser votre faim ?
-main:Je vais bien, merci.
+crys:De la nourriture pour apaiser ta faim ?
+main:Tout va bien, merci.
 crys:Je m'appelle Crystal.
 main:Crystal, hein ? Je m'appelle /main/.
-crys:Je ne te reconnais pas. Tu es nouvelle dans le coin ?
+crys:Je ne te reconnais pas. Tu es nouveau dans le coin ?
 main:Oui.
 main:J'ai emménagé récemment dans une maison à l'extérieur du village, dans les bois.
 main:Je l'ai héritée de mon grand-père.
-crys:Lucky!
-crys:Haha, j'imagine que tu te sens seul là-bas. C'est certainement le cas.
+crys:La chance!
+crys:Haha, j'imagine que tu dois te sentir seul là-bas. Si c'est le cas.
 crys:Eh bien, viens dans le coin et je te servirai notre bière la plus fraîche.
 main:Je vais y réfléchir.
 crys:Je peux te montrer l'endroit et...
@@ -7684,13 +7684,13 @@ crys:À bientôt !
 
 
 
-narr:Un tas de punaises. Elles sont faciles à voir ici avec toute cette obscurité.
+narr:Un tas de lucioles. Elles sont faciles à voir ici avec toute cette obscurité.
 
-Utilise une bouteille pour en attraper un
+Utilise une bouteille pour en attraper une
 
 
 
-narr:Tu as capturé un [Brightbug].
+narr:Tu as capturé une [Luciole].
 
 
 
@@ -7717,7 +7717,7 @@ narr:Une ruche.
 
 
 
-ambe:Démarrer l'image
+ambe:Commencer le tableau
 ambe:Panoramique vers le haut pour le visage
 ambe:Panoramique vers la droite
 ambe:Panoramique vers la poitrine
@@ -7726,8 +7726,8 @@ ambe:Panoramique vers la poitrine
 ambe:Panoramique vers la poitrine
 ambe:La poitrine à l'horizontale
 ambe:La poitrine à l'horizontale
-ambe:Pan à la poitrine
-ambe:Début de l'image
+ambe:Panoramique vers la poitrine
+ambe:Début de la scène
 
 
 
@@ -7739,9 +7739,9 @@ main:Oui.
 luna:Awh, Soran ne m'a pas dit que tu étais aussi beau~
 luna:Je suis Luna, c'est moi qui dirige cet endroit.
 luna:Enfin, ce qu'il en reste.
-luna:Anyway!
+luna:Bref!
 luna:Amber! Viens ici.
-ambe:Tu m'as appelé ?
+ambe:Tu m'as appelée ?
 luna:Mhm. Nous avons un client.
 luna:Amber va t'enchanter avec une danse captivante.
 ambe:Super.
@@ -7759,7 +7759,7 @@ ambe:Viens avec moi.
 ambe:Je n'ai pas saisi ton nom là-bas.
 main:/main/.
 ambe:/main/? Unique.
-ambe:Je n'ai pas vu ton visage dans le coin.
+ambe:Je n'ai jamais vu ta tête dans le coin.
 main:J'ai déménagé à Aurelia il n'y a pas longtemps.
 ambe:Et tu es déjà autorisée à entrer dans la maison close ?
 ambe:La plupart des gens mettent du temps à convaincre Soran.
@@ -7768,7 +7768,7 @@ ambe:Assez pour profiter des avantages supplémentaires d'une danse privée.
 ambe:J'espère qu'ils sont à votre goût.
 ambe:Pas de contact, cependant~
 ambe:Ce n'est que pour le spectacle.
-ambe:Merci d'être venu au bordel.
+ambe:Merci d'être venu à la maison close.
 ambe:J'espère te revoir bientôt.
 
 
@@ -7776,8 +7776,8 @@ ambe:J'espère te revoir bientôt.
 
 
 
-ambe:Je suis désolé.
-ambe:Ce n'était qu'une fois.
+ambe:Je suis désolée.
+ambe:Ce n'était que pour une fois.
 ambe:Tu peux profiter des danses publiques pendant que je travaille ici.
 
 
@@ -7817,9 +7817,9 @@ jane:Oui, je l'ai toujours.
 main:Je peux la racheter ?
 jane:La racheter ? Oh, chéri~
 jane:Je ne peux pas faire payer ce genre de choses à mon homme.
-jane:Tenez, prends-le s'il te plaît. C'est pour moi.
-jane:Mais tu ferais mieux de donner à ce halfling quelque chose en retour plus tard~
-jane:Quelque chose... d'épais et de chargé.
+jane:Tiens, prends-la s'il te plaît. C'est pour moi.
+jane:Mais tu ferais mieux de donner à cette halfeline quelque chose en retour plus tard~
+jane:Quelque chose... de gros et de chargé.
 
 
 
@@ -7853,14 +7853,14 @@ ambe:Qu'est-ce que je te dois ?
 ambe:Je suis sûr que tu as déjà quelque chose en tête.
 main:Oh...
 main:Je n'ai pas, pas re...
-ambe:Listen.
+ambe:Écoute.
 ambe:Je vais être franc avec toi.
-ambe:J'apprécie cela.
+ambe:J'apprécie ton geste.
 ambe:Même si je sais pourquoi tu le fais.
 ambe:Mais je ne suis pas d'humeur à faire quoi que ce soit en ce moment.
 ambe:J'ai beaucoup de choses en tête en ce moment.
 main:Est-ce que je peux faire quelque chose pour t'aider ?
-ambe:Mec, tu ne te rends pas, n'est-ce pas ?
+ambe:Mec, tu n'abandonne jamais, n'est-ce pas ?
 ambe:Il ne s'agit pas de moi.
 ambe:Il s'agit de mon frère, Kivir.
 ambe:Tu l'as probablement déjà rencontré, le videur.
@@ -7872,8 +7872,8 @@ main:Amber?
 ambe:Tu as dit embuscade ?
 ambe:Embuscade, embuscade ! ?
 ambe:C'est de là qu'il tient ses blessures ! ?
-main:Je pensais que tu le savais.
-ambe:Il m'a dit qu'il s'était battu en état d'ébriété !
+main:Je pensais bien que tu devais être au courant.
+ambe:Il m'a dit qu'il s'était battu bourré!
 ambe:Merci! Je le confronterai plus tard.
 ambe:Il m'entendra.
 
@@ -7888,33 +7888,33 @@ ambe:Ton cas était une exception spéciale.
 ambe:Soran a demandé à Luna de te donner un "traitement unique".
 ambe:Et je ne peux pas dire non à Luna. Pas après tout ce qu'elle a fait pour moi.
 main:Je suis désolé... J'aurais dû m'en douter.
-ambe:Ce n'est pas grave. Tu n'avais aucun moyen de te préparer à cela.
+ambe:Ce n'est pas grave. Tu n'avais aucun moyen de savoir.
 ambe:Et si on essayait à nouveau notre première rencontre ?
 
 //Luna Coctails
 luna:Oh, ça fait un moment que je n'ai pas vu Amber demander quelque chose de fort.
-luna: Ne t'inquiète pas. Je te donnerai un Firebreath chargé. Elle adore ça !
-luna:Si tu m'apportes un poivre bouillant et des fraises, je peux t'en préparer un.
+luna: Ne t'inquiète pas. Je te donnerai un SouffleDeFeu bien corsé. Elle adore ça !
+luna:Si tu m'apportes un piment bouillant et des fraises, je peux t'en préparer un.
 
-//Giving Amber The Firebreath
+//Giving Amber The SouffleDeFeu
 ambe:Oh mon Dieu !
 ambe:J'adore ça.
 ambe:Merci beaucoup.
 ambe:Ça me rappelle la maison.
 ambe:Même si c'est une histoire un peu embarrassante...
 main:Comment ça ?
-ambe:Là où je vivais, cet abruti avec qui je sortais a lancé une rumeur sur mon "amour de la tête".
-ambe:Et que je le ferais "pour de l'alcool".
+ambe:Là où je vivais, un type avec qui je suis sortie a commencé à répandre une rumeur sur mon "amour de faire des fellations".
+ambe:Et sur le fait que je le "ferais pour un peu d'alcool"..
 main:Bon sang, je suis désolé pour ça.
-ambe: Ce n'est pas grave. J'ai eu beaucoup de boissons gratuites grâce à ça. Et, si je le sentais, un peu d'entraînement.
-ambe:À en juger par la dernière fois, je parie que je peux te boire à blanc en une minute.
+ambe:Ce n'est rien. J'ai eu beaucoup de boissons gratuites grâce à ça. Et, si j'en avais envie, un peu d'entraînement.
+ambe:À en juger par la dernière fois, je parie que je peux te faire jouir en une minute.
 main:Oh, je...
-ambe:Scared?
+ambe:Tu as peur?
 main:Non.
-ambe:1000 or, alors ?
+ambe:1000 pièces d'or, alors?
 main:Tu as autant d'or à jeter par les fenêtres ?
 ambe:Pas vraiment, mais je ne vais pas perdre.
-ambe:Très bien, c'est un plan de secours !
+ambe:Très bien, alors comme plan de secours!
 ambe:Si je perds...
 ambe:Tu as un laissez-passer d'un an pour cette jolie bouche.
 
@@ -7952,11 +7952,11 @@ ambe:Tu as un laissez-passer d'un an pour cette jolie bouche.
 
 kivi:Bienvenue, /main/.
 kivi:Amber m'a grondé pendant ce qui m'a semblé être des heures.
-main:Désolée, je ne voulais pas moucharder.
+main:Désolé, je ne voulais pas moucharder.
 kivi:Ce n'est pas grave. J'allais le dire à Amber moi-même.
 kivi:Je ne voulais pas qu'elle s'inquiète.
 kivi:Elle fait des choses stupides quand elle est inquiète.
-kivi:Quoi qu'il en soit, monte déjà !
+kivi:Quoi qu'il en soit, tu peux rentrer !
 
 
 
@@ -7971,7 +7971,7 @@ ambe:Et comment il a été assommé immédiatement.
 ambe:Alors tu étais seul et tu as quand même décidé de te battre.
 ambe:Pourquoi ne m'as-tu rien dit ? Tu ne voulais pas te vanter ?
 ambe:Je vais aussi ajouter l'humilité à la liste.
-ambe:Très bien... Pas de blagues maintenant.
+ambe:Très bien... Plus de blagues maintenant.
 ambe:Désolé pour mon attitude de l'autre jour.
 ambe:Et merci d'avoir sauvé mon grand frère.
 ambe:Alors...
@@ -7984,7 +7984,7 @@ ambe:/main/~
 Guitare
 Donne-lui une [Bière]
 Danse privée
-Défi - 1 000 pièces d'or
+Défi - 1000 pièces d'or
 Gorge profonde
 Donnez-lui un [Souffle de feu]
 Je peux te demander quelque chose ?
@@ -8006,7 +8006,7 @@ ambe:Bien sûr!
 
 
 
-ambe:Elle prend soin des gens. Surtout moi.
+ambe:Elle prend soin des gens. Surtout de moi.
 ambe:Elle agit un peu comme une mère pour moi.
 ambe:Je lui dois beaucoup.
 ambe:Elle m'a donné un travail et un endroit où rester.
@@ -8053,46 +8053,46 @@ ambe:3... 2... 1... Allez !
 main:Nnnnf...
 ambe:[Putain de merde.]
 ambe:[Il a l'air beaucoup plus gros de près.]
-ambe:[Je ne pense pas avoir déjà essayé avec un de cette taille.]
-ambe:[Allez, Amber, tu le tiens.]
+ambe:[Je ne pense pas avoir déjà essayé avec une bite de cette taille.]
+ambe:[Allez, Amber, tu peux le faire.]
 ambe:[Et le sablier vient de commencer.]
 main:Amber...
 main:Tu es vraiment douée.
 ambe:[Hey!]
 ambe:[Merde...]
-ambe:[C'est de ma faute si je n'ai pas établi de règles.]
+ambe:[C'est de ma faute, je n'ai pas établi de règles.]
 ambe:[Putain—]
 ambe:[Ce sont de belles mains...]
-ambe:[Oh mon dieu ! Mille or, Amber !]
+ambe:[Oh mon dieu ! Mille pièces d'or, Amber !]
 ambe:[Arrête de penser à-]
 ambe:Mmm~!
-ambe:[Trou du cul !]
+ambe:[Espèce de salaud!]
 ambe:[C'est de la triche !]
 ambe:Ugh~
 ambe:[C'est de la triche...]
 ambe:[Et le sablier descend si vite maintenant...]
 ambe:[Allez !]
-ambe:[Jouis déjà !]
+ambe:[Jouis maintenant !]
 main:Presque plus de temps, Amber...
 ambe:[Tais-toi ! Je m'en occupe.]
 ambe:[Arrête de bouger ces putains de doigts-]
 ambe:~ !
 ambe:[Merde, il m'a eu.]
 ambe:[Je ne peux pas le faire comme ça.]
-ambe:[And—]
+ambe:[Et—]
 main:Le temps est écoulé.
 ambe:[Merde...]
 main: !
 ambe:[Maintenant!?]
 ambe:[J'ai failli t'avoir !]
-ambe:[Au moins, j'ai obtenu un deuxième prix collant.]
-ambe:[Bon sang, il n'arrête pas d'avancer.]
+ambe:[Au moins, j'ai obtenu un prix de consolation.]
+ambe:[Bon sang, il n'arrête pas.]
 ambe:[S'il me traite comme ça à chaque fois...]
 ambe:[Peut-être que ça vaudra l'or que j'ai perdu.]
 main:Merde, tu as failli m'avoir !
 ambe:Espèce de tricheur ! Personne n'a dit que tu pouvais me toucher en bas !
-ambe:Ça m'a pris par surprise.
-ambe:Je te donne la victoire cette fois-ci...
+ambe:Ça m'a prise par surprise.
+ambe:Je te concèdes la victoire cette fois-ci...
 ambe:Mais prépare-toi à perdre pour le reste de l'année !
 
 
@@ -8116,7 +8116,7 @@ ambe:Je veux une revanche.
 
 
 
-main:Retire-le.
+main:Retire-la.
 main: !
 ambe:Hahaha!
 ambe:Quel désordre !
@@ -8132,9 +8132,9 @@ ambe:Eh bien, je veux une revanche.
 ambe:[Mmmmmm~]
 ambe:[C'est si bon.]
 ambe:[Il glisse si facilement dans ma gorge.]
-main:FffPutain, Amber !
-ambe:[Il gémit si fort~]
-ambe:[Et il pulse tellement.]
+main:PPPutain, Amber !
+ambe:[Il gémit beuacoup~]
+ambe:[Et il bande tellement fort.]
 ambe:[J'ai l'impression qu'il va exploser.]
 ambe:[Allez, donne-moi tout ce que tu as !]
 
@@ -8144,7 +8144,7 @@ ambe:[Allez, donne-moi tout ce que tu as !]
 
 ambe: !
 ambe:[Mmm~]
-ambe:[Keep shooting!]
+ambe:[Continue de tirer!]
 ambe:[Tout ça, au plus profond de moi.]
 ambe:Je veux une revanche.
 
@@ -8161,7 +8161,7 @@ ambe:Je veux une revanche~
 
 
 ambe:Viens, suis-moi.
-ambe:Voilà... Appréciez ma danse à votre guise~
+ambe:Voilà... Apprécie ma danse à ta guise~
 
 
 
@@ -8193,15 +8193,15 @@ ambe:À moins que tu ne veuilles enlever les tiens ?
 ambe:Tu vois ?
 ambe:Ça met tout le monde sur un pied d'égalité.
 ambe:Quelque chose me dit que tu veux ça depuis ma première danse.
-main:Coupable comme accusé.
-ambe:Dans la plupart des cas, je suppose que tu as récupéré ma guitare juste pour ça...
+main:Coupable.
+ambe:Si j'avais dû parier, j'aurais parier que tu as récupéré ma guitare juste pour ça...
 ambe:Mais tu as sauvé mon frère, avant même de me connaître.
 ambe:Tu es le genre de gars qui fait passer les autres avant lui.
 ambe:Une perle rare...
 ambe:Surtout dans un bordel.
-main:JE...
+main:Je...
 main:Nnnnf~
-ambe:Désolé, je ne voulais pas être trop bavard.
+ambe:Désolé, je ne voulais pas être trop bavarde.
 ambe:Dois-je recommencer la danse ?
 ambe:Ou est-ce que ça marche déjà pour toi ?
 main:Ghh...
@@ -8209,7 +8209,7 @@ ambe:Je prends ça pour un oui.
 ambe:J'espère que je suis à la hauteur de ce que tu as imaginé lors de ma première danse.
 main:Putain!
 ambe:Putain, tu fais tout en grand, n'est-ce pas ?
-ambe:Tu m'as bien glacé~
+ambe:Tu m'as bien recouverte~
 ambe:Ne t'inquiète pas, je te laisse profiter de la vue.
 
 
@@ -8241,7 +8241,7 @@ luna:Voilà, c'est fait.
 
 luna:C'est un endroit très chaud.
 luna:Nous avions l'habitude de laisser entrer n'importe qui.
-luna:Mais c'est devenu un peu incontrôlable et ça a attiré des... Disons, des clients moins qu'optimaux.
+luna:Mais c'est devenu un peu incontrôlable et ça a attiré des... Disons, des clients moins désirables.
 luna:Soran nous aide aujourd'hui dans le "processus de sélection".
 luna:Il a un excellent œil !
 luna:Malheureusement, ce bordel est loin d'être la chose la plus lucrative qu'il ait dans son assiette.
@@ -8306,9 +8306,9 @@ main:Tu as pris les plantes du jardin ?
 main:Elles ont disparu.
 /ivy:Bizarre.
 /ivy:Il y a encore des fruits dans le coin.
-main:*sigh*...
-main:Il a été mangé...
-main:Et il y a de la bouillie bleue partout.
+main:*soupir*...
+main:On dirait qu'ils ont été mangés...
+main:Et il y a de la gelée bleue partout dessus.
 /ivy:Peut-être qu'un animal s'est faufilé et en a mangé dans le jardin ?
 main:Peut-être...
 /ivy:Essaie de demander à Scarlet, elle a peut-être vu quelque chose.
@@ -8323,10 +8323,10 @@ scar:Maintenant que tu le dis.
 scar:J'ai vu de la pâte bleue quand j'ai fait mes repérages ce matin.
 scar:Le sentier menait au lac.
 scar:J'ai pensé qu'il s'agissait d'une sorte d'animal sauvage.
-main:Quel genre d'animal traîne de la glu bleue ?
+main:Quel genre d'animal traîne de la gelée bleue ?
 scar:Erhm...
 scar:UN... Un escargot bleu géant ?
-scar:Listen. Je fais du repérage au cas où quelqu'un voudrait mettre ses sales pattes sur Ivy.
+scar:Écoute. Je fais du repérage au cas où quelqu'un voudrait mettre ses sales pattes sur Ivy.
 scar:Je ne peux pas non plus vérifier tous les animaux de la forêt.
 scar:Je poserai des pièges si cela te rassure.
 
@@ -8335,7 +8335,7 @@ scar:Je poserai des pièges si cela te rassure.
 
 
 
-main:[Il y a beaucoup de glu bleue autour de cette ruche].
+main:[Il y a beaucoup de gelée bleue autour de cette ruche].
 main:[Celui qui a volé mes fruits est passé par là.]
 Cache-toi et attends
 
@@ -8347,7 +8347,7 @@ main:[Quelqu'un arrive.]
 mera:Na-nana-nana~
 mera:Comment vont mes petits amis ?
 mera:Bzzz-bzzz?
-mera:Awh... Non chérie...
+mera:Awh... Non mes chéries...
 Confronte-la
 Attends
 
@@ -8364,7 +8364,7 @@ main:Elle vient de disparaître dans le sol !
 
 
 mera:Meh...
-mera:Non, chérie...
+mera:Non, mes chéries...
 mera:Travaillez plus fort !
 main:C'est quoi ce bordel...
 main:Elle a disparu dans le sol.
@@ -8386,7 +8386,7 @@ main:Tu as une idée de l'endroit où tu peux en trouver une ?
 lily:Ces choses sont assez exotiques, pour être honnête.
 lily:Je n'ai aucune idée de l'endroit où tu pourrais en trouver un.
 lily:Je te jure que j'en ai vu un quelque part dans le village.
-lily:Je ne me souviens plus où...
+lily:Mais je ne me souviens plus où...
 
 
 
@@ -8410,10 +8410,10 @@ luna:C'est trop mignon !
 main:Je ne voulais pas faire de suppositions.
 luna:Oh non, tu as raison.
 luna:Quand le printemps arrive, il est presque impossible de les éloigner.
-luna:Ils sont tout excités et pleins d'énergie.
+luna:Elles sont tout excitées et pleines d'énergie.
 luna:Ça chatouille~
 luna:Reviens avec une bouteille, et je te donnerai un peu de mon nectar.
-luna:Tout ce qui peut t'aider, ma belle~
+luna:Tout ce qui peut t'aider, mon beau~
 
 
 
@@ -8432,50 +8432,50 @@ luna:À manipuler avec précaution.
 main:[Très bien.]
 main:[Maintenant, je dois attendre.]
 mera:Na-nana-nana~
-mera:Bzzz-bzzz, les petits.
-mera:Voyons si tu as travaillé aujourd'hui !
+mera:Bzzz-bzzz, les petites.
+mera:Voyons si vous avez bien travaillé aujourd'hui !
 mera:Oh, mon Dieu ! Ça fait beaucoup de miel !
 mera:Mmmm~!
-mera:Il y a du punch aujourd'hui.
+mera:Il a un goût puissant aujourd'hui.
 mera:Bonnes abeilles !
 main:Hé, toi !
 mera:ARGH, HUMAIN !
 mera:Oh, non... Je ne peux pas perdre mon miel.
-mera:HUMAIN DE RETOUR !
-mera:MIEL LE MIEN !
+mera:HUMAIN ÉLOIGNE-TOI !
+mera:LE MIEL EST À MOI !
 mera:TU TROUVES TES PROPRES ABEILLES !
 main:Je me fiche de ton miel.
 main:Je suis ici parce que tu m'as volé !
 mera:Qu-Quoi ?
-mera:Merah n'a pas volé !
-main:C'est toi qui l'as fait ! Tous les fruits de mon jardin ont disparu.
+mera:Merah n'a rien volé !
+main:Si, tu as tout pris! Tous les fruits de mon jardin ont disparu.
 mera:J'ai échangé !
-main:Quoi?
-mera:J'ai laissé un tas de gluants !
-mera:Goo précieux !
-main:Pourquoi est-ce que je voudrais votre goo ?
+main:Qu'est-ce que tu veux dire ?
+mera:J'ai laissé un tas de gelée !
+mera:la gelée est précieuse !
+main:Pourquoi est-ce que je voudrais ta gelée ?
 mera:C'est rebondissant et drôle.
 mera:Il était tard, je ne voulais pas réveiller les humains.
 mera:Les humains se fâchent quand ils se réveillent.
 mera:Et Merah avait très, très faim.
-mera:Voilà. J'ai autre chose !
+mera:Tiens, j'ai autre chose !
 main: !?
 mera:Des pièces brillantes !
 main:C'est un sac d'or...
-mera:Tu aimes les pièces qui brillent ?
+mera:Tu aimes les pièces brillantes ?
 main:Où as-tu trouvé ça ?
 mera:Je les ai trouvées dans la forêt !
 main:...
 mera:Quoi!? Les gens viennent au bord du lac et oublient des trucs.
-mera:J'attrape des trucs dans mon goo quand je me déplace.
+mera:J'attrape des trucs dans ma gelée quand je me déplace.
 mera:Et je les garde.
 mera:Je ne peux pas les rendre !
 mera:OH ! OH ! Idée !
 mera:Je ne m'approcherai pas de tes fruits.
 mera:Mais si tu m'apportes des fruits, je te donnerai les trucs que je trouve autour !
-mera:Deal?
+mera:Marché conclu?
 main:Eh...
-mera:DEAL!
+mera:Marché conclu!
 
 
 
@@ -8483,8 +8483,8 @@ mera:DEAL!
 
 
 mera:Fruit!
-mera:Tenez, échangez !
-mera:Apportez-m'en plus !
+mera:Tiens, en échange !
+mera:Apporte-m'en plus !
 
 
 
@@ -8521,7 +8521,7 @@ mera:Tu n'aimes pas ça ?
 main:Ce n'est pas ça...
 mera:Mon ami m'a aussi dit que si tu aimes ça, tu mettras ta bite dedans.
 main:...
-mera:Allez, je ne fais pas confiance aux humains. Mais je te fais confiance.
+mera:Je ne fais pas confiance aux humains. Mais je te fais confiance.
 mera:Aide-moi~
 main:Oh, eh bien... Pourquoi pas ?
 mera: !
@@ -8539,8 +8539,8 @@ main:Trop...
 main:Sérré...
 main: !
 mera:Whoa!
-mera:Tu as aussi de l'huile ?
-mera:Il fait si chaud.
+mera:Tu as aussi de la gelée ?
+mera:Elle est si chaude
 mera:Merah va avoir besoin de plus de ça~
 
 
@@ -8566,13 +8566,13 @@ main:Nnnf~
 mera:[Hehe!]
 mera:[Il est sur le point d'exploser.]
 mera:Tu as l'air tendu~
-main:Tu es trop agressif.
-mera:Parce que je veux cette substance blanche~
-main:Ne fais pas claquer tes hanches comme ça !
-mera:Je le veux !
+main:Tu es trop agressive.
+mera:Parce que je veux cette gelée blanche~
+main:Ne cogne pas tes hanches comme ça !
+mera:Je la veux !
 mera: !
-mera:Yay~
-mera:C'est si chaud et si crémeux...
+mera:Hourra~
+mera:C'est tellement chaud et crémeux...
 mera:Tu as l'air fatigué.
 mera:Prends ton temps.
 
@@ -8594,10 +8594,10 @@ mera:Ou tu veux déjà décharger ?
 
 mera:Merci !
 mera:[Mmmf!]
-mera:[Merah a raté ça~]
-mera:[Je me sens si bien au fond de ma gorge.]
+mera:[Merah a manqué ça~]
+mera:[C'est tellement bon au fond de ma gorge.]
 mera:[Et le fait qu'il me mange me fait frissonner.]
-mera:[Il commence à appuyer plus fort~]
+mera:[Il commence à pousser plus fort~]
 
 
 
@@ -8617,19 +8617,19 @@ mera:C'est beaucoup !
 
 
 
-mera:Yay~!
-mera:Le voici~
+mera:Hourra~!
+mera:La voici~
 mera:Ça te plaît ?
 main:Ouais.
 mera:Bien.
 mera:Maintenant...
-mera:Allez-y. Sois dur avec lui.
+mera:Vas-y. Sois brutal avec moi.
 mera: !
-mera:P-Putain!
+mera:P-Putain de merde!
 mera:Aah~
-mera:Tu me rentres dedans !
+mera:Tu me bourres bien !
 mera:C'est si bon...
-mera:Harder!
+mera:Plus fort!
 mera:Nnnnf~!
 mera:Étire mon cul autant que tu peux !
 main:Putain!
@@ -8638,8 +8638,8 @@ mera:Laisse-toi aller et continue.
 #REF !
 mera: !
 mera:Haahhhnngh !
-mera:Yeeeeesss !
-main:*pant pant*
+mera:Ouuuuuui !
+main:*halète halète*
 mera:C'était génial.
 mera:Merci, /main/.
 
@@ -8659,7 +8659,7 @@ mera:Ouais.
 mera:Il y en a beaucoup à l'intérieur du lac.
 mera:Petits, mais avec de grandes bouches.
 mera:Ils me mordent quand j'y entre !
-mera:J'ai perdu beaucoup de glu.
+mera:J'ai perdu beaucoup de gelée.
 mera:Merah ne peut plus prendre ce risque.
 main:...
 main:Si je pêche suffisamment de "Big-Bites"...
@@ -8668,9 +8668,9 @@ mera:*ahem*
 main:Échanger des objets ?
 mera:Probablement.
 mera:Mais je n'ai pas vu Big-Bites remonter souvent à la surface.
-mera:Je ne les ai vus faire ça que pour mordre les punaises.
+mera:Je ne les ai vus faire ça que pour mordre les lucioles.
 mera:Mais elles sont rares par ici...
-mera:Ils vivent généralement dans des grottes.
+mera:Elles vivent généralement dans des grottes.
 
 
 
@@ -8693,7 +8693,7 @@ main:[Les eaux devraient être plus sûres maintenant].
 
 
 
-mera:Tellement !
+mera:Vraiment !
 mera:Merci~
 mera:Je vais pêcher un peu maintenant que je le peux.
 
@@ -8713,7 +8713,7 @@ mera:Je sais que tu as fait quelque chose au miel.
 mera:Uh...
 mera:J'en veux encore !
 mera:C'était bon et ça m'a donné des fourmis dans les jambes !
-mera:C'est pour mon repas de poisson.
+mera:C'est pour mon repas avec le poisson.
 mera:S'il te plaît ?
 
 
@@ -8723,7 +8723,7 @@ mera:S'il te plaît ?
 
 luna:Plus?
 luna:Je t'ai donné tout ce que je pouvais l'autre jour. Il me faudra un peu de temps pour m'en remettre.
-luna:*sigh*...
+luna:*soupir*...
 luna:Si tu veux accélérer le processus, donne-moi de la sève ancienne.
 luna:Tu peux en trouver dans les grottes souterraines en pressant de vieilles racines.
 luna:Bonne chance !
@@ -8742,7 +8742,7 @@ luna:Très bien, apporte-moi une autre bouteille et je te donnerai l'essence.
 
 
 luna:Voilà pour toi.
-luna:Mais plus de nectar pendant un certain temps, s'il vous plaît.
+luna:Mais plus de nectar pendant un certain temps, s'il te plaît.
 
 
 
@@ -8789,9 +8789,9 @@ main:Tu ne ressembles pas à un dragon.
 naam:C'est parce que je suis encore jeune !
 naam:Je n'ai que quelques centaines d'années.
 naam:Et je n'ai pas encore développé mes paillettes...
-naam:Anyway.
+naam:Bref.
 naam:Je ne vais même pas te demander quel sombre rituel t'a donné la capacité de parler aux dragons.
-naam:On se sent seul par ici, alors je le prends.
+naam:On se sent seul par ici, alors je vais passer outre.
 
 
 naam:Que veux-tu, mon ami ?
@@ -8819,7 +8819,7 @@ naam:Mais je suppose que je vais devoir me contenter de ce lac pour l'instant.
 
 
 naam:Oh, tu vois...
-naam:Je suis un dragon étincelant.
+naam:Je suis un dragon scintillant.
 naam:Ma force provient de minéraux précieux.
 naam:Plus je m'en entoure...
 naam:Plus je peux devenir puissant.
@@ -8832,7 +8832,7 @@ naam:J'obtiendrai un jour un trésor éblouissant d'or et de pierres précieuses
 
 
 naam:Ah ! Des fragments de pierres précieuses !
-naam:Contemplez mes pouvoirs étincelants, humains !
+naam:Contemple mes pouvoirs scintillants, humain !
 naam:Je vais transformer ces fragments en une magnifique pierre précieuse !
 
 
@@ -8845,29 +8845,29 @@ naam:Gems!? Je te donnerai mes bénédictions pour elles, mais seulement une à 
 
 naam:Il n'y a pas plus de connaissances que je puisse partager avec toi. [Note du développeur : actuellement, il n'y a plus de contenu pour ce personnage].
 
-naam:Contemple mes pouvoirs étincelants, humain !
+naam:Contemple mes pouvoirs scintillants, humain !
 naam:Je vais te bénir avec mon pouvoir.
 naam:Pour qu'il puisse te servir en cas de besoin extrême !
 naam: !
 
 naam:Ah ! Un peu d'or pour mon magot ! ?
 naam:Permets-moi de te rendre la pareille en te donnant quelques conseils divins.
-naam:Dis-moi, où as-tu besoin de ces conseils ?
+naam:Dis-moi, de quel conseils as-tu besoin ?
 naam:Je ne peux pas partager plus de connaissances avec toi.
 naam:Un jour doit passer avant que le chemin ne soit révélé.
-naam:Elle t' attendra dans l'après-midi.
+naam:Elle t'attendra dans l'après-midi.
 naam:Près de la vieille horloge se trouve une pelle.
-naam:Le halfling a l'outil que tu désires.
+naam:La halfeline a l'outil que tu désires.
 naam:Un jardin magique t'attend.
 naam:Une conversation décontractée pourrait faire l'affaire.
 naam:Belle et chère.
 naam:L'intimité de sa chambre pourrait cacher une convoitise inattendue.
 naam:De nouvelles portes sont désormais ouvertes pour toi.
-naam:Une blonde dans une grande gueule.
+naam:Une blonde dans une grande choppe.
 naam:Une autre blonde ?
 naam:Quelque chose de plus sophistiqué.
 naam:La patience est la clé, et demain la réponse.
-naam:Wine? Le barman en a. De la nourriture ? Le barman connaît quelqu'un. Un cadeau ? Il s'assoit près de toi tous les soirs.
+naam:Du vin? Le barman en a. De la nourriture ? Le barman connaît quelqu'un. Un cadeau ? Il est près de toi tous les soirs.
 naam:L'après-midi, mets une table pour deux.
 naam:Parle-lui ! Ne sois pas timide, maintenant...
 
@@ -8878,12 +8878,12 @@ naam:Sous les étoiles.
 naam:Tu auras besoin de la précision elfique.
 naam:Sous les étoiles, encore.
 naam:La nuit, quelque part dans la maison.
-naam:Parlez à la dame.
+naam:Parle à la dame.
 naam:Avec une hache près de la souche.
-naam:Parlez à la dame.
+naam:Parle à la dame.
 naam:Près de la route, l'argent brille.
-naam:Rendez-le à son propriétaire.
-naam:La fille magique connaît peut-être la réponse.
+naam:Rend-le à son propriétaire.
+naam:La sorcière connaît peut-être la réponse.
 naam:Cherches à connaître la littérature.
 naam:Le tombeau de Melkor t'attend.
 naam:La dague se trouve dans les collines, et les ivrognes de la taverne en détiennent la clé.
@@ -8893,13 +8893,13 @@ naam:Parles à la rousse.
 naam:Va te reposer dans ton lit...
 naam:Parles à la sorcière.
 naam:Quelqu'un dans la taverne peut t'aider. Laisse-toi guider par sa sagesse.
-naam:Donnez au minotaure ce qu'il demande.
+naam:Donne au minotaure ce qu'il demande.
 naam:Va te reposer dans ton lit...
-naam:Parlez au minotaure.
-naam:Demandez au nain une faveur très spéciale.
-naam:Donnez un [Diamant] au nain.
-naam:Donnez la sauvegarde à la rousse.
-naam:Rendez visite à la rousse la nuit.
+naam:Parle au minotaure.
+naam:Demande au nain une faveur très spéciale.
+naam:Donne un [Diamant] au nain.
+naam:Donne la protection à la rousse.
+naam:Rende visite à la rousse la nuit.
 
 
 naam:Montre de l'intérêt pour elle.
@@ -8910,36 +8910,36 @@ naam:Tu as le choix entre te salir les mains ou convaincre quelqu'un d'assez dé
 naam:Paye le mendiant pour ses services.
 naam:Janet t'attend.
 naam:Un jour doit passer, jusqu'à ce que le chemin soit révélé.
-naam:Visitez sa boutique une fois de plus.
+naam:Visite sa boutique une fois de plus.
 naam:Ce que tu cherches peut être vu de la fontaine, mais seulement le soir.
 naam:Un jour doit passer, jusqu'à ce que le chemin soit révélé.
-naam:Parle au halfling.
+naam:Parle à la halfeline.
 naam:Cherche le nain.
 naam:Trouve quelqu'un, ou porte-les toi-même.
 naam:Cherche le nain.
-naam:Parle au halfling.
+naam:Parle à la halfeline.
 naam:Cherche le nain.
 naam:Récupére de la nourriture ou de l'argent.
-naam:Parle au halfling.
-naam:Aide le halfling.
+naam:Parle à la halfeline.
+naam:Aide la halfeline.
 naam:
 naam:
 naam:Travaille pour Orson - aussi dur que tu le peux.
-naam:Tu la trouveras aux matins, avec le halfling.
-naam:Donne des fraises au halfling !
+naam:Tu la trouveras aux matins, avec la halfeline.
+naam:Donne des fraises à la halfeline !
 naam:Délivre-lui un peu de douceur.
 naam:Parle-lui.
 naam:Donnez un peu de piment au mendiant.
 naam:Ajoute un repas à l'affaire.
 naam:Parle-lui une fois que le bar est vide.
 naam:Joue.
-naam:La poupée repose dans la main d'un magicien.
+naam:La poupée repose dans la main d'une magicienne.
 naam:Fait en sorte que la poupée atteigne son nouveau propriétaire.
 
 
 //Ginny quest clues
 naam:Reste pour le sermon.
-naam:Faite un don, faites un don, faites un don !
+naam:Fait un don, fait un don, fait un don !
 naam:Les poissons laissent parfois des algues derrière eux lorsqu'ils s'échappent.
 naam:L'église est plus belle la nuit, n'est-ce pas ?
 naam:Elle t'attend - et est probablement un peu en colère.
@@ -9047,7 +9047,7 @@ karo:Je me débrouille bien tout seul.
 karo:Mais j'ai une dame qui m'attend à la maison.
 karo:Je prévois de revenir les mains pleines une fois que j'aurai fait quelques travaux pour Soran.
 karo:Et quelques "expéditions minières" avec toi.
-karo:Ma dame a de grands rêves, vous savez ?
+karo:Ma dame a de grands rêves, tu sais ?
 karo:C'est la fille la plus mignonne que j'ai jamais vue.
 karo:Avec son grand sourire et sa fourrure écarlate.
 karo:Elle est parfaite !
@@ -9375,7 +9375,7 @@ scar:Mais tu dois comprendre que tu ne peux pas rester trop longtemps au même e
 scar:Il n'y a pas de limite à l'influence d'Elizabeth. Je veux te protéger d'elle.
 scar:... Même si cela signifie que tu te mets en colère contre moi.
 main:De plus, si elle te trouve, tu seras obligé de partir de toute façon, n'est-ce pas ?
-/ivy:*sigh*
+/ivy:*soupir*
 /ivy:Tu as raison. Tous les deux...
 main:Vous pouvez compter sur moi. Je vous aiderai pour tout ce dont vous avez besoin jusqu'à ce que vous soyez en sécurité.
 /ivy:Merci, /main/. Vous êtes toujours si gentils.
@@ -9756,7 +9756,7 @@ jane:N'hésite pas à revenir quand tu veux.
 Le chant d'Amber
 Où est Amber ?
 Quelque chose pour Amber
-[Firebreath]
+[SouffleDeFeu]
 Miel
 Essence de Luna - Besoin d'une bouteille
 Donne-lui la [Sève ancienne].
@@ -9815,7 +9815,7 @@ main:C'est parfait. Continue comme ça.
 luna:Très bien. Prenons notre temps, il n'y a pas d'urgence.
 main:C'est facilement la meilleure... Hah... branlette que j'ai jamais eue. Tu es géniale, Luna.
 luna:...
-luna:*sigh*...
+luna:*soupir*...
 luna:J'ai beaucoup pratiqué. Je sais que ma technique est très raffinée. Tu n'as pas idée du nombre d'hommes que j'ai servis.
 luna:Je peux dire en toute confiance qu'il n'y a personne ici qui ait une meilleure frappe que moi.
 luna: Tu as beaucoup de chance.
@@ -10463,7 +10463,7 @@ ginn:Tu te souviens du thé que je t'ai demandé d'aller chercher pour moi ? Le 
 main:Oui. Ça t'a fait du bien ?
 ginn:Pour être honnête... pas vraiment.
 main:Je suis désolé de l'apprendre. Tu as toujours des problèmes de sommeil ?
-ginn:*sigh*
+ginn:*soupir*
 ginn:Le thé n'a jamais été censé m'aider à dormir.
 ginn:Lirey m'a béni dès mon plus jeune âge avec une force sans commune mesure.
 ginn:J'étais juste... Expérimenter... Je voulais me sentir vraiment impuissant pour une fois...
@@ -11312,7 +11312,7 @@ erza:Une fois le sceau brisé, tu pourras t'occuper des mesures de sécurité re
 //If fail Vessel
 erza:/main/!?
 erza:Pourquoi as-tu arrêté ?
-erza:*sigh*...
+erza:*soupir*...
 erza:Dis-moi quand tu seras à nouveau prêt.
 
 //If Success Vessel
@@ -18381,7 +18381,7 @@ gdra:...
 main:Et tu as tout pris...
 gdra:HUMAIN!
 main:Oui~?
-gdra:*sigh*...
+gdra:*soupir*...
 gdra:Comprends-tu que je n'ai plus d'autre choix que de t'incinérer ?
 main:Je comprends.
 gdra:Un dernier mot, alors ?
