@@ -4707,21 +4707,21 @@ lily:Il se fait tard. Nous devrions être rentrés à la maison à l'heure qu'il
 
 main: !
 main:Arghh, si fort !
-lily:Il faut que je travaille sur cette saveur.
+lily:Il faut que je travaille sur le goût.
 lily:Cependant, quelle meilleure excuse pour te donner quelque chose de sucré en retour ?
-main:Oh ? Tu es trempé.
+main:Oh ? Tu es trempée.
 lily:C'est de ta faute !
 lily:Quand je t'ai vu arriver, j'ai commencé à m'impatienter.
 lily:Tu as mis trop de temps à boire l'aphrodisiaque.
 main:Il suffisait de demander.
 lily:Tu sais que j'ai du mal à te dire ces choses.
-lily:C'est plus facile quand tu baises mes pensées.
+lily:C'est plus facile quand tu me baises à m'en faire perdre la raison.
 main:Sois honnête alors, qu'est-ce que tu veux maintenant ?
 lily:Je veux...
-lily:Je veux que tu me brises !
+lily:Je veux que tu m'ouvres en deux !
 lily:Que tu me baises jusqu'à ce que je perde la tête !
 lily:Et que tu remplisses ma chatte affamée de sperme !
-main:Tu n'avais qu'à demander.
+main:Il suffit de demander.
 lily: !
 lily:Oui ! C'est ce dont j'avais besoin...
 main:Tu me serres si fort.
@@ -4729,9 +4729,9 @@ lily:Je ne veux rien manquer.
 lily:Je le veux chaud à l'intérieur !
 main:Je suis vide...
 lily:Merci, /main/.
-lily:J'espère que vous ne m'en voudrez pas si je deviens un peu exigeant~~.
+lily:J'espère que tu ne m'en voudras pas si je deviens un peu exigeante~~.
 lily:C'est toi qui m'as rendu accro à ce jeu après tout.
-lily:Il se fait tard. Nous devrions être rentrés à la maison maintenant.
+lily:Il se fait tard. Nous devrions rentréer à la maison maintenant.
 
 
 
@@ -4741,36 +4741,36 @@ lily:Il se fait tard. Nous devrions être rentrés à la maison maintenant.
 
 lily:Ah, enfin ! Je t'attendais.
 main:Oh, tu as besoin de mon aide pour un peu d'alchimie...
-lily:Tais-toi et déshabille-toi déjà.
+lily:Tais-toi et déshabille-toi.
 lily:Lécher, c'est suffisant, non ?
 main:...
 lily:C'est toi qui m'as appris que je devais être plus honnête.
 lily:Tu n'as même pas besoin de demander.
-lily:Fais ce que tu veux.
-lily:C'est ce que je suis !
+lily:Fais simplement ce qui te plaît.
+lily:C'est ce que je veux !
 lily:Maintenant, fais attention à cette énorme bite~
 lily:Tu ne voudrais pas que je m'étouffe avec, hein ?
-lily:Ce serait une telle imposture...
+lily:Ce serait vraiment domma-
 lily: !
 lily:Mhhhhggggh !
 main:Tu sais...
 lily:Ghhhhhmm...
-main:J'ai l'impression que tu me pousses à bout cette fois-ci.
-main:Tu n'as pas encore appris ?
+main:J'ai l'impression que tu me provoques cette fois..
+main:Tu n'as toujours pas appris ?
 lily:Mhhhhgggg !
-main:Ouais? Tu as quelque chose à dire à ce sujet ?
+main:Alors ? Tu as quelque chose à dire à ce sujet ?
 lily:Ahhhh!
-lily:Je suis désolé ! Je suis désolé...
-lily:Je suis encore un peu gêné de demander.
+lily:Je shuis désolée ! Je shuis désolée...
+lily:J'ai encore un peu honte de demander.
 lily:M-Mais je m'impatiente.
-lily:S'il vous plaît, continuez à baiser mon visage !
+lily:S'il te plaît, continue de baiser ma bouche !
 lily: !
 main:Tu n'as qu'à demander.
 lily:Mhhhhggggh !
 main:Tu l'enfonces toi-même dans ta gorge maintenant....
 main:Je ne le force même plus.
-main:Tu le veux à ce point ?
-lily:Ye-eeh-ss!
+main:Tu la veux à ce point ?
+lily:O-uii-ch!
 main: ?
 main:Désolé, je ne t'entends pas.
 lily:OUI !
@@ -4792,7 +4792,7 @@ lily:J'espère que personne ne nous a entendus...
 
 lily:MMMMMMM !!!
 main:Chut, quelqu'un va le remarquer.
-main:Ceci devrait étouffer ton...
+main:Ceci devrait étouffer ta...
 main:Tu l'avales ?
 lily:Nngghh-mmmm !!!
 lily:*pop*
@@ -4801,7 +4801,7 @@ lily:Merci, /main/.
 main:...
 main:Lily?
 lily: ?
-main:Tu peux arrêter de le lécher maintenant.
+main:Tu peux arrêter de la lécher maintenant.
 lily:Ohhh.
 
 
@@ -4877,9 +4877,9 @@ narr:Vous pouvez l'ouvrir avec la clé de l'horloge.
 
 
 main:[Rappelle-toi ce qu'a dit Reynauld.]
-narr:Appuie à gauche et à droite pour déplacer le pic à serrure.
-narr:Appuyez et maintenez enfoncé pour frapper la goupille.
-narr:Exercez la pression exacte pour aligner les goupilles.
+narr:Appuie à gauche et à droite pour déplacer le crochet.
+narr:Appuie et maintiens enfoncé pour frapper la goupille.
+narr:Exerce la pression exacte pour aligner les goupilles.
 narr:L'objectif est d'aligner toutes les goupilles juste au-dessus du trou de la serrure.
 main:[Huh, c'est verrouillé.]
 
@@ -4889,10 +4889,10 @@ main:[Huh, c'est verrouillé.]
 
 main:[Jackpot!]
 main:[Voyons ce qu'il y a à l'intérieur.]
-narr:Vous trouvez 300 pièces d'or.
+narr:Tu trouves 300 pièces d'or.
 narr:Tu trouves un vieux morceau de papier...
 narr:Il y a du charabia écrit dessus.
-narr:Vous avez trouvé une copie de la clé de la maison.
+narr:Tu as trouvé une copie de la clé de la maison.
 
 main:[C'est tout !]
 
@@ -4907,25 +4907,25 @@ main:[C'est tout !]
 
 
 
-jane:Salut mon beau !
+jane:Salut beau gosse !
 jane:clin d'œil
 /ivy:clin d'œil
-jane:seulement janet clin d'œil
-/ivyand jane:double wink
-jane:Shook
-jane:Shook
-jane: ?
-/ivy: ?
-jane:Neutral
-jane:Clin d'œil
-jane: !
-jane: ?
-jane:shake...
-jane:SHAKE
-jane:SHAKE SHAKE SHAKE SHAKE
-jane:agiter horizontalement
-jane:onduler verticalement
-jane:Sauter du texte
+jane:seule janet clin d'œil
+/ivyand jane:double clin d'œil
+jane:Secouée
+jane:Secouée
+jane:?
+/ivy:?
+jane:Neutre
+jane:clin d'œil
+jane:!
+jane:?
+jane:secoue...
+jane:SECOUE
+jane:SECOUE SECOUE SECOUE
+jane:ondule horizontalement
+jane:ondule verticalement
+jane:Texte qui saute
 Magie 1
 magie 2
 magie 3
@@ -4988,17 +4988,17 @@ loop_1 105% vitesse
 transition vers le nouveau à 95% de vitesse
 loop_2 100% vitesse
 loop_2 105% de vitesse
-Jouir dans le circuit respiratoire 100% speed
+Éjaculation vers boucle de respiration 100% vitesse
 
 
 
 
 
 scar:Hein ?
-scar:Désolé, villageois.
-scar:Je suis occupé.
-scar:Scram!
-main:[Bon sang, quelle attitude...]
+scar:Désolée, villageois.
+scar:Je suis occupée.
+scar:Dégage !
+main:[Merde, quelle attitude...]
 scar:Hein ?
 
 
@@ -5006,7 +5006,7 @@ scar:Hein ?
 
 
 main:Scarlet?
-scar:*snorrrre*
+scar:*ronfle*
 scar:Encore cinq minutes...
 main:...
 main:Scarlet!
@@ -5031,40 +5031,40 @@ main:[Scarlet n'est pas là...]
 main:Scarlet?
 
 //Talking to Scarlet in the tent
-main:Scarlet?
+main:Scarlet ?
 scar:Oui ?
-main:Listen. Je sais que nos débuts ont été un peu rudes...
+main:Écoute. Je sais qu'on a mal commencé...
 main:Mais tu peux dormir à l'intérieur si tu veux.
 scar:Je n'en ai pas besoin.
 scar:Je suis parfaitement capable de rester dehors. Aussi longtemps que nécessaire.
-scar:Je monterai la garde la nuit, que vous le vouliez ou non.
+scar:Je monterai la garde la nuit, que ça vous plaise ou non.
 
 //Sitting near Scarlet
 scar: ?
 scar:Qu'est-ce que tu fais ici à cette heure-ci ?
-main:Je prends de tes nouvelles.
+main:Je viens prendre de tes nouvelles.
 main:Je pourrais même t'aider à monter la garde ce soir...
 main:Ça a l'air d'être une expérience.
 scar:Fais ce que tu veux.
-scar:Mais ne me distrayez pas !
+scar:Mais ne me distrais pas !
 scar:Quelqu'un doit prendre la protection d'Ivy au sérieux.
 scar:C'est un miracle que je vous ai trouvés si tôt.
 scar:La dernière chose que je veux, c'est qu'Ivy ait besoin de se protéger.
 main:Tu ne penses pas qu'elle en serait capable ?
-scar:Able?
+scar:Capable?
 scar:Bien sûr qu'elle en serait capable.
 scar:Elle pourrait vaporiser une centaine de soldats comme si de rien n'était.
 scar:Mais je ne veux pas qu'elle passe par là.
-scar:Prendre des vies... Ça laisse des cicatrices sur votre humanité.
+scar:Prendre des vies... Ça laisse des cicatrices sur ton humanité.
 scar:Et j'ai déjà vu ce qui se passe quand une magie puissante est utilisée sans discernement.
-main:Vous faites référence à Elizabeth ?
+main:Tu fais référence à Elizabeth ?
 scar:J'en ai déjà trop dit.
-scar:Listen!
-scar:Veux-tu protéger Ivy ?
-main:Avec tout ce que j'ai.
+scar:Écoute!
+scar:Tu veux protéger Ivy ?
+main:Du plus profond de mon être.
 scar:Vraiment?
 scar:Très bien.
-scar:Je te tiendrai parole.
+scar:Je m'en tiens à tes paroles.
 scar:Mais plus de bavardage à partir de maintenant.
 scar:J'ai une garde à assurer.
 scar:Va dormir pour être frais et dispos demain.
@@ -5082,7 +5082,7 @@ main:Scarlet? Qu'est-ce qui se passe ?
 scar:Oh, putain de merde !
 main: !
 main:SCARLET !?
-scar:Tu n'es même pas encore habillée !
+scar:Tu n'es même pas encore habillé !
 main:Qu'est-ce que tu fous ?
 scar:Qu'est-ce que tu crois que je fais ?
 scar:Je te réveille pour qu'on puisse s'entraîner tôt le matin.
@@ -5141,8 +5141,8 @@ scar:Super!
 
 
 scar:Pas mal, /main/.
-scar:Mais il vous reste encore beaucoup de chemin à parcourir.
-scar:Vous devez être plus agile !
+scar:Mais il te reste encore beaucoup de chemin à parcourir.
+scar:Tu dois être plus agile !
 
 
 
@@ -5150,16 +5150,16 @@ scar:Vous devez être plus agile !
 
 
 main:Phew!
-scar:[Holy...]
+scar:[Nom de...]
 scar:[C'était de la folie.]
 main:Qu'en penses-tu, Scarlet ?
 scar:Ehhhh...
-scar:C'était... bon...
+scar:C'était... bien...
 scar:Je ne pense pas que quelqu'un ou quelque chose puisse nous échapper.
 main:J'espère que cela te fera envisager d'emménager dans la maison.
 scar:Pas si vite, /main/.
 scar:J'ai besoin que tu me promettes de protéger Ivy de tout danger.
-main:Je te donne mon wo-
+main:Je te donne ma pa-
 scar:Non, non !
 scar:On va faire ça comme il faut.
 main: ?
@@ -5167,20 +5167,20 @@ scar:Si tu veux vraiment protéger Ivy...
 scar:Et moi, si cela s'avérait nécessaire pour une raison ou une autre.
 scar:Un vœu de chevalier s'impose.
 main:Sérieusement ?
-scar:Agenouillez-vous.
+scar:Agenouille-toi.
 main:...
 scar:Ne me regarde pas bizarrement ! Tu seras mon premier chevalier.
 scar:C'est un honneur !
-scar:Super.
+scar:Parfait.
 scar:Répète après moi...
-scar:Je le jure sur mon honneur.
-main:Je le jure sur mon honneur.
+scar:Je jure sur mon honneur.
+main:Je jure sur mon honneur.
 scar:Que sous le commandement de Scarlet.
 main:Que sous le commandement de Scarlet.
-scar:Ma lame servira ta volonté.
-main:Ma lame servira ta volonté.
-scar:Mes flèches trouveront tes ennemis.
-main:Mes flèches trouveront tes ennemis.
+scar:Ma lame servira sa volonté.
+main:Ma lame servira sa volonté.
+scar:Mes flèches trouveront ses ennemis.
+main:Mes flèches trouveront ses ennemis.
 scar:Je t'apporterai des douceurs, même si c'est tard dans la nuit.
 main:...
 scar:Hé, il fallait bien que j'essaie.
@@ -5190,78 +5190,78 @@ scar:Mais je ferai en sorte que cela en vaille la peine.
 scar:Voilà... Prends ta récompense d'initiation.
 main:I-
 scar:Shhhh!
-scar:Ne le remettez pas en question.
-scar:Venez et prenez-la.
+scar:Ne pose pas de question.
+scar:Viens et prends-la.
 scar:C'est ça.
-scar:En vérité, c'était une belle démonstration d'habileté.
-scar:Je veux que tu le gardes comme ça.
-scar:Et à en juger par la rapidité avec laquelle tu es passé de la surprise à me dévorer...
+scar:En vérité, c'était une belle démonstration de compétence.
+scar:Je veux que tu continues comme ça.
+scar:Et à en juger par la vitesse à laquelle tu es passé de la surprise à me lécher...
 scar:Je suppose que ce sera un bon moyen de te garder motivé.
 scar:Hummm~
-scar:Tu n'es pas seulement doué pour le tir à l'arc, n'est-ce pas ?
-scar:Tu n'as aucune pitié pour moi, hein ?
-scar:Mince~
+scar:Tu n'es pas doué qu'au tir à l'arc, n'est-ce pas ?
+scar:Tu ne me fais aucune pitié, hein ?
+scar:Bon sang~
 scar:Tu as tellement de talents cachés.
-scar:Quelle sera ta prochaine surprise ?
+scar:Avec quoi vas-tu me surprendre ensuite ?
 scar:Ah !
 scar:Attends... Ce n'est pas...
 scar:Ugh~
-scar:Je ne l'ai pas dit littéralement.
-scar:Attention avec ça !
+scar:Je ne le pensais pas littéralement.
+scar:Fais attention avec ça !
 scar:C'est un endroit sensible.
-main:Je prendrai bien soin de toi.
-scar:Très bien.
+main:Je vais bien prendre soin de toi.
+scar:D'accord.
 scar:Je te disciplinerai plus tard.
 scar:Mais pour l'instant...
-scar:J'ai vraiment besoin de monter ce visage...
-scar:Pour quelques secondes encore...
-scar:Avant que je...
-scar:Putain!
-scar:C'était si bon~
+scar:J'ai vraiment besoin de chevaucher ce visage...
+scar:Encore quelques secondes...
+scar:Avant que je—
+scar:Putain !
+scar:C'était tellement bon~
 scar:Il m'en fallait une comme ça.
 scar:Je me demande ce que tu vas encore m'apprendre...
 scar:J'ai hâte de le découvrir.
 scar:Mais pour l'instant, l'entraînement est terminé.
-main:Je peux faire glisser mes doigts maintenant ?
+main:Je peux faire sortir mes doigts maintenant ?
 scar:O-Oui.
 scar:Évidemment.
 
 
-scar:*snore*
-main:[She's asleep.]
+scar:*ronfle*
+main:[Elle dort.]
 
 
 scar:Bien joué.
-scar:Maintenant, agenouillez-vous.
-scar:Vous l'avez bien mérité.
+scar:Maintenant, agenouille-toi.
+scar:Tu l'as bien mérité.
 scar:Et si je devais deviner...
-scar:Tu y pensais avant même de perdre ta première flèche.
+scar:Tu y pensais avant même de tirer ta première flèche.
 main:Tu m'as eu.
 scar:Ne t'inquiète pas. Moi aussi.
 scar:Tu as quand même fait un excellent travail.
-scar:Tu as un bon professeur, n'est-ce pas ?
-main:Le meilleur.
+scar:Tu as une bonne professeure, n'est-ce pas ?
+main:La meilleure.
 scar: !
 scar:Tu essaies de me faire baisser ma garde avec des compliments ?
-scar:C'est méchant.
-main:Non, ça c'est méchant.
+scar:C'est mesquin.
+main:Non, ça c'est mesquin.
 scar:Whoa!
 scar:Mince...
 scar:Fais attention avec ça.
-scar:JE...
+scar:Je...
 scar:Ah~
-scar:Arrêtez...
-main:Je ne pense pas que je le ferai.
+scar:Arrête...
+main:Je ne pense pas que je vais arrêter.
 scar:Putain~
-scar:Je vais te prendre ton sourire suffisant...
-scar:et l'effacer de ton visage !
-scar:J'espère que tu vas aimer ça !
-scar:Parce que c'est la seule chose que tu mangeras pendant un certain temps.
+scar:Je vais effacer ce sourire suffisant...
+scar:En me frottant sur ton visage ! !
+scar:J'espère que tu aimes ça !
+scar:Parce que c'est la seule chose que tu vas manger pendant un moment.
 scar:Ugh~
 scar:Continue comme ça.
 main:Même les doigts ?
-scar:Ferme ta gueule et fais ton boulot !
-scar:Je suis presque...
+scar:Ferme la et fais ton boulot !
+scar:J'y suis presque...
 scar:Presque—
 scar:~ !
 scar:Putain oui !
@@ -5286,19 +5286,19 @@ scar:Hum... Peu importe...
 
 
 
-scar:Même si Ivy est plus dure qu'elle n'en a l'air, je te suis reconnaissant d'être resté dans les parages.
-scar:Quand elle était petite, elle avait généralement besoin de l'assurance de quelqu'un pour faire certaines choses.
+scar:Même si Ivy est plus forte qu'elle n'en a l'air, je te suis reconnaissante d'être resté dans les parages.
+scar:Quand elle était petite, elle avait généralement besoin de l'aide de quelqu'un pour faire certaines choses.
 scar:Tu l'as aidée à aller de l'avant.
 scar:Et à oublier son passé.
 scar:Tu as une bonne influence sur elle, /main/.
 scar:Mais je te préviens.
 scar:Ne te laisse pas berner par ces grands yeux charmants.
-scar:Elle pense toujours à la situation dans son ensemble.
+scar:Elle voit toujours la situation dans son ensemble.
 scar:Et, finalement, elle obtiendra ce qu'elle veut.
 
 
 //Scarlet caught in bedroom
-scar:*snort*
+scar:*renifle*
 main:...
 main:Oh, je ne m'attendais pas à ce que tu sois là.
 scar:AH !
@@ -5306,27 +5306,27 @@ scar:/main/!?
 scar:Ne me fais pas peur comme ça !
 main:Hmm...
 scar:Qu'est-ce que tu regardes ?
-main:Je pense à l'endroit où j'ai laissé les couvertures supplémentaires. Tu pourrais les utiliser.
+main:Je me demande où j'ai laissé les couvertures supplémentaires. Tu pourrais les utiliser.
 scar:Oh ! Oh non !
 scar:Je ne dormais pas ici.
 scar:J'étais...
 scar:Je faisais du repérage ! Ouais. En éclaireur.
-main: Des repérages ? À l'intérieur de la maison ?
+main: Du repérage ? À l'intérieur de la maison ?
 scar:On ne sait jamais !
 scar:...
 scar:Très bien...
 scar:Il se peut que je m'incruste ici de temps en temps...
 scar:C'est un canapé confortable.
-main:C'est bon, je n'ai pas de...
+main:C'est bon, je ne vois pas de prob...
 scar:Non !
 main:Pourquoi ? Donne-moi une bonne raison.
-scar:Parce que je ne suis pas un profiteur !
+scar:Parce que je ne suis pas une profiteuse !
 scar:Je n'ai pas le droit à ce que les choses se passent comme je le souhaite par magie.
-scar:Je n'ai pas besoin de votre charité !
+scar:Je n'ai pas besoin de ta charité !
 scar:Je ne suis pas Ivy !
 scar:...
 scar:Oh mon dieu...
-scar:Je suis désolé, /main/...
+scar:Je suis désolée, /main/...
 scar:C'était vraiment une chose stupide à dire.
 main:Tout va bien.
 main:Tu as l'air de traverser beaucoup de choses.
