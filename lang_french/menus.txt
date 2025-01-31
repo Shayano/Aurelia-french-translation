@@ -409,7 +409,7 @@ L'ennemi te tend une embuscade !
 
 
 Tu reçois un assortiment d'armes.
-Le [Cimier d'argent] est prêt.
+L'[Écusson d'argent] est prêt.
 Tu paies
 Tu apprends un nouveau sort !
 Tu n'as pas assez d'[Epox].
@@ -635,8 +635,8 @@ Jouer un tour à Ohro.
 Découvrez où Crystal se rend le matin.
 Donnez à Ohro un [Piment bouillant].
 Joue au blackjack avec elle le soir.
-Peut-être qu'Ivy aura une [Poupée hypnotique] ?
-Donnez à Crystal la [Poupée hypnotique].
+Peut-être qu'Ivy aura une [Poupée envoûtante] ?
+Donnez à Crystal la [Poupée envoûtante].
 
 Demande des recommandations.
 Donnez à Lily des [grenouilles de lac].
