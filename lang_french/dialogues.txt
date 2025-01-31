@@ -5338,26 +5338,26 @@ scar:Merci.
 main:Bonne nuit, Scarlet.
 
 //Next day
-scar:Bonjour /main/.
+scar:Salut /main/.
 scar:À propos de l'autre soir...
-scar:Je me suis un peu emporté.
+scar:Je me suis un peu emportée.
 scar:J'ai dit des choses que je ne pensais pas.
 scar:Tu as vraiment l'air de vouloir prendre soin de nous.
-scar:Mais c'est très différent de ce à quoi je suis habitué...
+scar:Mais c'est très différent de ce à quoi je suis habituée...
 scar:Ivy obtient toujours ce qu'elle veut.
 scar:Je ne sais pas si c'est le destin divin ou la chance.
 scar:Mais la vie ne tourne pas comme ça pour moi, alors quand une situation comme celle-ci se présente...
 scar:Je m'inquiète.
 scar:D'après mon expérience, c'est trop beau pour être vrai.
-scar:Bien que je sois plus que prêt à camper et à monter la garde...
+scar:Bien que je sois plus que prête à camper et à monter la garde...
 scar:Le manoir me manque toujours.
 main:Tu peux y retourner si tu veux.
 main:Je m'occuperai d'Ivy.
 scar:Non, non, non, non.
-scar:Elle est mon /rôle_de_scarlette/.
+scar:Elle est ma /scarlet_role/.
 scar:Je ne la laisserai pas seule.
-scar:Heureusement, comme d'habitude, elle a trouvé cet endroit....
-scar:Et toi aussi.
+scar:Chanceuse, comme d'habitude, elle a trouvé cet endroit....
+scar:Et t'as trouvé toi aussi.
 scar:Ahem!
 scar:Je m'égare.
 scar:Quoi qu'il en soit...
@@ -5366,9 +5366,9 @@ scar:Tu es sûr que ça ne te dérange pas si je dors ici ?
 main:Pas du tout ! J'ai quelques oreillers supplémentaires.
 scar:Je vais trouver ce que je peux dans la tente pour faire une couverture.
 main:Nous pourrions utiliser du bois pour la cheminée, maintenant que j'y pense.
-scar:La couverture est suffisante.
+scar:La couverture sera suffisante.
 main:Je vais acheter une hache au village et couper du bois à l'extérieur.
-scar:Tu m'écoutes ?
+scar:Tu m'as écoutée ?
 main:Oui, mais je préfère que tu dormes au chaud.
 main:Même si cela signifie blesser ton ego.
 scar:Espèce d'abruti !
@@ -5378,8 +5378,8 @@ scar:Très bien. Va chercher une hache, alors !
 scar:Je t'ai déjà montré ce que je pouvais faire avec une simple dague.
 
 //Scarlet Sleeping
-scar:*snort*
-main:[She's asleep.]
+scar:*ronfle*
+main:[Elle dort.]
 
 
 
@@ -5426,7 +5426,7 @@ main:[She's asleep.]
 
 
 main:[On dirait que c'est un bon endroit pour couper du bois].
-main:[Mettons ces mains au travail !]
+main:[Mettons nous au travail !]
 main:[Mais il fait trop sombre pour l'instant...]
 
 
@@ -5437,13 +5437,13 @@ main:[Mais il fait trop sombre pour l'instant...]
 
 
 main:[On dirait que c'est un bon endroit pour couper du bois].
-main:[Mettons ces mains au travail !]
+main:[Mettons nous au travail !]
 Coupez du bois
 
 
 
 
-main:Phew!
+main:Fiou!
 main:[C'est assez pour aujourd'hui.]
 scar:/main/!
 scar:Qu'est-ce que je t'ai dit à propos de la hache ?
@@ -5453,28 +5453,28 @@ scar:Tu es implacable !
 scar:Okay...
 scar:Je veux essayer.
 main: ?
-scar:Couper du bois de chauffage.
-scar:Donnez-moi une petite leçon, comme ça je pourrai faire quelque chose d'utile ici.
-scar:Allez, ce sera amusant !
+scar:De couper du bois de chauffage.
+scar:Donne-moi une petite leçon, comme ça je pourrai faire quelque chose d'utile ici.
+scar:Allez, ça sera amusant !
 main:Je veux dire... c'est assez simple.
 scar:Non, non.
-scar:Mains sur le pont.
-scar:Venez ici.
+scar:Mains sur le manche.
+scar:Viens ici.
 scar:Tu vois ? Maintenant, tu peux vérifier ma posture.
-scar:Est-ce que je le tiens bien ?
+scar:Est-ce que je la tiens bien ?
 main:Je pense que tu maîtrises la situation.
 main: !
 main:Scarlet? Qu'est-ce que tu fais ?
 scar:Qu'est-ce que j'ai l'air de faire ?
 scar:J'essaie de bien sentir le manche.
-scar:Je ne voudrais pas qu'elle m'échappe.
+scar:Je ne voudrais pas qu'il m'échappe.
 scar:Hé !
 scar:Je ne t'ai pas donné la permission de regarder sous ma jupe comme ça.
-main:Tu ne portes même rien sous cette jupe.
-scar:Je les ai enlevées pendant que tu coupais. Avant que je ne m'approche.
+main:Tu ne portes rien sous cette jupe.
+scar:Je les ai enlevées pendant que tu coupais. Avant de m'apporcher.
 scar:Au cas où tu aurais faim.
 main:Merde...
-main:Le lierre est juste là, dans le jardin.
+main:Ivy est juste là, dans le jardin.
 main:Elle va nous voir.
 scar:Tu es gêné maintenant ?
 scar:Trop mignon.
@@ -5483,15 +5483,15 @@ main:Scarlet, arrête...
 scar:Non, je ne pense pas que je vais...
 scar:Oh merde !
 scar:Ivy arrive vraiment !
-scar:Rentrez dans la maison ! Rentre dans la maison ! Rentrez dans la maison !
+scar:Rentre dans la maison ! Rentre dans la maison ! Rentre dans la maison !
 scar:Hahahahaha !
 scar:C'était génial !
 scar:Tu aurais dû voir la tête que tu faisais !
 scar:...
 scar:Tu vas bien ?
-main:Run... Soudain... Souffle... Disparu...
+main:Couru... Soudainement... Souffle... Parti...
 scar:Assieds-toi sur le canapé.
-scar:Je vais empirer les choses.
+scar:Je vais aggraver les choses.
 scar:Si raide~
 scar:Je t'ai trop taquiné ?
 main:Peut-être un peu.
@@ -5503,46 +5503,46 @@ main:Il va falloir faire quelques essais supplémentaires pour en être sûr.
 scar:Je peux le faire...
 scar:Je suppose~
 scar:Alors...
-scar:Je crois que je ne me suis jamais excusé de t'avoir attaqué.
-main:Tu n'as pas besoin de faire ça comme ça...
+scar:Je crois que je ne me suis jamais excusée de t'avoir attaqué.
+main:Tu n'as pas besoin de le faire ça...
 scar:Tais-toi !
 scar:Regarde-moi.
 scar:Je ne peux pas être plus honnête.
-scar:Je suis désolé.
+scar:Je suis désolée.
 main:Putain—
 scar:[Je vais te donner les meilleures excuses que tu n'aies jamais eues.]
 scar:[Tu me demanderas de t'attaquer à nouveau si nécessaire].
 scar:[Merde—]
 scar:[Cela fait un moment que je n'ai pas fait quelque chose comme ça].
-scar:[Et ce type pousse tous mes boutons.]
-scar:[Je ne vais pas durer.]
-scar:[Tenez, /main/, profitez de ces excuses].
+scar:[Et ce type me fait perdre tous mes moyens.]
+scar:[Je ne vais pas tenir.]
+scar:[Tiens, /main/, profite de ces excuses].
 main:Mmmnnh~
 scar:[Presque!]
 scar:~ !
 scar:[J'adore ça].
-scar:[Je jouis avec ça au fond de ma bouche.]
+scar:[Jouir avec sa bite profondément dans ma bouche.]
 scar:[Allez, /main/ !]
 scar:[Finis-en !]
 scar:[Laisse-moi te goûter en gémissant.]
 scar: !
 scar:...
-scar:*cough*
-scar:Holy... Putain...
+scar:*tousse*
+scar:Bon sang... Putain...
 scar:C'est... beaucoup.
 scar:...
 scar:Pourquoi me regardes-tu comme ça ?
 main:Je ne t'ai jamais vu sourire comme ça.
 scar:Eh bien—
 scar:Évidemment.
-scar:L'absence d'excuses me pesait sur la conscience.
-scar:Maintenant, donnez-moi un putain de chiffon !
+scar:Mon absence d'excuses me pesait sur la conscience.
+scar:Maintenant, donne-moi un putain de chiffon !
 scar:Je ne vais pas garder ça sur mon visage toute la journée.
 scar:Et habille-toi, ou Ivy va commencer à poser des questions.
 
 //BJ LOOP
 scar:Ohhh...
-scar:Un peu de bois au réveil, /main/ ?
+scar:Une bosse au réveil, /main/ ?
 scar:Ne t'inquiète pas, je vais t'aider.
 scar:Mais...
 scar:J'ai peur que tu t'habitues à ça.
@@ -5554,17 +5554,17 @@ scar:Tu n'as pas l'air très convaincant.
 scar:Je devrais peut-être arrêter...
 main:Ne t'arrête pas !
 scar:Hein ? Où sont tes manières, /main/ ?
-main:Ne t'arrête, s'il te plaît !
+main:Ne t'arrête pas, s'il te plaît !
 scar:Mmmm!
 scar:[Tu avais l'air si inquiet en pensant que j'allais m'arrêter.]
 scar:[Ne t'inquiète pas.]
-scar:[Je me suis réveillé en espérant que tu descendrais...]
+scar:[Je me suis réveillée en espérant que tu descendrais...]
 scar:[Pour me fourrer à nouveau la bouche avec ta bite !]
-scar:[Tu ne fais que baiser mon visage, si doucement, et je mouille tellement...]
+scar:[Tu baises mon visage, si doucement, et je mouille tellement...]
 main:Guh !
 scar:[Je deviens accro à ça !]
 scar:[Ça remplit ma bouche...]
-scar:[Tes poussées m'empêchent de réfléchir...]
+scar:[Tes coups de reins m'empêchent de réfléchir...]
 main:Mnfff!
 scar:[Ça y est, /main/ !]
 scar:[Continue de l'enfoncer !]
@@ -5572,7 +5572,7 @@ scar:[Ne t'avise pas de te retenir !]
 scar:[Je veux chaque goutte.]
 main:Scarlet!
 scar: !
-scar:[I... Still...]
+scar:[J... Encore...]
 scar:[Je n'ai pas pu... tout retenir...]
 scar:*ahem*
 scar:Tu te sens mieux maintenant ?
@@ -5621,8 +5621,8 @@ scar:Bonjour, mon beau.
 
 
 
-scar:*snore*
-main:[She's asleep.]
+scar:*ronfle*
+main:[Elle dort.]
 
 
 
@@ -5662,18 +5662,18 @@ main:Hé, quelque chose ne va pas ?
 scar:ARGH !
 scar:/main/!
 scar:Ne me fais pas peur comme ça !
-main:Je vois que tu t'es mis à l'aise ici.
+main:Je vois que tu t'es mise à l'aise ici.
 scar:Trop à l'aise !
 scar:J'ai déjà perdu quelque chose.
 scar:Peux-tu m'aider ?
 main:Bien sûr.
-scar:J'ai perdu un poignard.
+scar:J'ai perdu une dague.
 main:Oui, je m'en souviens. Ivy l'a détruite.
 scar:Pas celle qui est maudite !
 scar:Celle à laquelle je tiens vraiment.
-scar:Il est en argent, très orné.
-scar:Si tu le vois, fais-le moi savoir.
-scar:Il ne doit pas être loin...
+scar:Elle est en argent, très ornée.
+scar:Si tu la vois, fais-le moi savoir.
+scar:Elle ne doit pas être loin...
 
 //Found Dagger
 main:[La voilà !]
@@ -5686,7 +5686,7 @@ scar:Merci !
 main:Tu l'as laissée à l'extérieur de la maison.
 scar:C'est logique... Je l'ai peut-être fait tomber en coupant du bois pour la cheminée.
 scar:Il faut que je le mette quelque part pour ne plus le perdre.
-main:Tu ne vas plus le porter sur toi ?
+main:Tu ne vas plus la porter sur toi ?
 scar:C'est une dague de cérémonie. Elle n'est pas destinée à couper ou à poignarder. Elle est juste censée être jolie.
 scar:Si tu essaye de l'utiliser, tu risque de l'abîmer et de la déformer.
 main:Une dague de cérémonie ? Ça a l'air intéressant.
@@ -5694,10 +5694,10 @@ main:Quelle est l'histoire qui se cache derrière ?
 scar:Désolé de te décevoir...
 scar:Un type voulait m'impressionner. Il m'a offert cette dague.
 scar:Ça n'a pas marché.
-scar:La fin.
+scar:Fin de l'histoire.
 main:Alors...
-scar:J'ai dit, la fin !
-scar:Ne parlez plus de la dague.
+scar:J'ai dit, fin de l'histoire !
+scar:Ne me parle plus de cette dague.
 main:Bien.
 main:[Peut-être qu'Ivy en sait plus à ce sujet.]
 
@@ -5706,23 +5706,23 @@ main:Je peux te demander quelque chose ?
 main:C'est à propos de Scarlet.
 /ivy:Bien sûr.
 /ivy:Quelque chose ne va pas avec elle ?
-main:Eh bien, elle a cette dague. Et il semble qu'il y ait une sorte d'histoire derrière.
+main:Eh bien, elle a cette dague. Et il semble qu'il y ait une histoire derrière.
 main:Une dague en argent, très ornée.
 /ivy:Oh !
 /ivy:Cette dague...
 main:Je n'aime pas ce son.
 /ivy:Un noble lui a offert la dague, il a dit que c'était une pièce unique.
-/ivy:Il a même raconté toute une histoire sur l'affrontement de chances incroyables et d'un danger mortel.
+/ivy:Il avait même raconté toute une histoire sur le fait d'avoir affronté des obstacles incroyables et un danger mortel.
 /ivy:Scarlet semblait enthousiasmée par le concept...
 /ivy:Mais il s'est avéré que ce n'était qu'une réplique.
 /ivy:Scarlet a su que c'était un faux dès qu'elle l'a tenu dans ses mains.
-/ivy:Elle adore son armement et sait comment repérer un faux.
+/ivy:Elle adore les armes et sait comment repérer un faux.
 main:Pourquoi garder le faux alors ?
 /ivy:Je ne sais pas.
 /ivy:Pour retrouver l'original, peut-être ?
 /ivy:Si je me souviens bien, elle m'a dit que son propriétaire était un noble nain appelé Melkor.
 main:Intéressant.
-/ivy:Tu envisage de le rechercher pour elle, n'est-ce pas ?
+/ivy:Tu envisage de la rechercher pour elle, n'est-ce pas ?
 /ivy:Très bien, viens ici.
 main:Oh !
 /ivy:Ne te mets pas trop en danger.
@@ -5749,25 +5749,25 @@ main:[Mais je dois essayer... pour Scarlet.]
 //Confronting Scarlet afterward
 scar:Il était temps que tu te décides à te montrer !
 main:Bonjour—
-scar:Shush! Pas de mots de ta part.
-scar:Je me souviens t'avoir dit de cesser cette histoire de poignard.
-scar:Tu veux tellement savoir, n'est-ce pas ?
+scar:Chut! Pas un mot de ta part.
+scar:Je me souviens t'avoir dit de cesser cette histoire de dague.
+scar:Tu veux vraiment savoir, n'est-ce pas ?
 scar:La dague est fausse ! De la camelote ! Un déchet sans valeur !
 scar:De la part d'un gars qui a essayé de flirter avec moi.
 main:Pourquoi as-tu décidé de la garder alors ?
 scar:Parce que c'est le dernier cadeau que j'ai reçu d'un noble avant de commencer ma formation martiale.
-scar:Et d'avoir cette grosse cicatrice sur le visage.
+scar:Et avant d'avoir cette grosse cicatrice sur le visage.
 scar:Après cela, j'ai cessé d'être une "délicate et pure demoiselle".
 scar:Les nobles ont donc cessé d'essayer de me faire la cour.
 scar:Il n'y a plus eu de cadeaux.
-scar:Ni de récits de bravoure farfelus sur la façon dont ils ont obtenu lesdits cadeaux pour moi.
+scar:Ni de récits de bravoure farfelus sur la façon dont ils ont obtenu les dits cadeaux pour moi.
 main:Ces nobles ont l'air bien insipides.
 scar:Oui, je sais.
 scar:Mais même si c'était une bande de connards insipides...
 scar:Je me suis quand même sentie désirée.
 scar:Et cette dague est un bon rappel de cela.
-scar:Voilà, tu es content maintenant ? Maintenant tu connais l'histoire de la dague.
-main:Oh, c'est vrai ! Le poignard !
+scar:Voilà, tu es content maintenant ? Tu connais l'histoire de la dague.
+main:Oh, c'est vrai ! La dague !
 main:Voilà.
 main:Je t'ai trouvé l'original.
 main:Et j'ai aussi une histoire de bravoure farfelue pour l'accompagner.
@@ -5781,11 +5781,11 @@ scar:Est-ce vraiment la vraie ?
 main:Scarlet !?
 main:Quelque chose ne va pas ?
 scar:Espèce d'idiot !
-scar:Et si tu te blessais en faisant ça ?
+scar:Et si tu t'étais blessais en la récupérant ?
 scar:Ou pire ?
 scar: !
-scar:Réfléchis avant de faire ces choses, /main/.
-main:Alors ce ne serait pas une histoire de bravoure.
+scar:Réfléchis avant de faire des choses pareilles, /main/.
+main:Mais ça ne serait pas une histoire de bravoure.
 scar:Tu n'as pas besoin d'être courageux.
 scar:Tout ce que tu as à faire, c'est d'être à mes côtés.
 main:Je ferai les deux.
@@ -5802,10 +5802,10 @@ scar:Viens dans ma chambre ce soir, et nous reprendrons là où nous nous sommes
 
 //Sex next day when you enter her room.
 scar:Il était temps que tu viennes. Je commençais à m'impatienter.
-main:Prêt pour la suite de l'histoire ?
+main:Prête pour la suite de l'histoire ?
 scar:J'emmerde la suite de l'histoire ! Enlève tes vêtements.
 scar:Putain~
-scar:Tu fais beaucoup d'effet.
+scar:Tu me fais beaucoup trop d'effet.
 main:Je peux y aller doucement si c'est trop pour toi.
 scar:Je sais que tu essaies de jouer avec moi...
 scar:Pour me mettre en colère...
@@ -5815,7 +5815,7 @@ scar:Alors, s'il te plaît~
 scar:Vas-y doucement~
 main:D'accord, je...
 main: !
-scar:Tu as vraiment acheté ça ?
+scar:Tu as vraiment cru ça ?
 scar:Je me fiche de ta taille.
 scar:Tu ne sortiras d'ici qu'à sec.
 main:Putain—
@@ -5824,7 +5824,7 @@ scar:Pas question !
 scar:Tu pars à l'aventure, tu ne me dis rien.
 scar:Puis tu me taquines encore et encore quand je suis là.
 scar:Maintenant, fais face aux conséquences.
-main:Ce n'est pas comme ça ! Je vais...
+main:Ce n'est pas ça ! Je vais...
 scar:Je sais.
 scar:Tu voulais être courageux pour moi, n'est-ce pas ?
 scar:Qu'est-ce que tu attends alors ?
@@ -5849,7 +5849,7 @@ main:Je ne voulais pas te déranger.
 /ivy:Je suis tellement fatiguée.
 main:Tu as trop travaillé ces derniers temps ?
 /ivy:...
-/ivy:It's...
+/ivy:C'est...
 /ivy:Scarlet...
 main: ?
 /ivy:Je l'ai laissée dormir ici pendant que j'allais sur le canapé en bas.
@@ -5861,14 +5861,14 @@ main: ?
 scar:Bon sang, elle te l'a dit ?
 scar:C'était une question de temps, je suppose.
 main:Pourquoi ?
-scar:Ivy peut en prendre pour son grade de temps en temps.
+scar:Ivy peut en prendre sur elle de temps en temps.
 scar:Et je lui demande rarement son lit de toute façon.
 main:Non, je veux dire, pourquoi garder le secret ?
-scar:Parce qu'à chaque fois qu'il y a un problème, tu te mets en tête de rendre ma vie objectivement meilleure.
+scar:Parce qu'à chaque fois qu'il y a un problème, tu te mets en tête de rendre ma vie meilleure.
 scar:Même si je t'ai dit de ne pas le faire.
 scar:Et ensuite je me sens coupable.
-main:D'accord, et si tu me demandais de prendre le canapé de temps en temps ?
-main:Tu demandes déjà ça à Ivy.
+main:D'accord, et si tu me demandais aussi de prendre le canapé de temps en temps ?
+main:Tu le demandes déjà à Ivy.
 scar:Bien.
 scar:Je peux le faire.
 scar:Je te le dirai la prochaine fois que j'aurai besoin d'un bon repos, d'accord ?
@@ -5897,7 +5897,7 @@ scar:ZZZZZzzzzzzzzz...
 scar:ZZZRZZZZGHRZZZZZ...
 main:[Oh...]
 main:[Oh non...]
-main:[Il faudrait peut-être que je lui trouve un lit pour elle].
+main:[Il faudrait peut-être que je lui trouve un lit].
 main:[Quelqu'un dans le village doit bien vendre des meubles, non ?].
 
 
@@ -5917,11 +5917,11 @@ karo:Et si tu m'escortais dans les mines ? Si nous en obtenons assez là-bas, je
 karo:Tu vas l'adorer !
 karo:J'ai pris mon temps pour trouver les bons matériaux.
 karo:Ça pourrait même couvrir le fait que c'est moi qui fais la menuiserie !
-karo:Sautons dans le chariot, je t'aiderai à le transporter dans ta maison.
+karo:Sautons dans le chariot, je t'aiderai à le transporter à ta maison.
 main:Tu peux me déposer sur la route à proximité ?
 karo:Tu es sûr ? Ce sera difficile à transporter tout seul.
 main:Oui... Je suis sûr...
-karo:Ah bon. Tu choisis ton exercice, mon pote.
+karo:Ah bon. C'est toi qui voit mon pote.
 karo:Assure-toi de ne rien casser.
 karo:Et je ne parle pas du lit !
 main:NGGGGGG!
@@ -5933,7 +5933,7 @@ main:[Comment Karos a-t-il pu déplacer cette chose aussi rapidement ?]
 main:[J'ai besoin de me reposer...]
 /ivy:/main/?
 main:Oh, bon retour parmi nous...
-/ivy:Ah, désolé, Scarlet et moi sommes allés nous promener.
+/ivy:Ah, désolée, Scarlet et moi sommes allées nous promener.
 /ivy:J'espère que nous ne t'avons pas inquiété.
 /ivy:Attends, c'est un nouveau lit ?
 main:Ouais! Comme ça, Scarlet a un endroit où dormir.
@@ -5942,7 +5942,7 @@ main:Ouais! Comme ça, Scarlet a un endroit où dormir.
 /ivy:Monte !
 /ivy:Donne-lui une seconde~
 main:...
-scar:Tu m'as appelé ?
+scar:Tu m'as appelée ?
 /ivy:Regarde! Regarde ! Tu as un lit maintenant !
 scar:Oh.
 scar:Mon.
@@ -5960,7 +5960,7 @@ scar:Merci, /main/.
 scar:Tu es un hôte exceptionnel.
 scar:D'une certaine manière, cet endroit me rappelle ma maison.
 scar:Tu sais, dans le bon sens du terme.
-/ivy:Same.
+/ivy:Pareil pour moi.
 scar:Ça fait un moment qu'on n'a pas partagé la même chambre.
 scar:Tu veux me lire quelque chose comme à l'époque ?
 /ivy:Oui ! J'ai quelques livres que je ne t'ai pas montrés.
@@ -5969,7 +5969,7 @@ scar:Je n'en doute pas.
 /ivy:S'il te plaît.
 main:Bien sûr, je ne vois pas pourquoi je ne le ferais pas.
 /ivy:Parfait!
-/ivy:Laissez-moi en trouver un bon à vous lire à tous les deux.
+/ivy:Laissez-moi en trouver un bon à vous lire.
 
 //Scarlet HJ
 /ivy:Zzzzzzzz...
@@ -5980,7 +5980,7 @@ scar:Hé, /main/ ?
 main:Ouais?
 scar:Peux-tu t'approcher un peu plus ?
 main:Bien sûr?
-scar:Closer.
+scar:Plus proche.
 main: !
 scar:Juste là.
 main:Scarlet...
@@ -6002,7 +6002,7 @@ main:Nous devrions lui dire, alors.
 scar:Oui.
 scar:Mais pas maintenant.
 scar:Laisse-moi d'abord m'amuser un peu~
-scar:Elle apprécie votre compagnie depuis un moment déjà.
+scar:Elle apprécie ta compagnie depuis un moment déjà.
 scar:Je ne veux que la même chose...
 main:Elle ne tardera pas à s'en rendre compte si tu continues à parler autant.
 scar:C'est vrai.
@@ -6014,7 +6014,7 @@ main: !
 scar:Mmm~
 scar:Bien visé~
 /ivy:Zzzzzz... Nff... Zzzzzzz...
-scar:Close.
+scar:C'est pas passé loin.
 scar:Maintenant, sors d'ici avant qu'elle ne se réveille vraiment.
 scar:Bonne nuit~
 
@@ -6022,15 +6022,15 @@ scar:Bonne nuit~
 //Scarlet's fears
 Comment as-tu dormi ?
 
-scar:Ah, c'est charmant.
+scar:Ah, comme un bébé.
 scar:Merci beaucoup.
 scar:C'est bizarre si le canapé me manque ?
 scar:Hahaha!
-scar:Votre maison a été une véritable bénédiction pour Ivy et moi.
+scar:Ta maison a été une véritable bénédiction pour Ivy et moi.
 scar:C'est en grande partie grâce à toi.
 main:Ce n'est rien.
 scar:Oh, tais-toi !
-scar:Tu acceptes le compliment.
+scar:Accepte le compliment.
 scar:Tu sais, j'ai réfléchi dernièrement.
 scar:Ce n'est qu'une question de temps avant que quelqu'un ne découvre qu'Ivy est restée ici.
 scar:Peut-être pas ce mois-ci...
@@ -6040,8 +6040,8 @@ scar:Même si j'adore être ici, il arrivera un moment où l'on nous trouvera.
 scar:Ça me fait peur d'y penser.
 main:Je suppose que nous pourrions toujours déménager.
 scar:J'aimerais que ce soit aussi facile.
-scar:Les patrouilles frontalières seront serrées, et le terrain autour d'Aurelia peut être impitoyable.
-scar:L'itinéraire de fuite le plus sûr est probablement celui qui passe par la mer du Sud, l'itinéraire le moins surveillé par Elizabeth.
+scar:Les patrouilles frontalières seront renforcées, et le terrain entourant Aurelia peut être impitoyable.
+scar:La route d'évasion la plus sûre est probablement par la mer du sud—la route sur laquelle Elizabeth a le moins de surveillance.
 scar:Mais Aurelia n'a pas de port. Ce qui signifie qu'il n'y a pas de navires qui entrent ou sortent.
 main:Nous pouvons toujours fabriquer notre propre bateau pour nous échapper.
 scar:Oui, mais qui nous guiderait à travers la mer ?
@@ -6049,8 +6049,8 @@ main:Hmm...
 scar:Exactement. Difficile de trouver des experts de la mer dans un endroit sans port.
 scar:Et même si nous pouvions trouver quelques pêcheurs ayant des compétences en navigation près du rivage....
 scar:Il faudrait aussi lui faire confiance pour ne pas nous poignarder dans le dos.
-scar:Anyway! Je suis en train de divaguer à ce stade, pour être honnête.
-scar:Ne faites pas attention à moi.
+scar:Bref! Je suis en train de divaguer à ce stade.
+scar:Ne fait pas attention à moi.
 
 
 //Asking Gerard
@@ -6060,7 +6060,7 @@ gera:Tu dois traverser la mer du Sud ?
 gera:C'est une véritable entreprise.
 gera:La terre la plus proche du sud peut prendre quelques semaines de voyage.
 main:Serais-tu capable de faire le voyage ?
-main:Il se peut que je doive déménager dans le sud avec un couple d'amis à l'avenir.
+main:Il se peut que je doive déménager dans le sud avec des amies à l'avenir.
 main:Et j'ai besoin de quelqu'un en qui je peux avoir confiance.
 gera:Hmm...
 gera:Je pourrais le faire, oui.
@@ -6070,7 +6070,7 @@ gera:Je ne suis plus tout jeune...
 gera:J'évite de faire de longs voyages sous l'eau parce que ma vue n'est plus ce qu'elle était.
 gera:Et la dernière chose que je veux, c'est que ton bateau s'écrase contre quelque chose au milieu de la mer.
 gera:Ton grand-père m'a dit qu'il travaillait sur une solution.
-gera:Mais le sujet n'est jamais revenu dans la conversation.
+gera:Mais le sujet n'est jamais revenu sur la table.
 gera:Je suppose donc qu'il a oublié.
 main:Je vais donc jeter un coup d'œil à ma maison.
 main:Si grand-père a travaillé sur une solution, elle doit toujours être là.
@@ -6084,9 +6084,9 @@ gera:Comme ça ?
 gera:Oh !
 gera:Quelle merveille de technologie !
 gera:Merci, /main/.
-gera:Ils seront incroyablement utiles.
+gera:Elles seront incroyablement utiles.
 gera:Et pour ce qui est de naviguer sur la mer...
-gera:Tu me donnes l'ordre, et je te transporte où tu veux.
+gera:Dès que m'en donnera l'ordre, et je te transporterai où tu veux.
 
 
 
@@ -6137,11 +6137,11 @@ gera:Tu me donnes l'ordre, et je te transporte où tu veux.
 
 
 
-scar:Ah, c'est charmant.
+scar:Ah, comme un bébé.
 scar:Merci beaucoup.
 scar:C'est bizarre si le canapé me manque ?
 scar:Hahaha!
-scar:Votre maison a été une véritable bénédiction pour Ivy et moi.
+scar:Ta maison a été une véritable bénédiction pour Ivy et moi.
 scar:Tu y es pour beaucoup.
 main:Ce n'est rien.
 scar:Oh, tais-toi !
@@ -6276,13 +6276,13 @@ scar:Jusqu'à ce que l'un de nous deux n'en puisse plus.
 main: !
 scar:Putain—
 scar:Tu es content ?
-main:Beaucoup.
+main:Très.
 scar:Espèce d'idiot arrogant.
 scar:Je vais avoir mal après ça.
 main:Ouch! Ne me pince pas !
 scar:Tu l'as bien méritée celle-là.
 main:Mais...
-scar:Shush.
+scar:Chut.
 scar: J'ai besoin de dormir.
 
 
@@ -6304,7 +6304,7 @@ scar:Approche-toi, mon beau.
 scar: !
 scar:Nffff!
 scar:C'est encore... Intense...
-main:Toute cette bravoure s'est vite évanouie.
+main:Toute ta bravoure s'est vite évanouie.
 scar:Tais-toi !
 scar:Aah~
 scar:Je peux m'occuper de toi.
@@ -6389,9 +6389,9 @@ Donne-lui le [Gâteau aux fraises].
 
 
 
-crys:Pops?
-crys:Il est parfois un peu brutal sur les bords.
-crys:Mais il veut bien faire !
+crys:Papa?
+crys:Il peut être un peu rude sur les bords parfois.
+crys:Mais il est bien intentionné !
 crys:La plupart du temps...
 
 
@@ -6407,12 +6407,12 @@ crys:C'est la femme parfaite.
 
 
 
-crys:Bonjour !
+crys:Salut !
 crys:Ehm, je veux dire... Bienvenue à la taverne d'Orson !
 crys:Que puis-je t'offrir ?
 crys:Une bière rafraîchissante pour lutter contre la chaleur ?
-crys:De la nourriture pour apaiser votre faim ?
-main:Je vais bien, merci.
+crys:De la nourriture pour apaiser ta faim ?
+main:Tout va bien, merci.
 crys:Je m'appelle Crystal.
 main:Crystal, hein ? Je m'appelle /main/.
 crys:Je ne te reconnais pas. Tu es nouveau dans le coin ?
@@ -6420,13 +6420,13 @@ main:Oui.
 main:J'ai emménagé récemment dans une maison à l'extérieur du village, dans les bois.
 main:Je l'ai héritée de mon grand-père.
 crys:La chance!
-crys:Haha, j'imagine que tu te sens seul là-bas. C'est certainement le cas.
+crys:Haha, j'imagine que tu dois te sentir seul là-bas. Si c'est le cas.
 crys:Eh bien, viens dans le coin et je te servirai notre bière la plus fraîche.
 main:Je vais y réfléchir.
 crys:Je peux te montrer l'endroit et...
 orso:CRYSTAL!
 orso:Moins de bavardage, plus de service !
-crys:Oui, Pops !
+crys:Oui, Papa !
 crys:Désolé, j'ai eu beaucoup de travail ces derniers temps.
 crys:J'espère que nous pourrons parler plus tard.
 crys:Joli nom d'ailleurs, /main/~
@@ -6438,7 +6438,7 @@ crys:À bientôt !
 
 
 crys:Salut /main/ !
-crys:Pouvons-nous parler une autre fois ? Je suis un peu occupé avec des clients aujourd'hui.
+crys:Pouvons-nous parler une autre fois ? Je suis un peu occupée avec les clients aujourd'hui.
 
 
 
@@ -6451,7 +6451,7 @@ main:Merci, Orson.
 crys:/main/!
 main:Oh, salut Crystal.
 crys:Je t'ai vue servir aujourd'hui !
-crys:Tu étais impressionnante ! As-tu déjà fait cela auparavant ?
+crys:Tu étais impressionnant ! As-tu déjà fait ça auparavant ?
 main:Non, je ne l'ai jamais fait.
 crys:Un talent naturel, alors !
 crys:C'est la première fois depuis longtemps que je peux me détendre un peu ici.
@@ -6460,11 +6460,11 @@ main:Tu as aussi travaillé pendant le festival ?
 crys:Ouais...
 main:Mince... Je suis désolé.
 crys:Hahaha, c'est bon !
-crys:La taverne était pleine à craquer - et même si je le voulais, je doute que Pops me laisse partir.
+crys:La taverne était pleine à craquer - et même si je le voulais, je doute que Papa m'aurait laissé partir.
 main:Pourquoi cela ?
 crys:Le festival a pour but de célébrer l'amour, les relations et le mariage.
 crys:La plupart des gens y vont soit parce qu'ils ont un partenaire, soit parce qu'ils aimeraient en trouver un.
-crys:Et Pops est très exigeant à ce sujet.
+crys:Et Papa est très exigeant à ce sujet.
 
 
 
@@ -6482,16 +6482,16 @@ crys:Mais je ne veux pas l'inquiéter. Il a beaucoup de choses à faire ces dern
 main:Il essaie simplement de te protéger.
 crys:J'en suis consciente...
 crys:Il veut seulement que je sois en sécurité et heureuse.
-crys:J'aimerais juste qu'il soit moins têtu à ce sujet.
+crys:J'aimerais juste qu'il soit moins têtu sur ce sujet.
 
 
 
 
 
 crys:Pour être honnête, j'aimerais faire quelque chose de fou de temps en temps.
-crys:Même si je le regrette plus tard.
-crys:Bon, assez bavardé, je dois aider Pops à nettoyer la taverne.
-crys:À demain ? J'ai parfois des matinées de libre si tu veux passer. Si tu ne me vois pas, demande à Pops.
+crys:Même si je le regretterai peut-être plus tard.
+crys:Bon, assez bavardé, je dois aider Papa à nettoyer la taverne.
+crys:À demain ? J'ai parfois des matinées de libre si tu veux passer. Si tu ne me vois pas, demande à Papa.
 main:Bien sûr.
 crys:À bientôt !
 
@@ -6516,7 +6516,7 @@ jane:Tu dois les sentir avec tes mains.
 crys:Comme ça ?
 jane:Oui, comme ça, ma fille.
 jane:Sens la texture, l'odeur et la taille.
-crys:Ils sont si gros !
+crys:Elles sont si grosses !
 jane:Vas-y... Tu dois absolument les goûter maintenant.
 crys:Mmmmm! Sucré !
 main:[Qu'est-ce que... ?]
@@ -6542,27 +6542,27 @@ jane:Quelle agréable surprise.
 
 
 main:Janet, tu me gâtes.
-jane:Ce ne serait que te gâter si tu ne le méritais pas.
+jane:Ce n'est pas te gâter si tu le mérites.
 
 
 
 
 
-main:Tu es trop gentil.
+main:Tu es trop gentille.
 jane:Et tu es trop généreux.
 jane:Crystal, chérie, peux-tu aller me chercher la boîte verte qui se trouve derrière le comptoir ?
 crys:Ehm, bien sûr.
 jane:Voici ton prix, espèce de coquin.
-jane:Happy?
+jane:Content?
 crys:Janet, je ne vois aucune boîte verte ici...
-jane:Oh, ne t'inquiète pas chéri~ J'ai dû l'égarer. Je la chercherai plus tard.
+jane:Oh, ne t'inquiète pas chérie~ J'ai dû l'égarer. Je la chercherai plus tard.
 
 
 
 
 
-crys:Bon, je devrais y aller maintenant, je suis sûr que Pops a besoin de moi.
-jane:Ohhhhhh, si tôt ? Nous nous sommes à peine entraînés.
+crys:Bon, je devrais y aller maintenant, je suis sûr que Papa a besoin de moi.
+jane:Ohhhhhh, si tôt ? Nous nous sommes à peine entraînées.
 crys:C'est bon, on aura plus de temps.
 jane:Je vais acheter du sucre et des fraises.
 jane:Mais il faudra du temps avant que je puisse tout rassembler.
@@ -6573,9 +6573,9 @@ jane:Fais quelque chose d'audacieux et assume-le.
 crys:Je sais...
 crys:Il faut juste que je trouve le bon moment.
 crys:À plus tard, les gars !
-main:Au revoir !
+main:A plus !
 jane:Ahhh, cette fille.
-jane:Et toi, chérie...
+jane:Et toi, chéri...
 jane:J'espère que tu passeras plus tard.
 jane:Je t'attendrai.
 
@@ -6589,19 +6589,19 @@ main:Hé, je me souviens que toi et Crystal aviez besoin de fraises et de sucre 
 main:Je vous en ai apporté.
 jane:Oh ! Merveilleux, /main/, merci beaucoup.
 jane:Tu en as apporté beaucoup !
-main:Je ne savais pas qu'il t'en fallait autant.
-jane:Il serait dommage de les gaspiller.
-jane:Laisse-moi te faire un petit gâteau rapide pour toi et Crystal, comme ça tu pourras lui montrer.
-jane:Tiens-moi compagnie dans la cuisine, veux-tu chérie ?
+main:Je ne savais pas combien il t'en fallait.
+jane:Ça serait dommage de les gaspiller.
+jane:Laisse-moi te faire un petit gâteau rapide pour toi et Crystal, comme ça tu pourras le lui apporter.
+jane:Tiens-moi compagnie dans la cuisine, veux-tu chéri ?
 jane:Le voici.
 main:Ça a l'air délicieux !
 jane:Bien sûr ! C'est moi qui l'ai fait~
 jane:Allez, donne-le à Crystal, je suis sûr qu'elle l'appréciera.
 jane:Elle adore mon gâteau aux fraises.
 main:Merci, Janet.
-jane:Tout le plaisir est pour moi, chérie.
-jane:Ne donnez pas toute l'attention à Crystal, maintenant.
-jane:J'ai aussi mes besoins.
+jane:Tout le plaisir est pour moi, chéri.
+jane:Ne donne pas toute ton attention à Crystal.
+jane:J'en ai aussi besoins.
 
 
 
@@ -6618,7 +6618,7 @@ crys:On peut le partager ?
 orso:Crystal!
 crys:Bon sang...
 orso:Allez, ma citrouille, ne sois pas paresseuse ! Il y a beaucoup de travail...
-crys:Pops! J'ai failli oublier !
+crys:Papa! J'ai failli oublier !
 orso: ?
 crys:Janet vient de faire cuire ça pour toi !
 main: ?
@@ -6629,7 +6629,7 @@ orso:La tête de Reynauld n'est pas si dure que ça !
 crys:Je sais, je sais, tu me l'as déjà dit un million de fois....
 crys:Il faut que tu goûtes ! C'est délicieux.
 orso:Bien sûr, mais d'abord je dois...
-crys:Pops! Elle y a mis tout son cœur et toute son âme.
+crys:Papa! Elle y a mis tout son cœur et toute son âme.
 orso:Tu as raison... Je ne veux pas être impoli.
 crys:Tiens, prends-le.
 orso:Mmmmm, du gâteau...
@@ -6687,7 +6687,7 @@ crys:Tu ne t'es pas du tout retenu, hein ?
 crys:Je ferais mieux de faire disparaître ça.
 crys:Soulagé ?
 main:Ouais.
-crys:Bien, maintenant remonte ton pantalon et sors. Je ne veux pas que Pops se doute de quoi que ce soit.
+crys:Bien, maintenant remonte ton pantalon et sors. Je ne veux pas que Papa se doute de quoi que ce soit.
 main: Oui, tu as raison.
 crys:Hé, /main/ ?
 main: ?
@@ -6897,7 +6897,7 @@ crys:Alors j'ai pensé que je pourrais devenir vraiment bon au blackjack.
 crys:Et en tirer de l'or.
 main:Pourquoi as-tu besoin d'or ?
 crys:...
-crys:Pops ne dort pas très bien ces derniers temps.
+crys:Papa ne dort pas très bien ces derniers temps.
 crys:Il se réveille souvent au milieu de la nuit. Ça m'inquiète.
 crys:J'ai demandé à Lily ce qu'il en était et j'ai claqué mes économies dans des médicaments pour lui.
 crys:Ça n'a presque rien fait.
@@ -6908,7 +6908,7 @@ crys:Mais elles sont tellement chères !
 crys:Désolé si j'ai eu l'air de te tromper. Je m'inquiète juste pour papa...
 main:C'est bon.
 crys:Et pas un mot de tout ça ! À personne !
-crys:La dernière chose que je veux, c'est que Pops soit encore plus stressé.
+crys:La dernière chose que je veux, c'est que Papa soit encore plus stressé.
 crys:Il ne m'écoute pas. Tu le connais : " Je vais bien ! Rien que la bière et le temps ne puissent réparer."
 crys:*sigh*
 crys:Quoi qu'il en soit... Continuez à venir pour plus de blackjack, d'accord ?
@@ -7014,7 +7014,7 @@ crys:Putain de merde...
 crys:Satisfait de ta vengeance, /main/ ?
 crys:Bon sang, tu m'as mis dans un sale état !
 crys:Je dégouline de partout.
-crys:Très bien. Je devrais partir maintenant... Pops pourrait vérifier ma chambre s'il se réveille à nouveau.
+crys:Très bien. Je devrais partir maintenant... Papa pourrait vérifier ma chambre s'il se réveille à nouveau.
 crys:À plus tard, mon beau.
 crys:*muah*
 
@@ -7025,7 +7025,7 @@ crys:*muah*
 
 crys:Allez, viens dans le placard.
 crys:Tu as de la chance, je ne peux pas dire non à ce beau visage.
-crys:Mais ne fais pas de bruit. Je ne veux pas réveiller Pops.
+crys:Mais ne fais pas de bruit. Je ne veux pas réveiller Papa.
 main:C'est toi qui pousse tes hanches contre moi.
 crys:Tu peux m'en vouloir ?
 crys:J'avais tellement besoin que tu m'écartes à nouveau.
@@ -7674,7 +7674,7 @@ main:Je vais y réfléchir.
 crys:Je peux te montrer l'endroit et...
 orso:CRYSTAL!
 orso:Moins de bavardage, plus de service !
-crys:Oui, Pops !
+crys:Oui, Papa !
 crys:Désolé, j'ai eu beaucoup de travail ces derniers temps.
 crys:J'espère que nous pourrons parler plus tard.
 crys:Joli nom d'ailleurs, /main/~
@@ -10902,7 +10902,7 @@ crys:Alors... vous avez juste... bavardé pendant tout ce temps ?
 jane:Bien sûr ! Qu'aurions-nous pu faire d'autre ?
 crys:Hm, je ne sais pas, je me demandais juste.
 crys:Il est tard. Ça a pris beaucoup plus de temps que prévu.
-crys:En fait, je devrais rentrer maintenant... J'ai promis d'aider Pops à la taverne.
+crys:En fait, je devrais rentrer maintenant... J'ai promis d'aider Papa à la taverne.
 jane:Oh, c'est dommage. Que tu doives partir.
 crys:Oui, nous devrons faire ça une autre fois. J'espère que ça ne te dérange pas, /main/...
 main:Pas du tout. Je reviendrai bientôt pour t'aider à cuisiner.
@@ -11031,7 +11031,7 @@ main:Bien sûr ! En fait, j'ai peut-être trop mangé. Et j'ai trop bu...
 jane:Ne t'inquiète pas, passe la nuit ici.
 jane:Tu habites loin. Tu ne devrais pas te promener seul la nuit après avoir tant bu.
 main:Hm, tu as peut-être raison. Merci, Janet.
-crys:Tout est bancal... Hé Janet, ça te dérange si je dors sur ton canapé ce soir ? Je n'ai pas envie d'aller chez Pops. Je ne peux pas travailler comme ça.
+crys:Tout est bancal... Hé Janet, ça te dérange si je dors sur ton canapé ce soir ? Je n'ai pas envie d'aller chez Papa. Je ne peux pas travailler comme ça.
 crys:De plus, il n'appréciera peut-être pas que je revienne légèrement ivre.
 jane:Huh, ça fait longtemps que je n'ai pas eu autant de gens qui ont dormi chez moi.
 main:Plus on est nombreux, plus on rit.
