@@ -4731,7 +4731,7 @@ main:Je suis vide...
 lily:Merci, /main/.
 lily:J'espère que tu ne m'en voudras pas si je deviens un peu exigeante~~.
 lily:C'est toi qui m'as rendu accro à ce jeu après tout.
-lily:Il se fait tard. Nous devrions rentréer à la maison maintenant.
+lily:Il se fait tard. Nous devrions rentrer à la maison maintenant.
 
 
 
@@ -6330,7 +6330,7 @@ main:C'était incroyable, Scarlet.
 scar:O-Oui.
 scar:C'était...
 scar:Et je vais avoir très mal demain.
-main:Oh, je suis désolée si...
+main:Oh, je suis désolé si...
 scar:Ce n'était pas négatif, /main/.
 scar:Si tu ne me laissais pas endolorie, je serais déçue.
 scar:Alors tu ferais mieux de continuer.
@@ -8583,10 +8583,10 @@ mera:Prends ton temps.
 
 mera:Oui ! Oui ! Oui !
 mera:C'est tellement amusant de te monter.
-mera:À bientôt~
-mera:Ça me fait mal au cœur.
-mera:Je peux jouer avec dans ma bouche ?
-mera:Ou tu veux déjà décharger ?
+mera:Si profond~
+mera:Ça me pénètre jusqu'au coeur.
+mera:Puis-je jouer avec dans ma bouche ?
+mera:Ou tu veux déjà te décharger ?
 
 
 
@@ -8618,7 +8618,7 @@ mera:C'est beaucoup !
 
 
 mera:Hourra~!
-mera:La voici~
+mera:Voilà mon cul~
 mera:Ça te plaît ?
 main:Ouais.
 mera:Bien.
