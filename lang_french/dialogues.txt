@@ -5128,7 +5128,7 @@ Dormir dans le lit d'Ivy
 À propos d'Ivy
 La bille bleue
 Comment as-tu dormi ?
-[Sauvegarde de Soran]
+[Protection de Soran]
 [Bois de chauffage]
 
 
@@ -6380,7 +6380,7 @@ narr:Une statue de Melkor.
 crys:Bonjour /main/ !
 crys:Je peux t'aider ?
 Branlette
-Donne-lui la [Poupée hypnotique].
+Donne-lui la [Poupée envoûtante].
 Joue au Blackjack avec Crystal
 Sexe dans le placard
 Donne-lui le [Gâteau aux fraises].
@@ -6390,7 +6390,7 @@ Donne-lui le [Gâteau aux fraises].
 
 
 crys:Papa?
-crys:Il peut être un peu rude sur les bords parfois.
+crys:Il peut être un peu sévère parfois.
 crys:Mais il est bien intentionné !
 crys:La plupart du temps...
 
@@ -6399,8 +6399,8 @@ crys:La plupart du temps...
 
 
 crys:Par où commencer ?
-crys:Elle est charmante, sexy, sûre d'elle - elle a son propre magasin, c'est une excellente cuisinière...
-crys:Et elle me traite toujours gentiment et écoute mes problèmes.
+crys:Elle est charmante, sexy, confiante - elle a son propre magasin, et c'est une excellente cuisinière...
+crys:Elle me traite toujours gentiment et écoute mes problèmes.
 crys:C'est la femme parfaite.
 
 
@@ -8742,7 +8742,7 @@ luna:Très bien, apporte-moi une autre bouteille et je te donnerai l'essence.
 
 
 luna:Voilà pour toi.
-luna:Mais plus de nectar pendant un certain temps, s'il te plaît.
+luna:Mais pas plus de nectar pendant un certain temps, s'il te plaît.
 
 
 
@@ -8836,7 +8836,7 @@ naam:Contemple mes pouvoirs scintillants, humain !
 naam:Je vais transformer ces fragments en une magnifique pierre précieuse !
 
 
-naam:Gems!? Je te donnerai mes bénédictions pour elles, mais seulement une à la fois.
+naam:Des pierres précieuses!? Je te donnerai mes bénédictions pour elles, mais seulement une à la fois.
 [Rubis]
 [Saphir]
 [Émeraude]
@@ -8853,7 +8853,7 @@ naam: !
 naam:Ah ! Un peu d'or pour mon magot ! ?
 naam:Permets-moi de te rendre la pareille en te donnant quelques conseils divins.
 naam:Dis-moi, de quel conseils as-tu besoin ?
-naam:Je ne peux pas partager plus de connaissances avec toi.
+naam:Je n'ai pas plus de connaissance à partager avec toi.
 naam:Un jour doit passer avant que le chemin ne soit révélé.
 naam:Elle t'attendra dans l'après-midi.
 naam:Près de la vieille horloge se trouve une pelle.
@@ -9084,11 +9084,11 @@ karo:Apporte-les moi, et je m'en occuperai dès que possible.
 
 
 karo:Oh, ouais !
-karo:J'assure tes arrières, /main/.
-karo:Je le ferai en un rien de temps - ici dans trois jours.
+karo:Je suis là pour toi, /main/.
+karo:Je le ferai en un rien de temps - reviens dans trois jours.
 
 
-Le lierre
+Ivy
 La rousse
 Écarlate
 Janet
@@ -9106,31 +9106,31 @@ Ginny
 
 
 
-naam:Montrez de l'intérêt pour elle.
+naam:Montre de l'intérêt pour elle.
 naam:Un jour doit passer avant que le chemin ne soit révélé.
-naam:Montrez de l'intérêt pour elle.
-naam:Montrez de l'intérêt pour elle.
-naam:Cherchez des grenouilles de lac...
+naam:Montre de l'intérêt pour elle.
+naam:Montre de l'intérêt pour elle.
+naam:Cherche des grenouilles de lac...
 naam:C'est en forgeant qu'on devient forgeron.
 naam:Un jour doit passer avant que le chemin ne soit révélé.
 naam:Un jour doit passer avant que le chemin ne soit révélé.
-naam:Essayez d'acheter une potion.
-naam:Montrez de l'intérêt pour elle.
+naam:Essaye d'acheter une potion.
+naam:Montre de l'intérêt pour elle.
 naam:Des marchands ambulants ? Quelqu'un à la taverne pourrait en savoir plus sur eux.
-naam:Soran est votre homme.
-naam:L'accord de Soran peut sembler provisoire, mais qui sait ce que l'avenir réserve de mystérieux ?
+naam:Soran est ton homme.
+naam:L'accord de Soran peut sembler provisoire, mais qui sait ce que l'avenir réserve ?
 naam:Deux jours doivent s'écouler avant que le chemin ne soit révélé.
 naam:Un jour doit passer avant que le chemin ne soit révélé.
 naam:Soran détient une récompense.
-naam:Donnez à Lily l'artefact réparé.
+naam:Donne à Lily l'artefact réparé.
 naam:Le dialogue peut réparer n'importe quelle blessure.
-naam:Parlez-lui.
+naam:Parle-lui.
 naam:Les produits du jardin sont la clé.
 naam:Convaincs le halfling.
-naam:Parlez-lui.
+naam:Parle-lui.
 naam:Le soir, parmi les collines...
 naam:Bois-le.
-naam:Handjob?
+naam:Branlette?
 
 
 
@@ -9148,19 +9148,19 @@ naam:Handjob?
 
 
 naam:Sept [fruits séduisants] apaiseront sa faim.
-naam:Essayez un plat épicé et une bière fraîche.
+naam:Essaye un plat épicé et une bière fraîche.
 naam:De l'or, des insectes brillants, de la sève ancienne et de l'eau.
 naam:Un jour doit passer avant que le chemin ne soit révélé.
 
 
-naam:Parlez à la rousse !
-naam:Cherchez la ruche.
+naam:Parle à la rousse !
+naam:Cherche la ruche.
 naam:Cherche la bibliothèque.
 naam:La fleur que tu cherches a des courbes !
 naam:La fleur que tu cherches peut parler.
 naam:Tu as besoin d'une bouteille pour transporter l'essence de Luna.
 naam:Cherche la ruche.
-naam:Donnez-lui des fruits.
+naam:Donne-lui des fruits.
 naam:Endors toi.
 naam:Va dormir.
 naam:Parle à la bave.
@@ -9198,7 +9198,7 @@ naam:Demande à la dryade.
 naam:Récupére l'instrument.
 naam:Demande à la dryade.
 naam:Endors toi.
-naam:Allez à la maison close.
+naam:Va à la maison close.
 naam:Le soir, quelqu'un est seul derrière les rideaux....
 naam:Le soir, quelqu'un est seul derrière les rideaux...
 naam:Le soir, quelqu'un est seul derrière les rideaux...
@@ -9210,7 +9210,7 @@ naam:La solution, c'est l'alcool.
 naam:La solution, c'est de l'alcool de luxe.
 naam:La solution, c'est l'alcool de luxe.
 naam:La solution, c'est de l'alcool de fantaisie.
-naam:Relevez le défi !
+naam:Releve le défi !
 
 
 
@@ -9224,25 +9224,25 @@ scar:Et puis j'ai dit, "on va mettre un chapeau dessus et on s'arrêtera là" !
 /ivy:Hahaha! J'aurais aimé être là pour voir leurs visages !
 main:Bonjour, Ivy. Scarlet. Désolé, j'interromps quelque chose ?
 /ivy:Bonjour, /main/ ! Nous étions en train de parler. Entre.
-scar:Nous allons te faire de la place. Allez, rejoignez-nous !
+scar:Nous allons te faire de la place. Viens, rejoins-nous !
 scar:Nous étions en train de partager quelques histoires de notre séjour chez la duchesse.
 /ivy:Je n'étais pas au courant de certaines d'entre elles. Tu as vécu des aventures tellement folles à l'époque.
-scar:Oui, tu étais le rat de bibliothèque tandis que j'étais la fille avec de la terre aux pieds.
+scar:Oui, tu étais le rat de bibliothèque tandis que j'étais la fille avec de la terre sous les pieds.
 scar:Toujours le nez plongé dans un livre...
 /ivy:J'avais une bibliothèque bien fournie à l'époque. L'une des choses que j'ai perdues quand je suis partie....
 /ivy:De toute façon, je ne pouvais pas emporter tout ça avec moi.
-main:Aimais-tu lire des livres sur la magie ?
+main:Aimais-tu lire des ouvrages sur la magie ?
 scar:Elle lisait tout ce qui était écrit entre deux couvertures !
 /ivy:J'aime lire sur la magie, mais j'aimais aussi les romans...
 /ivy:Il y avait ce livre qui était l'un de mes préférés, un roman de Sonya Swallow.
 /ivy:Je l'ai presque entièrement lu, mais je me suis enfuie avant d'avoir pu terminer le dernier chapitre.
 /ivy:Je me demande encore comment l'histoire se termine.
-/ivy:Je suis désolé... C'est trop bête ?
+/ivy:Je suis désolée... Ça semble idiot ?
 main:Non, pas du tout. Je suis sûr que c'était un livre très intéressant.
 scar:Assez intéressant pour la tenir éveillée la nuit afin qu'elle puisse terminer le chapitre.
 scar:*bâille*
 scar:En parlant de veiller tard, je crois qu'il est temps d'aller au lit. Je commence à avoir sommeil.
-scar:Je passe à la caisse.
+scar:J'y vais de ce pas.
 /ivy:Moi aussi. Allons dormir.
 main:Okay. À demain.
 scar:Dormez bien !
@@ -9257,36 +9257,36 @@ lily:Oh !
 lily:Uhm...
 main:Quoi?
 lily:Rien...
-lily:Je suis juste surpris que tu sois... dans ce genre de livre.
-main:Oh, ce n'est pas pour moi. C'est pour un ami.
+lily:Je suis juste surpris que tu connaisses... ce genre de livre.
+main:Oh, ce n'est pas pour moi. C'est pour une amie.
 main:Elle en a lu la plus grande partie il y a quelque temps mais n'a jamais atteint les derniers chapitres. Elle se demande toujours comment l'histoire se termine.
 main:Je me suis dit que si je pouvais lui offrir le livre, ça lui remonterait le moral.
 lily:Oh, je vois...
 lily:Eh bien, la fin de cette histoire est... Très bien...
 lily:N-Non pas que je l'aie lue moi-même ! C'est juste quelque chose que j'ai entendu...
-lily:Je suis sûr que ton ami l'appréciera beaucoup.
-lily:Je crois que j'ai un exemplaire dans le magasin. S'il te plaît, donne-moi une seconde.
+lily:Je suis sûr que ton amie l'appréciera beaucoup.
+lily:Je crois que j'ai un exemplaire dans le magasin. Donne moi une seconde s'il te plaît, 
 main:...
 lily:Le voici ! Jamais lu. Pas même une fois.
 main:Merci, Lily. Tu es la meilleure.
 lily:Oh, ne dis pas ça...
-lily:C'est toujours sympa de t'aider, /main/.
+lily:C'est toujours un plaisir de t'aider, /main/.
 lily:Et, euh... j'espère que tu l'aimeras.
 
 //Give Ivy the book
 
-main:Ivy, ici. J'ai acheté ceci au village.
+main:Ivy, regarde ce qu j'ai acheté au village.
 /ivy:Oh ! Ce n'est pas possible !
 /ivy:C'est le livre que je lisais à la maison ! Comment l'as-tu trouvé ?
-main:Je connais quelqu'un.
-main:J'ai pensé que tu aimerais en avoir une copie ici.
+main:Je connais quelqu'un qui l'avait.
+main:J'ai pensé que tu aimerais en avoir une copie.
 /ivy:Oh, c'est incroyable ! Est-ce que je peux ?
-scar:Haha! Tu as l'air si heureux.
+scar:Haha! Tu as l'air si heureuse.
 scar:Bien joué, /main/.
-scar:Hé, je vais te dire, pourquoi tu ne le lis pas pour nous, Ivy ?
-scar:On sait enfin de quoi parlait ce mystérieux roman.
-/ivy:Oh, mais es-tu sûre ? Il se peut que tu n'aimes pas le genre romanesque.
-main:Je pense que ça pourrait être amusant. Je me joindrai à toi si tu veux.
+scar:Hé, j'ai une idée, pourquoi tu ne le lirais pas pour nous, Ivy ?
+scar:On saura enfin de quoi parlait ce mystérieux roman.
+/ivy:Oh, es-tu sûre ? Il se peut que tu n'aimes pas le genre romanesque.
+main:Je pense que ça pourrait être marrant. Je me joins à vous si vous le vouslez bien.
 /ivy:Très bien! Je vais commencer alors.
 narr:Ivy lit les premiers chapitres du roman.
 narr:Le temps passe et le ciel s'assombrit à l'extérieur.
@@ -9298,14 +9298,14 @@ scar:Eh. C'était bien. Un peu cliché, peut-être.
 scar:Mais c'est le genre de choses que tu aimes lire, hein ?
 main:C'était amusant !
 main:Nous pourrons lire le reste ensemble un autre jour.
-/ivy:Oui, ça a l'air super !
-main:Très bien, je te laisse te reposer pour la nuit.
+/ivy:Oui, ça me plairait beaucoup !
+main:Très bien, je vous souhaites une bonne nuit.
 scar:Bonne nuit !
 /ivy:Dormez bien !
 
 //Continue reading the book
 
-/ivy:/main/! Prêt à lire d'autres livres ?
+/ivy:/main/! Prêt à lire la suite du livre ?
 scar:Ne t'inquiète pas. J'ai quelque chose pour rendre la lecture plus agréable.
 main:C'est du vin ?
 scar:Oui ! Pourquoi ne pas jouer à un petit jeu ? Il s'appelle : trouve le cliché !
@@ -9318,31 +9318,31 @@ scar:J'espère que tu n'es pas des poids plume ! Haha !
 narr:Ivy poursuit sa lecture. Toutes les deux pages, vous buvez tous les trois un peu de vin avant de continuer.
 narr:Il ne vous faut pas longtemps pour être pompettes.
 scar:Bon sang, je sais que c'est mon idée, mais je veux tenir jusqu'à la fin du livre ! Calme-toi, Sonya !
-main:Nous devons suivre le rythme ou tout le monde va se moquer de nous.
+main:Nous devons suivre le rythme ou tout le monde va rire de nous.
 scar:Bien sûr ! Je ne suis pas une lâcheuse !
 /ivy:*ahem*...
-scar:Oui, oui, continuez !
+scar:Oui, oui, continue !
 /ivy:"Le monarque est vaincu, notre tâche est accomplie", dit Mortimer.
 scar:C'est quand même un nom stupide...
-/ivy:Shhh!
+/ivy:Chut!
 /ivy:...
 /ivy: "Je savais que tu y arriverais ! C'est pour ça que je t'aime", répond Annisa.
 /ivy:Elle a ensuite commencé à défaire sa robe...
 /ivy:Et à déplacer ses mains vers l'entrejambe de Mortimer !?
 scar:Haha! Qu'est-ce qu'il y a ?
 /ivy:Je pense que nous devrions sauter cette partie ! Pourquoi ne pas passer au chapitre suivant ?
-scar:Oh, non. Les choses deviennent enfin intéressantes ! Allez, on y va ! Continue à lire.
+scar:Oh, non. Les choses deviennent enfin intéressantes ! Allez, vas-y ! Continue à lire.
 /ivy:/main/, qu'en penses-tu ?
 main:Le contenu... érotique ne me dérange pas, honnêtement. Je suis à l'aise.
 /ivy:Bien...
 /ivy:Annisa sourit et se mord la lèvre...
-/ivy:Tout en s'agenouillant... S'agenouiller...
+/ivy:Tout en s'agenouillant... Lentement...
 scar:HAHAHAHA !!!
 /ivy:Peux-tu m'expliquer ce qui te fait rire ?
 scar:Ton visage ! Tu es tellement gêné par tout cela. C'est adorable !
 scar:Tu es une jeune fille si inexpérimentée et si naïve, après tout...
 scar:Je me demande combien de ces choses tu n'as jamais entendu parler auparavant.
-/ivy:Hé ! Je ne suis plus aussi inexpérimentée !
+/ivy:Hé ! Je ne suis plus aussi inexpérimentée que ça!
 /ivy:...
 /ivy:*ahem*! Alors, revenons à la lecture.
 scar:J'emmerde ce livre !
@@ -9353,9 +9353,9 @@ scar:Hahaha! Ça, c'est mignon~
 scar:D'accord, c'est toi qui as fait de ce jeu une compétition. /main/, viens ici.
 main:Je pense que nous avons tous bu assez de vin...
 scar:Alors, Ivy. Qu'est-ce que tu en dis ?
-scar:Ce n'est pas grave si tu ne le fais pas. Je peux lui tenir compagnie moi-même.
+scar:Ce n'est pas grave si tu ne le fais pas. Je peux lui tenir toute seule.
 scar:Ce ne serait pas la première fois~
-/ivy:Oh, Scarlet... Tu vas voir qui je suis devenu !
+/ivy:Oh, Scarlet... Tu vas voir ce que je suis devenue !
 
 
 /ivy:/main/!
@@ -9363,37 +9363,37 @@ main:Mh ?
 /ivy:Réveille-toi !
 main:Qu'est-ce qui se passe ?
 /ivy:J'ai trouvé ça avec tes affaires. Tu peux m'expliquer ce que ça veut dire ?
-main:C'est la [Sauvegarde de Soran] !
+main:C'est la [Protection de Soran] !
 scar:Hum ? *Qu'est-ce qui se passe ?
 /ivy:/main/? Qu'est-ce que tu fabriques ?
 main:Euh, ça...
 scar:C'était mon idée, Ivy.
 scar:Nous avions besoin d'un moyen sûr de quitter cet endroit.
-/ivy:Sortir de cet endroit ? Mais je ne veux pas partir !
+/ivy:Quitter de cet endroit ? Mais je ne veux pas partir !
 scar:Écoute, Ivy. Je sais que tu te plais ici, et /main/ a été un hôte formidable depuis le début.
 scar:Mais tu dois comprendre que tu ne peux pas rester trop longtemps au même endroit !
 scar:Il n'y a pas de limite à l'influence d'Elizabeth. Je veux te protéger d'elle.
-scar:... Même si cela signifie que tu te mets en colère contre moi.
-main:De plus, si elle te trouve, tu seras obligé de partir de toute façon, n'est-ce pas ?
+scar:... Même si cela signifie que tu te mettes en colère contre moi.
+main:De plus, si elle te trouve, tu seras obligée de partir de toute façon, n'est-ce pas ?
 /ivy:*soupir*
-/ivy:Tu as raison. Tous les deux...
+/ivy:Vous avez raison. Tous les deux...
 main:Vous pouvez compter sur moi. Je vous aiderai pour tout ce dont vous avez besoin jusqu'à ce que vous soyez en sécurité.
-/ivy:Merci, /main/. Vous êtes toujours si gentils.
+/ivy:Merci, /main/. Tu es toujours si gentil.
 /ivy:Eh bien... Je suppose qu'il n'y a pas grand-chose que nous puissions faire.
-/ivy:Still. Cette mesure de protection ne suffira peut-être pas à éloigner la duchesse de nous.
+/ivy:Tout de même. Cette mesure de protection ne suffira peut-être pas à éloigner la duchesse de nous.
 /ivy:Nous avons peut-être besoin d'autre chose... Quelque chose qui nous donne un avantage.
 scar:À quoi penses-tu ?
 /ivy:Je ne sais pas...
 main:Je peux peut-être trouver quelque chose.
-scar:D'accord! Tu as cette dague enchantée, n'est-ce pas ?
+scar:C'est juste! Tu as cette dague enchantée, n'est-ce pas ?
 scar:Pourrais-tu vérifier à nouveau cet endroit ? Tu pourras peut-être y trouver quelque chose d'utile.
 main:Je pense que c'est une bonne idée.
-main:Laisse-moi voir ce que je peux trouver.
+main:Laisse-moi voir ce que je peux y trouver.
 /ivy:Merci, /main/...
 
 //Staff of Wisdom
 
-main:Hé, Ivy. J'ai trouvé ce personnel, je pense que tu devrais y jeter un coup d'œil.
+main:Hé, Ivy. J'ai trouvé ce bâton, je pense que tu devrais y jeter un coup d'œil.
 /ivy:Oh, mon Dieu ! Il a l'air très vieux. Laisse-moi voir.
 /ivy:Hum... Oui, c'est un puissant artefact magique. Je peux le sentir dans mes mains.
 /ivy:Mais il semble... Vidé de sa puissance.
@@ -9402,36 +9402,36 @@ main:Hé, Ivy. J'ai trouvé ce personnel, je pense que tu devrais y jeter un cou
 main:Comment lui redonner son pouvoir ?
 /ivy:Je ne sais pas.
 /ivy:On dirait une ancienne relique. Je ne suis même pas sûr qu'elle vienne de ce monde !
-/ivy:Mes connaissances ne sont pas suffisantes. Je suis désolé, /main/.
+/ivy:Mes connaissances ne sont pas suffisantes. Je suis désolée, /main/.
 main:Ce n'est pas grave. Je vais me renseigner et voir si quelqu'un a des conseils à me donner.
 
 //Staff of Wisdom
 
 main:J'ai trouvé ce bâton ancien. Peux-tu le réparer ?
 erza:Le réparer ? Le réparer ? !
-erza:Bien sûr que je peux le réparer. Tu veux que je te coupe les cheveux aussi ? Peut-être laver tes vêtements qui sentent mauvais pendant que j'y suis ?
+erza:Bien sûr que je peux le réparer. Tu veux que je te coupe les cheveux aussi ? Peut-être laver tes vêtements qui puent pendant que j'y suis ?
 main:Uhm...
 erza:PAS QUESTION ! !!
 erza:Tu crois que tu peux te pointer et demander des faveurs ? ?
 erza:Dégage, mortel. Je n'ai pas de temps à te consacrer.
 erza:Je ne suis pas ton assistante, tu comprends ? Ne me traite pas comme une marchandise.
-erza:Scram!!
+erza:Pars!!
 
 
 main:Peux-tu réparer ce bâton ? Il semble fonctionner, mais il n'a plus d'énergie.
-erza:Oh, je vois... C'est un jouet assez dangereux que tu as entre les mains, humain.
+erza:Oh, je vois... C'est une chose assez dangereux que tu as entre les mains, humain.
 erza:Oui, je suppose que je peux le réparer pour toi. En échange de quelque chose, bien sûr.
 main:Quelque chose ? Comme quoi ?
-erza:Hm... Je n'arrive pas à penser à quoi que ce soit en tête.
-erza:Mais c'est amusant de jouer avec toi, je l'admets. Tu peux faire des choses qui me divertissent.
+erza:Hm... Je n'arrive pas à penser à quoi que ce soit.
+erza:Mais c'est amusant de jouer avec toi, je l'admets. Tu sais faire des choses qui me divertissent.
 erza:Ou peut-être faire une quête pour moi. Je trouverai quelque chose plus tard.
-erza:Bien. Maintenant que j'ai votre engagement, donnez-moi le bâton !
+erza:Bien. Maintenant que j'ai ta promesse, donne-moi le bâton !
 main:Euh, je...
 erza:Je n'ai pas tout le siècle !
 main:D'accord, le voici.
 erza:Bien!
 main: !
-erza:C'est fait, c'est fait.
+erza:Voilà, c'est fait.
 main:C'est tout ! ?
 erza:Tu as des réclamations à faire ?
 main:Non, c'est juste que... Je ne m'attendais pas à ce que tu sois aussi rapide.
@@ -9443,8 +9443,8 @@ erza:Pars!
 
 
 
-main:Je pense que j'ai réussi à réparer le personnel. Jete-y un autre coup d'œil, s'il te plaît.
-/ivy:Oh ! Tu as l'impression que c'est complètement différent !
+main:Je pense que j'ai réussi à réparer le bâton. Jete-y un autre coup d'œil, s'il te plaît.
+/ivy:Oh ! j'ai l'impression que c'est complètement différent !
 /ivy:Oui... Je suis sûr qu'il a retrouvé sa puissance.
 /ivy:Pour être honnête, c'est assez impressionnant.
 /ivy:Merci, /main/. J'apprécie vraiment.
@@ -9455,18 +9455,18 @@ main:Pas de problème.
 /ivy:Je ne veux pas quitter Aurelia, /main/. Ni toi. J'aime trop cet endroit.
 main:Je suis heureux de l'entendre.
 main:Tu auras toujours ta place ici.
-/ivy:Je devrais commencer ma formation dès que possible.
-main:Je vois. D'accord, alors. Je vais te laisser faire.
+/ivy:Je devrais commencer à m'exercer dès que possible.
+main:Je vois. D'accord. Je vais te laisser faire.
 /ivy:Merci, /main/.
-main:Quand tu veux.
+main:De rien.
 
 
 main:Oh.
 /ivy:Bonjour, /main/ !
-scar:Hé ! Viens par ici ! Nous avons de l'espace supplémentaire pour un mignon.
+scar:Hé ! Viens par ici ! Nous avons de l'espace supplémentaire pour un bel homme.
 /ivy:Approche-toi, /main/.
-scar:Laisse quelque chose pour les autres ! J'en veux un morceau aussi.
-/ivy:Tu auras ton tour, Scarlet. Je suis sûre que tu en as eu assez avec lui jusqu'à présent.
+scar:Laisse en pour les autres ! J'en veux un morceau aussi.
+/ivy:Tu auras ton tour, Scarlet. Je suis sûre que tu en as suffisamment jusqu'à présent.
 scar:Eh bien, regarde-toi, Ivy ! Quelle façon de se jeter sur un homme !
 /ivy:Excuse-moi ? Je ne me jette pas !
 scar:Si, tu le fais !
@@ -9479,7 +9479,7 @@ main:Bien sûr que non.
 scar:Woah, Ivy ! Bravo !
 /ivy:[Tu vois ? Je ne suis plus une petite fille.]
 scar:Regarde-toi !
-scar:J'ai tellement faim~
+scar:Tu es affamée~
 scar:Maintenant je te crois !
 scar:Comment va-t-elle, /main/ ?
 main:Elle va bien.
@@ -9500,31 +9500,31 @@ scar:Tu vois la tête qu'il fait ? Ça veut dire qu'il y est presque ! Fais-lui 
 main:Ivy !
 scar:Oui !
 /ivy:Mmmm~
-scar:Bon goût, hein ? Haha !
+scar:C'est goûtu, hein ? Haha !
 scar:Bravo, Ivy ! Je suis très fière de toi.
 /ivy:[Je t'avais dit que je pouvais le faire ! Tu ne devrais pas me sous-estimer].
 /ivy:[Je peux faire bien plus que ce que tu penses.]
-scar:Regarde /main/, tu l'as tellement fatigué. Tu es d'humeur à faire une sieste ?
+scar:Regarde /main/, tu l'as tellement fatigué. Tu es d'humeur pour faire une sieste ?
 main:Sans aucun doute.
-scar:Mais la prochaine fois... Je ne te laisserai pas prendre toute la lumière pour toi~
+scar:La prochaine fois... Je ne te laisserai pas prendre toute la lumière pour toi~
 
 
 
 /ivy: !
-scar:Comment l'aimes-tu ?
+scar:Est-ce que ça te plaît ?
 /ivy:Je ne savais pas que tu... Ah !
 scar:Quel genre de /scarlet_role/ serais-je si je ne te donnais pas un coup de main ?
-/ivy:It's... tellement mieux comme ça !
-scar:Enjoy.
+/ivy:C'est... tellement mieux comme ça !
+scar:Apprécie.
 /ivy:/main/, tu es si dur...
 scar:Il aime voir ça, n'est-ce pas ?
-main:Oui... Tu la serres de plus en plus, Scarlet.
+main:Oui... Tu la rends plus sérée, Scarlet.
 scar:Oh, c'est vrai ?
 main: !
 /ivy:/main/?
-scar:Eh bien! On dirait que quelqu'un a aimé notre pièce.
-/ivy:Je suis tellement rassasié ! Tu as aimé à ce point, /main/ ?
-main:Vous jouez si bien l'un avec l'autre.
+scar:Eh bien! On dirait que quelqu'un a aimé notre petit jeu.
+/ivy:Je suis tellement pleine ! Tu as aimé à ce point, /main/ ?
+main:Vous vous complétez si bien.
 scar:Je suis sûr que tu as gardé quelque chose pour moi, n'est-ce pas ?
 scar:Tu ne me laisserais pas partir insatisfaite.
 main:Uhm...
@@ -9536,10 +9536,10 @@ scar:Continue comme ça !
 scar:Eh bien...
 scar:Tu me facilites la tâche, Ivy.
 /ivy:Peux-tu m'apprendre ?
-scar:Tu peux me demander n'importe quand, Ivy. Je me ferai un plaisir... de te donner quelques leçons.
+scar:Tu peux me le demander n'importe quand, Ivy. Je me ferai un plaisir... de te donner quelques leçons.
 scar:/main/ peut regarder s'il le souhaite. Ça me ferait tellement mouiller.
 scar:Oh ! Je l'ai senti tressaillir en moi. Il aime l'idée.
-main:Maintenant tu vas l'avoir plus fort, Scarlet.
+main:Maintenant tu la rendue plus dur, Scarlet.
 scar:Putain! Nfff.
 /ivy:Sa bite n'est-elle pas la meilleure ?
 scar:Elle l'est~
@@ -9551,7 +9551,7 @@ scar:Ahh... Bien joué. Nh, ça fait du bien.
 scar:C'était amusant, n'est-ce pas ?
 /ivy:Oui...
 /ivy:Recommençons une autre fois.
-scar:Oh, ne sommes-nous pas enthousiastes ? Il va falloir que je m'habitue à ce côté de toi à partir de maintenant, Ivy.
+scar:Oh, nous sommes enthousiastes, n'est-ce pas? Je vais devoir m'habituer à ce côté de toi à partir de maintenant, Ivy
 /ivy:Toi aussi tu as aimé, n'est-ce pas, /main/ ?
 main:Ahh... Oui, vous êtes les meilleures !
 main:Je ne peux plus bouger. Je suis vidé.
@@ -9576,16 +9576,16 @@ main:Scarlet...
 scar:Notre ami me manque... et je suis sûr qu'il serait ravi de nous revoir.
 scar:Ah, tu vois ? Il se réveille, tout comme moi !
 scar:C'est ça... Nous devons lui donner un peu d'amour, n'est-ce pas ?
-scar:Et c'est le moment idéal pour un goûter de fin de soirée, tu ne crois pas ?
+scar:Et c'est le moment idéal pour un encas de fin de soirée, tu ne crois pas ?
 main:Si c'est le cas, j'ai ici quelque chose qui te plaira.
-scar:Oh, c'est super d'entendre ça !
-scar:Bonjour~ Heureux de te voir enfin.
+scar:Oh, j'aime entendure ça !
+scar:Coucou~ Heureux de te voir enfin.
 scar:Oh, comme tu es grand ce soir~
 scar:Oh ? Qu'est-ce qu'il y a ? Tu veux aussi voir mon /scarlet_role/ ? Bien sûr !
 scar:Je suis sûr qu'elle sera ravie.
 scar:Allez, Ivy. Je sais que tu es réveillée. Arrête d'espionner et rejoins la fête !
 /ivy:Très bien ! Je suis réveillée.
-scar:Espèce de voyeur~
+scar:Espèce de voyeuse~
 /ivy:Je peux me joindre à toi, ou tu préfères que je regarde ?
 
 ///DUO BJ LOOP ROUTE 1
@@ -9593,8 +9593,8 @@ scar:Super!
 main: !
 scar:Mmh, c'est tellement bon. Comme toujours.
 scar:Oh ? Ivy ? Qu'est-ce que tu fais, sale fille ?
-/ivy:Je regarde, comme /main/ me l'a demandé.
-scar:Je sens que tu me caresses, idiot.
+/ivy:Je regarde, comme /main/ me l'a demandée.
+scar:Je sens que tu me caresses, idiote.
 /ivy:Quoi, tu n'aimes pas quand je donne de l'amour à mon /scarlet_role/ ?
 scar:Oh, non, ce n'est pas ça.
 scar:Vas-y, ma fille. Fais en sorte que je me sente bien.
@@ -9603,7 +9603,7 @@ main:Oh...
 /ivy:Ici ?
 scar:Mhhh...
 /ivy:Encore un peu, alors... Mais tu devras sucer plus fort.
-main:Oh, ffPutain !
+main:Oh, PPPutain !
 /ivy:Et voilà !
 scar:Mhh ! Ahhh !
 main: !
@@ -9619,17 +9619,17 @@ scar:Haha! Espèce de salope en manque !
 main:Putain...
 /ivy:[ !]
 scar:Hé, ne fais pas attention à moi, Ivy. Je suis juste là pour regarder. Je ne peux pas donner un coup de pouce à mon /scarlet_role/ pendant que j'y suis ?
-scar:Ne me laisse pas t'interrompre~ Allez, va sucer.
+scar:Ne me laisse pas t'interrompre~ Allez, va le sucer.
 /ivy:[Je n'ai pas besoin que tu me le dises.]
 main:Ah, tes lèvres...
 scar:Elles sont spéciales, n'est-ce pas ? Des lèvres qui n'ont goûté à aucune autre bite que la tienne....
 main:Ngh...
-scar:Elle aime assez ça pour agir de façon aussi désespérée.
+scar:Elle est tellement excitée qu'elle en devient désespérée.
 scar:Quelle jeune fille assoiffée tu es devenue.
 /ivy:[Comme si tu ne ferais pas la même chose.]
 main:C'est ça !
 main:Plus profond, Ivy...
-scar:Allez, tu peux le faire ! Utilise ta langue ! Lèche sa tige, puis suce sa tête.
+scar:Allez, tu peux le faire ! Utilise ta langue ! Lèche sa verge, puis suce son gland.
 main:Ugh...
 scar:Bien, bien ! Maintenant, pousse plus fort ! Fais-lui sentir ta gorge !
 /ivy:[Mmmmm~]
@@ -9637,7 +9637,7 @@ scar:C'est ça, c'est l'esprit !
 main: !
 scar:Bien joué~
 scar:Je suis si fière de mon petit /scarlet_role/.
-scar:Scellez ces lèvres et avalez jusqu'à ce que tout soit parti.
+scar:Scelle ces lèvres et avale jusqu'à ce qu'il y en ai plus.
 /ivy:[Tellement...]
 main:Ahhh—
 scar:Bon travail~
