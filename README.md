@@ -2,7 +2,9 @@
 
 ## Description
 
-Ce dépôt contient les fichiers nécessaires pour traduire le jeu Aurelia en français.
+Ce dépôt contient les fichiers nécessaires pour traduire le jeu Aurelia en français.  
+https://store.steampowered.com/app/1231560/Aurelia/
+
 
 ## Installation
 
