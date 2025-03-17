@@ -14,9 +14,10 @@ STEAMFOLDER\steamapps\common\Aurelia\
 
 Remplacez `STEAMFOLDER` par le chemin d'accès à votre dossier Steam.
 
-2. Téléchargez l'archive `lang_french.zip` depuis les releases de ce dépôt.
+2. Téléchargez l'archive `lang_french.zip` depuis les releases de ce dépôt.  
+[📥 Télécharger ](https://github.com/Shayano/Aurelia-french-translation/releases/download/0.1.0/lang_french.zip)
 
-3. Décompressez le dossier `lang_french` à la racine du dossier d'installation d'Aurelia.
+4. Décompressez le dossier `lang_french` à la racine du dossier d'installation d'Aurelia.
 
 ![image](https://github.com/user-attachments/assets/fdb33f01-3a75-49fd-b50f-e6584b4f84c4)
 
