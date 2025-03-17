@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce dépôt contient les fichiers nécessaires pour traduire le jeu Aurelia en français. Cette traduction est un projet en cours et vise à rendre le jeu accessible à la communauté francophone.
+Ce dépôt contient les fichiers nécessaires pour traduire le jeu Aurelia en français.
 
 ## Installation
 
@@ -20,19 +20,5 @@ Remplacez `STEAMFOLDER` par le chemin d'accès à votre dossier Steam.
 
 ## État actuel de la traduction
 
-**Attention** : La majorité du contenu a été traduite à l'aide d'outils de traduction automatique, principalement DeepL. Par conséquent :
-
-- Cette version est considérée comme une base de travail plutôt qu'une version définitive.
-- Vous pouvez rencontrer des erreurs de pronoms, de tutoiement/vouvoiement, ou d'autres incohérences linguistiques.
-- Des problèmes de tournures de phrases.
-- Des améliorations et des corrections sont nécessaires pour obtenir une traduction de qualité.
-
-## Contribuer
-
-J'encourage vivement la communauté à participer à l'amélioration de cette traduction. Voici comment vous pouvez contribuer :
-
-1. Parcourez les fichiers de traduction et identifiez les erreurs ou les passages à améliorer.
-2. Proposez vos corrections en créant une "pull request" sur ce dépôt GitHub.
-3. Décrivez les modifications apportées et leur raison dans votre pull request.
-
-N'hésitez pas votre aide est précieuse pour faire de cette traduction une version de qualité, fidèle à l'esprit du jeu original.
+Je considère la traduction comme terminée.
+Si vous constatez des bugs ou souhaitez apporter des modifications ou ajustements n'hésitez pas à le signaler.
