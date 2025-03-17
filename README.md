@@ -21,4 +21,4 @@ Remplacez `STEAMFOLDER` par le chemin d'accès à votre dossier Steam.
 ## État actuel de la traduction
 
 Je considère la traduction comme terminée.
-Si vous constatez des bugs ou souhaitez apporter des modifications ou ajustements n'hésitez pas à le signaler.
+Si vous constatez des bugs ou souhaitez apporter des modifications et ajustements n'hésitez pas à le signaler dans les discussions ou en effectuant un pull request.
